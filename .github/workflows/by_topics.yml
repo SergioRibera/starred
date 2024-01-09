@@ -14,8 +14,6 @@ jobs:
       with:
         python-version: '3.10'
         cache: 'pip'
-    - name: Install dependencies
-      run: pip install starred
     - name: get repository name
       run: echo "REPOSITORY_NAME=${GITHUB_REPOSITORY#*/}" >> $GITHUB_ENV
     - name: update repo category by topics
