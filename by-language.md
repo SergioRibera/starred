@@ -265,6 +265,9 @@
 
 ## Rust 
 
+- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
+- [mrjackwills/oxker](https://github.com/mrjackwills/oxker) - A simple tui to view & control docker containers
+- [Xithrius/twitch-tui](https://github.com/Xithrius/twitch-tui) - Twitch chat in the terminal.
 - [Decodetalkers/haruhishot](https://github.com/Decodetalkers/haruhishot) - wlr screenshot
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
 - [chickenbreeder/kaffee](https://github.com/chickenbreeder/kaffee) - A graphics API built on top of wgpu-rs
