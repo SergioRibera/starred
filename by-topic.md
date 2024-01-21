@@ -49,6 +49,7 @@
 - [express](#express)
 - [firefox](#firefox)
 - [flutter](#flutter)
+- [flutter-apps](#flutter-apps)
 - [font](#font)
 - [framework](#framework)
 - [game](#game)
@@ -85,6 +86,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [material-design](#material-design)
+- [microsoft](#microsoft)
 - [minecraft](#minecraft)
 - [mobile](#mobile)
 - [monitoring](#monitoring)
@@ -382,6 +384,10 @@
 ## flutter 
 
 - [flutter-rs/flutter-rs](https://github.com/flutter-rs/flutter-rs) - Build beautiful desktop apps with flutter and rust. 🌠 (wip)
+- [akinsho/flutter-tools.nvim](https://github.com/akinsho/flutter-tools.nvim) - Tools to help create flutter apps in neovim using the native lsp
+
+## flutter-apps 
+
 - [akinsho/flutter-tools.nvim](https://github.com/akinsho/flutter-tools.nvim) - Tools to help create flutter apps in neovim using the native lsp
 
 ## font 
@@ -715,6 +721,10 @@
 
 - [simonwep/pickr](https://github.com/simonwep/pickr) - 🎨 Flat, simple, multi-themed, responsive and hackable Color-Picker library. No dependencies, no jQuery. Compatible with all CSS Frameworks e.g. Bootstrap, Materialize. Supports alpha channel, rgba, hs
 
+## microsoft 
+
+- [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
+
 ## minecraft 
 
 - [Adamkob12/bevy_meshem](https://github.com/Adamkob12/bevy_meshem) - Bevy Meshem is a Rust crate designed to provide meshing algorithms for voxel grids, enabling you to create cohesive 3D mesh structures from a grid of cubic voxels
@@ -810,6 +820,9 @@
 
 ## others 
 
+- [Lemin-n/cranix](https://github.com/Lemin-n/cranix) - High level API for Crane NixOs flake.
+- [waycrate/waysip](https://github.com/waycrate/waysip) - Wayland native area selector for compositors implementing zwlr_layer_shell.
+- [notgull/theo](https://github.com/notgull/theo) - A drawing framework for arbitrary windowing systems
 - [b0o/b0o](https://github.com/b0o/b0o) - 👻
 - [Decodetalkers/haruhishot](https://github.com/Decodetalkers/haruhishot) - wlr screenshot
 - [chickenbreeder/kaffee](https://github.com/chickenbreeder/kaffee) - A graphics API built on top of wgpu-rs
@@ -837,7 +850,7 @@
 - [idanarye/bevy-egui-kbgp](https://github.com/idanarye/bevy-egui-kbgp) - Better keyboard and gamepad story for egui in Bevy
 - [lucasew/nixcfg](https://github.com/lucasew/nixcfg) - Personal Nix/NixOS configuration files
 - [richardhozak/bevy_server_browser](https://github.com/richardhozak/bevy_server_browser) - Bevy game engine plugin for creating and searching discoverable servers on local networks
-- [Lemin-n/flake-templates.nix](https://github.com/Lemin-n/flake-templates.nix) - 🦀 Templates for Nix ❄️
+- [Lemin-n/oxidized-flakes](https://github.com/Lemin-n/oxidized-flakes) - 🦀 Templates for Nix ❄️
 - [JMS55/bevy_dioxus](https://github.com/JMS55/bevy_dioxus) - 
 - [hyprwm/hyprpicker](https://github.com/hyprwm/hyprpicker) - A wlroots-compatible Wayland color picker that does not suck.
 - [jadedbay/bevy_procedural_grass](https://github.com/jadedbay/bevy_procedural_grass) - A plugin for bevy to generate grass
@@ -886,7 +899,7 @@
 - [DGriffin91/bevy_mod_mesh_tools](https://github.com/DGriffin91/bevy_mod_mesh_tools) - Tools for working with meshes in bevy
 - [DGriffin91/bevy_mod_environment_map_tools](https://github.com/DGriffin91/bevy_mod_environment_map_tools) - Tools for processing environment maps
 - [DGriffin91/bevy_sponza_scene](https://github.com/DGriffin91/bevy_sponza_scene) - Sponza
-- [lifescapegame/bevy_replicon](https://github.com/lifescapegame/bevy_replicon) - ECS-focused high-level networking crate for the Bevy game engine.
+- [projectharmonia/bevy_replicon](https://github.com/projectharmonia/bevy_replicon) - ECS-focused high-level networking crate for the Bevy game engine.
 - [aevyrie/bevy_eventlistener](https://github.com/aevyrie/bevy_eventlistener) - Event listening, bubbling, and callbacks
 - [GGist/ssdp-rs](https://github.com/GGist/ssdp-rs) - Simple Service Discovery Protocol In Rust
 - [conaticus/FileExplorer](https://github.com/conaticus/FileExplorer) - Fast file explorer written with Tauri and React.
