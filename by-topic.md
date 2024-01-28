@@ -297,6 +297,7 @@
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
 - [warengonzaga/css-text-portrait-builder](https://github.com/warengonzaga/css-text-portrait-builder) - A popular pure CSS text portrait builder for your loved ones. 🥰
 - [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas
+- [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [adamschwartz/chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome-style tabs in HTML/CSS.
 
@@ -549,6 +550,7 @@
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 - [c-smile/sciter-sdk](https://github.com/c-smile/sciter-sdk) - Sciter is an embeddable HTML/CSS/scripting engine
 - [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas
+- [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [adamschwartz/chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome-style tabs in HTML/CSS.
 
@@ -603,6 +605,7 @@
 - [wcoder/highlightjs-line-numbers.js](https://github.com/wcoder/highlightjs-line-numbers.js) - Line numbering plugin for Highlight.js
 - [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas
 - [EastDesire/jscolor](https://github.com/EastDesire/jscolor) - JavaScript color picker with opacity (alpha channel) and customizable palette. Single file of plain JS with no dependencies.
+- [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [amanharwara/altus](https://github.com/amanharwara/altus) - Desktop client for WhatsApp Web with themes, notifications and multiple account support
 
@@ -820,6 +823,7 @@
 
 ## others 
 
+- [divinenaman/tauri-nix-example](https://github.com/divinenaman/tauri-nix-example) - Nixified tauri app
 - [Lemin-n/cranix](https://github.com/Lemin-n/cranix) - High level API for Crane NixOs flake.
 - [waycrate/waysip](https://github.com/waycrate/waysip) - Wayland native area selector for compositors implementing zwlr_layer_shell.
 - [notgull/theo](https://github.com/notgull/theo) - A drawing framework for arbitrary windowing systems
@@ -854,7 +858,7 @@
 - [JMS55/bevy_dioxus](https://github.com/JMS55/bevy_dioxus) - 
 - [hyprwm/hyprpicker](https://github.com/hyprwm/hyprpicker) - A wlroots-compatible Wayland color picker that does not suck.
 - [jadedbay/bevy_procedural_grass](https://github.com/jadedbay/bevy_procedural_grass) - A plugin for bevy to generate grass
-- [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
+- [mozilla/sccache](https://github.com/mozilla/sccache) - Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cl
 - [mbrea-c/bevy_animation_graph](https://github.com/mbrea-c/bevy_animation_graph) - Animation graphs in Bevy!
 - [DGriffin91/bevy_ridiculous_ssgi](https://github.com/DGriffin91/bevy_ridiculous_ssgi) - Some ridiculous SSGI for bevy
 - [zakarumych/egui-snarl](https://github.com/zakarumych/egui-snarl) - Customizable egui node-graph library
@@ -917,7 +921,7 @@
 - [josfeenstra/hedron](https://github.com/josfeenstra/hedron) - An all-in-one 3D modelling library, written in Rust
 - [HugoPeters1024/vk_rays](https://github.com/HugoPeters1024/vk_rays) - Vulkan RTX rendering backend for the Bevy game engine written in Rust
 - [InnocentusLime/bevy-tilemap-editor-pls](https://github.com/InnocentusLime/bevy-tilemap-editor-pls) - A simple extension for `bevy-editor-pls` to support tilemap editing right inside the bevy app.
-- [nashaofu/screenshots-rs](https://github.com/nashaofu/screenshots-rs) - A cross-platform screenshots library for MacOS、Windows、Linux(X11、wayland).
+- [nashaofu/xcap](https://github.com/nashaofu/xcap) - XCap is a cross-platform screen capture library for MacOS, Windows, Linux (X11, Wayland) written in Rust. It provides a simple API for capturing screen capture of a screen or a specific area of a scre
 - [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 - [gsingh93/display-manager](https://github.com/gsingh93/display-manager) - A simple display/login manager for Linux
 - [titanclass/yew-chart](https://github.com/titanclass/yew-chart) - 
@@ -1033,7 +1037,7 @@
 - [s4vitar/wifiCrack](https://github.com/s4vitar/wifiCrack) - Herramienta hecha en Bash ideal para automatizar ataques WiFi (WPA/WPA2 - PSK) destinados a la obtención de la contraseña.
 - [keyboardio/Kaleidoscope](https://github.com/keyboardio/Kaleidoscope) - Firmware for Keyboardio keyboards and other keyboards with AVR or ARM MCUs.
 - [jd84/moviebay](https://github.com/jd84/moviebay) - 
-- [amethyst/rlua](https://github.com/amethyst/rlua) - High level Lua bindings to Rust
+- [mlua-rs/rlua](https://github.com/mlua-rs/rlua) - High level Lua bindings to Rust
 - [jiangnangame/PVZ2PAK](https://github.com/jiangnangame/PVZ2PAK) - This is the best mod of PVZ1 which restore PVZ2.
 - [takito1812/log4j-detect](https://github.com/takito1812/log4j-detect) - Simple Python 3 script to detect the "Log4j" Java library vulnerability (CVE-2021-44228) for a list of URLs with multithreading
 - [nickcoutsos/keymap-editor](https://github.com/nickcoutsos/keymap-editor) - A web based graphical editor of ZMK keymaps.
