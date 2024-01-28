@@ -45,7 +45,7 @@
 - [gsingh93/display-manager](https://github.com/gsingh93/display-manager) - A simple display/login manager for Linux
 - [pijulius/picom](https://github.com/pijulius/picom) - A lightweight compositor for X11
 - [stecman/hw-boot-selection](https://github.com/stecman/hw-boot-selection) - STM32 firmware for a physical switch to set the GRUB boot selection
-- [amethyst/rlua](https://github.com/amethyst/rlua) - High level Lua bindings to Rust
+- [mlua-rs/rlua](https://github.com/mlua-rs/rlua) - High level Lua bindings to Rust
 - [tmk/tmk_keyboard](https://github.com/tmk/tmk_keyboard) - Keyboard firmwares for Atmel AVR and Cortex-M
 - [zerotier/DesktopUI](https://github.com/zerotier/DesktopUI) - ZeroTier Desktop Tray Application and UI
 - [mehedirm6244/sysfex](https://github.com/mehedirm6244/sysfex) - Another system information fetching tool written in C++
@@ -217,6 +217,7 @@
 
 ## Nix 
 
+- [divinenaman/tauri-nix-example](https://github.com/divinenaman/tauri-nix-example) - Nixified tauri app
 - [Lemin-n/cranix](https://github.com/Lemin-n/cranix) - High level API for Crane NixOs flake.
 - [bouk/arduino-nix](https://github.com/bouk/arduino-nix) - Manage your arduino-cli with Nix
 - [MordragT/nix-templates](https://github.com/MordragT/nix-templates) - ❄️ Nix flake templates for: 🦀 Rust, 🦖 Deno, 🐍 Python and 🗒️ reveal.js among others
@@ -319,7 +320,7 @@
 - [JMS55/bevy_dioxus](https://github.com/JMS55/bevy_dioxus) - 
 - [TylerBloom/avid-rustacean](https://github.com/TylerBloom/avid-rustacean) - This repo contains the code for my blog, The Avid Rustacean
 - [jadedbay/bevy_procedural_grass](https://github.com/jadedbay/bevy_procedural_grass) - A plugin for bevy to generate grass
-- [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
+- [mozilla/sccache](https://github.com/mozilla/sccache) - Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cl
 - [mbrea-c/bevy_animation_graph](https://github.com/mbrea-c/bevy_animation_graph) - Animation graphs in Bevy!
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
 - [DGriffin91/bevy_ridiculous_ssgi](https://github.com/DGriffin91/bevy_ridiculous_ssgi) - Some ridiculous SSGI for bevy
@@ -415,7 +416,7 @@
 - [josfeenstra/hedron](https://github.com/josfeenstra/hedron) - An all-in-one 3D modelling library, written in Rust
 - [HugoPeters1024/vk_rays](https://github.com/HugoPeters1024/vk_rays) - Vulkan RTX rendering backend for the Bevy game engine written in Rust
 - [InnocentusLime/bevy-tilemap-editor-pls](https://github.com/InnocentusLime/bevy-tilemap-editor-pls) - A simple extension for `bevy-editor-pls` to support tilemap editing right inside the bevy app.
-- [nashaofu/screenshots-rs](https://github.com/nashaofu/screenshots-rs) - A cross-platform screenshots library for MacOS、Windows、Linux(X11、wayland).
+- [nashaofu/xcap](https://github.com/nashaofu/xcap) - XCap is a cross-platform screen capture library for MacOS, Windows, Linux (X11, Wayland) written in Rust. It provides a simple API for capturing screen capture of a screen or a specific area of a scre
 - [titanclass/yew-chart](https://github.com/titanclass/yew-chart) - 
 - [pedrodesu/yew-feather](https://github.com/pedrodesu/yew-feather) - Yew components for Feather icons
 - [denoland/fastwebsockets](https://github.com/denoland/fastwebsockets) - A fast RFC6455 WebSocket implementation
@@ -638,7 +639,6 @@
 ## Svelte 
 
 - [hertg/lightdm-neon](https://github.com/hertg/lightdm-neon) - :art: A customizable theme for web-greeter in a nostalgic but modern neon look
-- [amanharwara/altus](https://github.com/amanharwara/altus) - Desktop client for WhatsApp Web with themes, notifications and multiple account support
 
 ## Swift 
 
@@ -661,6 +661,7 @@
 - [zignd/HTML-CSS-Class-Completion](https://github.com/zignd/HTML-CSS-Class-Completion) - :chocolate_bar: Visual Studio Code extension that provides CSS class name completion for the HTML class attribute based on the CSS files in your workspace
 - [ajmcateer/WebWindow](https://github.com/ajmcateer/WebWindow) - .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental.
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building data-driven applications running on top of REST/GraphQL APIs, using TypeScript, React and Material Design
+- [amanharwara/altus](https://github.com/amanharwara/altus) - Desktop client for WhatsApp Web with themes, notifications and multiple account support
 
 ## Vala 
 
