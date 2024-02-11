@@ -45,7 +45,6 @@
 - [gsingh93/display-manager](https://github.com/gsingh93/display-manager) - A simple display/login manager for Linux
 - [pijulius/picom](https://github.com/pijulius/picom) - A lightweight compositor for X11
 - [stecman/hw-boot-selection](https://github.com/stecman/hw-boot-selection) - STM32 firmware for a physical switch to set the GRUB boot selection
-- [mlua-rs/rlua](https://github.com/mlua-rs/rlua) - High level Lua bindings to Rust
 - [tmk/tmk_keyboard](https://github.com/tmk/tmk_keyboard) - Keyboard firmwares for Atmel AVR and Cortex-M
 - [zerotier/DesktopUI](https://github.com/zerotier/DesktopUI) - ZeroTier Desktop Tray Application and UI
 - [mehedirm6244/sysfex](https://github.com/mehedirm6244/sysfex) - Another system information fetching tool written in C++
@@ -267,6 +266,10 @@
 
 ## Rust 
 
+- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
+- [trimental/inlyne](https://github.com/trimental/inlyne) - Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
+- [mlua-rs/mlua](https://github.com/mlua-rs/mlua) - High level Lua 5.4/5.3/5.2/5.1 (including LuaJIT) and Roblox Luau bindings to Rust with async/await support
+- [deavid/lprfl](https://github.com/deavid/lprfl) - Learn programming with Rust as a first language (book)
 - [sha0coder/libscemu](https://github.com/sha0coder/libscemu) - SCEMU The crates.io lib, x86 cpu and systems emulator focused mainly for anti-malware
 - [xrelkd/clipcat](https://github.com/xrelkd/clipcat) - A clipboard manager written in Rust Programming Language.
 - [waycrate/waysip](https://github.com/waycrate/waysip) - Wayland native area selector for compositors implementing zwlr_layer_shell.
@@ -387,7 +390,6 @@
 - [aevyrie/big_space](https://github.com/aevyrie/big_space) - A floating origin plugin for worlds larger than the observable universe
 - [bytestring-net/bevy_lunex](https://github.com/bytestring-net/bevy_lunex) - Blazingly fast path based modular layout system built on top of Bevy ECS.
 - [TotalKrill/bevy_mod_reqwest](https://github.com/TotalKrill/bevy_mod_reqwest) - 
-- [Dispersia/shaku](https://github.com/Dispersia/shaku) - Compile Time Dependency lnjection Library for Rust
 - [johanhelsing/matchbox](https://github.com/johanhelsing/matchbox) - Painless peer-to-peer WebRTC networking for rust wasm (and native!)
 - [ErnWong/crystalorb](https://github.com/ErnWong/crystalorb) - Network-agnostic, high-level game networking library for client-side prediction and server reconciliation (unconditional rollback).
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
