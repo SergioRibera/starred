@@ -836,6 +836,8 @@
 
 ## others 
 
+- [elythh/nixdots](https://github.com/elythh/nixdots) - ❄️ my system configuration
+- [EnzymeAD/rustbook](https://github.com/EnzymeAD/rustbook) - 
 - [trimental/inlyne](https://github.com/trimental/inlyne) - Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
 - [deavid/lprfl](https://github.com/deavid/lprfl) - Learn programming with Rust as a first language (book)
 - [xrelkd/clipcat](https://github.com/xrelkd/clipcat) - A clipboard manager written in Rust Programming Language.
@@ -980,7 +982,7 @@
 - [Anshorei/bevy_rei](https://github.com/Anshorei/bevy_rei) - 
 - [Leafwing-Studios/leafwing-input-manager](https://github.com/Leafwing-Studios/leafwing-input-manager) - A straightforward stateful input manager for the Bevy game engine.
 - [LPGhatguy/type-layout](https://github.com/LPGhatguy/type-layout) - Aids debugging Rust type layout
-- [HouraiTeahouse/bevy-steamworks](https://github.com/HouraiTeahouse/bevy-steamworks) - A Bevy plugin for integrating with the Steamworks SDK
+- [HouraiTeahouse/bevy_steamworks](https://github.com/HouraiTeahouse/bevy_steamworks) - A Bevy plugin for integrating with the Steamworks SDK
 - [zkat/big-brain](https://github.com/zkat/big-brain) - Utility AI library for the Bevy game engine
 - [naia-lib/naia](https://github.com/naia-lib/naia) - a cross-platform (including Wasm!) networking library built in Rust. Intended to make multiplayer game development dead-simple & lightning-fast
 - [m-ou-se/rust-atomics-and-locks](https://github.com/m-ou-se/rust-atomics-and-locks) - Code examples, data structures, and links from my book, Rust Atomics and Locks.
