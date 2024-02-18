@@ -216,6 +216,7 @@
 
 ## Nix 
 
+- [elythh/nixdots](https://github.com/elythh/nixdots) - ❄️ my system configuration
 - [divinenaman/tauri-nix-example](https://github.com/divinenaman/tauri-nix-example) - Nixified tauri app
 - [Lemin-n/cranix](https://github.com/Lemin-n/cranix) - High level API for Crane NixOs flake.
 - [bouk/arduino-nix](https://github.com/bouk/arduino-nix) - Manage your arduino-cli with Nix
@@ -227,6 +228,7 @@
 
 ## Others 
 
+- [EnzymeAD/rustbook](https://github.com/EnzymeAD/rustbook) - 
 - [b0o/starred](https://github.com/b0o/starred) - 🌟 Maddison's starred repos, updated daily!
 - [Vrixyz/bevy_awesome_prod](https://github.com/Vrixyz/bevy_awesome_prod) - My curated list of projects using bevy in production, preferably with a company or a business model in mind.
 - [Anshorei/awesome-bevy](https://github.com/Anshorei/awesome-bevy) - A collection of awesome Bevy projects
@@ -482,7 +484,7 @@
 - [LPGhatguy/type-layout](https://github.com/LPGhatguy/type-layout) - Aids debugging Rust type layout
 - [idanarye/bevy-yoleck](https://github.com/idanarye/bevy-yoleck) - Your Own Level Editor Creation Kit
 - [vleue/bevy_ninepatch](https://github.com/vleue/bevy_ninepatch) - Bevy plugin to displays 9-Patch UI elements
-- [HouraiTeahouse/bevy-steamworks](https://github.com/HouraiTeahouse/bevy-steamworks) - A Bevy plugin for integrating with the Steamworks SDK
+- [HouraiTeahouse/bevy_steamworks](https://github.com/HouraiTeahouse/bevy_steamworks) - A Bevy plugin for integrating with the Steamworks SDK
 - [zkat/big-brain](https://github.com/zkat/big-brain) - Utility AI library for the Bevy game engine
 - [naia-lib/naia](https://github.com/naia-lib/naia) - a cross-platform (including Wasm!) networking library built in Rust. Intended to make multiplayer game development dead-simple & lightning-fast
 - [lucaspoffo/renet](https://github.com/lucaspoffo/renet) - Server/Client network library for multiplayer games with authentication and connection management made with Rust
