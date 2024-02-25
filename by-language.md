@@ -33,6 +33,7 @@
 - [TypeScript](#typescript)
 - [Vala](#vala)
 - [Vim Script](#vim-script)
+- [Vue](#vue)
 - [WGSL](#wgsl)
 
 ## Assembly 
@@ -268,8 +269,9 @@
 
 ## Rust 
 
+- [Matthias-Fauconneau/ui](https://github.com/Matthias-Fauconneau/ui) - Wayland UI
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-- [trimental/inlyne](https://github.com/trimental/inlyne) - Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
+- [Inlyne-Project/inlyne](https://github.com/Inlyne-Project/inlyne) - Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
 - [mlua-rs/mlua](https://github.com/mlua-rs/mlua) - High level Lua 5.4/5.3/5.2/5.1 (including LuaJIT) and Roblox Luau bindings to Rust with async/await support
 - [deavid/lprfl](https://github.com/deavid/lprfl) - Learn programming with Rust as a first language (book)
 - [sha0coder/libscemu](https://github.com/sha0coder/libscemu) - SCEMU The crates.io lib, x86 cpu and systems emulator focused mainly for anti-malware
@@ -652,6 +654,7 @@
 
 ## TypeScript 
 
+- [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) - 🦀💨 A fast Rspack-based static site generator.
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
 - [SeakMengs/WindowPet](https://github.com/SeakMengs/WindowPet) - Pet overlay app built with tauri and react that lets you have adorable companion such as pets, anime characters on your screen.
@@ -680,6 +683,10 @@
 - [vim-conf-live/pres.vim](https://github.com/vim-conf-live/pres.vim) - The official VimConf.Live presentation tool.
 - [metakirby5/codi.vim](https://github.com/metakirby5/codi.vim) - :notebook_with_decorative_cover: The interactive scratchpad for hackers.
 - [wfxr/minimap.vim](https://github.com/wfxr/minimap.vim) - 📡 Blazing fast minimap / scrollbar for vim, powered by code-minimap written in Rust.
+
+## Vue 
+
+- [linuxmobile/palettePilot](https://github.com/linuxmobile/palettePilot) - palettePilot is a color palette generator
 
 ## WGSL 
 
