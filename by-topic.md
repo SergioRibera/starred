@@ -137,6 +137,7 @@
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
 - [visual-studio-code](#visual-studio-code)
+- [vue](#vue)
 - [web](#web)
 - [webapp](#webapp)
 - [webpack](#webpack)
@@ -728,6 +729,7 @@
 
 ## markdown 
 
+- [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) - 🦀💨 A fast Rspack-based static site generator.
 - [ollej/rusty-slider](https://github.com/ollej/rusty-slider) - A small tool to display markdown files as a slideshow written in Rust.
 - [stejul/editorjs-markdown-parser](https://github.com/stejul/editorjs-markdown-parser) - A simple Markdown Importer/Exporter for EditorJS
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
@@ -836,9 +838,10 @@
 
 ## others 
 
+- [Matthias-Fauconneau/ui](https://github.com/Matthias-Fauconneau/ui) - Wayland UI
 - [elythh/nixdots](https://github.com/elythh/nixdots) - ❄️ my system configuration
 - [EnzymeAD/rustbook](https://github.com/EnzymeAD/rustbook) - 
-- [trimental/inlyne](https://github.com/trimental/inlyne) - Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
+- [Inlyne-Project/inlyne](https://github.com/Inlyne-Project/inlyne) - Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
 - [deavid/lprfl](https://github.com/deavid/lprfl) - Learn programming with Rust as a first language (book)
 - [xrelkd/clipcat](https://github.com/xrelkd/clipcat) - A clipboard manager written in Rust Programming Language.
 - [divinenaman/tauri-nix-example](https://github.com/divinenaman/tauri-nix-example) - Nixified tauri app
@@ -1414,6 +1417,7 @@
 
 ## typescript 
 
+- [linuxmobile/palettePilot](https://github.com/linuxmobile/palettePilot) - palettePilot is a color palette generator
 - [SeakMengs/WindowPet](https://github.com/SeakMengs/WindowPet) - Pet overlay app built with tauri and react that lets you have adorable companion such as pets, anime characters on your screen.
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
@@ -1461,6 +1465,10 @@
 ## visual-studio-code 
 
 - [zignd/HTML-CSS-Class-Completion](https://github.com/zignd/HTML-CSS-Class-Completion) - :chocolate_bar: Visual Studio Code extension that provides CSS class name completion for the HTML class attribute based on the CSS files in your workspace
+
+## vue 
+
+- [linuxmobile/palettePilot](https://github.com/linuxmobile/palettePilot) - palettePilot is a color palette generator
 
 ## web 
 
