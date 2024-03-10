@@ -11,6 +11,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [CoffeeScript](#coffeescript)
+- [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [GLSL](#glsl)
 - [Go](#go)
@@ -127,6 +128,10 @@
 
 - [literallycanvas/literallycanvas](https://github.com/literallycanvas/literallycanvas) - A canvas in your browser. Literally.
 - [dmauro/Keypress](https://github.com/dmauro/Keypress) - A keyboard input capturing utility in which any key can be a modifier key.
+
+## Dockerfile 
+
+- [caido/caido](https://github.com/caido/caido) - 🚀 Caido releases, wiki and roadmap
 
 ## Elixir 
 
@@ -269,6 +274,8 @@
 
 ## Rust 
 
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
+- [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
 - [awslabs/aws-lambda-rust-runtime](https://github.com/awslabs/aws-lambda-rust-runtime) - A Rust runtime for AWS Lambda
 - [Aiving/material-colors](https://github.com/Aiving/material-colors) - Up-to-date material-color-utilities port
 - [Matthias-Fauconneau/ui](https://github.com/Matthias-Fauconneau/ui) - Wayland UI
@@ -298,7 +305,7 @@
 - [jrmuizel/raqote](https://github.com/jrmuizel/raqote) - Rust 2D graphics library
 - [hecrj/coffee](https://github.com/hecrj/coffee) - An opinionated 2D game engine for Rust
 - [khonsulabs/kludgine](https://github.com/khonsulabs/kludgine) - A kludgey 2d game engine written in Rust atop wgpu
-- [grzi/scion](https://github.com/grzi/scion) - Scion is a tiny 2D game engine built on top of wgpu and winit, following the KISS principle.
+- [grzi/scion](https://github.com/grzi/scion) - Scion is a tiny 2D game library built on top of wgpu and winit, following the KISS principle.
 - [StarArawn/harmony](https://github.com/StarArawn/harmony) - A modern 3D/2D game engine that uses wgpu.
 - [RustAudio/rodio](https://github.com/RustAudio/rodio) - Rust audio playback library
 - [SkillerRaptor/hyper_engine](https://github.com/SkillerRaptor/hyper_engine) - Hyper Vulkan Game Engine
