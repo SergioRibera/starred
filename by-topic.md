@@ -11,6 +11,7 @@
 - [android](#android)
 - [ansible](#ansible)
 - [api](#api)
+- [archlinux](#archlinux)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [aws](#aws)
@@ -187,6 +188,12 @@
 - [Sairyss/backend-best-practices](https://github.com/Sairyss/backend-best-practices) - Best practices, tools and guidelines for backend development. Code examples in TypeScript + NodeJS
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+
+## archlinux 
+
+- [fosskers/cargo-aur](https://github.com/fosskers/cargo-aur) - Prepare Rust projects to be released on the Arch Linux User Repository
+- [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
+- [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 
 ## awesome 
 
@@ -431,7 +438,7 @@
 - [hecrj/coffee](https://github.com/hecrj/coffee) - An opinionated 2D game engine for Rust
 - [grzi/scion](https://github.com/grzi/scion) - Scion is a tiny 2D game library built on top of wgpu and winit, following the KISS principle.
 - [thephet/BevyRoguelike](https://github.com/thephet/BevyRoguelike) - Roguelike game using Rust and the Bevy engine
-- [leudz/shipyard](https://github.com/leudz/shipyard) - Entity Component System focused on usability and speed.
+- [leudz/shipyard](https://github.com/leudz/shipyard) - Entity Component System focused on usability and flexibility.
 - [Seldom-SE/seldom_pixel](https://github.com/Seldom-SE/seldom_pixel) - Bevy plugin for limited color palette pixel art games
 - [hikikones/bevy-sequential-actions](https://github.com/hikikones/bevy-sequential-actions) - A Bevy library for executing various actions in a sequence.
 - [aevyrie/bevy_mod_raycast](https://github.com/aevyrie/bevy_mod_raycast) - Unofficial plugin for raycasting in Bevy
@@ -474,7 +481,7 @@
 - [hecrj/coffee](https://github.com/hecrj/coffee) - An opinionated 2D game engine for Rust
 - [khonsulabs/kludgine](https://github.com/khonsulabs/kludgine) - A kludgey 2d game engine written in Rust atop wgpu
 - [grzi/scion](https://github.com/grzi/scion) - Scion is a tiny 2D game library built on top of wgpu and winit, following the KISS principle.
-- [leudz/shipyard](https://github.com/leudz/shipyard) - Entity Component System focused on usability and speed.
+- [leudz/shipyard](https://github.com/leudz/shipyard) - Entity Component System focused on usability and flexibility.
 - [hikikones/bevy-sequential-actions](https://github.com/hikikones/bevy-sequential-actions) - A Bevy library for executing various actions in a sequence.
 - [jarkonik/bevy_scriptum](https://github.com/jarkonik/bevy_scriptum) - 📜 bevy_scriptum is a a plugin for Bevy that allows you to write some of your game logic in a scripting language. https://docs.rs/bevy_scriptum/latest/bevy_scriptum/
 - [Jondolf/bevy_xpbd](https://github.com/Jondolf/bevy_xpbd) - 2D and 3D physics engine based on Extended Position Based Dynamics for Bevy.
@@ -843,6 +850,9 @@
 
 ## others 
 
+- [romancitodev/simple-commits](https://github.com/romancitodev/simple-commits) - A little CLI written in rust to improve your dirty commits into conventional ones.
+- [zaghaghi/openapi-tui](https://github.com/zaghaghi/openapi-tui) - Terminal UI to list, browse and run APIs defined with openapi spec.
+- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [awslabs/aws-lambda-rust-runtime](https://github.com/awslabs/aws-lambda-rust-runtime) - A Rust runtime for AWS Lambda
 - [Aiving/material-colors](https://github.com/Aiving/material-colors) - Up-to-date material-color-utilities port
 - [Matthias-Fauconneau/ui](https://github.com/Matthias-Fauconneau/ui) - Wayland UI
@@ -1269,7 +1279,7 @@
 - [audulus/rui](https://github.com/audulus/rui) - Declarative Rust UI library
 - [Relm4/Relm4](https://github.com/Relm4/Relm4) - Build truly native applications with ease!
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
-- [leudz/shipyard](https://github.com/leudz/shipyard) - Entity Component System focused on usability and speed.
+- [leudz/shipyard](https://github.com/leudz/shipyard) - Entity Component System focused on usability and flexibility.
 - [Seldom-SE/seldom_pixel](https://github.com/Seldom-SE/seldom_pixel) - Bevy plugin for limited color palette pixel art games
 - [Adamkob12/bevy_meshem](https://github.com/Adamkob12/bevy_meshem) - Bevy Meshem is a Rust crate designed to provide meshing algorithms for voxel grids, enabling you to create cohesive 3D mesh structures from a grid of cubic voxels
 - [LucaRickler/bevy-simple-state-machine](https://github.com/LucaRickler/bevy-simple-state-machine) - Rudimentary animation state machine system for Bevy Engine
