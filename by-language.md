@@ -11,7 +11,6 @@
 - [C++](#c++)
 - [CSS](#css)
 - [CoffeeScript](#coffeescript)
-- [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [GLSL](#glsl)
 - [Go](#go)
@@ -128,10 +127,6 @@
 
 - [literallycanvas/literallycanvas](https://github.com/literallycanvas/literallycanvas) - A canvas in your browser. Literally.
 - [dmauro/Keypress](https://github.com/dmauro/Keypress) - A keyboard input capturing utility in which any key can be a modifier key.
-
-## Dockerfile 
-
-- [caido/caido](https://github.com/caido/caido) - 🚀 Caido releases, wiki and roadmap
 
 ## Elixir 
 
@@ -257,6 +252,7 @@
 
 ## Python 
 
+- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [fernandodilland/bitso-semiautomatico](https://github.com/fernandodilland/bitso-semiautomatico) - Programa de código abierto para probar el API de Bitso, el exchange más importante de América Latina.
 - [takito1812/log4j-detect](https://github.com/takito1812/log4j-detect) - Simple Python 3 script to detect the "Log4j" Java library vulnerability (CVE-2021-44228) for a list of URLs with multithreading
 - [RebornOS/cnchi](https://github.com/RebornOS/cnchi) - cnchi installer
@@ -274,6 +270,8 @@
 
 ## Rust 
 
+- [romancitodev/simple-commits](https://github.com/romancitodev/simple-commits) - A little CLI written in rust to improve your dirty commits into conventional ones.
+- [zaghaghi/openapi-tui](https://github.com/zaghaghi/openapi-tui) - Terminal UI to list, browse and run APIs defined with openapi spec.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
 - [awslabs/aws-lambda-rust-runtime](https://github.com/awslabs/aws-lambda-rust-runtime) - A Rust runtime for AWS Lambda
@@ -382,7 +380,7 @@
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [proxy-wasm/proxy-wasm-rust-sdk](https://github.com/proxy-wasm/proxy-wasm-rust-sdk) - WebAssembly for Proxies (Rust SDK)
 - [japandotorg/LemonCord](https://github.com/japandotorg/LemonCord) - A fast & light weight Discord Client made with love using the Rust programming language.
-- [leudz/shipyard](https://github.com/leudz/shipyard) - Entity Component System focused on usability and speed.
+- [leudz/shipyard](https://github.com/leudz/shipyard) - Entity Component System focused on usability and flexibility.
 - [servo/ipc-channel](https://github.com/servo/ipc-channel) - A multiprocess drop-in replacement for Rust channels
 - [RaminKav/BevySurvivalGame](https://github.com/RaminKav/BevySurvivalGame) - A simple survival game for the exploration of Bevy/Rust
 - [Seldom-SE/seldom_pixel](https://github.com/Seldom-SE/seldom_pixel) - Bevy plugin for limited color palette pixel art games
@@ -663,6 +661,7 @@
 
 ## TypeScript 
 
+- [caido/caido](https://github.com/caido/caido) - 🚀 Caido releases, wiki and roadmap
 - [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) - 🦀💨 A fast Rspack-based static site generator.
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
