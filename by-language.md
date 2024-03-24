@@ -270,6 +270,7 @@
 
 ## Rust 
 
+- [dust-engine/dust](https://github.com/dust-engine/dust) - A research project trying to push the boundaries of voxel geometry and interactivity. Experimental real-time global illumination renderer powered by Rust, Vulkan and Bevy.
 - [romancitodev/simple-commits](https://github.com/romancitodev/simple-commits) - A little CLI written in rust to improve your dirty commits into conventional ones.
 - [zaghaghi/openapi-tui](https://github.com/zaghaghi/openapi-tui) - Terminal UI to list, browse and run APIs defined with openapi spec.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
@@ -478,7 +479,7 @@
 - [LiamGallagher737/bevy_mod_gizmos](https://github.com/LiamGallagher737/bevy_mod_gizmos) - Visual gizmos to assist with Bevy game development
 - [aevyrie/bevy_framepace](https://github.com/aevyrie/bevy_framepace) - Framepacing and framelimiting for Bevy
 - [IyesGames/iyes_progress](https://github.com/IyesGames/iyes_progress) - Bevy plugin to help track progress and perform state transitions
-- [vectorgameexperts/bevy-shell-template](https://github.com/vectorgameexperts/bevy-shell-template) - An opinionated, monolithic template for Bevy with cross-platform CI/CD, native + WASM launchers, and managed cross-platform deployment.
+- [loopystudios/bevy-shell-template](https://github.com/loopystudios/bevy-shell-template) - An opinionated, monolithic template for Bevy with cross-platform CI/CD, native + WASM launchers, and managed cross-platform deployment.
 - [vleue/jornet](https://github.com/vleue/jornet) - The social game server for all your game jams!
 - [BrandonDyer64/bevy_wasm](https://github.com/BrandonDyer64/bevy_wasm) - Mod Bevy games with WASM
 - [makspll/bevy_mod_scripting](https://github.com/makspll/bevy_mod_scripting) - Bevy Scripting Plugin
@@ -519,7 +520,7 @@
 - [alexichepura/bevy_garage](https://github.com/alexichepura/bevy_garage) - Gamelike car simulation playground.
 - [Seldom-SE/seldom_state](https://github.com/Seldom-SE/seldom_state) - Component-based state machine plugin for Bevy. Useful for AI, player state, and other entities that occupy different states.
 - [r4gus/nodus](https://github.com/r4gus/nodus) - A logic gate simulator written in Rust using the Bevy game engine.
-- [starwolves/space](https://github.com/starwolves/space) - Official mirror of the online SCI-FI action game that simulates spaceships in 3D. Built from the ground up to support decentralized game-servers and communities. Will ship with a core feature set of R
+- [starwolves/space](https://github.com/starwolves/space) - Official mirror of the online SCI-FI action game that simulates spaceships in 3D. Built from the ground up to support decentralized game-servers and communities with extensive modding support. Will sh
 - [sburris0/bevy_flycam](https://github.com/sburris0/bevy_flycam) - Basic first-person fly camera for the Bevy game engine
 - [MrGVSV/bevy_proto](https://github.com/MrGVSV/bevy_proto) - Create config files for entities in Bevy
 - [StarArawn/kayak_ui](https://github.com/StarArawn/kayak_ui) - 
