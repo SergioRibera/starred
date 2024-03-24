@@ -426,7 +426,7 @@
 - [tomuxmon/bevy_roguelike](https://github.com/tomuxmon/bevy_roguelike) - roguelike system implemented using bevy
 - [opstic/gdclone](https://github.com/opstic/gdclone) - An alternative Geometry Dash client built using Bevy
 - [TheRealTeamFReSh/MurderUserDungeon](https://github.com/TheRealTeamFReSh/MurderUserDungeon) - A game made for the Rusty Jam https://itch.io/jam/rusty-jam
-- [starwolves/space](https://github.com/starwolves/space) - Official mirror of the online SCI-FI action game that simulates spaceships in 3D. Built from the ground up to support decentralized game-servers and communities. Will ship with a core feature set of R
+- [starwolves/space](https://github.com/starwolves/space) - Official mirror of the online SCI-FI action game that simulates spaceships in 3D. Built from the ground up to support decentralized game-servers and communities with extensive modding support. Will sh
 - [ozkriff/zemeroth](https://github.com/ozkriff/zemeroth) - 😠⚔️😈 A minimalistic 2D turn-based tactical game in Rust
 - [heroiclabs/fishgame-macroquad](https://github.com/heroiclabs/fishgame-macroquad) - "Fish Game" for Macroquad is an online multiplayer game, created as a demonstration of Nakama, an open-source scalable game server, using Rust-lang and the Macroquad game engine.
 - [ggez/good-web-game](https://github.com/ggez/good-web-game) - An alternative ggez implementation on top of miniquad.
@@ -452,7 +452,7 @@
 - [vleue/jornet](https://github.com/vleue/jornet) - The social game server for all your game jams!
 - [makspll/bevy_mod_scripting](https://github.com/makspll/bevy_mod_scripting) - Bevy Scripting Plugin
 - [repalash/Open-Shaders](https://github.com/repalash/Open-Shaders) - Collection of many open source shaders(GLSL, HLSL, CG) in popular open source game development and rendering engines and public repositories.
-- [starwolves/space](https://github.com/starwolves/space) - Official mirror of the online SCI-FI action game that simulates spaceships in 3D. Built from the ground up to support decentralized game-servers and communities. Will ship with a core feature set of R
+- [starwolves/space](https://github.com/starwolves/space) - Official mirror of the online SCI-FI action game that simulates spaceships in 3D. Built from the ground up to support decentralized game-servers and communities with extensive modding support. Will sh
 - [parasyte/pixels](https://github.com/parasyte/pixels) - A tiny hardware-accelerated pixel frame buffer. 🦀
 - [dfranx/SHADERed](https://github.com/dfranx/SHADERed) - Lightweight, cross-platform & full-featured shader IDE
 - [thedmd/imgui-node-editor](https://github.com/thedmd/imgui-node-editor) - Node Editor built using Dear ImGui
@@ -462,6 +462,7 @@
 
 ## game-engine 
 
+- [dust-engine/dust](https://github.com/dust-engine/dust) - A research project trying to push the boundaries of voxel geometry and interactivity. Experimental real-time global illumination renderer powered by Rust, Vulkan and Bevy.
 - [ryanisaacg/quicksilver](https://github.com/ryanisaacg/quicksilver) - A simple framework for 2D games on desktop and web
 - [17cupsofcoffee/tetra](https://github.com/17cupsofcoffee/tetra) - 🎮 A simple 2D game framework written in Rust
 - [hecrj/coffee](https://github.com/hecrj/coffee) - An opinionated 2D game engine for Rust
@@ -495,7 +496,7 @@
 - [idanarye/bevy-yoleck](https://github.com/idanarye/bevy-yoleck) - Your Own Level Editor Creation Kit
 - [lucaspoffo/renet](https://github.com/lucaspoffo/renet) - Server/Client network library for multiplayer games with authentication and connection management made with Rust
 - [alexichepura/bevy_garage](https://github.com/alexichepura/bevy_garage) - Gamelike car simulation playground.
-- [starwolves/space](https://github.com/starwolves/space) - Official mirror of the online SCI-FI action game that simulates spaceships in 3D. Built from the ground up to support decentralized game-servers and communities. Will ship with a core feature set of R
+- [starwolves/space](https://github.com/starwolves/space) - Official mirror of the online SCI-FI action game that simulates spaceships in 3D. Built from the ground up to support decentralized game-servers and communities with extensive modding support. Will sh
 - [dodorare/crossbow](https://github.com/dodorare/crossbow) - Cross-Platform build tools and toolkit for games and game engines written in Rust! 🦀
 - [ozkriff/awesome-quads](https://github.com/ozkriff/awesome-quads) - ▦⧉⊞□ A curated list of links to miniquad/macroquad-related code & resources
 - [thedmd/imgui-node-editor](https://github.com/thedmd/imgui-node-editor) - Node Editor built using Dear ImGui
@@ -994,7 +995,7 @@
 - [aevyrie/bevy_framepace](https://github.com/aevyrie/bevy_framepace) - Framepacing and framelimiting for Bevy
 - [IyesGames/iyes_progress](https://github.com/IyesGames/iyes_progress) - Bevy plugin to help track progress and perform state transitions
 - [bevyengine/bevy_github_ci_template](https://github.com/bevyengine/bevy_github_ci_template) - 
-- [vectorgameexperts/bevy-shell-template](https://github.com/vectorgameexperts/bevy-shell-template) - An opinionated, monolithic template for Bevy with cross-platform CI/CD, native + WASM launchers, and managed cross-platform deployment.
+- [loopystudios/bevy-shell-template](https://github.com/loopystudios/bevy-shell-template) - An opinionated, monolithic template for Bevy with cross-platform CI/CD, native + WASM launchers, and managed cross-platform deployment.
 - [dimforge/bevy_rapier](https://github.com/dimforge/bevy_rapier) - Official Rapier plugin for the Bevy game engine.
 - [ManevilleF/bevy_silk](https://github.com/ManevilleF/bevy_silk) - Cloth engine for Bevy
 - [cryscan/bevy-hikari](https://github.com/cryscan/bevy-hikari) - A Realtime Path Tracer for Bevy.
@@ -1231,6 +1232,7 @@
 
 ## rust 
 
+- [dust-engine/dust](https://github.com/dust-engine/dust) - A research project trying to push the boundaries of voxel geometry and interactivity. Experimental real-time global illumination renderer powered by Rust, Vulkan and Bevy.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [mlua-rs/mlua](https://github.com/mlua-rs/mlua) - High level Lua 5.4/5.3/5.2/5.1 (including LuaJIT) and Roblox Luau bindings to Rust with async/await support
@@ -1329,7 +1331,7 @@
 - [alexichepura/bevy_garage](https://github.com/alexichepura/bevy_garage) - Gamelike car simulation playground.
 - [Seldom-SE/seldom_state](https://github.com/Seldom-SE/seldom_state) - Component-based state machine plugin for Bevy. Useful for AI, player state, and other entities that occupy different states.
 - [r4gus/nodus](https://github.com/r4gus/nodus) - A logic gate simulator written in Rust using the Bevy game engine.
-- [starwolves/space](https://github.com/starwolves/space) - Official mirror of the online SCI-FI action game that simulates spaceships in 3D. Built from the ground up to support decentralized game-servers and communities. Will ship with a core feature set of R
+- [starwolves/space](https://github.com/starwolves/space) - Official mirror of the online SCI-FI action game that simulates spaceships in 3D. Built from the ground up to support decentralized game-servers and communities with extensive modding support. Will sh
 - [MrGVSV/bevy_proto](https://github.com/MrGVSV/bevy_proto) - Create config files for entities in Bevy
 - [leetvr/hotham](https://github.com/leetvr/hotham) - Hotham is a tool for creating incredible standalone VR games.
 - [dodorare/crossbow](https://github.com/dodorare/crossbow) - Cross-Platform build tools and toolkit for games and game engines written in Rust! 🦀
