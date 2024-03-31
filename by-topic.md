@@ -180,7 +180,7 @@
 
 ## ansible 
 
-- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
+- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 
 ## api 
 
@@ -341,7 +341,7 @@
 
 - [nogibjj/rust-mlops-template](https://github.com/nogibjj/rust-mlops-template) - A work in progress to build out solutions in Rust for MLOPs
 - [Sairyss/backend-best-practices](https://github.com/Sairyss/backend-best-practices) - Best practices, tools and guidelines for backend development. Code examples in TypeScript + NodeJS
-- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
+- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 
 ## discord 
 
@@ -651,7 +651,7 @@
 
 ## kubernetes 
 
-- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
+- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 
 ## language 
 
@@ -1232,6 +1232,7 @@
 
 ## rust 
 
+- [Kobzol/cargo-wizard](https://github.com/Kobzol/cargo-wizard) - Cargo subcommand for configuring Cargo projects for best performance.
 - [dust-engine/dust](https://github.com/dust-engine/dust) - A research project trying to push the boundaries of voxel geometry and interactivity. Experimental real-time global illumination renderer powered by Rust, Vulkan and Bevy.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
@@ -1434,7 +1435,7 @@
 
 ## terraform 
 
-- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
+- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 
 ## twitter 
 
@@ -1463,7 +1464,7 @@
 - [BeardedManStudios/ForgeNetworkingRemastered](https://github.com/BeardedManStudios/ForgeNetworkingRemastered) - See various forks, also please join the Forge Community fork of Forge Alloy! -&gt; https://github.com/ForgeAlloyCommunity/ForgeAlloy
 - [proyecto26/RestClient](https://github.com/proyecto26/RestClient) - 🦄  A Promise based REST and HTTP client for Unity 🎮
 - [daniellochner/creature](https://github.com/daniellochner/creature) - Procedurally generate creatures in Unity - inspired by Spore.
-- [keenanwoodall/Deform](https://github.com/keenanwoodall/Deform) - A fully-featured deformer system for Unity.
+- [keenanwoodall/Deform](https://github.com/keenanwoodall/Deform) - A fully-featured deformer system for Unity that lets you stack effects to animate models in real-time
 - [sunsided/unity-fps](https://github.com/sunsided/unity-fps) - An FPS tutorial game in Unity
 - [qualisys/QTM-Connect-For-Unity](https://github.com/qualisys/QTM-Connect-For-Unity) - Unity package for the C# (.NET) implementation of the real-time protocol for Qualisys Track Manager
 - [emilianavt/BVHTools](https://github.com/emilianavt/BVHTools) - BVH Tools for Unity
