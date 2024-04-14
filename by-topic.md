@@ -96,6 +96,7 @@
 - [monitoring](#monitoring)
 - [music](#music)
 - [neovim](#neovim)
+- [nestjs](#nestjs)
 - [neural-network](#neural-network)
 - [node](#node)
 - [nodejs](#nodejs)
@@ -198,6 +199,7 @@
 
 ## awesome 
 
+- [chadcat7/crystal](https://github.com/chadcat7/crystal) - nix dotfiles for chilly people
 - [JingOS-team/JingOS](https://github.com/JingOS-team/JingOS) - Awesome - JingOS - The World’s First Linux-based OS design for Tablets
 - [WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
 
@@ -379,6 +381,7 @@
 
 ## emacs 
 
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - Nix configuration for macOS / NixOS with starter templates, step-by-step guides, and more ✨
 - [WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
 
 ## ember 
@@ -677,6 +680,8 @@
 
 ## linux 
 
+- [chadcat7/crystal](https://github.com/chadcat7/crystal) - nix dotfiles for chilly people
+- [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
@@ -732,6 +737,7 @@
 
 ## macos 
 
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - Nix configuration for macOS / NixOS with starter templates, step-by-step guides, and more ✨
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [hoothin/RustClock](https://github.com/hoothin/RustClock) - A digital clock for desktop popup every half hour, support 20-20-20 rule. 每隔半小時彈出一次的桌面電子時鐘
@@ -784,6 +790,7 @@
 
 ## neovim 
 
+- [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
 - [mrcjkb/nvim-lua-nix-plugin-template](https://github.com/mrcjkb/nvim-lua-nix-plugin-template) - A starter template for a Neovim plugin written in Lua with a Nix CI
 - [GeekMasher/securitree.nvim](https://github.com/GeekMasher/securitree.nvim) - SecuriTree - Security Research Tool
 - [SmiteshP/nvim-navic](https://github.com/SmiteshP/nvim-navic) - Simple winbar/statusline plugin that shows your current code context
@@ -805,6 +812,10 @@
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
+
+## nestjs 
+
+- [Sairyss/backend-best-practices](https://github.com/Sairyss/backend-best-practices) - Best practices, tools and guidelines for backend development. Code examples in TypeScript + NodeJS
 
 ## neural-network 
 
@@ -857,6 +868,7 @@
 
 ## others 
 
+- [H3rmt/hyprswitch](https://github.com/H3rmt/hyprswitch) - A CLI/GUI that allows switching between windows in Hyprland
 - [mangelats/buffers](https://github.com/mangelats/buffers) - Another way of looking at memory management for collections
 - [waycrate/wayshot](https://github.com/waycrate/wayshot) - Mirrored at https://git.sr.ht/~shinyzenith/wayshot  | screenshot tool for wlroots based compositors implementing zwlr_screencopy_v1
 - [romancitodev/simple-commits](https://github.com/romancitodev/simple-commits) - A little CLI written in rust to improve your dirty commits into conventional ones.
