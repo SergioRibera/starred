@@ -12,6 +12,7 @@
 - [CSS](#css)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
+- [Cython](#cython)
 - [Elixir](#elixir)
 - [GLSL](#glsl)
 - [Go](#go)
@@ -51,7 +52,6 @@
 - [zerotier/DesktopUI](https://github.com/zerotier/DesktopUI) - ZeroTier Desktop Tray Application and UI
 - [mehedirm6244/sysfex](https://github.com/mehedirm6244/sysfex) - Another system information fetching tool written in C++
 - [awab228/android_kernel_samsung_on5xelte](https://github.com/awab228/android_kernel_samsung_on5xelte) - Kernel Source for Samsung J5 prime G570F
-- [eliemichel/LilySurfaceScraper](https://github.com/eliemichel/LilySurfaceScraper) - Import shaders end environments in Blender from a single URL
 - [Shourai/st](https://github.com/Shourai/st) - simple terminal (suckless terminal)
 - [tryone144/compton](https://github.com/tryone144/compton) - A compositor for X11.
 - [coot/surf_searchbar](https://github.com/coot/surf_searchbar) - Surf is a browswer from http://surf.suckless.org/. Here is my branch with a nice chrome like url bar for surf .
@@ -132,6 +132,10 @@
 
 - [literallycanvas/literallycanvas](https://github.com/literallycanvas/literallycanvas) - A canvas in your browser. Literally.
 - [dmauro/Keypress](https://github.com/dmauro/Keypress) - A keyboard input capturing utility in which any key can be a modifier key.
+
+## Cython 
+
+- [eliemichel/LilySurfaceScraper](https://github.com/eliemichel/LilySurfaceScraper) - Import shaders end environments in Blender from a single URL
 
 ## Elixir 
 
@@ -222,6 +226,9 @@
 
 ## Nix 
 
+- [chadcat7/crystal](https://github.com/chadcat7/crystal) - nix dotfiles for chilly people
+- [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - Nix configuration for macOS / NixOS with starter templates, step-by-step guides, and more ✨
 - [elythh/nixdots](https://github.com/elythh/nixdots) - ❄️ my system configuration
 - [divinenaman/tauri-nix-example](https://github.com/divinenaman/tauri-nix-example) - Nixified tauri app
 - [Lemin-n/cranix](https://github.com/Lemin-n/cranix) - High level API for Crane NixOs flake.
@@ -274,6 +281,7 @@
 
 ## Rust 
 
+- [H3rmt/hyprswitch](https://github.com/H3rmt/hyprswitch) - A CLI/GUI that allows switching between windows in Hyprland
 - [mangelats/buffers](https://github.com/mangelats/buffers) - Another way of looking at memory management for collections
 - [waycrate/wayshot](https://github.com/waycrate/wayshot) - Mirrored at https://git.sr.ht/~shinyzenith/wayshot  | screenshot tool for wlroots based compositors implementing zwlr_screencopy_v1
 - [Kobzol/cargo-wizard](https://github.com/Kobzol/cargo-wizard) - Cargo subcommand for configuring Cargo projects for best performance.
