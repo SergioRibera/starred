@@ -868,6 +868,8 @@
 
 ## others 
 
+- [Jedsek/deci-player](https://github.com/Jedsek/deci-player) - A music-player written with rust and iced
+- [nmasur/dotfiles](https://github.com/nmasur/dotfiles) - Nix configuration and settings
 - [H3rmt/hyprswitch](https://github.com/H3rmt/hyprswitch) - A CLI/GUI that allows switching between windows in Hyprland
 - [mangelats/buffers](https://github.com/mangelats/buffers) - Another way of looking at memory management for collections
 - [waycrate/wayshot](https://github.com/waycrate/wayshot) - Mirrored at https://git.sr.ht/~shinyzenith/wayshot  | screenshot tool for wlroots based compositors implementing zwlr_screencopy_v1
@@ -1438,7 +1440,7 @@
 
 ## telegram 
 
-- [ed-asriyan/lottie-converter](https://github.com/ed-asriyan/lottie-converter) - Converts Lottie Animations (.json / .lottie) and Telegram stickers (*.tgs) to GIF / PNG / APNG / WEBP
+- [ed-asriyan/lottie-converter](https://github.com/ed-asriyan/lottie-converter) - Converts Lottie Animations (.json / .lottie) and Telegram stickers (*.tgs) to GIF / PNG / APNG / WEBP / WEBM
 
 ## tensorflow 
 
