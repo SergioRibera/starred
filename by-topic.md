@@ -66,6 +66,7 @@
 - [good-first-issue](#good-first-issue)
 - [graphql](#graphql)
 - [hacktoberfest](#hacktoberfest)
+- [home-assistant](#home-assistant)
 - [html](#html)
 - [html5](#html5)
 - [http](#http)
@@ -201,12 +202,14 @@
 
 ## awesome 
 
+- [AeroRust/awesome-space](https://github.com/AeroRust/awesome-space) - List of awesome resources for Aerospace and Rust
 - [chadcat7/crystal](https://github.com/chadcat7/crystal) - nix dotfiles for chilly people
 - [JingOS-team/JingOS](https://github.com/JingOS-team/JingOS) - Awesome - JingOS - The World’s First Linux-based OS design for Tablets
 - [WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
 
 ## awesome-list 
 
+- [AeroRust/awesome-space](https://github.com/AeroRust/awesome-space) - List of awesome resources for Aerospace and Rust
 - [b0o/starred](https://github.com/b0o/starred) - 🌟 Maddison's starred repos, updated daily!
 - [repalash/Open-Shaders](https://github.com/repalash/Open-Shaders) - Collection of many open source shaders(GLSL, HLSL, CG) in popular open source game development and rendering engines and public repositories.
 - [ozkriff/awesome-quads](https://github.com/ozkriff/awesome-quads) - ▦⧉⊞□ A curated list of links to miniquad/macroquad-related code & resources
@@ -355,6 +358,7 @@
 
 ## discord 
 
+- [RGBCube/ThemeNix](https://github.com/RGBCube/ThemeNix) - Theme your NixOS configuration consistently.
 - [japandotorg/LemonCord](https://github.com/japandotorg/LemonCord) - A fast & light weight Discord Client made with love using the Rust programming language.
 
 ## docker 
@@ -548,6 +552,8 @@
 
 ## hacktoberfest 
 
+- [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz) - Publish Rust crates from CI with a Release PR.
+- [AeroRust/awesome-space](https://github.com/AeroRust/awesome-space) - List of awesome resources for Aerospace and Rust
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [embedded-graphics/embedded-graphics](https://github.com/embedded-graphics/embedded-graphics) - A no_std graphics library for embedded applications
 - [grzi/scion](https://github.com/grzi/scion) - Scion is a tiny 2D game library built on top of wgpu and winit, following the KISS principle.
@@ -579,6 +585,10 @@
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [python-eel/Eel](https://github.com/python-eel/Eel) - A little Python library for making simple Electron-like HTML/JS GUI apps
+
+## home-assistant 
+
+- [badele/nix-homelab](https://github.com/badele/nix-homelab) - Homelab and dotfiles made with NixOS
 
 ## html 
 
@@ -880,6 +890,7 @@
 
 ## others 
 
+- [cdmvision/unity-figma-importer](https://github.com/cdmvision/unity-figma-importer) - Unity Figma Importer turns your Figma design into Unity UI elements and can bind codes with layout files to create Unity apps with ease.
 - [codethread/qmk.nvim](https://github.com/codethread/qmk.nvim) - Format qmk and zmk keymaps in neovim
 - [anyrun-org/anyrun](https://github.com/anyrun-org/anyrun) - A wayland native, highly customizable runner.
 - [abathur/lilgit](https://github.com/abathur/lilgit) - a smol (quick) git status prompt plugin
@@ -895,7 +906,7 @@
 - [awslabs/aws-lambda-rust-runtime](https://github.com/awslabs/aws-lambda-rust-runtime) - A Rust runtime for AWS Lambda
 - [Aiving/material-colors](https://github.com/Aiving/material-colors) - Up-to-date material-color-utilities port
 - [Matthias-Fauconneau/ui](https://github.com/Matthias-Fauconneau/ui) - Wayland UI
-- [elythh/nixdots](https://github.com/elythh/nixdots) - ❄️ my system configuration
+- [elythh/flake](https://github.com/elythh/flake) - my unavoidable system configuration
 - [EnzymeAD/rustbook](https://github.com/EnzymeAD/rustbook) - 
 - [Inlyne-Project/inlyne](https://github.com/Inlyne-Project/inlyne) - Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
 - [deavid/lprfl](https://github.com/deavid/lprfl) - Learn programming with Rust as a first language (book)
@@ -1270,6 +1281,9 @@
 
 ## rust 
 
+- [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz) - Publish Rust crates from CI with a Release PR.
+- [AeroRust/awesome-space](https://github.com/AeroRust/awesome-space) - List of awesome resources for Aerospace and Rust
+- [arunim-io/apm](https://github.com/arunim-io/apm) - Arunim's Power Manager
 - [Kobzol/cargo-wizard](https://github.com/Kobzol/cargo-wizard) - Cargo subcommand for configuring Cargo projects for best performance.
 - [dust-engine/dust](https://github.com/dust-engine/dust) - A research project trying to push the boundaries of voxel geometry and interactivity. Experimental real-time global illumination renderer powered by Rust, Vulkan and Bevy.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
