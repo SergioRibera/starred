@@ -28,6 +28,7 @@
 - [PHP](#php)
 - [Python](#python)
 - [Rust](#rust)
+- [SCSS](#scss)
 - [ShaderLab](#shaderlab)
 - [Shell](#shell)
 - [Svelte](#svelte)
@@ -37,6 +38,7 @@
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [WGSL](#wgsl)
+- [Zig](#zig)
 
 ## Assembly 
 
@@ -44,7 +46,6 @@
 
 ## C 
 
-- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 - [gsingh93/display-manager](https://github.com/gsingh93/display-manager) - A simple display/login manager for Linux
 - [pijulius/picom](https://github.com/pijulius/picom) - A lightweight compositor for X11
 - [stecman/hw-boot-selection](https://github.com/stecman/hw-boot-selection) - STM32 firmware for a physical switch to set the GRUB boot selection
@@ -229,6 +230,7 @@
 
 ## Nix 
 
+- [wochap/nix-config](https://github.com/wochap/nix-config) - Personal NixOS configuration
 - [RGBCube/ThemeNix](https://github.com/RGBCube/ThemeNix) - Theme your NixOS configuration consistently.
 - [arunim-io/apm](https://github.com/arunim-io/apm) - Arunim's Power Manager
 - [badele/nix-homelab](https://github.com/badele/nix-homelab) - Homelab and dotfiles made with NixOS
@@ -273,6 +275,7 @@
 
 ## Python 
 
+- [GradienceTeam/Gradience](https://github.com/GradienceTeam/Gradience) - Change the look of Adwaita, with ease
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [fernandodilland/bitso-semiautomatico](https://github.com/fernandodilland/bitso-semiautomatico) - Programa de código abierto para probar el API de Bitso, el exchange más importante de América Latina.
 - [takito1812/log4j-detect](https://github.com/takito1812/log4j-detect) - Simple Python 3 script to detect the "Log4j" Java library vulnerability (CVE-2021-44228) for a list of URLs with multithreading
@@ -440,7 +443,7 @@
 - [DGriffin91/bevy_mod_mesh_tools](https://github.com/DGriffin91/bevy_mod_mesh_tools) - Tools for working with meshes in bevy
 - [DGriffin91/bevy_mod_environment_map_tools](https://github.com/DGriffin91/bevy_mod_environment_map_tools) - Tools for processing environment maps
 - [DGriffin91/bevy_sponza_scene](https://github.com/DGriffin91/bevy_sponza_scene) - Sponza
-- [projectharmonia/bevy_replicon](https://github.com/projectharmonia/bevy_replicon) - ECS-focused high-level networking crate for the Bevy game engine.
+- [projectharmonia/bevy_replicon](https://github.com/projectharmonia/bevy_replicon) - Server-authoritative networking crate for the Bevy game engine.
 - [aevyrie/bevy_eventlistener](https://github.com/aevyrie/bevy_eventlistener) - Event listening, bubbling, and callbacks
 - [jarkonik/bevy_scriptum](https://github.com/jarkonik/bevy_scriptum) - 📜 bevy_scriptum is a a plugin for Bevy that allows you to write some of your game logic in a scripting language. https://docs.rs/bevy_scriptum/latest/bevy_scriptum/
 - [Jondolf/bevy_xpbd](https://github.com/Jondolf/bevy_xpbd) - 2D and 3D physics engine based on Extended Position Based Dynamics for Bevy.
@@ -659,6 +662,10 @@
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧: closing the semantic gap between compiler and hardware by maximally leveraging the power of language safety and a
 
+## SCSS 
+
+- [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme) - Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.
+
 ## ShaderLab 
 
 - [GalanLefont/Unity-Driving-System](https://github.com/GalanLefont/Unity-Driving-System) - A driving system I've developed in Unity.
@@ -731,6 +738,10 @@
 ## WGSL 
 
 - [bonsairobo/bevy_triplanar_splatting](https://github.com/bonsairobo/bevy_triplanar_splatting) - Triplanar Mapping and Material Blending for Bevy Engine
+
+## Zig 
+
+- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 
 
 ## License
