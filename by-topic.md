@@ -42,6 +42,7 @@
 - [devops](#devops)
 - [discord](#discord)
 - [docker](#docker)
+- [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
 - [electron](#electron)
 - [emacs](#emacs)
@@ -368,6 +369,21 @@
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 
+## dotfiles 
+
+- [badele/nix-homelab](https://github.com/badele/nix-homelab) - Homelab and dotfiles made with NixOS
+- [rxyhn/yuki](https://github.com/rxyhn/yuki) - 雪 - Yuki | Snowflake  :snowflake:
+- [nmasur/dotfiles](https://github.com/nmasur/dotfiles) - Nix configuration and settings
+- [chadcat7/crystal](https://github.com/chadcat7/crystal) - nix dotfiles for chilly people
+- [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - Nix configuration for macOS / NixOS with starter templates, step-by-step guides, and more ✨
+- [lucasew/nixcfg](https://github.com/lucasew/nixcfg) - Personal Nix/NixOS configuration files
+- [evanpurkhiser/dots](https://github.com/evanpurkhiser/dots) - A portable tool for managing a single set of dotfiles in an organized fashion
+- [kristijanhusak/neovim-config](https://github.com/kristijanhusak/neovim-config) - Neovim configuration
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
+- [WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
+- [eromatiya/the-glorious-dotfiles](https://github.com/eromatiya/the-glorious-dotfiles) - A glorified personal dot files
+
 ## dotnet 
 
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
@@ -438,7 +454,7 @@
 ## framework 
 
 - [nicopap/cuicui_layout](https://github.com/nicopap/cuicui_layout) - The dumbest and simplest layouting algorithm for bevy
-- [bytestring-net/bevy_lunex](https://github.com/bytestring-net/bevy_lunex) - Blazingly fast path based modular layout system built on top of Bevy ECS.
+- [bytestring-net/bevy_lunex](https://github.com/bytestring-net/bevy_lunex) - Blazingly fast path based retained layout engine for Bevy entities, built around vanilla Bevy ECS.
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 
 ## game 
@@ -896,6 +912,7 @@
 
 ## others 
 
+- [KZDKM/Hyprspace](https://github.com/KZDKM/Hyprspace) - Workspace overview plugin for Hyprland
 - [wochap/nix-config](https://github.com/wochap/nix-config) - Personal NixOS configuration
 - [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme) - Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.
 - [cdmvision/unity-figma-importer](https://github.com/cdmvision/unity-figma-importer) - Unity Figma Importer turns your Figma design into Unity UI elements and can bind codes with layout files to create Unity apps with ease.
@@ -904,7 +921,6 @@
 - [abathur/lilgit](https://github.com/abathur/lilgit) - a smol (quick) git status prompt plugin
 - [Whitecat18/Rust-for-Malware-Development](https://github.com/Whitecat18/Rust-for-Malware-Development) - This repository contains my complete resources and coding practices for malware development using Rust 🦀.
 - [Jedsek/deci-player](https://github.com/Jedsek/deci-player) - A music-player written with rust and iced
-- [nmasur/dotfiles](https://github.com/nmasur/dotfiles) - Nix configuration and settings
 - [H3rmt/hyprswitch](https://github.com/H3rmt/hyprswitch) - A CLI/GUI that allows switching between windows in Hyprland
 - [mangelats/buffers](https://github.com/mangelats/buffers) - Another way of looking at memory management for collections
 - [waycrate/wayshot](https://github.com/waycrate/wayshot) - Mirrored at https://git.sr.ht/~shinyzenith/wayshot  | screenshot tool for wlroots based compositors implementing zwlr_screencopy_v1
@@ -948,7 +964,6 @@
 - [oddlama/nrf-template](https://github.com/oddlama/nrf-template) - ❄️🦀 A template for embedded rust development for the nRF52840 with embassy featuring reproducible builds with nix
 - [staticintlucas/kle-serial-rs](https://github.com/staticintlucas/kle-serial-rs) - Rust deserialisation library for Keyboard Layout Editor JSON files
 - [idanarye/bevy-egui-kbgp](https://github.com/idanarye/bevy-egui-kbgp) - Better keyboard and gamepad story for egui in Bevy
-- [lucasew/nixcfg](https://github.com/lucasew/nixcfg) - Personal Nix/NixOS configuration files
 - [richardhozak/bevy_server_browser](https://github.com/richardhozak/bevy_server_browser) - Bevy game engine plugin for creating and searching discoverable servers on local networks
 - [Lemin-n/oxidized-flakes](https://github.com/Lemin-n/oxidized-flakes) - 🦀 Templates for Nix ❄️
 - [JMS55/bevy_dioxus](https://github.com/JMS55/bevy_dioxus) - 
@@ -1291,6 +1306,8 @@
 
 ## rust 
 
+- [hitblast/resfetch](https://github.com/hitblast/resfetch) - ⚡ A fast and minimal alternative to neofetch, built with Rust
+- [akumarujon/xifetch-rs](https://github.com/akumarujon/xifetch-rs) - Neofetch alternative rewritten in Rust.
 - [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz) - Publish Rust crates from CI with a Release PR.
 - [AeroRust/awesome-space](https://github.com/AeroRust/awesome-space) - List of awesome resources for Aerospace and Rust
 - [arunim-io/apm](https://github.com/arunim-io/apm) - Arunim's Power Manager
@@ -1354,7 +1371,7 @@
 - [IDEDARY/Bevypunk](https://github.com/IDEDARY/Bevypunk) - Bevypunk is a recreation of Cyberpunk UI in Bevy using Bevy-Lunex. This project showcases advanced workflow and complex use of Bevy-Lunex library.
 - [Dushistov/flapigen-rs](https://github.com/Dushistov/flapigen-rs) - Tool for connecting programs or libraries written in Rust with other languages
 - [nicopap/cuicui_layout](https://github.com/nicopap/cuicui_layout) - The dumbest and simplest layouting algorithm for bevy
-- [bytestring-net/bevy_lunex](https://github.com/bytestring-net/bevy_lunex) - Blazingly fast path based modular layout system built on top of Bevy ECS.
+- [bytestring-net/bevy_lunex](https://github.com/bytestring-net/bevy_lunex) - Blazingly fast path based retained layout engine for Bevy entities, built around vanilla Bevy ECS.
 - [johanhelsing/matchbox](https://github.com/johanhelsing/matchbox) - Painless peer-to-peer WebRTC networking for rust wasm (and native!)
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
 - [Jondolf/bevy_xpbd](https://github.com/Jondolf/bevy_xpbd) - 2D and 3D physics engine based on Extended Position Based Dynamics for Bevy.
@@ -1373,7 +1390,7 @@
 - [yewstack/facade](https://github.com/yewstack/facade) - Facade Framework - autogenerated embedded live dashboards for Rust apps
 - [orhanbalci/rust-steering-behaviors](https://github.com/orhanbalci/rust-steering-behaviors) - AI Steering behaviors crate implemented in Rust http://orhanbalci.github.io/rust-steering-behaviors
 - [djeedai/bevy_hanabi](https://github.com/djeedai/bevy_hanabi) - 🎆 Hanabi — a GPU particle system plugin for the Bevy game engine.
-- [StaffEngineer/velo](https://github.com/StaffEngineer/velo) - App for brainstorming & sharing ideas 🦀 Learning Project
+- [Dimchikkk/velo](https://github.com/Dimchikkk/velo) - App for brainstorming & sharing ideas 🦀 Learning Project
 - [TheGrimsey/oxidized_navigation](https://github.com/TheGrimsey/oxidized_navigation) - A runtime Nav-Mesh generation plugin for Bevy Engine in Rust.
 - [Seldom-SE/seldom_map_nav](https://github.com/Seldom-SE/seldom_map_nav) - Bevy plugin that does navmesh generation, pathfinding, and navigation for tilemaps. Navmesh generation is available without Bevy dependency.
 - [LiamGallagher737/bevy_mod_gizmos](https://github.com/LiamGallagher737/bevy_mod_gizmos) - Visual gizmos to assist with Bevy game development
