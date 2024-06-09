@@ -38,6 +38,7 @@
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [WGSL](#wgsl)
+- [WebAssembly](#webassembly)
 - [Zig](#zig)
 
 ## Assembly 
@@ -232,6 +233,10 @@
 
 ## Nix 
 
+- [redyf/nixdots](https://github.com/redyf/nixdots) - Dotfiles for NixOS
+- [Tanish2002/neovim-config](https://github.com/Tanish2002/neovim-config) - Neovim Config based upon Nixvim
+- [siph/nixvim-flake](https://github.com/siph/nixvim-flake) - Portable Neovim configuration built with Nix.
+- [redyf/Neve](https://github.com/redyf/Neve) - Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.
 - [wochap/nix-config](https://github.com/wochap/nix-config) - Personal NixOS configuration
 - [RGBCube/ThemeNix](https://github.com/RGBCube/ThemeNix) - Theme your NixOS configuration consistently.
 - [arunim-io/apm](https://github.com/arunim-io/apm) - Arunim's Power Manager
@@ -297,6 +302,11 @@
 
 ## Rust 
 
+- [bragefuglseth/keypunch](https://github.com/bragefuglseth/keypunch) - Practice your typing skills
+- [FMotalleb/nu_plugin_clipboard](https://github.com/FMotalleb/nu_plugin_clipboard) - A nushell plugin to copy text into clipboard or get text from it.
+- [FMotalleb/nu_plugin_image](https://github.com/FMotalleb/nu_plugin_image) - 
+- [nushell/nu_plugin_template](https://github.com/nushell/nu_plugin_template) - 
+- [face-hh/webx](https://github.com/face-hh/webx) - An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more.
 - [eneoli/flakeshot](https://github.com/eneoli/flakeshot) - A screenshot tool for unix-systems which runs natively on Wayland and X11!
 - [gabm/Satty](https://github.com/gabm/Satty) - Satty - Modern Screenshot Annotation. A tool inspired by Swappy and Flameshot.
 - [RustLangES/cfworker-template](https://github.com/RustLangES/cfworker-template) - Template de Workers para CloudFlare
@@ -436,7 +446,7 @@
 - [hikikones/bevy-sequential-actions](https://github.com/hikikones/bevy-sequential-actions) - A Bevy library for executing various actions in a sequence.
 - [johanhelsing/bevy_web_asset](https://github.com/johanhelsing/bevy_web_asset) - Bevy asset loader that transparently supports loading over http(s)
 - [katharostech/bevy_assetio_zip](https://github.com/katharostech/bevy_assetio_zip) - Bevy AssetIO plugin that can load assets from optionally obfuscated zip files
-- [aevyrie/bevy_mod_raycast](https://github.com/aevyrie/bevy_mod_raycast) - A little raycasting plugin Bevy
+- [aevyrie/bevy_mod_raycast](https://github.com/aevyrie/bevy_mod_raycast) - A little mesh raycasting plugin for Bevy
 - [IDEDARY/Bevypunk](https://github.com/IDEDARY/Bevypunk) - Bevypunk is a recreation of Cyberpunk UI in Bevy using Bevy-Lunex. This project showcases advanced workflow and complex use of Bevy-Lunex library.
 - [DublikuntMux/bevy_asset_packer](https://github.com/DublikuntMux/bevy_asset_packer) - 
 - [Dushistov/flapigen-rs](https://github.com/Dushistov/flapigen-rs) - Tool for connecting programs or libraries written in Rust with other languages
@@ -748,6 +758,10 @@
 ## WGSL 
 
 - [bonsairobo/bevy_triplanar_splatting](https://github.com/bonsairobo/bevy_triplanar_splatting) - Triplanar Mapping and Material Blending for Bevy Engine
+
+## WebAssembly 
+
+- [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
 
 ## Zig 
 
