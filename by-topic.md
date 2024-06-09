@@ -373,6 +373,7 @@
 
 ## dotfiles 
 
+- [redyf/nixdots](https://github.com/redyf/nixdots) - Dotfiles for NixOS
 - [badele/nix-homelab](https://github.com/badele/nix-homelab) - Homelab and dotfiles made with NixOS
 - [rxyhn/yuki](https://github.com/rxyhn/yuki) - 雪 - Yuki | Snowflake  :snowflake:
 - [nmasur/dotfiles](https://github.com/nmasur/dotfiles) - Nix configuration and settings
@@ -482,7 +483,7 @@
 - [leudz/shipyard](https://github.com/leudz/shipyard) - Entity Component System focused on usability and flexibility.
 - [Seldom-SE/seldom_pixel](https://github.com/Seldom-SE/seldom_pixel) - Bevy plugin for limited color palette pixel art games
 - [hikikones/bevy-sequential-actions](https://github.com/hikikones/bevy-sequential-actions) - A Bevy library for executing various actions in a sequence.
-- [aevyrie/bevy_mod_raycast](https://github.com/aevyrie/bevy_mod_raycast) - A little raycasting plugin Bevy
+- [aevyrie/bevy_mod_raycast](https://github.com/aevyrie/bevy_mod_raycast) - A little mesh raycasting plugin for Bevy
 - [Henauxg/bevy_quinnet](https://github.com/Henauxg/bevy_quinnet) - A Client/Server game networking plugin using QUIC, for the Bevy game engine.
 - [jarkonik/bevy_scriptum](https://github.com/jarkonik/bevy_scriptum) - 📜 bevy_scriptum is a a plugin for Bevy that allows you to write some of your game logic in a scripting language. https://docs.rs/bevy_scriptum/latest/bevy_scriptum/
 - [Jondolf/bevy_xpbd](https://github.com/Jondolf/bevy_xpbd) - 2D and 3D physics engine based on Extended Position Based Dynamics for Bevy.
@@ -839,6 +840,8 @@
 
 ## neovim 
 
+- [siph/nixvim-flake](https://github.com/siph/nixvim-flake) - Portable Neovim configuration built with Nix.
+- [redyf/Neve](https://github.com/redyf/Neve) - Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.
 - [NStefan002/screenkey.nvim](https://github.com/NStefan002/screenkey.nvim) - Screencast your keys in Neovim
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainer=@GaetanLepage, @traxys, @mattsturgeon]
 - [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
@@ -923,6 +926,13 @@
 
 ## others 
 
+- [bragefuglseth/keypunch](https://github.com/bragefuglseth/keypunch) - Practice your typing skills
+- [FMotalleb/nu_plugin_clipboard](https://github.com/FMotalleb/nu_plugin_clipboard) - A nushell plugin to copy text into clipboard or get text from it.
+- [FMotalleb/nu_plugin_image](https://github.com/FMotalleb/nu_plugin_image) - 
+- [nushell/nu_plugin_template](https://github.com/nushell/nu_plugin_template) - 
+- [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
+- [face-hh/webx](https://github.com/face-hh/webx) - An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more.
+- [Tanish2002/neovim-config](https://github.com/Tanish2002/neovim-config) - Neovim Config based upon Nixvim
 - [eneoli/flakeshot](https://github.com/eneoli/flakeshot) - A screenshot tool for unix-systems which runs natively on Wayland and X11!
 - [gabm/Satty](https://github.com/gabm/Satty) - Satty - Modern Screenshot Annotation. A tool inspired by Swappy and Flameshot.
 - [woelper/woodpacker](https://github.com/woelper/woodpacker) - calculate wood/material consumption from templates and pieces
@@ -1569,6 +1579,7 @@
 
 ## vim 
 
+- [redyf/Neve](https://github.com/redyf/Neve) - Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainer=@GaetanLepage, @traxys, @mattsturgeon]
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [VapourNvim/VapourNvim](https://github.com/VapourNvim/VapourNvim) - A NeoVim config for THE ULTIMATE vim IDE-like experience.
