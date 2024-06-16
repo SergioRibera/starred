@@ -139,6 +139,7 @@
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [terraform](#terraform)
+- [testing](#testing)
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
@@ -154,6 +155,7 @@
 - [xamarin](#xamarin)
 - [xcode](#xcode)
 - [xml](#xml)
+- [zig](#zig)
 
 ## 3d 
 
@@ -213,6 +215,7 @@
 
 ## awesome-list 
 
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [AeroRust/awesome-space](https://github.com/AeroRust/awesome-space) - List of awesome resources for Aerospace and Rust
 - [b0o/starred](https://github.com/b0o/starred) - 🌟 Maddison's starred repos, updated daily!
 - [repalash/Open-Shaders](https://github.com/repalash/Open-Shaders) - Collection of many open source shaders(GLSL, HLSL, CG) in popular open source game development and rendering engines and public repositories.
@@ -464,7 +467,7 @@
 
 - [hecrj/coffee](https://github.com/hecrj/coffee) - An opinionated 2D game engine for Rust
 - [thephet/BevyRoguelike](https://github.com/thephet/BevyRoguelike) - Roguelike game using Rust and the Bevy engine
-- [jarkonik/bevy_scriptum](https://github.com/jarkonik/bevy_scriptum) - 📜 bevy_scriptum is a a plugin for Bevy that allows you to write some of your game logic in a scripting language. https://docs.rs/bevy_scriptum/latest/bevy_scriptum/
+- [jarkonik/bevy_scriptum](https://github.com/jarkonik/bevy_scriptum) - 📜 bevy_scriptum is a a plugin for Bevy that allows you to write some of your game logic in a scripting language.
 - [tomuxmon/bevy_roguelike](https://github.com/tomuxmon/bevy_roguelike) - roguelike system implemented using bevy
 - [opstic/gdclone](https://github.com/opstic/gdclone) - An alternative Geometry Dash client built using Bevy
 - [TheRealTeamFReSh/MurderUserDungeon](https://github.com/TheRealTeamFReSh/MurderUserDungeon) - A game made for the Rusty Jam https://itch.io/jam/rusty-jam
@@ -485,7 +488,7 @@
 - [hikikones/bevy-sequential-actions](https://github.com/hikikones/bevy-sequential-actions) - A Bevy library for executing various actions in a sequence.
 - [aevyrie/bevy_mod_raycast](https://github.com/aevyrie/bevy_mod_raycast) - A little mesh raycasting plugin for Bevy
 - [Henauxg/bevy_quinnet](https://github.com/Henauxg/bevy_quinnet) - A Client/Server game networking plugin using QUIC, for the Bevy game engine.
-- [jarkonik/bevy_scriptum](https://github.com/jarkonik/bevy_scriptum) - 📜 bevy_scriptum is a a plugin for Bevy that allows you to write some of your game logic in a scripting language. https://docs.rs/bevy_scriptum/latest/bevy_scriptum/
+- [jarkonik/bevy_scriptum](https://github.com/jarkonik/bevy_scriptum) - 📜 bevy_scriptum is a a plugin for Bevy that allows you to write some of your game logic in a scripting language.
 - [Jondolf/bevy_xpbd](https://github.com/Jondolf/bevy_xpbd) - 2D and 3D physics engine based on Extended Position Based Dynamics for Bevy.
 - [Selene-Amanita/bevy_basic_portals](https://github.com/Selene-Amanita/bevy_basic_portals) - Bevy Simple Portals is a Bevy game engine plugin aimed to create portals.
 - [tbillington/bevy_toon_shader](https://github.com/tbillington/bevy_toon_shader) - Toon Shader for the bevy game engine
@@ -526,7 +529,7 @@
 - [grzi/scion](https://github.com/grzi/scion) - Scion is a tiny 2D game library built on top of wgpu and winit, following the KISS principle.
 - [leudz/shipyard](https://github.com/leudz/shipyard) - Entity Component System focused on usability and flexibility.
 - [hikikones/bevy-sequential-actions](https://github.com/hikikones/bevy-sequential-actions) - A Bevy library for executing various actions in a sequence.
-- [jarkonik/bevy_scriptum](https://github.com/jarkonik/bevy_scriptum) - 📜 bevy_scriptum is a a plugin for Bevy that allows you to write some of your game logic in a scripting language. https://docs.rs/bevy_scriptum/latest/bevy_scriptum/
+- [jarkonik/bevy_scriptum](https://github.com/jarkonik/bevy_scriptum) - 📜 bevy_scriptum is a a plugin for Bevy that allows you to write some of your game logic in a scripting language.
 - [Jondolf/bevy_xpbd](https://github.com/Jondolf/bevy_xpbd) - 2D and 3D physics engine based on Extended Position Based Dynamics for Bevy.
 - [Selene-Amanita/bevy_basic_portals](https://github.com/Selene-Amanita/bevy_basic_portals) - Bevy Simple Portals is a Bevy game engine plugin aimed to create portals.
 - [katharostech/bevy_retrograde](https://github.com/katharostech/bevy_retrograde) - Plugin pack for making 2D games with Bevy
@@ -572,6 +575,7 @@
 
 ## hacktoberfest 
 
+- [josecelano/cargo-pretty-test](https://github.com/josecelano/cargo-pretty-test) - A Rust command that prettifies the ugly `cargo test` output into a beautiful one.
 - [GradienceTeam/Gradience](https://github.com/GradienceTeam/Gradience) - Change the look of Adwaita, with ease
 - [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz) - Publish Rust crates from CI with a Release PR.
 - [AeroRust/awesome-space](https://github.com/AeroRust/awesome-space) - List of awesome resources for Aerospace and Rust
@@ -789,7 +793,7 @@
 - [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS / NixOS with starter templates, step-by-step guides, and more ✨
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
-- [hoothin/RustClock](https://github.com/hoothin/RustClock) - A digital clock for desktop popup every half hour, support 20-20-20 rule. 每隔半小時彈出一次的桌面電子時鐘
+- [hoothin/RustClock](https://github.com/hoothin/RustClock) - A digital clock for desktop popup every half hour, support 20-20-20 rule. 每隔半小時彈出一次的桌面電子時鐘 Windows / Mac
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
 - [tauri-apps/window-vibrancy](https://github.com/tauri-apps/window-vibrancy) - Make your windows vibrant.
@@ -926,6 +930,8 @@
 
 ## others 
 
+- [tupleleap/leap-chain](https://github.com/tupleleap/leap-chain) - 
+- [foostan/crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.
 - [bragefuglseth/keypunch](https://github.com/bragefuglseth/keypunch) - Practice your typing skills
 - [FMotalleb/nu_plugin_clipboard](https://github.com/FMotalleb/nu_plugin_clipboard) - A nushell plugin to copy text into clipboard or get text from it.
 - [FMotalleb/nu_plugin_image](https://github.com/FMotalleb/nu_plugin_image) - 
@@ -1268,6 +1274,7 @@
 
 ## programming 
 
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 
 ## pwa 
@@ -1375,7 +1382,7 @@
 - [luker-os/variantly](https://github.com/luker-os/variantly) - Derive helper methods for enum variants that are familiar from `std::option::Option` & `std::result::Result` such as `unwrap_or` or `and_then`.
 - [fishfolk/bones](https://github.com/fishfolk/bones) - An easy-to-use game engine for making real games.
 - [nrf-rs/nrf-hal](https://github.com/nrf-rs/nrf-hal) - A Rust HAL for the nRF family of devices
-- [hoothin/RustClock](https://github.com/hoothin/RustClock) - A digital clock for desktop popup every half hour, support 20-20-20 rule. 每隔半小時彈出一次的桌面電子時鐘
+- [hoothin/RustClock](https://github.com/hoothin/RustClock) - A digital clock for desktop popup every half hour, support 20-20-20 rule. 每隔半小時彈出一次的桌面電子時鐘 Windows / Mac
 - [hacknus/serial-monitor-rust](https://github.com/hacknus/serial-monitor-rust) - A cross-plattform serial monitor/plotter written entirely in rust.
 - [4JX/L5P-Keyboard-RGB](https://github.com/4JX/L5P-Keyboard-RGB) - Cross platform software to control the RGB/lighting of the 4 zone keyboard included in the 2020, 2021, 2022 and 2023 lineup of the Lenovo Legion laptops. Works on Windows and Linux.
 - [nvzqz/divan](https://github.com/nvzqz/divan) - Fast and simple benchmarking for Rust projects
@@ -1543,6 +1550,10 @@
 
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 
+## testing 
+
+- [josecelano/cargo-pretty-test](https://github.com/josecelano/cargo-pretty-test) - A Rust command that prettifies the ugly `cargo test` output into a beautiful one.
+
 ## twitter 
 
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
@@ -1627,7 +1638,7 @@
 - [ammariqais/SkiaForUnity](https://github.com/ammariqais/SkiaForUnity) - Skia For Unity with lottie animations, harfbuzz, svg supports
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
-- [hoothin/RustClock](https://github.com/hoothin/RustClock) - A digital clock for desktop popup every half hour, support 20-20-20 rule. 每隔半小時彈出一次的桌面電子時鐘
+- [hoothin/RustClock](https://github.com/hoothin/RustClock) - A digital clock for desktop popup every half hour, support 20-20-20 rule. 每隔半小時彈出一次的桌面電子時鐘 Windows / Mac
 - [nashaofu/xcap](https://github.com/nashaofu/xcap) - XCap is a cross-platform screen capture library written in Rust. It supports Linux (X11, Wayland), MacOS, and Windows. XCap supports screenshot and video recording (to be implemented).
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
 - [tauri-apps/window-vibrancy](https://github.com/tauri-apps/window-vibrancy) - Make your windows vibrant.
@@ -1648,6 +1659,10 @@
 ## xml 
 
 - [goddtriffin/sitemap-rs](https://github.com/goddtriffin/sitemap-rs) - A Rust library to generate URL, Index, Image, Video, and News sitemaps.
+
+## zig 
+
+- [AndreaOrru/zen](https://github.com/AndreaOrru/zen) - Experimental operating system written in Zig
 
 
 ## License
