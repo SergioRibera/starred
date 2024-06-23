@@ -175,6 +175,7 @@
 
 ## android 
 
+- [atilafassina/quantum](https://github.com/atilafassina/quantum) - Opinionated Tauri v2 Template with SolidStart
 - [ammariqais/SkiaForUnity](https://github.com/ammariqais/SkiaForUnity) - Skia For Unity with lottie animations, harfbuzz, svg supports
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for web, desktop, mobile, and more.
 - [BrainiumLLC/cargo-mobile](https://github.com/BrainiumLLC/cargo-mobile) - Rust on mobile made easy!
@@ -467,7 +468,7 @@
 
 - [hecrj/coffee](https://github.com/hecrj/coffee) - An opinionated 2D game engine for Rust
 - [thephet/BevyRoguelike](https://github.com/thephet/BevyRoguelike) - Roguelike game using Rust and the Bevy engine
-- [jarkonik/bevy_scriptum](https://github.com/jarkonik/bevy_scriptum) - 📜 bevy_scriptum is a a plugin for Bevy that allows you to write some of your game logic in a scripting language.
+- [jarkonik/bevy_scriptum](https://github.com/jarkonik/bevy_scriptum) - 📜 A plugin for Bevy that allows you to write some of your game logic in a scripting language.
 - [tomuxmon/bevy_roguelike](https://github.com/tomuxmon/bevy_roguelike) - roguelike system implemented using bevy
 - [opstic/gdclone](https://github.com/opstic/gdclone) - An alternative Geometry Dash client built using Bevy
 - [TheRealTeamFReSh/MurderUserDungeon](https://github.com/TheRealTeamFReSh/MurderUserDungeon) - A game made for the Rusty Jam https://itch.io/jam/rusty-jam
@@ -488,7 +489,7 @@
 - [hikikones/bevy-sequential-actions](https://github.com/hikikones/bevy-sequential-actions) - A Bevy library for executing various actions in a sequence.
 - [aevyrie/bevy_mod_raycast](https://github.com/aevyrie/bevy_mod_raycast) - A little mesh raycasting plugin for Bevy
 - [Henauxg/bevy_quinnet](https://github.com/Henauxg/bevy_quinnet) - A Client/Server game networking plugin using QUIC, for the Bevy game engine.
-- [jarkonik/bevy_scriptum](https://github.com/jarkonik/bevy_scriptum) - 📜 bevy_scriptum is a a plugin for Bevy that allows you to write some of your game logic in a scripting language.
+- [jarkonik/bevy_scriptum](https://github.com/jarkonik/bevy_scriptum) - 📜 A plugin for Bevy that allows you to write some of your game logic in a scripting language.
 - [Jondolf/bevy_xpbd](https://github.com/Jondolf/bevy_xpbd) - 2D and 3D physics engine based on Extended Position Based Dynamics for Bevy.
 - [Selene-Amanita/bevy_basic_portals](https://github.com/Selene-Amanita/bevy_basic_portals) - Bevy Simple Portals is a Bevy game engine plugin aimed to create portals.
 - [tbillington/bevy_toon_shader](https://github.com/tbillington/bevy_toon_shader) - Toon Shader for the bevy game engine
@@ -529,7 +530,7 @@
 - [grzi/scion](https://github.com/grzi/scion) - Scion is a tiny 2D game library built on top of wgpu and winit, following the KISS principle.
 - [leudz/shipyard](https://github.com/leudz/shipyard) - Entity Component System focused on usability and flexibility.
 - [hikikones/bevy-sequential-actions](https://github.com/hikikones/bevy-sequential-actions) - A Bevy library for executing various actions in a sequence.
-- [jarkonik/bevy_scriptum](https://github.com/jarkonik/bevy_scriptum) - 📜 bevy_scriptum is a a plugin for Bevy that allows you to write some of your game logic in a scripting language.
+- [jarkonik/bevy_scriptum](https://github.com/jarkonik/bevy_scriptum) - 📜 A plugin for Bevy that allows you to write some of your game logic in a scripting language.
 - [Jondolf/bevy_xpbd](https://github.com/Jondolf/bevy_xpbd) - 2D and 3D physics engine based on Extended Position Based Dynamics for Bevy.
 - [Selene-Amanita/bevy_basic_portals](https://github.com/Selene-Amanita/bevy_basic_portals) - Bevy Simple Portals is a Bevy game engine plugin aimed to create portals.
 - [katharostech/bevy_retrograde](https://github.com/katharostech/bevy_retrograde) - Plugin pack for making 2D games with Bevy
@@ -648,6 +649,7 @@
 
 ## ios 
 
+- [atilafassina/quantum](https://github.com/atilafassina/quantum) - Opinionated Tauri v2 Template with SolidStart
 - [ammariqais/SkiaForUnity](https://github.com/ammariqais/SkiaForUnity) - Skia For Unity with lottie animations, harfbuzz, svg supports
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for web, desktop, mobile, and more.
 - [BrainiumLLC/cargo-mobile](https://github.com/BrainiumLLC/cargo-mobile) - Rust on mobile made easy!
@@ -726,6 +728,7 @@
 
 ## linux 
 
+- [Phate6660/nixinfo](https://github.com/Phate6660/nixinfo) - A lib crate for gathering system info such as cpu, distro, environment, kernel, etc in Rust.
 - [coastalwhite/lemurs](https://github.com/coastalwhite/lemurs) - A customizable TUI display/login manager written in Rust 🐒
 - [rxyhn/yuki](https://github.com/rxyhn/yuki) - 雪 - Yuki | Snowflake  :snowflake:
 - [chadcat7/crystal](https://github.com/chadcat7/crystal) - nix dotfiles for chilly people
@@ -828,6 +831,7 @@
 
 ## mobile 
 
+- [atilafassina/quantum](https://github.com/atilafassina/quantum) - Opinionated Tauri v2 Template with SolidStart
 - [BrainiumLLC/cargo-mobile](https://github.com/BrainiumLLC/cargo-mobile) - Rust on mobile made easy!
 - [dodorare/crossbow](https://github.com/dodorare/crossbow) - Cross-Platform build tools and toolkit for games and game engines written in Rust! 🦀
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
@@ -930,6 +934,9 @@
 
 ## others 
 
+- [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes
+- [Stephen-Seo/swaybar_info](https://github.com/Stephen-Seo/swaybar_info) - A Rust program that populates the Sway-bar with basic stats.
+- [bungoboingo/halo](https://github.com/bungoboingo/halo) - wgpu fragment shader experimentation application, written with Iced.
 - [tupleleap/leap-chain](https://github.com/tupleleap/leap-chain) - 
 - [foostan/crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.
 - [bragefuglseth/keypunch](https://github.com/bragefuglseth/keypunch) - Practice your typing skills
@@ -1338,6 +1345,9 @@
 
 ## rust 
 
+- [atilafassina/quantum](https://github.com/atilafassina/quantum) - Opinionated Tauri v2 Template with SolidStart
+- [Phate6660/nixinfo](https://github.com/Phate6660/nixinfo) - A lib crate for gathering system info such as cpu, distro, environment, kernel, etc in Rust.
+- [sublipri/subar](https://github.com/sublipri/subar) - A basic status bar for sway/i3wm
 - [RustLangES/cfworker-template](https://github.com/RustLangES/cfworker-template) - Template de Workers para CloudFlare
 - [coastalwhite/lemurs](https://github.com/coastalwhite/lemurs) - A customizable TUI display/login manager written in Rust 🐒
 - [hitblast/resfetch](https://github.com/hitblast/resfetch) - ⚡ A fast and minimal alternative to neofetch, built with Rust
@@ -1560,6 +1570,7 @@
 
 ## typescript 
 
+- [atilafassina/quantum](https://github.com/atilafassina/quantum) - Opinionated Tauri v2 Template with SolidStart
 - [linuxmobile/palettePilot](https://github.com/linuxmobile/palettePilot) - palettePilot is a color palette generator
 - [SeakMengs/WindowPet](https://github.com/SeakMengs/WindowPet) - Pet overlay app built with tauri and react that lets you have adorable companion such as pets, anime characters on your screen.
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
