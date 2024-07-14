@@ -126,6 +126,8 @@
 
 ## CSS 
 
+- [migueravila/SimpleFox](https://github.com/migueravila/SimpleFox) - 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
+- [cascadefox/cascade](https://github.com/cascadefox/cascade) - A responsive One-Line CSS Theme for Firefox.
 - [gabriel-hahn/whatsapp-clone-javascript](https://github.com/gabriel-hahn/whatsapp-clone-javascript) - A clone of WhatsApp Web using pure JavaScript + Firebase and Auth - HCode course
 - [Peyrzival/dotfiles-gruv](https://github.com/Peyrzival/dotfiles-gruv) - 
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -315,6 +317,9 @@
 
 ## Rust 
 
+- [K4rakara/freshfetch](https://github.com/K4rakara/freshfetch) - A fresh take on neofetch
+- [quantumsheep/sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH
+- [cloudflare/freighter](https://github.com/cloudflare/freighter) - A fast, modular, and operationally boring Rust private registry implementation.
 - [rgreinho/trauma](https://github.com/rgreinho/trauma) - Tokio Rust Asynchronous Universal download MAnager
 - [petejohanson/studio-serial-gatt-poc](https://github.com/petejohanson/studio-serial-gatt-poc) - 
 - [ItayGarin/ktrl](https://github.com/ItayGarin/ktrl) - A Supercharged Keyboard Programming Daemon ⌨️
