@@ -21,6 +21,7 @@
 - [bash](#bash)
 - [bootstrap](#bootstrap)
 - [bot](#bot)
+- [bugbounty](#bugbounty)
 - [c](#c)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
@@ -255,6 +256,10 @@
 
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 
+## bugbounty 
+
+- [caido/caido](https://github.com/caido/caido) - 🚀 Caido releases, wiki and roadmap
+
 ## c 
 
 - [fschutt/azul](https://github.com/fschutt/azul) - Desktop GUI Framework
@@ -273,6 +278,7 @@
 
 ## cli 
 
+- [quantumsheep/sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
@@ -459,6 +465,8 @@
 
 ## firefox 
 
+- [migueravila/SimpleFox](https://github.com/migueravila/SimpleFox) - 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
+- [cascadefox/cascade](https://github.com/cascadefox/cascade) - A responsive One-Line CSS Theme for Firefox.
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 
 ## flutter 
@@ -969,6 +977,7 @@
 
 ## others 
 
+- [cloudflare/freighter](https://github.com/cloudflare/freighter) - A fast, modular, and operationally boring Rust private registry implementation.
 - [rgreinho/trauma](https://github.com/rgreinho/trauma) - Tokio Rust Asynchronous Universal download MAnager
 - [petejohanson/studio-serial-gatt-poc](https://github.com/petejohanson/studio-serial-gatt-poc) - 
 - [dob9601/qmk-oled-api](https://github.com/dob9601/qmk-oled-api) - A wrapper around the HID API that makes it significantly easier to draw graphics to a QMK keyboard's OLED display
@@ -1389,6 +1398,7 @@
 
 ## rust 
 
+- [K4rakara/freshfetch](https://github.com/K4rakara/freshfetch) - A fresh take on neofetch
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 - [ItayGarin/ktrl](https://github.com/ItayGarin/ktrl) - A Supercharged Keyboard Programming Daemon ⌨️
 - [nazo6/rktk](https://github.com/nazo6/rktk) - Rust keyboard toolkit
