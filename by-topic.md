@@ -12,6 +12,7 @@
 - [ansible](#ansible)
 - [api](#api)
 - [archlinux](#archlinux)
+- [artificial-intelligence](#artificial-intelligence)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [aws](#aws)
@@ -119,6 +120,7 @@
 - [others](#others)
 - [p2p](#p2p)
 - [package-manager](#package-manager)
+- [parsing](#parsing)
 - [pentesting](#pentesting)
 - [pixel-art](#pixel-art)
 - [powershell](#powershell)
@@ -213,6 +215,10 @@
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 
+## artificial-intelligence 
+
+- [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
+
 ## awesome 
 
 - [AeroRust/awesome-space](https://github.com/AeroRust/awesome-space) - List of awesome resources for Aerospace and Rust
@@ -254,6 +260,7 @@
 
 ## bot 
 
+- [sodiboo/custom-highlight](https://github.com/sodiboo/custom-highlight) - Custom syntax highlighting on discord
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 
 ## bugbounty 
@@ -388,6 +395,7 @@
 
 ## discord 
 
+- [sodiboo/custom-highlight](https://github.com/sodiboo/custom-highlight) - Custom syntax highlighting on discord
 - [RGBCube/ThemeNix](https://github.com/RGBCube/ThemeNix) - Theme your NixOS configuration consistently.
 - [japandotorg/LemonCord](https://github.com/japandotorg/LemonCord) - A fast & light weight Discord Client made with love using the Rust programming language.
 
@@ -977,6 +985,7 @@
 
 ## others 
 
+- [sodiboo/nix-config](https://github.com/sodiboo/nix-config) - NixOS configuration for my personal computers and my VPS
 - [cloudflare/freighter](https://github.com/cloudflare/freighter) - A fast, modular, and operationally boring Rust private registry implementation.
 - [rgreinho/trauma](https://github.com/rgreinho/trauma) - Tokio Rust Asynchronous Universal download MAnager
 - [petejohanson/studio-serial-gatt-poc](https://github.com/petejohanson/studio-serial-gatt-poc) - 
@@ -1056,7 +1065,7 @@
 - [Lemin-n/oxidized-flakes](https://github.com/Lemin-n/oxidized-flakes) - 🦀 Templates for Nix ❄️
 - [JMS55/bevy_dioxus](https://github.com/JMS55/bevy_dioxus) - 
 - [hyprwm/hyprpicker](https://github.com/hyprwm/hyprpicker) - A wlroots-compatible Wayland color picker that does not suck.
-- [jadedbay/bevy_procedural_grass](https://github.com/jadedbay/bevy_procedural_grass) - A plugin for bevy to generate grass
+- [jadedbay/bevy_procedural_grass](https://github.com/jadedbay/bevy_procedural_grass) - A bevy plugin for rendering grass
 - [mozilla/sccache](https://github.com/mozilla/sccache) - Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cl
 - [mbrea-c/bevy_animation_graph](https://github.com/mbrea-c/bevy_animation_graph) - Animation graphs in Bevy!
 - [DGriffin91/bevy_ridiculous_ssgi](https://github.com/DGriffin91/bevy_ridiculous_ssgi) - Some ridiculous SSGI for bevy
@@ -1312,6 +1321,10 @@
 - [nehu3n/qipi](https://github.com/nehu3n/qipi) - 🦉 The universal package manager.
 - [dimensionhq/volt](https://github.com/dimensionhq/volt) - An experimental package management tool for JavaScript. Upto 30x faster installation of dependencies using pre-flattened dependency trees.
 
+## parsing 
+
+- [pydantic/pydantic-core](https://github.com/pydantic/pydantic-core) - Core validation logic for pydantic written in rust
+
 ## pentesting 
 
 - [caido/caido](https://github.com/caido/caido) - 🚀 Caido releases, wiki and roadmap
@@ -1398,6 +1411,7 @@
 
 ## rust 
 
+- [pydantic/pydantic-core](https://github.com/pydantic/pydantic-core) - Core validation logic for pydantic written in rust
 - [K4rakara/freshfetch](https://github.com/K4rakara/freshfetch) - A fresh take on neofetch
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 - [ItayGarin/ktrl](https://github.com/ItayGarin/ktrl) - A Supercharged Keyboard Programming Daemon ⌨️
