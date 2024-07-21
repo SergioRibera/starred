@@ -238,6 +238,7 @@
 
 ## Nix 
 
+- [sodiboo/nix-config](https://github.com/sodiboo/nix-config) - NixOS configuration for my personal computers and my VPS
 - [mlabs-haskell/proto.nix](https://github.com/mlabs-haskell/proto.nix) - Nix utilities for generating language-specific bindings from Google Protocol Buffers .proto files.
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus]
 - [nix-community/robotnix](https://github.com/nix-community/robotnix) - Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu]
@@ -298,6 +299,8 @@
 
 ## Python 
 
+- [pydantic/pydantic-core](https://github.com/pydantic/pydantic-core) - Core validation logic for pydantic written in rust
+- [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
 - [GradienceTeam/Gradience](https://github.com/GradienceTeam/Gradience) - Change the look of Adwaita, with ease
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [fernandodilland/bitso-semiautomatico](https://github.com/fernandodilland/bitso-semiautomatico) - Programa de código abierto para probar el API de Bitso, el exchange más importante de América Latina.
@@ -317,6 +320,7 @@
 
 ## Rust 
 
+- [sodiboo/custom-highlight](https://github.com/sodiboo/custom-highlight) - Custom syntax highlighting on discord
 - [K4rakara/freshfetch](https://github.com/K4rakara/freshfetch) - A fresh take on neofetch
 - [quantumsheep/sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH
 - [cloudflare/freighter](https://github.com/cloudflare/freighter) - A fast, modular, and operationally boring Rust private registry implementation.
@@ -425,7 +429,7 @@
 - [thephet/BevyRoguelike](https://github.com/thephet/BevyRoguelike) - Roguelike game using Rust and the Bevy engine
 - [JMS55/bevy_dioxus](https://github.com/JMS55/bevy_dioxus) - 
 - [TylerBloom/avid-rustacean](https://github.com/TylerBloom/avid-rustacean) - This repo contains the code for my blog, The Avid Rustacean
-- [jadedbay/bevy_procedural_grass](https://github.com/jadedbay/bevy_procedural_grass) - A plugin for bevy to generate grass
+- [jadedbay/bevy_procedural_grass](https://github.com/jadedbay/bevy_procedural_grass) - A bevy plugin for rendering grass
 - [mozilla/sccache](https://github.com/mozilla/sccache) - Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cl
 - [mbrea-c/bevy_animation_graph](https://github.com/mbrea-c/bevy_animation_graph) - Animation graphs in Bevy!
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
