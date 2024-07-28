@@ -285,7 +285,9 @@
 
 ## cli 
 
+- [wadackel/promptuity](https://github.com/wadackel/promptuity) - Promptuity is a library that provides interactive prompts.
 - [quantumsheep/sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH
+- [romancitodev/simple-commits](https://github.com/romancitodev/simple-commits) - A little CLI written in rust to improve your dirty commits into conventional ones.
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
@@ -985,6 +987,9 @@
 
 ## others 
 
+- [gg0074x/ask-cli](https://github.com/gg0074x/ask-cli) - A simple command line tool to use Google Gemini AI
+- [lilyinstarlight/zmk-nix](https://github.com/lilyinstarlight/zmk-nix) - Build system and configuration files for generating and building ZMK firmware with Nix
+- [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - Nix packages and modules for niri
 - [sodiboo/nix-config](https://github.com/sodiboo/nix-config) - NixOS configuration for my personal computers and my VPS
 - [cloudflare/freighter](https://github.com/cloudflare/freighter) - A fast, modular, and operationally boring Rust private registry implementation.
 - [rgreinho/trauma](https://github.com/rgreinho/trauma) - Tokio Rust Asynchronous Universal download MAnager
@@ -1021,7 +1026,6 @@
 - [H3rmt/hyprswitch](https://github.com/H3rmt/hyprswitch) - A CLI/GUI that allows switching between windows in Hyprland
 - [mangelats/buffers](https://github.com/mangelats/buffers) - Another way of looking at memory management for collections
 - [waycrate/wayshot](https://github.com/waycrate/wayshot) - Mirrored at https://git.sr.ht/~shinyzenith/wayshot  | screenshot tool for wlroots based compositors implementing zwlr_screencopy_v1
-- [romancitodev/simple-commits](https://github.com/romancitodev/simple-commits) - A little CLI written in rust to improve your dirty commits into conventional ones.
 - [zaghaghi/openapi-tui](https://github.com/zaghaghi/openapi-tui) - Terminal UI to list, browse and run APIs defined with openapi spec.
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [awslabs/aws-lambda-rust-runtime](https://github.com/awslabs/aws-lambda-rust-runtime) - A Rust runtime for AWS Lambda
@@ -1407,10 +1411,14 @@
 
 ## ruby 
 
+- [matsadler/magnus](https://github.com/matsadler/magnus) - Ruby bindings for Rust. Write Ruby extension gems in Rust, or call Ruby from Rust.
 - [LiveSplit/livesplit-core](https://github.com/LiveSplit/livesplit-core) - livesplit-core is a library that provides a lot of functionality for creating a speedrun timer.
 
 ## rust 
 
+- [pythops/shader-art-rs](https://github.com/pythops/shader-art-rs) - 🪄 Shader art using webgpu
+- [matsadler/magnus](https://github.com/matsadler/magnus) - Ruby bindings for Rust. Write Ruby extension gems in Rust, or call Ruby from Rust.
+- [wadackel/promptuity](https://github.com/wadackel/promptuity) - Promptuity is a library that provides interactive prompts.
 - [pydantic/pydantic-core](https://github.com/pydantic/pydantic-core) - Core validation logic for pydantic written in rust
 - [K4rakara/freshfetch](https://github.com/K4rakara/freshfetch) - A fresh take on neofetch
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
@@ -1434,6 +1442,7 @@
 - [arunim-io/apm](https://github.com/arunim-io/apm) - Arunim's Power Manager
 - [Kobzol/cargo-wizard](https://github.com/Kobzol/cargo-wizard) - Cargo subcommand for configuring Cargo projects for best performance.
 - [dust-engine/dust](https://github.com/dust-engine/dust) - A research project trying to push the boundaries of voxel geometry and interactivity. Experimental real-time global illumination renderer powered by Rust, Vulkan and Bevy.
+- [romancitodev/simple-commits](https://github.com/romancitodev/simple-commits) - A little CLI written in rust to improve your dirty commits into conventional ones.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [mlua-rs/mlua](https://github.com/mlua-rs/mlua) - High level Lua 5.4/5.3/5.2/5.1 (including LuaJIT) and Roblox Luau bindings to Rust with async/await support
