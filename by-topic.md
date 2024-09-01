@@ -290,6 +290,7 @@
 
 ## cli 
 
+- [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
 - [wadackel/promptuity](https://github.com/wadackel/promptuity) - Promptuity is a library that provides interactive prompts.
 - [quantumsheep/sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH
 - [romancitodev/simple-commits](https://github.com/romancitodev/simple-commits) - A little CLI written in rust to improve your dirty commits into conventional ones.
@@ -670,6 +671,7 @@
 
 ## haskell 
 
+- [lucalabs-de/end](https://github.com/lucalabs-de/end) - Lightweight notification daemon displaying notifications as EWW widgets
 - [mlabs-haskell/proto.nix](https://github.com/mlabs-haskell/proto.nix) - Nix utilities for generating language-specific bindings from Google Protocol Buffers .proto files.
 
 ## home-assistant 
@@ -789,6 +791,7 @@
 
 ## linux 
 
+- [lucalabs-de/end](https://github.com/lucalabs-de/end) - Lightweight notification daemon displaying notifications as EWW widgets
 - [ItayGarin/ktrl](https://github.com/ItayGarin/ktrl) - A Supercharged Keyboard Programming Daemon ⌨️
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [pumpbin/pumpbin](https://github.com/pumpbin/pumpbin) - 🎃 PumpBin is an Implant Generation Platform.
@@ -1440,6 +1443,9 @@
 
 ## rust 
 
+- [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
+- [RibirX/Ribir](https://github.com/RibirX/Ribir) - Non-intrusive GUI framework for Rust
+- [khonsulabs/cushy](https://github.com/khonsulabs/cushy) - An experimental cross-platform graphical user interface (GUI) crate for Rust.
 - [toml-rs/toml](https://github.com/toml-rs/toml) - Rust TOML Parser
 - [Julien-cpsn/ATAC](https://github.com/Julien-cpsn/ATAC) - A simple API client (postman like) in your terminal
 - [pythops/shader-art-rs](https://github.com/pythops/shader-art-rs) - 🪄 Shader art using webgpu
@@ -1669,6 +1675,7 @@
 
 ## terminal 
 
+- [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
 - [mrjackwills/oxker](https://github.com/mrjackwills/oxker) - A simple tui to view & control docker containers
 - [mikaelmello/inquire](https://github.com/mikaelmello/inquire) - A Rust library for building interactive prompts
 - [VincentFoulon80/console_engine](https://github.com/VincentFoulon80/console_engine) - A simple terminal framework to draw things and manage user input
