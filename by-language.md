@@ -18,6 +18,7 @@
 - [Go](#go)
 - [HLSL](#hlsl)
 - [HTML](#html)
+- [Haskell](#haskell)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
@@ -168,6 +169,10 @@
 
 - [rjpcomputing/luaforwindows](https://github.com/rjpcomputing/luaforwindows) - Lua for Windows is a 'batteries included environment' for the Lua scripting language on Windows. NOTICE: Looking for maintainer.
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
+
+## Haskell 
+
+- [lucalabs-de/end](https://github.com/lucalabs-de/end) - Lightweight notification daemon displaying notifications as EWW widgets
 
 ## JavaScript 
 
@@ -322,6 +327,9 @@
 
 ## Rust 
 
+- [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
+- [RibirX/Ribir](https://github.com/RibirX/Ribir) - Non-intrusive GUI framework for Rust
+- [khonsulabs/cushy](https://github.com/khonsulabs/cushy) - An experimental cross-platform graphical user interface (GUI) crate for Rust.
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [rharish101/ReGreet](https://github.com/rharish101/ReGreet) - Clean and customizable greeter for greetd
 - [toml-rs/toml](https://github.com/toml-rs/toml) - Rust TOML Parser
