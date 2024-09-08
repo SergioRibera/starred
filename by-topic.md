@@ -373,7 +373,7 @@
 
 ## dart 
 
-- [akinsho/flutter-tools.nvim](https://github.com/akinsho/flutter-tools.nvim) - Tools to help create flutter apps in neovim using the native lsp
+- [nvim-flutter/flutter-tools.nvim](https://github.com/nvim-flutter/flutter-tools.nvim) - Tools to help create flutter apps in neovim using the native lsp
 
 ## data-structures 
 
@@ -497,11 +497,11 @@
 ## flutter 
 
 - [flutter-rs/flutter-rs](https://github.com/flutter-rs/flutter-rs) - Build beautiful desktop apps with flutter and rust. 🌠 (wip)
-- [akinsho/flutter-tools.nvim](https://github.com/akinsho/flutter-tools.nvim) - Tools to help create flutter apps in neovim using the native lsp
+- [nvim-flutter/flutter-tools.nvim](https://github.com/nvim-flutter/flutter-tools.nvim) - Tools to help create flutter apps in neovim using the native lsp
 
 ## flutter-apps 
 
-- [akinsho/flutter-tools.nvim](https://github.com/akinsho/flutter-tools.nvim) - Tools to help create flutter apps in neovim using the native lsp
+- [nvim-flutter/flutter-tools.nvim](https://github.com/nvim-flutter/flutter-tools.nvim) - Tools to help create flutter apps in neovim using the native lsp
 
 ## font 
 
@@ -941,7 +941,7 @@
 - [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 - [numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - :fire: No-nonsense floating terminal plugin for neovim :fire:
 - [kristijanhusak/neovim-config](https://github.com/kristijanhusak/neovim-config) - Neovim configuration
-- [akinsho/flutter-tools.nvim](https://github.com/akinsho/flutter-tools.nvim) - Tools to help create flutter apps in neovim using the native lsp
+- [nvim-flutter/flutter-tools.nvim](https://github.com/nvim-flutter/flutter-tools.nvim) - Tools to help create flutter apps in neovim using the native lsp
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
@@ -1010,12 +1010,13 @@
 
 ## others 
 
+- [decipher3114/Capter](https://github.com/decipher3114/Capter) - A simple cross-platform screenshot tool made in rust
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [rharish101/ReGreet](https://github.com/rharish101/ReGreet) - Clean and customizable greeter for greetd
 - [gg0074x/ask-cli](https://github.com/gg0074x/ask-cli) - A simple command line tool to use Google Gemini AI
 - [lilyinstarlight/zmk-nix](https://github.com/lilyinstarlight/zmk-nix) - Build system and configuration files for generating and building ZMK firmware with Nix
 - [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - Nix packages and modules for niri
-- [sodiboo/nix-config](https://github.com/sodiboo/nix-config) - NixOS configuration for my personal computers and my VPS
+- [sodiboo/system](https://github.com/sodiboo/system) - i use NixOS btw
 - [cloudflare/freighter](https://github.com/cloudflare/freighter) - A fast, modular, and operationally boring Rust private registry implementation.
 - [rgreinho/trauma](https://github.com/rgreinho/trauma) - Tokio Rust Asynchronous Universal download MAnager
 - [petejohanson/studio-serial-gatt-poc](https://github.com/petejohanson/studio-serial-gatt-poc) - 
@@ -1103,7 +1104,7 @@
 - [paulgb/wgsl-playground](https://github.com/paulgb/wgsl-playground) - 
 - [voxell-tech/bevy_motiongfx](https://github.com/voxell-tech/bevy_motiongfx) - Motion graphics creation tool in Bevy. (Highly inspired by Motion Canvas and Manim)
 - [nnethercote/dhat-rs](https://github.com/nnethercote/dhat-rs) - Heap profiling and ad hoc profiling for Rust programs.
-- [nikolay-govorov/nanoid](https://github.com/nikolay-govorov/nanoid) - A tiny, secure, URL-friendly, unique string ID generator for Rust
+- [mrdimidium/nanoid](https://github.com/mrdimidium/nanoid) - A tiny, secure, URL-friendly, unique string ID generator for Rust
 - [dtolnay/inherent](https://github.com/dtolnay/inherent) - Make trait methods callable without the trait in scope
 - [SixArm/assertables-rust-crate](https://github.com/SixArm/assertables-rust-crate) - Assertables: a Rust crate of assert macros for testing
 - [rust-pretty-assertions/rust-pretty-assertions](https://github.com/rust-pretty-assertions/rust-pretty-assertions) - Overwrite `assert_eq!` with a drop-in replacement, adding a colorful diff.
