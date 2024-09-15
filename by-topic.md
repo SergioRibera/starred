@@ -1444,6 +1444,7 @@
 
 ## rust 
 
+- [xou816/spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
 - [RibirX/Ribir](https://github.com/RibirX/Ribir) - Non-intrusive GUI framework for Rust
 - [khonsulabs/cushy](https://github.com/khonsulabs/cushy) - An experimental cross-platform graphical user interface (GUI) crate for Rust.
