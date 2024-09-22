@@ -60,7 +60,6 @@
 - [tryone144/compton](https://github.com/tryone144/compton) - A compositor for X11.
 - [coot/surf_searchbar](https://github.com/coot/surf_searchbar) - Surf is a browswer from http://surf.suckless.org/. Here is my branch with a nice chrome like url bar for surf .
 - [webview/webview_csharp](https://github.com/webview/webview_csharp) - C# bindings for webview/webview - Batteries included
-- [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [jarcode-foss/glava](https://github.com/jarcode-foss/glava) - GLava - OpenGL audio spectrum visualizer
 
 ## C# # 
@@ -125,6 +124,7 @@
 - [c-smile/sciter-sdk](https://github.com/c-smile/sciter-sdk) - Sciter is an embeddable HTML/CSS/scripting engine
 - [sebastianstarke/AI4Animation](https://github.com/sebastianstarke/AI4Animation) - Bringing Characters to Life with Computer Brains in Unity
 - [getnamo/SocketIOClient-Unreal](https://github.com/getnamo/SocketIOClient-Unreal) - Socket.IO client plugin for the Unreal Engine.
+- [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 
 ## CSS 
 
@@ -621,7 +621,7 @@
 - [tailhook/tk-easyloop](https://github.com/tailhook/tk-easyloop) - Thread-local loop and other simplifications for tokio loop
 - [nogibjj/rust-mlops-template](https://github.com/nogibjj/rust-mlops-template) - A work in progress to build out solutions in Rust for MLOPs
 - [eleijonmarck/do-not-compile-this-code](https://github.com/eleijonmarck/do-not-compile-this-code) - 
-- [linebender/vello](https://github.com/linebender/vello) - An experimental GPU compute-centric 2D renderer.
+- [linebender/vello](https://github.com/linebender/vello) - A GPU compute-centric 2D renderer.
 - [dylanmckay/protocol](https://github.com/dylanmckay/protocol) - Easy protocol definitions in Rust
 - [Martin1887/oxigen](https://github.com/Martin1887/oxigen) - Fast, parallel, extensible and adaptable genetic algorithms framework written in Rust
 - [abhimanyu003/qubit](https://github.com/abhimanyu003/qubit) - A handy calculator, based on Rust and WebAssembly.
@@ -689,7 +689,7 @@
 - [richardanaya/ukiyoe](https://github.com/richardanaya/ukiyoe) - A Rust library for rendering images to terminals
 - [agmcleod/questions-app-rust-actix](https://github.com/agmcleod/questions-app-rust-actix) - 
 - [yewprint/yewprint](https://github.com/yewprint/yewprint) - Port of blueprintjs.com to Yew
-- [finnbear/yew_icons](https://github.com/finnbear/yew_icons) - Easily include a variety of SVGs into your yew app
+- [finnbear/yew_icons](https://github.com/finnbear/yew_icons) - Easily include a variety of SVGs into your Yew app
 - [notify-rs/notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
 - [zesterer/flume](https://github.com/zesterer/flume) - A safe and fast multi-producer, multi-consumer channel.
