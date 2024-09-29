@@ -115,7 +115,7 @@
 - [dfranx/SHADERed](https://github.com/dfranx/SHADERed) - Lightweight, cross-platform & full-featured shader IDE
 - [thedmd/imgui-node-editor](https://github.com/thedmd/imgui-node-editor) - Node Editor built using Dear ImGui
 - [keyboardio/Kaleidoscope](https://github.com/keyboardio/Kaleidoscope) - Firmware for Keyboardio keyboards and other keyboards with AVR or ARM MCUs.
-- [mehedirm6244/sysfex](https://github.com/mehedirm6244/sysfex) - Another system information fetching tool written in C++
+- [mehedirm6244/sysfex](https://github.com/mehedirm6244/sysfex) - Just another system information fetching tool written in C++
 - [WebAssembly/wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
 - [Artanidos/AnimationMaker](https://github.com/Artanidos/AnimationMaker) - Create animated presentations and export them to a video or xml file.
@@ -177,6 +177,7 @@
 
 ## JavaScript 
 
+- [MrRaccxxn/ai-nft-generator](https://github.com/MrRaccxxn/ai-nft-generator) - 
 - [b0o/b0o](https://github.com/b0o/b0o) - 👻
 - [IDEDARY/Bevypunk](https://github.com/IDEDARY/Bevypunk) - Bevypunk is a recreation of Cyberpunk UI in Bevy using Bevy-Lunex. This project showcases advanced workflow and complex use of Bevy-Lunex library.
 - [bevyengine/bevy_github_ci_template](https://github.com/bevyengine/bevy_github_ci_template) - 
@@ -248,6 +249,7 @@
 
 ## Nix 
 
+- [DeterminateSystems/nix-wasm-example](https://github.com/DeterminateSystems/nix-wasm-example) - 
 - [lilyinstarlight/zmk-nix](https://github.com/lilyinstarlight/zmk-nix) - Build system and configuration files for generating and building ZMK firmware with Nix
 - [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - Nix packages and modules for niri
 - [sodiboo/system](https://github.com/sodiboo/system) - i use NixOS btw
@@ -282,7 +284,6 @@
 ## Others 
 
 - [cxiao/rust-malware-gallery](https://github.com/cxiao/rust-malware-gallery) - A collection of malware families and malware samples which use the Rust programming language.
-- [nehu3n/qipi](https://github.com/nehu3n/qipi) - 🦉 The universal package manager.
 - [AeroRust/awesome-space](https://github.com/AeroRust/awesome-space) - List of awesome resources for Aerospace and Rust
 - [b0o/starred](https://github.com/b0o/starred) - 🌟 Maddison's starred repos, updated daily!
 - [Vrixyz/bevy_awesome_prod](https://github.com/Vrixyz/bevy_awesome_prod) - My curated list of projects using bevy in production, preferably with a company or a business model in mind.
@@ -331,6 +332,8 @@
 
 ## Rust 
 
+- [junkdog/glim](https://github.com/junkdog/glim) - A TUI for monitoring GitLab CI/CD pipelines and projects
+- [miguelraz/staged-sg-filter](https://github.com/miguelraz/staged-sg-filter) - 
 - [xou816/spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
 - [decipher3114/Capter](https://github.com/decipher3114/Capter) - A simple cross-platform screenshot tool made in rust
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
@@ -372,6 +375,7 @@
 - [FMotalleb/nu_plugin_image](https://github.com/FMotalleb/nu_plugin_image) - 
 - [nushell/nu_plugin_template](https://github.com/nushell/nu_plugin_template) - 
 - [face-hh/webx](https://github.com/face-hh/webx) - An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more.
+- [nehu3n/qipi](https://github.com/nehu3n/qipi) - 🦉 The blazing-fast, disk-efficient and deterministic package manager.
 - [eneoli/flakeshot](https://github.com/eneoli/flakeshot) - A screenshot tool for unix-systems which runs natively on Wayland and X11!
 - [gabm/Satty](https://github.com/gabm/Satty) - Satty - Modern Screenshot Annotation. A tool inspired by Swappy and Flameshot.
 - [RustLangES/cfworker-template](https://github.com/RustLangES/cfworker-template) - Template de Workers para CloudFlare
@@ -480,7 +484,7 @@
 - [rp-rs/rp-hal](https://github.com/rp-rs/rp-hal) - A Rust Embedded-HAL for the rp series microcontrollers
 - [nrf-rs/nrf-hal](https://github.com/nrf-rs/nrf-hal) - A Rust HAL for the nRF family of devices
 - [hoothin/RustClock](https://github.com/hoothin/RustClock) - A digital clock for desktop popup every half hour written in rust, support 20-20-20 rule. 每隔半小時彈出一次的桌面電子時鐘 Windows / Mac
-- [shouya/malakal](https://github.com/shouya/malakal) - a day-planner/calendar app based on egui
+- [shouya/malakal](https://github.com/shouya/malakal) - Minimalistic day-planner app
 - [hacknus/serial-monitor-rust](https://github.com/hacknus/serial-monitor-rust) - A cross-plattform serial monitor/plotter written entirely in rust.
 - [grantshandy/claui](https://github.com/grantshandy/claui) - A GUI generator for clap-rs using egui
 - [4JX/L5P-Keyboard-RGB](https://github.com/4JX/L5P-Keyboard-RGB) - Cross platform software to control the RGB/lighting of the 4 zone keyboard included in the 2020, 2021, 2022 and 2023 lineup of the Lenovo Legion laptops. Works on Windows and Linux.
@@ -491,7 +495,7 @@
 - [juliendecharentenay/derive-sql](https://github.com/juliendecharentenay/derive-sql) - 
 - [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4
 - [fschutt/azul](https://github.com/fschutt/azul) - Desktop GUI Framework
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - App framework for web, desktop, mobile, and more.
 - [linebender/xilem](https://github.com/linebender/xilem) - An experimental Rust native UI framework
 - [audulus/rui](https://github.com/audulus/rui) - Declarative Rust UI library
 - [Relm4/Relm4](https://github.com/Relm4/Relm4) - Build truly native applications with ease!
