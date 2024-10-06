@@ -41,7 +41,6 @@
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [WGSL](#wgsl)
-- [WebAssembly](#webassembly)
 - [Zig](#zig)
 
 ## Assembly 
@@ -332,6 +331,8 @@
 
 ## Rust 
 
+- [zhangyuang/node-ffi-rs](https://github.com/zhangyuang/node-ffi-rs) - Implement ffi in Node.js by Rust and NAPI
+- [anopara/country-slice](https://github.com/anopara/country-slice) - 
 - [junkdog/glim](https://github.com/junkdog/glim) - A TUI for monitoring GitLab CI/CD pipelines and projects
 - [miguelraz/staged-sg-filter](https://github.com/miguelraz/staged-sg-filter) - 
 - [xou816/spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
@@ -374,6 +375,7 @@
 - [FMotalleb/nu_plugin_clipboard](https://github.com/FMotalleb/nu_plugin_clipboard) - A nushell plugin to copy text into clipboard or get text from it.
 - [FMotalleb/nu_plugin_image](https://github.com/FMotalleb/nu_plugin_image) - 
 - [nushell/nu_plugin_template](https://github.com/nushell/nu_plugin_template) - 
+- [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
 - [face-hh/webx](https://github.com/face-hh/webx) - An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more.
 - [nehu3n/qipi](https://github.com/nehu3n/qipi) - 🦉 The blazing-fast, disk-efficient and deterministic package manager.
 - [eneoli/flakeshot](https://github.com/eneoli/flakeshot) - A screenshot tool for unix-systems which runs natively on Wayland and X11!
@@ -495,7 +497,7 @@
 - [juliendecharentenay/derive-sql](https://github.com/juliendecharentenay/derive-sql) - 
 - [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4
 - [fschutt/azul](https://github.com/fschutt/azul) - Desktop GUI Framework
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - App framework for web, desktop, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [linebender/xilem](https://github.com/linebender/xilem) - An experimental Rust native UI framework
 - [audulus/rui](https://github.com/audulus/rui) - Declarative Rust UI library
 - [Relm4/Relm4](https://github.com/Relm4/Relm4) - Build truly native applications with ease!
@@ -520,7 +522,7 @@
 - [Dushistov/flapigen-rs](https://github.com/Dushistov/flapigen-rs) - Tool for connecting programs or libraries written in Rust with other languages
 - [nicopap/cuicui_layout](https://github.com/nicopap/cuicui_layout) - The dumbest and simplest layouting algorithm for bevy
 - [laundmo/bevy_screen_diagnostics](https://github.com/laundmo/bevy_screen_diagnostics) - On-screen diagnostics
-- [aevyrie/big_space](https://github.com/aevyrie/big_space) - A floating origin plugin for worlds larger than the observable universe
+- [aevyrie/big_space](https://github.com/aevyrie/big_space) - A chunked floating origin plugin for worlds larger than the observable universe
 - [bytestring-net/bevy_lunex](https://github.com/bytestring-net/bevy_lunex) - Blazingly fast path based retained layout engine for Bevy entities, built around vanilla Bevy ECS.
 - [TotalKrill/bevy_mod_reqwest](https://github.com/TotalKrill/bevy_mod_reqwest) - 
 - [johanhelsing/matchbox](https://github.com/johanhelsing/matchbox) - Painless peer-to-peer WebRTC networking for rust wasm (and native!)
@@ -679,7 +681,7 @@
 - [Canop/crokey](https://github.com/Canop/crokey) - 
 - [ostrosco/device_query](https://github.com/ostrosco/device_query) - A simple library to query mouse and keyboard inputs without a window. Will work in Windows, Linux, and macOS.
 - [rustysoft/keybind](https://github.com/rustysoft/keybind) - Trigger logic on specific keybind.
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [1wilkens/pam](https://github.com/1wilkens/pam) - Safe Rust API to the Linux Pluggable Authentication Modules (PAM)
 - [leftwm/lefthk](https://github.com/leftwm/lefthk) - LeftHK - A hotkey daemon written in Rust
 - [jamesbirtles/hotkey-rs](https://github.com/jamesbirtles/hotkey-rs) - A library to listen to global hotkeys in Rust
@@ -784,6 +786,7 @@
 
 ## Swift 
 
+- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 
 ## TypeScript 
@@ -791,7 +794,7 @@
 - [sammwyy/Walletfy](https://github.com/sammwyy/Walletfy) - Library and wrapper for the creation and consultation of blockchains and wallets.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
-- [atilafassina/quantum](https://github.com/atilafassina/quantum) - Opinionated Tauri v2 Template with SolidStart
+- [atilafassina/quantum](https://github.com/atilafassina/quantum) - Tauri + SolidStart. Batteries Included 🔋
 - [caido/caido](https://github.com/caido/caido) - 🚀 Caido releases, wiki and roadmap
 - [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) - 🦀💨 A fast Rspack-based static site generator.
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
@@ -830,10 +833,6 @@
 ## WGSL 
 
 - [bonsairobo/bevy_triplanar_splatting](https://github.com/bonsairobo/bevy_triplanar_splatting) - Triplanar Mapping and Material Blending for Bevy Engine
-
-## WebAssembly 
-
-- [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
 
 ## Zig 
 
