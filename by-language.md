@@ -264,7 +264,7 @@
 - [RGBCube/ThemeNix](https://github.com/RGBCube/ThemeNix) - Theme your NixOS configuration consistently.
 - [arunim-io/apm](https://github.com/arunim-io/apm) - Arunim's Power Manager
 - [badele/nix-homelab](https://github.com/badele/nix-homelab) - Homelab and dotfiles made with NixOS
-- [rxyhn/yuki](https://github.com/rxyhn/yuki) - 雪 - Yuki | Snowflake  :snowflake:
+- [raexera/yuki](https://github.com/raexera/yuki) - 雪 - Yuki | Snowflake  :snowflake:
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainer=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman]
 - [nmasur/dotfiles](https://github.com/nmasur/dotfiles) - Nix configuration and settings
 - [namishh/crystal](https://github.com/namishh/crystal) - nix dotfiles for chilly people
@@ -331,6 +331,8 @@
 
 ## Rust 
 
+- [kas-gui/kas](https://github.com/kas-gui/kas) - Another GUI toolkit
+- [coffeeispower/woomer](https://github.com/coffeeispower/woomer) - Zoomer application for Wayland inspired by tsoding's boomer
 - [zhangyuang/node-ffi-rs](https://github.com/zhangyuang/node-ffi-rs) - Implement ffi in Node.js by Rust and NAPI
 - [anopara/country-slice](https://github.com/anopara/country-slice) - 
 - [junkdog/glim](https://github.com/junkdog/glim) - A TUI for monitoring GitLab CI/CD pipelines and projects
@@ -522,7 +524,7 @@
 - [Dushistov/flapigen-rs](https://github.com/Dushistov/flapigen-rs) - Tool for connecting programs or libraries written in Rust with other languages
 - [nicopap/cuicui_layout](https://github.com/nicopap/cuicui_layout) - The dumbest and simplest layouting algorithm for bevy
 - [laundmo/bevy_screen_diagnostics](https://github.com/laundmo/bevy_screen_diagnostics) - On-screen diagnostics
-- [aevyrie/big_space](https://github.com/aevyrie/big_space) - A chunked floating origin plugin for worlds larger than the observable universe
+- [aevyrie/big_space](https://github.com/aevyrie/big_space) - Floating origin plugin for spaces larger than the universe
 - [bytestring-net/bevy_lunex](https://github.com/bytestring-net/bevy_lunex) - Blazingly fast path based retained layout engine for Bevy entities, built around vanilla Bevy ECS.
 - [TotalKrill/bevy_mod_reqwest](https://github.com/TotalKrill/bevy_mod_reqwest) - 
 - [johanhelsing/matchbox](https://github.com/johanhelsing/matchbox) - Painless peer-to-peer WebRTC networking for rust wasm (and native!)
@@ -702,7 +704,7 @@
 - [ForesightMiningSoftwareCorporation/bevy_infinite_grid](https://github.com/ForesightMiningSoftwareCorporation/bevy_infinite_grid) - 
 - [EmbarkStudios/kajiya](https://github.com/EmbarkStudios/kajiya) - 💡 Experimental real-time global illumination renderer 🦀
 - [markijohn/druid-rune](https://github.com/markijohn/druid-rune) - Experiments combining druid and rune.
-- [Kethku/Pando](https://github.com/Kethku/Pando) - An infinite canvas for todo trees
+- [Kethku/Pando](https://github.com/Kethku/Pando) - An infinite canvas for graph data
 - [jneem/scribl](https://github.com/jneem/scribl) - Scribl: simple instructional videos
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 - [hardliner66/maas](https://github.com/hardliner66/maas) - mutex-as-a-service
@@ -763,6 +765,7 @@
 
 ## Shell 
 
+- [Zerschranzer/arch-gaming-setup](https://github.com/Zerschranzer/arch-gaming-setup) - Interactive Bash script to transform a fresh Arch Linux installation into a gaming-ready system. Enables multilib, installs Yay, GPU drivers, optional desktops, and gaming software (Steam, Lutris, Win
 - [abathur/lilgit](https://github.com/abathur/lilgit) - a smol (quick) git status prompt plugin
 - [zmrocze/dotfiles](https://github.com/zmrocze/dotfiles) - My personal nixos flake
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
