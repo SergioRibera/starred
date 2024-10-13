@@ -421,9 +421,10 @@
 
 ## dotfiles 
 
+- [coffeeispower/woomer](https://github.com/coffeeispower/woomer) - Zoomer application for Wayland inspired by tsoding's boomer
 - [redyf/nixdots](https://github.com/redyf/nixdots) - Dotfiles for NixOS
 - [badele/nix-homelab](https://github.com/badele/nix-homelab) - Homelab and dotfiles made with NixOS
-- [rxyhn/yuki](https://github.com/rxyhn/yuki) - 雪 - Yuki | Snowflake  :snowflake:
+- [raexera/yuki](https://github.com/raexera/yuki) - 雪 - Yuki | Snowflake  :snowflake:
 - [nmasur/dotfiles](https://github.com/nmasur/dotfiles) - Nix configuration and settings
 - [namishh/crystal](https://github.com/namishh/crystal) - nix dotfiles for chilly people
 - [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
@@ -640,6 +641,8 @@
 - [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz) - Publish Rust crates from CI with a Release PR.
 - [AeroRust/awesome-space](https://github.com/AeroRust/awesome-space) - List of awesome resources for Aerospace and Rust
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
+- [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) - 🦀💨 A fast Rspack-based static site generator.
+- [Xithrius/twitch-tui](https://github.com/Xithrius/twitch-tui) - Twitch chat in the terminal.
 - [embedded-graphics/embedded-graphics](https://github.com/embedded-graphics/embedded-graphics) - A no_std graphics library for embedded applications
 - [suspistew/scion](https://github.com/suspistew/scion) - Scion is a tiny 2D game library built on top of wgpu and winit, following the KISS principle.
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
@@ -663,6 +666,7 @@
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [Revadike/epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer) - Claim available free game promotions from the Epic Games Store.
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
+- [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [wcoder/highlightjs-line-numbers.js](https://github.com/wcoder/highlightjs-line-numbers.js) - Line numbering plugin for Highlight.js
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [marioortizmanero/polybar-pulseaudio-control](https://github.com/marioortizmanero/polybar-pulseaudio-control) - A feature-full Polybar module to control PulseAudio
@@ -792,6 +796,7 @@
 
 ## linux 
 
+- [coffeeispower/woomer](https://github.com/coffeeispower/woomer) - Zoomer application for Wayland inspired by tsoding's boomer
 - [decipher3114/Capter](https://github.com/decipher3114/Capter) - A simple cross-platform screenshot tool made in rust
 - [lucalabs-de/end](https://github.com/lucalabs-de/end) - Lightweight notification daemon displaying notifications as EWW widgets
 - [ItayGarin/ktrl](https://github.com/ItayGarin/ktrl) - A Supercharged Keyboard Programming Daemon ⌨️
@@ -799,7 +804,7 @@
 - [pumpbin/pumpbin](https://github.com/pumpbin/pumpbin) - 🎃 PumpBin is an Implant Generation Platform.
 - [Phate6660/nixinfo](https://github.com/Phate6660/nixinfo) - A lib crate for gathering system info such as cpu, distro, environment, kernel, etc in Rust.
 - [coastalwhite/lemurs](https://github.com/coastalwhite/lemurs) - A customizable TUI display/login manager written in Rust 🐒
-- [rxyhn/yuki](https://github.com/rxyhn/yuki) - 雪 - Yuki | Snowflake  :snowflake:
+- [raexera/yuki](https://github.com/raexera/yuki) - 雪 - Yuki | Snowflake  :snowflake:
 - [Whitecat18/Rust-for-Malware-Development](https://github.com/Whitecat18/Rust-for-Malware-Development) - This repository contains my complete resources and coding practices for malware development using Rust 🦀.
 - [namishh/crystal](https://github.com/namishh/crystal) - nix dotfiles for chilly people
 - [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
@@ -990,6 +995,7 @@
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [Selene-Amanita/bevy_basic_portals](https://github.com/Selene-Amanita/bevy_basic_portals) - Bevy Simple Portals is a Bevy game engine plugin aimed to create portals.
 - [dodorare/crossbow](https://github.com/dodorare/crossbow) - Cross-Platform build tools and toolkit for games and game engines written in Rust! 🦀
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 
@@ -1016,6 +1022,8 @@
 
 ## others 
 
+- [Zerschranzer/arch-gaming-setup](https://github.com/Zerschranzer/arch-gaming-setup) - Interactive Bash script to transform a fresh Arch Linux installation into a gaming-ready system. Enables multilib, installs Yay, GPU drivers, optional desktops, and gaming software (Steam, Lutris, Win
+- [kas-gui/kas](https://github.com/kas-gui/kas) - Another GUI toolkit
 - [anopara/country-slice](https://github.com/anopara/country-slice) - 
 - [MrRaccxxn/ai-nft-generator](https://github.com/MrRaccxxn/ai-nft-generator) - 
 - [DeterminateSystems/nix-wasm-example](https://github.com/DeterminateSystems/nix-wasm-example) - 
@@ -1140,7 +1148,7 @@
 - [Vrixyz/bevy_awesome_prod](https://github.com/Vrixyz/bevy_awesome_prod) - My curated list of projects using bevy in production, preferably with a company or a business model in mind.
 - [DublikuntMux/bevy_asset_packer](https://github.com/DublikuntMux/bevy_asset_packer) - 
 - [laundmo/bevy_screen_diagnostics](https://github.com/laundmo/bevy_screen_diagnostics) - On-screen diagnostics
-- [aevyrie/big_space](https://github.com/aevyrie/big_space) - A chunked floating origin plugin for worlds larger than the observable universe
+- [aevyrie/big_space](https://github.com/aevyrie/big_space) - Floating origin plugin for spaces larger than the universe
 - [TotalKrill/bevy_mod_reqwest](https://github.com/TotalKrill/bevy_mod_reqwest) - 
 - [ErnWong/crystalorb](https://github.com/ErnWong/crystalorb) - Network-agnostic, high-level game networking library for client-side prediction and server reconciliation (unconditional rollback).
 - [DGriffin91/bevy_mod_mipmap_generator](https://github.com/DGriffin91/bevy_mod_mipmap_generator) - A basic mipmap generator for bevy
@@ -1261,7 +1269,7 @@
 - [EmbarkStudios/kajiya](https://github.com/EmbarkStudios/kajiya) - 💡 Experimental real-time global illumination renderer 🦀
 - [stecman/hw-boot-selection](https://github.com/stecman/hw-boot-selection) - STM32 firmware for a physical switch to set the GRUB boot selection
 - [markijohn/druid-rune](https://github.com/markijohn/druid-rune) - Experiments combining druid and rune.
-- [Kethku/Pando](https://github.com/Kethku/Pando) - An infinite canvas for todo trees
+- [Kethku/Pando](https://github.com/Kethku/Pando) - An infinite canvas for graph data
 - [jneem/scribl](https://github.com/jneem/scribl) - Scribl: simple instructional videos
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 - [hardliner66/maas](https://github.com/hardliner66/maas) - mutex-as-a-service
