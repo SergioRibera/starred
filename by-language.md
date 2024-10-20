@@ -264,8 +264,8 @@
 - [RGBCube/ThemeNix](https://github.com/RGBCube/ThemeNix) - Theme your NixOS configuration consistently.
 - [arunim-io/apm](https://github.com/arunim-io/apm) - Arunim's Power Manager
 - [badele/nix-homelab](https://github.com/badele/nix-homelab) - Homelab and dotfiles made with NixOS
-- [raexera/yuki](https://github.com/raexera/yuki) - 雪 - Yuki | Snowflake  :snowflake:
-- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainer=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman]
+- [raexera/yuki](https://github.com/raexera/yuki) - Snowflake
+- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman]
 - [nmasur/dotfiles](https://github.com/nmasur/dotfiles) - Nix configuration and settings
 - [namishh/crystal](https://github.com/namishh/crystal) - nix dotfiles for chilly people
 - [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
@@ -331,6 +331,7 @@
 
 ## Rust 
 
+- [erwanvivien/fast_qr](https://github.com/erwanvivien/fast_qr) - Ultra fast QRCode generation
 - [kas-gui/kas](https://github.com/kas-gui/kas) - Another GUI toolkit
 - [coffeeispower/woomer](https://github.com/coffeeispower/woomer) - Zoomer application for Wayland inspired by tsoding's boomer
 - [zhangyuang/node-ffi-rs](https://github.com/zhangyuang/node-ffi-rs) - Implement ffi in Node.js by Rust and NAPI
@@ -794,6 +795,7 @@
 
 ## TypeScript 
 
+- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [sammwyy/Walletfy](https://github.com/sammwyy/Walletfy) - Library and wrapper for the creation and consultation of blockchains and wallets.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
