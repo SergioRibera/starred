@@ -108,6 +108,7 @@
 ## C++ 
 
 - [KZDKM/Hyprspace](https://github.com/KZDKM/Hyprspace) - Workspace overview plugin for Hyprland
+- [SkillerRaptor/hyper_engine](https://github.com/SkillerRaptor/hyper_engine) - Hyper Vulkan Game Engine
 - [hyprwm/hyprpicker](https://github.com/hyprwm/hyprpicker) - A wlroots-compatible Wayland color picker that does not suck.
 - [ed-asriyan/lottie-converter](https://github.com/ed-asriyan/lottie-converter) - Converts Lottie Animations (.json / .lottie) and Telegram stickers (*.tgs) to GIF / PNG / APNG / WEBP / WEBM
 - [BrutPitt/glslSmartDeNoise](https://github.com/BrutPitt/glslSmartDeNoise) - Fast glsl deNoise spatial filter, with circular gaussian kernel, full configurable
@@ -331,6 +332,8 @@
 
 ## Rust 
 
+- [pop-os/cosmic-app-template](https://github.com/pop-os/cosmic-app-template) - Project template for creating applications for the COSMIC™ desktop
+- [Juanperias/motion](https://github.com/Juanperias/motion) - Motion is a bare metal physics engine
 - [erwanvivien/fast_qr](https://github.com/erwanvivien/fast_qr) - Ultra fast QRCode generation
 - [kas-gui/kas](https://github.com/kas-gui/kas) - Another GUI toolkit
 - [coffeeispower/woomer](https://github.com/coffeeispower/woomer) - Zoomer application for Wayland inspired by tsoding's boomer
@@ -434,7 +437,6 @@
 - [suspistew/scion](https://github.com/suspistew/scion) - Scion is a tiny 2D game library built on top of wgpu and winit, following the KISS principle.
 - [StarArawn/harmony](https://github.com/StarArawn/harmony) - A modern 3D/2D game engine that uses wgpu.
 - [RustAudio/rodio](https://github.com/RustAudio/rodio) - Rust audio playback library
-- [SkillerRaptor/hyper_engine](https://github.com/SkillerRaptor/hyper_engine) - Hyper Vulkan Game Engine
 - [geng-engine/geng](https://github.com/geng-engine/geng) - Game ENGine for Rust Programming Language
 - [embassy-rs/ekv](https://github.com/embassy-rs/ekv) - Key-value store for embedded systems, for raw NOR flash, using an LSM-Tree.
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
@@ -691,7 +693,7 @@
 - [VuiMuich/leftlock](https://github.com/VuiMuich/leftlock) - slock (simple X display locker) clone in rust
 - [psibi/iwlib-rs](https://github.com/psibi/iwlib-rs) - Safe bindings to libiw library
 - [AE9999/btcpay-rust](https://github.com/AE9999/btcpay-rust) - A btcpay rust client
-- [mehcode/config-rs](https://github.com/mehcode/config-rs) - ⚙️ Layered configuration system for Rust applications (with strong support for 12-factor applications).
+- [rust-cli/config-rs](https://github.com/rust-cli/config-rs) - ⚙️ Layered configuration system for Rust applications (with strong support for 12-factor applications).
 - [Sinono3/souvlaki](https://github.com/Sinono3/souvlaki) - A cross-platform library for handling OS media controls and metadata.
 - [obv-mikhail/InputBot](https://github.com/obv-mikhail/InputBot) - Rust library for creating global hotkeys, and simulating inputs
 - [LiveSplit/livesplit-core](https://github.com/LiveSplit/livesplit-core) - livesplit-core is a library that provides a lot of functionality for creating a speedrun timer.
