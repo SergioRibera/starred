@@ -49,6 +49,7 @@
 
 ## C 
 
+- [wmww/gtk4-layer-shell](https://github.com/wmww/gtk4-layer-shell) - A library to create panels and other desktop components for Wayland using the Layer Shell protocol and GTK4
 - [gsingh93/display-manager](https://github.com/gsingh93/display-manager) - A simple display/login manager for Linux
 - [pijulius/picom](https://github.com/pijulius/picom) - A lightweight compositor for X11
 - [stecman/hw-boot-selection](https://github.com/stecman/hw-boot-selection) - STM32 firmware for a physical switch to set the GRUB boot selection
@@ -232,6 +233,7 @@
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim
 - [Theory-of-Everything/nii-nvim](https://github.com/Theory-of-Everything/nii-nvim) - A minimal neovim configuration
 - [numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - :fire: No-nonsense floating terminal plugin for neovim :fire:
+- [kristijanhusak/neovim-config](https://github.com/kristijanhusak/neovim-config) - Neovim configuration
 - [simrat39/rust-tools.nvim](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in rust using neovim's builtin lsp
 - [nvim-flutter/flutter-tools.nvim](https://github.com/nvim-flutter/flutter-tools.nvim) - Tools to help create flutter apps in neovim using the native lsp
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
@@ -249,6 +251,7 @@
 
 ## Nix 
 
+- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
 - [DeterminateSystems/nix-wasm-example](https://github.com/DeterminateSystems/nix-wasm-example) - 
 - [lilyinstarlight/zmk-nix](https://github.com/lilyinstarlight/zmk-nix) - Build system and configuration files for generating and building ZMK firmware with Nix
 - [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - Nix packages and modules for niri
@@ -283,6 +286,7 @@
 
 ## Others 
 
+- [waydeerwm/layer-shika](https://github.com/waydeerwm/layer-shika) - [Mirror] A library to create desktop components for wayland using the layer shell and Slint GUI
 - [cxiao/rust-malware-gallery](https://github.com/cxiao/rust-malware-gallery) - A collection of malware families and malware samples which use the Rust programming language.
 - [AeroRust/awesome-space](https://github.com/AeroRust/awesome-space) - List of awesome resources for Aerospace and Rust
 - [b0o/starred](https://github.com/b0o/starred) - 🌟 Maddison's starred repos, updated daily!
@@ -332,6 +336,17 @@
 
 ## Rust 
 
+- [yvt/swsurface-rs](https://github.com/yvt/swsurface-rs) - Software-rendered surface for winit (WIP)
+- [smithy-lang/smithy-rs](https://github.com/smithy-lang/smithy-rs) - Code generation for the AWS SDK for Rust, as well as server and generic smithy client generation.
+- [viperML/hover-rs](https://github.com/viperML/hover-rs) - Protective home overlay
+- [Brayan-724/apika-os](https://github.com/Brayan-724/apika-os) - HI folks
+- [viperML/nh](https://github.com/viperML/nh) - Yet another nix cli helper
+- [l4l/yofi](https://github.com/l4l/yofi) - yofi is a minimalistic menu for wayland
+- [vars1ty/HybridBar](https://github.com/vars1ty/HybridBar) - A status bar focused on wlroots Wayland compositors
+- [coderedart/egui_overlay](https://github.com/coderedart/egui_overlay) - An Overlay Window that allows input to passthrough
+- [oddlama/whisper-overlay](https://github.com/oddlama/whisper-overlay) - A wayland overlay providing speech-to-text functionality for any application via a global push-to-talk hotkey
+- [linebender/kurbo](https://github.com/linebender/kurbo) - A Rust library for manipulating curves
+- [ZeroX-DG/raven](https://github.com/ZeroX-DG/raven) - :desktop_computer: A toy terminal emulator
 - [pop-os/cosmic-app-template](https://github.com/pop-os/cosmic-app-template) - Project template for creating applications for the COSMIC™ desktop
 - [Juanperias/motion](https://github.com/Juanperias/motion) - Motion is a bare metal physics engine
 - [erwanvivien/fast_qr](https://github.com/erwanvivien/fast_qr) - Ultra fast QRCode generation
@@ -362,7 +377,7 @@
 - [rgreinho/trauma](https://github.com/rgreinho/trauma) - Tokio Rust Asynchronous Universal download MAnager
 - [petejohanson/studio-serial-gatt-poc](https://github.com/petejohanson/studio-serial-gatt-poc) - 
 - [ItayGarin/ktrl](https://github.com/ItayGarin/ktrl) - A Supercharged Keyboard Programming Daemon ⌨️
-- [nazo6/rktk](https://github.com/nazo6/rktk) - Keyboard firmware built with Rust and embassy (For now, for keyball61)
+- [nazo6/rktk](https://github.com/nazo6/rktk) - Keyboard firmware framework built with Rust and embassy
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [dob9601/qmk-oled-api](https://github.com/dob9601/qmk-oled-api) - A wrapper around the HID API that makes it significantly easier to draw graphics to a QMK keyboard's OLED display
 - [dob9601/qmk-nowplaying](https://github.com/dob9601/qmk-nowplaying) - Show information about the currently playing song on a QMK-keyboard's OLED display
@@ -702,7 +717,7 @@
 - [yewprint/yewprint](https://github.com/yewprint/yewprint) - Port of blueprintjs.com to Yew
 - [finnbear/yew_icons](https://github.com/finnbear/yew_icons) - Easily include a variety of SVGs into your Yew app
 - [notify-rs/notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX and WASI
 - [zesterer/flume](https://github.com/zesterer/flume) - A safe and fast multi-producer, multi-consumer channel.
 - [ForesightMiningSoftwareCorporation/bevy_infinite_grid](https://github.com/ForesightMiningSoftwareCorporation/bevy_infinite_grid) - 
 - [EmbarkStudios/kajiya](https://github.com/EmbarkStudios/kajiya) - 💡 Experimental real-time global illumination renderer 🦀
@@ -779,7 +794,6 @@
 - [s4vitar/wifiCrack](https://github.com/s4vitar/wifiCrack) - Herramienta hecha en Bash ideal para automatizar ataques WiFi (WPA/WPA2 - PSK) destinados a la obtención de la contraseña.
 - [CodigoCristo/crisparch](https://github.com/CodigoCristo/crisparch) - Script instalar arch para usuarios
 - [CyberShadow/aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
-- [kristijanhusak/neovim-config](https://github.com/kristijanhusak/neovim-config) - Neovim configuration
 - [exploit-development/iOS-Hacktivation-Toolkit](https://github.com/exploit-development/iOS-Hacktivation-Toolkit) - iOS Hacktivation Toolkit
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 - [carnager/teiler](https://github.com/carnager/teiler) - Little script for screenshots and screencasts utilizing rofi, maim, ffmpeg
