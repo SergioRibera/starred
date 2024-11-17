@@ -336,6 +336,11 @@
 
 ## Rust 
 
+- [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
+- [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance rust-powered UI layout library
+- [thebashpotato/egui-aesthetix](https://github.com/thebashpotato/egui-aesthetix) - Easy to use theming library for egui
+- [Brayan-724/nix-compiler](https://github.com/Brayan-724/nix-compiler) - POC Nix compiler written in Rust
+- [lilyyy411/rust-type-fuckery](https://github.com/lilyyy411/rust-type-fuckery) - experiments with the Rust type system, including a type-level brainfuck implementation
 - [lucab/zbus_systemd](https://github.com/lucab/zbus_systemd) - A pure-Rust library to interact with systemd DBus services
 - [sshcrack/clipture-rs](https://github.com/sshcrack/clipture-rs) - Clipture but made in rust
 - [yvt/swsurface-rs](https://github.com/yvt/swsurface-rs) - Software-rendered surface for winit (WIP)
