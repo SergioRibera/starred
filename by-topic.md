@@ -318,6 +318,7 @@
 
 ## compiler 
 
+- [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
@@ -362,6 +363,7 @@
 
 ## css 
 
+- [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [warengonzaga/css-text-portrait-builder](https://github.com/warengonzaga/css-text-portrait-builder) - A popular pure CSS text portrait builder for your loved ones. 🥰
@@ -637,6 +639,7 @@
 
 ## hacktoberfest 
 
+- [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance rust-powered UI layout library
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 - [josecelano/cargo-pretty-test](https://github.com/josecelano/cargo-pretty-test) - A Rust command that prettifies the ugly `cargo test` output into a beautiful one.
@@ -670,7 +673,6 @@
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [Revadike/epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer) - Claim available free game promotions from the Epic Games Store.
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
-- [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [wcoder/highlightjs-line-numbers.js](https://github.com/wcoder/highlightjs-line-numbers.js) - Line numbering plugin for Highlight.js
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
@@ -1032,6 +1034,9 @@
 
 ## others 
 
+- [thebashpotato/egui-aesthetix](https://github.com/thebashpotato/egui-aesthetix) - Easy to use theming library for egui
+- [Brayan-724/nix-compiler](https://github.com/Brayan-724/nix-compiler) - POC Nix compiler written in Rust
+- [lilyyy411/rust-type-fuckery](https://github.com/lilyyy411/rust-type-fuckery) - experiments with the Rust type system, including a type-level brainfuck implementation
 - [lucab/zbus_systemd](https://github.com/lucab/zbus_systemd) - A pure-Rust library to interact with systemd DBus services
 - [kunkunsh/kunkun](https://github.com/kunkunsh/kunkun) - An open source, cross-platform, extensible app launcher.
 - [sshcrack/clipture-rs](https://github.com/sshcrack/clipture-rs) - Clipture but made in rust
@@ -1486,6 +1491,8 @@
 
 ## rust 
 
+- [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
+- [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance rust-powered UI layout library
 - [ImplFerris/LearnRust](https://github.com/ImplFerris/LearnRust) - Rust Learning Resources
 - [yvt/swsurface-rs](https://github.com/yvt/swsurface-rs) - Software-rendered surface for winit (WIP)
 - [smithy-lang/smithy-rs](https://github.com/smithy-lang/smithy-rs) - Code generation for the AWS SDK for Rust, as well as server and generic smithy client generation.
