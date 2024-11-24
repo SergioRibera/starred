@@ -108,6 +108,7 @@
 
 ## C++ 
 
+- [heyzec/wayland-displays](https://github.com/heyzec/wayland-displays) - Yet another wayland displays configurator
 - [KZDKM/Hyprspace](https://github.com/KZDKM/Hyprspace) - Workspace overview plugin for Hyprland
 - [SkillerRaptor/hyper_engine](https://github.com/SkillerRaptor/hyper_engine) - Hyper Vulkan Game Engine
 - [hyprwm/hyprpicker](https://github.com/hyprwm/hyprpicker) - A wlroots-compatible Wayland color picker that does not suck.
@@ -178,6 +179,7 @@
 
 ## JavaScript 
 
+- [FlamesX-128/BoTex](https://github.com/FlamesX-128/BoTex) - This bot allows rendering LaTeX expressions directly in Discord, making it easier to visualize mathematical formulas and scientific notation.
 - [MrRaccxxn/ai-nft-generator](https://github.com/MrRaccxxn/ai-nft-generator) - 
 - [b0o/b0o](https://github.com/b0o/b0o) - 👻
 - [IDEDARY/Bevypunk](https://github.com/IDEDARY/Bevypunk) - Bevypunk is a recreation of Cyberpunk UI in Bevy using Bevy-Lunex. This project showcases advanced workflow and complex use of Bevy-Lunex library.
@@ -250,6 +252,7 @@
 
 ## Nix 
 
+- [Grandkahuna43325/tauri-mobile-nixos-template](https://github.com/Grandkahuna43325/tauri-mobile-nixos-template) - Template for tauri android development on NixOS
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
 - [DeterminateSystems/nix-wasm-example](https://github.com/DeterminateSystems/nix-wasm-example) - 
 - [lilyinstarlight/zmk-nix](https://github.com/lilyinstarlight/zmk-nix) - Build system and configuration files for generating and building ZMK firmware with Nix
@@ -336,6 +339,13 @@
 
 ## Rust 
 
+- [pop-os/upower-dbus](https://github.com/pop-os/upower-dbus) - Migrated to https://github.com/pop-os/dbus-settings-bindings
+- [cdown/battery-notify](https://github.com/cdown/battery-notify) - A simple battery notifier for Linux.
+- [waycrate/exwlshelleventloop](https://github.com/waycrate/exwlshelleventloop) - winit like binding for layershell and sessionlock
+- [Quinntyx/erun](https://github.com/Quinntyx/erun) - A configurable, component-based launcher, menu, and bar application in Rust.
+- [cyypherus/lilt](https://github.com/cyypherus/lilt) - A simple, dependency free library for running interruptable, transition based animations as a function of time.
+- [l1na-forever/mpris-notifier](https://github.com/l1na-forever/mpris-notifier) - Dependency-light, highly-customizable, XDG desktop notification generator for 🎶🎵 MPRIS status changes 🎹
+- [Kirottu/watershot](https://github.com/Kirottu/watershot) - A simple wayland native screenshot tool.
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance rust-powered UI layout library
 - [thebashpotato/egui-aesthetix](https://github.com/thebashpotato/egui-aesthetix) - Easy to use theming library for egui
@@ -413,7 +423,7 @@
 - [woelper/woodpacker](https://github.com/woelper/woodpacker) - calculate wood/material consumption from templates and pieces
 - [hitblast/resfetch](https://github.com/hitblast/resfetch) - ⚡ A fast and minimal alternative to neofetch, built with Rust
 - [akumarujon/xifetch-rs](https://github.com/akumarujon/xifetch-rs) - Neofetch alternative rewritten in Rust.
-- [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz) - Publish Rust crates from CI with a Release PR.
+- [release-plz/release-plz](https://github.com/release-plz/release-plz) - Publish Rust crates from CI with a Release PR.
 - [anyrun-org/anyrun](https://github.com/anyrun-org/anyrun) - A wayland native, highly customizable runner.
 - [Whitecat18/Rust-for-Malware-Development](https://github.com/Whitecat18/Rust-for-Malware-Development) - This repository contains my complete resources and coding practices for malware development using Rust 🦀.
 - [Jedsek/deci-player](https://github.com/Jedsek/deci-player) - A music-player written with rust and iced
@@ -607,7 +617,7 @@
 - [ethz-gtc/npc-engine](https://github.com/ethz-gtc/npc-engine) - A customizable MCTS planner with advanced featured tailored to multi-agent simulations and emergent narratives.
 - [eliotbo/bevy_shadertoy_wgsl](https://github.com/eliotbo/bevy_shadertoy_wgsl) - A Shadertoy clone for the Bevy game engine. The glsl language is replaced by wgsl.
 - [romenjelly/bevy_debug_grid](https://github.com/romenjelly/bevy_debug_grid) - A bevy plugin for creating grids, for debugging purposes
-- [colathro/bevy-kinect](https://github.com/colathro/bevy-kinect) - Quick weekend project using Xbox 360 Kinect within Bevy to control a cursor.
+- [colt-1/bevy-kinect](https://github.com/colt-1/bevy-kinect) - Quick weekend project using Xbox 360 Kinect within Bevy to control a cursor.
 - [FraserLee/bevy_sprite3d](https://github.com/FraserLee/bevy_sprite3d) - Use sprites in a 3d bevy scene.
 - [djeedai/bevy_hanabi](https://github.com/djeedai/bevy_hanabi) - 🎆 Hanabi — a GPU particle system plugin for the Bevy game engine.
 - [stillonearth/bevy_mujoco](https://github.com/stillonearth/bevy_mujoco) - Render MuJoCo scenes in bevy
@@ -819,6 +829,7 @@
 
 ## TypeScript 
 
+- [dank074/Discord-video-stream](https://github.com/dank074/Discord-video-stream) - Experiment for making video streaming work for discord selfbots.
 - [kunkunsh/kunkun](https://github.com/kunkunsh/kunkun) - An open source, cross-platform, extensible app launcher.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [sammwyy/Walletfy](https://github.com/sammwyy/Walletfy) - Library and wrapper for the creation and consultation of blockchains and wallets.
