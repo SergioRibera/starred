@@ -91,6 +91,7 @@
 - [kubernetes](#kubernetes)
 - [language](#language)
 - [languages](#languages)
+- [latex](#latex)
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
@@ -267,6 +268,8 @@
 
 ## bot 
 
+- [dank074/Discord-video-stream](https://github.com/dank074/Discord-video-stream) - Experiment for making video streaming work for discord selfbots.
+- [FlamesX-128/BoTex](https://github.com/FlamesX-128/BoTex) - This bot allows rendering LaTeX expressions directly in Discord, making it easier to visualize mathematical formulas and scientific notation.
 - [sodiboo/custom-highlight](https://github.com/sodiboo/custom-highlight) - Custom syntax highlighting on discord
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 
@@ -413,6 +416,8 @@
 
 ## discord 
 
+- [dank074/Discord-video-stream](https://github.com/dank074/Discord-video-stream) - Experiment for making video streaming work for discord selfbots.
+- [FlamesX-128/BoTex](https://github.com/FlamesX-128/BoTex) - This bot allows rendering LaTeX expressions directly in Discord, making it easier to visualize mathematical formulas and scientific notation.
 - [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion) - Tiny alternative Discord client with a smaller footprint, snappier startup, themes, plugins and more!
 - [sodiboo/custom-highlight](https://github.com/sodiboo/custom-highlight) - Custom syntax highlighting on discord
 - [RGBCube/ThemeNix](https://github.com/RGBCube/ThemeNix) - Theme your NixOS configuration consistently.
@@ -644,7 +649,7 @@
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 - [josecelano/cargo-pretty-test](https://github.com/josecelano/cargo-pretty-test) - A Rust command that prettifies the ugly `cargo test` output into a beautiful one.
 - [GradienceTeam/Gradience](https://github.com/GradienceTeam/Gradience) - Change the look of Adwaita, with ease
-- [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz) - Publish Rust crates from CI with a Release PR.
+- [release-plz/release-plz](https://github.com/release-plz/release-plz) - Publish Rust crates from CI with a Release PR.
 - [AeroRust/awesome-space](https://github.com/AeroRust/awesome-space) - List of awesome resources for Aerospace and Rust
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) - 🦀💨 A fast Rspack-based static site generator.
@@ -795,6 +800,10 @@
 
 - [michaelb/sniprun](https://github.com/michaelb/sniprun) - A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
 
+## latex 
+
+- [FlamesX-128/BoTex](https://github.com/FlamesX-128/BoTex) - This bot allows rendering LaTeX expressions directly in Discord, making it easier to visualize mathematical formulas and scientific notation.
+
 ## learning 
 
 - [ImplFerris/LearnRust](https://github.com/ImplFerris/LearnRust) - Rust Learning Resources
@@ -807,6 +816,7 @@
 
 ## linux 
 
+- [l1na-forever/mpris-notifier](https://github.com/l1na-forever/mpris-notifier) - Dependency-light, highly-customizable, XDG desktop notification generator for 🎶🎵 MPRIS status changes 🎹
 - [vars1ty/HybridBar](https://github.com/vars1ty/HybridBar) - A status bar focused on wlroots Wayland compositors
 - [coffeeispower/woomer](https://github.com/coffeeispower/woomer) - Zoomer application for Wayland inspired by tsoding's boomer
 - [decipher3114/Capter](https://github.com/decipher3114/Capter) - A simple cross-platform screenshot tool made in rust
@@ -937,6 +947,7 @@
 
 ## music 
 
+- [l1na-forever/mpris-notifier](https://github.com/l1na-forever/mpris-notifier) - Dependency-light, highly-customizable, XDG desktop notification generator for 🎶🎵 MPRIS status changes 🎹
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 
 ## neovim 
@@ -1034,6 +1045,13 @@
 
 ## others 
 
+- [pop-os/upower-dbus](https://github.com/pop-os/upower-dbus) - Migrated to https://github.com/pop-os/dbus-settings-bindings
+- [cdown/battery-notify](https://github.com/cdown/battery-notify) - A simple battery notifier for Linux.
+- [waycrate/exwlshelleventloop](https://github.com/waycrate/exwlshelleventloop) - winit like binding for layershell and sessionlock
+- [Quinntyx/erun](https://github.com/Quinntyx/erun) - A configurable, component-based launcher, menu, and bar application in Rust.
+- [Grandkahuna43325/tauri-mobile-nixos-template](https://github.com/Grandkahuna43325/tauri-mobile-nixos-template) - Template for tauri android development on NixOS
+- [heyzec/wayland-displays](https://github.com/heyzec/wayland-displays) - Yet another wayland displays configurator
+- [Kirottu/watershot](https://github.com/Kirottu/watershot) - A simple wayland native screenshot tool.
 - [thebashpotato/egui-aesthetix](https://github.com/thebashpotato/egui-aesthetix) - Easy to use theming library for egui
 - [Brayan-724/nix-compiler](https://github.com/Brayan-724/nix-compiler) - POC Nix compiler written in Rust
 - [lilyyy411/rust-type-fuckery](https://github.com/lilyyy411/rust-type-fuckery) - experiments with the Rust type system, including a type-level brainfuck implementation
@@ -1220,7 +1238,7 @@
 - [eliotbo/bevy_shadertoy_wgsl](https://github.com/eliotbo/bevy_shadertoy_wgsl) - A Shadertoy clone for the Bevy game engine. The glsl language is replaced by wgsl.
 - [romenjelly/bevy_debug_grid](https://github.com/romenjelly/bevy_debug_grid) - A bevy plugin for creating grids, for debugging purposes
 - [BrutPitt/glslSmartDeNoise](https://github.com/BrutPitt/glslSmartDeNoise) - Fast glsl deNoise spatial filter, with circular gaussian kernel, full configurable
-- [colathro/bevy-kinect](https://github.com/colathro/bevy-kinect) - Quick weekend project using Xbox 360 Kinect within Bevy to control a cursor.
+- [colt-1/bevy-kinect](https://github.com/colt-1/bevy-kinect) - Quick weekend project using Xbox 360 Kinect within Bevy to control a cursor.
 - [FraserLee/bevy_sprite3d](https://github.com/FraserLee/bevy_sprite3d) - Use sprites in a 3d bevy scene.
 - [stillonearth/bevy_mujoco](https://github.com/stillonearth/bevy_mujoco) - Render MuJoCo scenes in bevy
 - [Kurble/bevy_mod_inverse_kinematics](https://github.com/Kurble/bevy_mod_inverse_kinematics) - An inverse kinematics plugin for the Bevy engine
@@ -1491,6 +1509,7 @@
 
 ## rust 
 
+- [cyypherus/lilt](https://github.com/cyypherus/lilt) - A simple, dependency free library for running interruptable, transition based animations as a function of time.
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance rust-powered UI layout library
 - [ImplFerris/LearnRust](https://github.com/ImplFerris/LearnRust) - Rust Learning Resources
@@ -1528,7 +1547,7 @@
 - [coastalwhite/lemurs](https://github.com/coastalwhite/lemurs) - A customizable TUI display/login manager written in Rust 🐒
 - [hitblast/resfetch](https://github.com/hitblast/resfetch) - ⚡ A fast and minimal alternative to neofetch, built with Rust
 - [akumarujon/xifetch-rs](https://github.com/akumarujon/xifetch-rs) - Neofetch alternative rewritten in Rust.
-- [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz) - Publish Rust crates from CI with a Release PR.
+- [release-plz/release-plz](https://github.com/release-plz/release-plz) - Publish Rust crates from CI with a Release PR.
 - [AeroRust/awesome-space](https://github.com/AeroRust/awesome-space) - List of awesome resources for Aerospace and Rust
 - [arunim-io/apm](https://github.com/arunim-io/apm) - Arunim's Power Manager
 - [Whitecat18/Rust-for-Malware-Development](https://github.com/Whitecat18/Rust-for-Malware-Development) - This repository contains my complete resources and coding practices for malware development using Rust 🦀.
