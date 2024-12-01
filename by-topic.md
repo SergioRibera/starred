@@ -58,6 +58,7 @@
 - [eslint](#eslint)
 - [ethereum](#ethereum)
 - [express](#express)
+- [firebase](#firebase)
 - [firefox](#firefox)
 - [flutter](#flutter)
 - [flutter-apps](#flutter-apps)
@@ -139,9 +140,11 @@
 - [react](#react)
 - [reactiveui](#reactiveui)
 - [reactjs](#reactjs)
+- [redux](#redux)
 - [rest-api](#rest-api)
 - [ruby](#ruby)
 - [rust](#rust)
+- [sass](#sass)
 - [security](#security)
 - [serverless](#serverless)
 - [shell](#shell)
@@ -321,6 +324,7 @@
 
 ## compiler 
 
+- [Glistix/glistix](https://github.com/Glistix/glistix) - Fork of the Gleam compiler providing a Nix backend, compiling Gleam to Nix
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -366,6 +370,7 @@
 
 ## css 
 
+- [kaj/rsass](https://github.com/kaj/rsass) - Sass reimplemented in rust with nom.
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
@@ -416,6 +421,8 @@
 
 ## discord 
 
+- [ysdragon/StreamBot](https://github.com/ysdragon/StreamBot) - A self bot to stream videos to Discord.
+- [arihant-jain-09/discord-clone](https://github.com/arihant-jain-09/discord-clone) - Discord (with unique roles in each server, image, audio sharing, auto render video links in messages, discord loading logo between page renderings)  with React, React Router, Material UI, SASS, Styled
 - [dank074/Discord-video-stream](https://github.com/dank074/Discord-video-stream) - Experiment for making video streaming work for discord selfbots.
 - [FlamesX-128/BoTex](https://github.com/FlamesX-128/BoTex) - This bot allows rendering LaTeX expressions directly in Discord, making it easier to visualize mathematical formulas and scientific notation.
 - [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion) - Tiny alternative Discord client with a smaller footprint, snappier startup, themes, plugins and more!
@@ -500,6 +507,10 @@
 
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 
+## firebase 
+
+- [arihant-jain-09/discord-clone](https://github.com/arihant-jain-09/discord-clone) - Discord (with unique roles in each server, image, audio sharing, auto render video links in messages, discord loading logo between page renderings)  with React, React Router, Material UI, SASS, Styled
+
 ## firefox 
 
 - [migueravila/SimpleFox](https://github.com/migueravila/SimpleFox) - 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
@@ -538,7 +549,6 @@
 - [tomuxmon/bevy_roguelike](https://github.com/tomuxmon/bevy_roguelike) - roguelike system implemented using bevy
 - [opstic/gdclone](https://github.com/opstic/gdclone) - An alternative Geometry Dash client built using Bevy
 - [TheRealTeamFReSh/MurderUserDungeon](https://github.com/TheRealTeamFReSh/MurderUserDungeon) - A game made for the Rusty Jam https://itch.io/jam/rusty-jam
-- [starwolves/space](https://github.com/starwolves/space) - Official mirror of the online SCI-FI action game that simulates spaceships in 3D. Built from the ground up to support decentralized game-servers and communities with extensive modding support. Will sh
 - [ozkriff/zemeroth](https://github.com/ozkriff/zemeroth) - 😠⚔️😈 A minimalistic 2D turn-based tactical game in Rust
 - [heroiclabs/fishgame-macroquad](https://github.com/heroiclabs/fishgame-macroquad) - "Fish Game" for Macroquad is an online multiplayer game, created as a demonstration of Nakama, an open-source scalable game server, using Rust-lang and the Macroquad game engine.
 - [ggez/good-web-game](https://github.com/ggez/good-web-game) - An alternative ggez implementation on top of miniquad.
@@ -565,7 +575,6 @@
 - [vleue/jornet](https://github.com/vleue/jornet) - The social game server for all your game jams!
 - [makspll/bevy_mod_scripting](https://github.com/makspll/bevy_mod_scripting) - Bevy Scripting Plugin
 - [repalash/Open-Shaders](https://github.com/repalash/Open-Shaders) - Collection of many open source shaders(GLSL, HLSL, CG) in popular open source game development and rendering engines and public repositories.
-- [starwolves/space](https://github.com/starwolves/space) - Official mirror of the online SCI-FI action game that simulates spaceships in 3D. Built from the ground up to support decentralized game-servers and communities with extensive modding support. Will sh
 - [parasyte/pixels](https://github.com/parasyte/pixels) - A tiny hardware-accelerated pixel frame buffer. 🦀
 - [dfranx/SHADERed](https://github.com/dfranx/SHADERed) - Lightweight, cross-platform & full-featured shader IDE
 - [thedmd/imgui-node-editor](https://github.com/thedmd/imgui-node-editor) - Node Editor built using Dear ImGui
@@ -610,7 +619,6 @@
 - [idanarye/bevy-yoleck](https://github.com/idanarye/bevy-yoleck) - Your Own Level Editor Creation Kit
 - [lucaspoffo/renet](https://github.com/lucaspoffo/renet) - Server/Client network library for multiplayer games with authentication and connection management made with Rust
 - [alexichepura/bevy_garage](https://github.com/alexichepura/bevy_garage) - Gamelike car simulation playground.
-- [starwolves/space](https://github.com/starwolves/space) - Official mirror of the online SCI-FI action game that simulates spaceships in 3D. Built from the ground up to support decentralized game-servers and communities with extensive modding support. Will sh
 - [dodorare/crossbow](https://github.com/dodorare/crossbow) - Cross-Platform build tools and toolkit for games and game engines written in Rust! 🦀
 - [ozkriff/awesome-quads](https://github.com/ozkriff/awesome-quads) - ▦⧉⊞□ A curated list of links to miniquad/macroquad-related code & resources
 - [thedmd/imgui-node-editor](https://github.com/thedmd/imgui-node-editor) - Node Editor built using Dear ImGui
@@ -644,6 +652,7 @@
 
 ## hacktoberfest 
 
+- [TheRustyPickle/egui-theme-lerp](https://github.com/TheRustyPickle/egui-theme-lerp) - An egui lib to animate theme switching between visuals
 - [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance rust-powered UI layout library
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
@@ -816,6 +825,7 @@
 
 ## linux 
 
+- [l1npengtul/nokhwa](https://github.com/l1npengtul/nokhwa) - Cross Platform Rust Library for Powerful Webcam/Camera Capture
 - [l1na-forever/mpris-notifier](https://github.com/l1na-forever/mpris-notifier) - Dependency-light, highly-customizable, XDG desktop notification generator for 🎶🎵 MPRIS status changes 🎹
 - [vars1ty/HybridBar](https://github.com/vars1ty/HybridBar) - A status bar focused on wlroots Wayland compositors
 - [coffeeispower/woomer](https://github.com/coffeeispower/woomer) - Zoomer application for Wayland inspired by tsoding's boomer
@@ -891,6 +901,7 @@
 
 ## macos 
 
+- [l1npengtul/nokhwa](https://github.com/l1npengtul/nokhwa) - Cross Platform Rust Library for Powerful Webcam/Camera Capture
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [decipher3114/Capter](https://github.com/decipher3114/Capter) - A simple cross-platform screenshot tool made in rust
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
@@ -997,6 +1008,7 @@
 
 ## nodejs 
 
+- [ysdragon/StreamBot](https://github.com/ysdragon/StreamBot) - A self bot to stream videos to Discord.
 - [nehu3n/qipi](https://github.com/nehu3n/qipi) - 🦉 The blazing-fast, disk-efficient and deterministic package manager.
 - [Sairyss/backend-best-practices](https://github.com/Sairyss/backend-best-practices) - Best practices, tools and guidelines for backend development. Code examples in TypeScript + NodeJS
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
@@ -1045,6 +1057,27 @@
 
 ## others 
 
+- [mila411/rustkuval](https://github.com/mila411/rustkuval) - 
+- [g-plane/raffia](https://github.com/g-plane/raffia) - CSS, Sass, SCSS and Less parser, all in one.
+- [benodiwal/css_forge](https://github.com/benodiwal/css_forge) - 
+- [p4ymak/egui_code_editor](https://github.com/p4ymak/egui_code_editor) - egui Code Editor widget with numbered lines and syntax highlighting..
+- [PPakalns/egui_taffy](https://github.com/PPakalns/egui_taffy) - Grid, Flexbox, Block layout support for egui using taffy
+- [Yandrik/kolibri](https://github.com/Yandrik/kolibri) - Super-lightweight Immediate-mode Embedded GUI framework, based on the awesome embedded-graphics library. Written in Rust.
+- [emilk/eterm](https://github.com/emilk/eterm) - Exeprimental visual terminal for egui
+- [mrjvs/Discord-video-experiment](https://github.com/mrjvs/Discord-video-experiment) - Experiment for making video work for discord bots.
+- [MainSilent/Discord-Screenshare](https://github.com/MainSilent/Discord-Screenshare) - First ever discord video screenshare SELFBOT
+- [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
+- [nubiv/dribble](https://github.com/nubiv/dribble) - A Desktop version Peer-to-Peer WebRTC channel. No Signaling Server required. 📡
+- [Syudagye/discord-vc-client](https://github.com/Syudagye/discord-vc-client) - experiements for making some kind of third party discord vc + WebRTC client
+- [Levminer/ezrtc](https://github.com/Levminer/ezrtc) - Easy cross-platform WebRTC communication
+- [pnodet/deezcord](https://github.com/pnodet/deezcord) - webrtc voice chat experimentation
+- [ClusterVMS/rtsp-to-webrtc](https://github.com/ClusterVMS/rtsp-to-webrtc) - Converts an IP camera RTSP stream to a WebRTC stream
+- [JRF63/webrtc-helper](https://github.com/JRF63/webrtc-helper) - Wrapper for webrtc-rs to facilitate custom encoders/decoders
+- [JRF63/desktop-streaming](https://github.com/JRF63/desktop-streaming) - WebRTC desktop streamer using Rust
+- [mara-schulke/webrtc-cam](https://github.com/mara-schulke/webrtc-cam) - A full stack implementation of a simple security camera using a raspberry pi and webrtc.
+- [UE2020/tenebra](https://github.com/UE2020/tenebra) - Tenebra is a remote desktop video-streaming server powered by WebRTC and GStreamer (x264).
+- [abhemanyus/rust-webcam-webrtc](https://github.com/abhemanyus/rust-webcam-webrtc) - Video streaming over webRTC
+- [Plasmakatana/voicechat_rust_webrtc](https://github.com/Plasmakatana/voicechat_rust_webrtc) - 
 - [pop-os/upower-dbus](https://github.com/pop-os/upower-dbus) - Migrated to https://github.com/pop-os/dbus-settings-bindings
 - [cdown/battery-notify](https://github.com/cdown/battery-notify) - A simple battery notifier for Linux.
 - [waycrate/exwlshelleventloop](https://github.com/waycrate/exwlshelleventloop) - winit like binding for layershell and sessionlock
@@ -1482,6 +1515,7 @@
 
 ## react 
 
+- [arihant-jain-09/discord-clone](https://github.com/arihant-jain-09/discord-clone) - Discord (with unique roles in each server, image, audio sharing, auto render video links in messages, discord loading logo between page renderings)  with React, React Router, Material UI, SASS, Styled
 - [SeakMengs/WindowPet](https://github.com/SeakMengs/WindowPet) - Pet overlay app built with tauri and react that lets you have adorable companion such as pets, anime characters on your screen.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
@@ -1498,6 +1532,10 @@
 
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 
+## redux 
+
+- [arihant-jain-09/discord-clone](https://github.com/arihant-jain-09/discord-clone) - Discord (with unique roles in each server, image, audio sharing, auto render video links in messages, discord loading logo between page renderings)  with React, React Router, Material UI, SASS, Styled
+
 ## rest-api 
 
 - [proyecto26/RestClient](https://github.com/proyecto26/RestClient) - 🦄  A Promise based REST and HTTP client for Unity 🎮
@@ -1509,6 +1547,9 @@
 
 ## rust 
 
+- [kaj/rsass](https://github.com/kaj/rsass) - Sass reimplemented in rust with nom.
+- [l1npengtul/nokhwa](https://github.com/l1npengtul/nokhwa) - Cross Platform Rust Library for Powerful Webcam/Camera Capture
+- [CapSoftware/scap](https://github.com/CapSoftware/scap) - High-performance, cross-platform screen capture library in Rust.
 - [cyypherus/lilt](https://github.com/cyypherus/lilt) - A simple, dependency free library for running interruptable, transition based animations as a function of time.
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance rust-powered UI layout library
@@ -1652,7 +1693,6 @@
 - [alexichepura/bevy_garage](https://github.com/alexichepura/bevy_garage) - Gamelike car simulation playground.
 - [Seldom-SE/seldom_state](https://github.com/Seldom-SE/seldom_state) - Component-based state machine plugin for Bevy. Useful for AI, player state, and other entities that occupy different states.
 - [r4gus/nodus](https://github.com/r4gus/nodus) - A logic gate simulator written in Rust using the Bevy game engine.
-- [starwolves/space](https://github.com/starwolves/space) - Official mirror of the online SCI-FI action game that simulates spaceships in 3D. Built from the ground up to support decentralized game-servers and communities with extensive modding support. Will sh
 - [MrGVSV/bevy_proto](https://github.com/MrGVSV/bevy_proto) - Create config files for entities in Bevy
 - [leetvr/hotham](https://github.com/leetvr/hotham) - Hotham is a tool for creating incredible standalone VR games.
 - [dodorare/crossbow](https://github.com/dodorare/crossbow) - Cross-Platform build tools and toolkit for games and game engines written in Rust! 🦀
@@ -1706,6 +1746,11 @@
 - [simrat39/rust-tools.nvim](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in rust using neovim's builtin lsp
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧: closing the semantic gap between compiler and hardware by maximally leveraging the power of language safety and a
+
+## sass 
+
+- [kaj/rsass](https://github.com/kaj/rsass) - Sass reimplemented in rust with nom.
+- [arihant-jain-09/discord-clone](https://github.com/arihant-jain-09/discord-clone) - Discord (with unique roles in each server, image, audio sharing, auto render video links in messages, discord loading logo between page renderings)  with React, React Router, Material UI, SASS, Styled
 
 ## security 
 
@@ -1839,6 +1884,7 @@
 
 ## web 
 
+- [kaj/rsass](https://github.com/kaj/rsass) - Sass reimplemented in rust with nom.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [pedrodesu/yew-feather](https://github.com/pedrodesu/yew-feather) - Yew components for Feather icons
@@ -1856,6 +1902,7 @@
 
 ## windows 
 
+- [l1npengtul/nokhwa](https://github.com/l1npengtul/nokhwa) - Cross Platform Rust Library for Powerful Webcam/Camera Capture
 - [decipher3114/Capter](https://github.com/decipher3114/Capter) - A simple cross-platform screenshot tool made in rust
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [pumpbin/pumpbin](https://github.com/pumpbin/pumpbin) - 🎃 PumpBin is an Implant Generation Platform.
