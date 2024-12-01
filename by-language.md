@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [Assembly](#assembly)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -42,10 +41,6 @@
 - [Vue](#vue)
 - [WGSL](#wgsl)
 - [Zig](#zig)
-
-## Assembly 
-
-- [AndreaOrru/zen](https://github.com/AndreaOrru/zen) - Experimental operating system written in Zig
 
 ## C 
 
@@ -179,6 +174,10 @@
 
 ## JavaScript 
 
+- [arihant-jain-09/discord-clone](https://github.com/arihant-jain-09/discord-clone) - Discord (with unique roles in each server, image, audio sharing, auto render video links in messages, discord loading logo between page renderings)  with React, React Router, Material UI, SASS, Styled
+- [mrjvs/Discord-video-experiment](https://github.com/mrjvs/Discord-video-experiment) - Experiment for making video work for discord bots.
+- [MainSilent/Discord-Screenshare](https://github.com/MainSilent/Discord-Screenshare) - First ever discord video screenshare SELFBOT
+- [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
 - [FlamesX-128/BoTex](https://github.com/FlamesX-128/BoTex) - This bot allows rendering LaTeX expressions directly in Discord, making it easier to visualize mathematical formulas and scientific notation.
 - [MrRaccxxn/ai-nft-generator](https://github.com/MrRaccxxn/ai-nft-generator) - 
 - [b0o/b0o](https://github.com/b0o/b0o) - 👻
@@ -292,6 +291,7 @@
 - [waydeerwm/layer-shika](https://github.com/waydeerwm/layer-shika) - [Mirror] A library to create desktop components for wayland using the layer shell and Slint GUI
 - [cxiao/rust-malware-gallery](https://github.com/cxiao/rust-malware-gallery) - A collection of malware families and malware samples which use the Rust programming language.
 - [AeroRust/awesome-space](https://github.com/AeroRust/awesome-space) - List of awesome resources for Aerospace and Rust
+- [caido/caido](https://github.com/caido/caido) - 🚀 Caido releases, wiki and roadmap
 - [b0o/starred](https://github.com/b0o/starred) - 🌟 Maddison's starred repos, updated daily!
 - [Vrixyz/bevy_awesome_prod](https://github.com/Vrixyz/bevy_awesome_prod) - My curated list of projects using bevy in production, preferably with a company or a business model in mind.
 - [Anshorei/awesome-bevy](https://github.com/Anshorei/awesome-bevy) - A collection of awesome Bevy projects
@@ -339,6 +339,29 @@
 
 ## Rust 
 
+- [mila411/rustkuval](https://github.com/mila411/rustkuval) - 
+- [g-plane/raffia](https://github.com/g-plane/raffia) - CSS, Sass, SCSS and Less parser, all in one.
+- [kaj/rsass](https://github.com/kaj/rsass) - Sass reimplemented in rust with nom.
+- [benodiwal/css_forge](https://github.com/benodiwal/css_forge) - 
+- [l1npengtul/nokhwa](https://github.com/l1npengtul/nokhwa) - Cross Platform Rust Library for Powerful Webcam/Camera Capture
+- [CapSoftware/scap](https://github.com/CapSoftware/scap) - High-performance, cross-platform screen capture library in Rust.
+- [p4ymak/egui_code_editor](https://github.com/p4ymak/egui_code_editor) - egui Code Editor widget with numbered lines and syntax highlighting..
+- [PPakalns/egui_taffy](https://github.com/PPakalns/egui_taffy) - Grid, Flexbox, Block layout support for egui using taffy
+- [Yandrik/kolibri](https://github.com/Yandrik/kolibri) - Super-lightweight Immediate-mode Embedded GUI framework, based on the awesome embedded-graphics library. Written in Rust.
+- [TheRustyPickle/egui-theme-lerp](https://github.com/TheRustyPickle/egui-theme-lerp) - An egui lib to animate theme switching between visuals
+- [emilk/eterm](https://github.com/emilk/eterm) - Exeprimental visual terminal for egui
+- [nubiv/dribble](https://github.com/nubiv/dribble) - A Desktop version Peer-to-Peer WebRTC channel. No Signaling Server required. 📡
+- [Syudagye/discord-vc-client](https://github.com/Syudagye/discord-vc-client) - experiements for making some kind of third party discord vc + WebRTC client
+- [Levminer/ezrtc](https://github.com/Levminer/ezrtc) - Easy cross-platform WebRTC communication
+- [pnodet/deezcord](https://github.com/pnodet/deezcord) - webrtc voice chat experimentation
+- [ClusterVMS/rtsp-to-webrtc](https://github.com/ClusterVMS/rtsp-to-webrtc) - Converts an IP camera RTSP stream to a WebRTC stream
+- [JRF63/webrtc-helper](https://github.com/JRF63/webrtc-helper) - Wrapper for webrtc-rs to facilitate custom encoders/decoders
+- [JRF63/desktop-streaming](https://github.com/JRF63/desktop-streaming) - WebRTC desktop streamer using Rust
+- [mara-schulke/webrtc-cam](https://github.com/mara-schulke/webrtc-cam) - A full stack implementation of a simple security camera using a raspberry pi and webrtc.
+- [UE2020/tenebra](https://github.com/UE2020/tenebra) - Tenebra is a remote desktop video-streaming server powered by WebRTC and GStreamer (x264).
+- [abhemanyus/rust-webcam-webrtc](https://github.com/abhemanyus/rust-webcam-webrtc) - Video streaming over webRTC
+- [Plasmakatana/voicechat_rust_webrtc](https://github.com/Plasmakatana/voicechat_rust_webrtc) - 
+- [Glistix/glistix](https://github.com/Glistix/glistix) - Fork of the Gleam compiler providing a Nix backend, compiling Gleam to Nix
 - [pop-os/upower-dbus](https://github.com/pop-os/upower-dbus) - Migrated to https://github.com/pop-os/dbus-settings-bindings
 - [cdown/battery-notify](https://github.com/cdown/battery-notify) - A simple battery notifier for Linux.
 - [waycrate/exwlshelleventloop](https://github.com/waycrate/exwlshelleventloop) - winit like binding for layershell and sessionlock
@@ -680,7 +703,6 @@
 - [alexichepura/bevy_garage](https://github.com/alexichepura/bevy_garage) - Gamelike car simulation playground.
 - [Seldom-SE/seldom_state](https://github.com/Seldom-SE/seldom_state) - Component-based state machine plugin for Bevy. Useful for AI, player state, and other entities that occupy different states.
 - [r4gus/nodus](https://github.com/r4gus/nodus) - A logic gate simulator written in Rust using the Bevy game engine.
-- [starwolves/space](https://github.com/starwolves/space) - Official mirror of the online SCI-FI action game that simulates spaceships in 3D. Built from the ground up to support decentralized game-servers and communities with extensive modding support. Will sh
 - [sburris0/bevy_flycam](https://github.com/sburris0/bevy_flycam) - Basic first-person fly camera for the Bevy game engine
 - [MrGVSV/bevy_proto](https://github.com/MrGVSV/bevy_proto) - Create config files for entities in Bevy
 - [StarArawn/kayak_ui](https://github.com/StarArawn/kayak_ui) - 
@@ -829,6 +851,7 @@
 
 ## TypeScript 
 
+- [ysdragon/StreamBot](https://github.com/ysdragon/StreamBot) - A self bot to stream videos to Discord.
 - [dank074/Discord-video-stream](https://github.com/dank074/Discord-video-stream) - Experiment for making video streaming work for discord selfbots.
 - [kunkunsh/kunkun](https://github.com/kunkunsh/kunkun) - An open source, cross-platform, extensible app launcher.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
@@ -836,7 +859,6 @@
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 - [atilafassina/quantum](https://github.com/atilafassina/quantum) - Tauri + SolidStart. Batteries Included 🔋
-- [caido/caido](https://github.com/caido/caido) - 🚀 Caido releases, wiki and roadmap
 - [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) - 🦀💨 A fast Rspack-based static site generator.
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
@@ -877,6 +899,7 @@
 
 ## Zig 
 
+- [AndreaOrru/zen](https://github.com/AndreaOrru/zen) - Experimental operating system written in Zig
 - [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 
 
