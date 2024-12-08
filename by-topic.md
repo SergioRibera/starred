@@ -370,6 +370,7 @@
 
 ## css 
 
+- [brofrain/unocss-classes-rs](https://github.com/brofrain/unocss-classes-rs) - ⚛️ HTML class builder macro with UnoCSS variant group transformer for Rust web frameworks
 - [kaj/rsass](https://github.com/kaj/rsass) - Sass reimplemented in rust with nom.
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
@@ -599,6 +600,7 @@
 
 ## gamedev 
 
+- [mxpv/openusd](https://github.com/mxpv/openusd) - Native Rust USD library
 - [ryanisaacg/quicksilver](https://github.com/ryanisaacg/quicksilver) - A simple framework for 2D games on desktop and web
 - [17cupsofcoffee/tetra](https://github.com/17cupsofcoffee/tetra) - 🎮 A simple 2D game framework written in Rust
 - [hecrj/coffee](https://github.com/hecrj/coffee) - An opinionated 2D game engine for Rust
@@ -662,7 +664,6 @@
 - [AeroRust/awesome-space](https://github.com/AeroRust/awesome-space) - List of awesome resources for Aerospace and Rust
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) - 🦀💨 A fast Rspack-based static site generator.
-- [Xithrius/twitch-tui](https://github.com/Xithrius/twitch-tui) - Twitch chat in the terminal.
 - [embedded-graphics/embedded-graphics](https://github.com/embedded-graphics/embedded-graphics) - A no_std graphics library for embedded applications
 - [suspistew/scion](https://github.com/suspistew/scion) - Scion is a tiny 2D game library built on top of wgpu and winit, following the KISS principle.
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
@@ -1057,6 +1058,11 @@
 
 ## others 
 
+- [project-robius/robius-authentication](https://github.com/project-robius/robius-authentication) - Rust abstractions for multi-platform native authentication (biometric, fingerprint, password, FaceID, TouchID etc)
+- [project-robius/robius-open](https://github.com/project-robius/robius-open) - Rust abstractions for multi-platform opening of URIs
+- [tyrchen/deno-utils](https://github.com/tyrchen/deno-utils) - 
+- [rs-tml/rcss](https://github.com/rs-tml/rcss) - Rust css parser inside proc-macro
+- [lukidoescode/css-in-rust](https://github.com/lukidoescode/css-in-rust) - Style web components written in Rust with ease.
 - [mila411/rustkuval](https://github.com/mila411/rustkuval) - 
 - [g-plane/raffia](https://github.com/g-plane/raffia) - CSS, Sass, SCSS and Less parser, all in one.
 - [benodiwal/css_forge](https://github.com/benodiwal/css_forge) - 
@@ -1547,6 +1553,12 @@
 
 ## rust 
 
+- [mxpv/openusd](https://github.com/mxpv/openusd) - Native Rust USD library
+- [pykeio/earshot](https://github.com/pykeio/earshot) - Ridiculously fast voice activity detection in pure #[no_std] Rust
+- [pykeio/brainrot](https://github.com/pykeio/brainrot) - Live chat interface for Twitch & YouTube
+- [brofrain/unocss-classes-rs](https://github.com/brofrain/unocss-classes-rs) - ⚛️ HTML class builder macro with UnoCSS variant group transformer for Rust web frameworks
+- [crabnebula-dev/cargo-packager](https://github.com/crabnebula-dev/cargo-packager) - Rust executable packager, bundler and updater.
+- [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
 - [kaj/rsass](https://github.com/kaj/rsass) - Sass reimplemented in rust with nom.
 - [l1npengtul/nokhwa](https://github.com/l1npengtul/nokhwa) - Cross Platform Rust Library for Powerful Webcam/Camera Capture
 - [CapSoftware/scap](https://github.com/CapSoftware/scap) - High-performance, cross-platform screen capture library in Rust.
@@ -1631,7 +1643,7 @@
 - [fishfolk/bones](https://github.com/fishfolk/bones) - An easy-to-use game engine for making real games.
 - [nrf-rs/nrf-hal](https://github.com/nrf-rs/nrf-hal) - A Rust HAL for the nRF family of devices
 - [hoothin/RustClock](https://github.com/hoothin/RustClock) - A digital clock for desktop popup every half hour written in rust, support 20-20-20 rule. 每隔半小時彈出一次的桌面電子時鐘 Windows / Mac
-- [hacknus/serial-monitor-rust](https://github.com/hacknus/serial-monitor-rust) - A cross-plattform serial monitor/plotter written entirely in rust.
+- [hacknus/serial-monitor-rust](https://github.com/hacknus/serial-monitor-rust) - A cross-platform serial monitor/plotter written entirely in rust.
 - [4JX/L5P-Keyboard-RGB](https://github.com/4JX/L5P-Keyboard-RGB) - Cross platform software to control the RGB/lighting of the 4 zone keyboard included in the 2020, 2021, 2022 and 2023 lineup of the Lenovo Legion laptops. Works on Windows and Linux.
 - [nvzqz/divan](https://github.com/nvzqz/divan) - Fast and simple benchmarking for Rust projects
 - [fosskers/cargo-aur](https://github.com/fosskers/cargo-aur) - Prepare Rust projects to be released on the Arch Linux User Repository
@@ -1884,6 +1896,7 @@
 
 ## web 
 
+- [brofrain/unocss-classes-rs](https://github.com/brofrain/unocss-classes-rs) - ⚛️ HTML class builder macro with UnoCSS variant group transformer for Rust web frameworks
 - [kaj/rsass](https://github.com/kaj/rsass) - Sass reimplemented in rust with nom.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
