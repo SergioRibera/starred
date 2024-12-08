@@ -339,6 +339,17 @@
 
 ## Rust 
 
+- [project-robius/robius-authentication](https://github.com/project-robius/robius-authentication) - Rust abstractions for multi-platform native authentication (biometric, fingerprint, password, FaceID, TouchID etc)
+- [project-robius/robius-open](https://github.com/project-robius/robius-open) - Rust abstractions for multi-platform opening of URIs
+- [mxpv/openusd](https://github.com/mxpv/openusd) - Native Rust USD library
+- [pykeio/earshot](https://github.com/pykeio/earshot) - Ridiculously fast voice activity detection in pure #[no_std] Rust
+- [pykeio/brainrot](https://github.com/pykeio/brainrot) - Live chat interface for Twitch & YouTube
+- [brofrain/unocss-classes-rs](https://github.com/brofrain/unocss-classes-rs) - ⚛️ HTML class builder macro with UnoCSS variant group transformer for Rust web frameworks
+- [tyrchen/deno-utils](https://github.com/tyrchen/deno-utils) - 
+- [rs-tml/rcss](https://github.com/rs-tml/rcss) - Rust css parser inside proc-macro
+- [crabnebula-dev/cargo-packager](https://github.com/crabnebula-dev/cargo-packager) - Rust executable packager, bundler and updater.
+- [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
+- [lukidoescode/css-in-rust](https://github.com/lukidoescode/css-in-rust) - Style web components written in Rust with ease.
 - [mila411/rustkuval](https://github.com/mila411/rustkuval) - 
 - [g-plane/raffia](https://github.com/g-plane/raffia) - CSS, Sass, SCSS and Less parser, all in one.
 - [kaj/rsass](https://github.com/kaj/rsass) - Sass reimplemented in rust with nom.
@@ -547,7 +558,7 @@
 - [nrf-rs/nrf-hal](https://github.com/nrf-rs/nrf-hal) - A Rust HAL for the nRF family of devices
 - [hoothin/RustClock](https://github.com/hoothin/RustClock) - A digital clock for desktop popup every half hour written in rust, support 20-20-20 rule. 每隔半小時彈出一次的桌面電子時鐘 Windows / Mac
 - [shouya/malakal](https://github.com/shouya/malakal) - Minimalistic day-planner app
-- [hacknus/serial-monitor-rust](https://github.com/hacknus/serial-monitor-rust) - A cross-plattform serial monitor/plotter written entirely in rust.
+- [hacknus/serial-monitor-rust](https://github.com/hacknus/serial-monitor-rust) - A cross-platform serial monitor/plotter written entirely in rust.
 - [grantshandy/claui](https://github.com/grantshandy/claui) - A GUI generator for clap-rs using egui
 - [4JX/L5P-Keyboard-RGB](https://github.com/4JX/L5P-Keyboard-RGB) - Cross platform software to control the RGB/lighting of the 4 zone keyboard included in the 2020, 2021, 2022 and 2023 lineup of the Lenovo Legion laptops. Works on Windows and Linux.
 - [nvzqz/divan](https://github.com/nvzqz/divan) - Fast and simple benchmarking for Rust projects
