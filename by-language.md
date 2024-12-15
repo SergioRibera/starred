@@ -287,6 +287,7 @@
 
 ## Others 
 
+- [jamesmunns/awesome-rust-streaming](https://github.com/jamesmunns/awesome-rust-streaming) - A community curated list of Rust Language streamers
 - [ImplFerris/LearnRust](https://github.com/ImplFerris/LearnRust) - Rust Learning Resources
 - [waydeerwm/layer-shika](https://github.com/waydeerwm/layer-shika) - [Mirror] A library to create desktop components for wayland using the layer shell and Slint GUI
 - [cxiao/rust-malware-gallery](https://github.com/cxiao/rust-malware-gallery) - A collection of malware families and malware samples which use the Rust programming language.
@@ -318,6 +319,7 @@
 
 ## Python 
 
+- [bm-mit/key-caster](https://github.com/bm-mit/key-caster) - An on-screen key stroke displayer app for Linux inspired by keycastr
 - [pydantic/pydantic-core](https://github.com/pydantic/pydantic-core) - Core validation logic for pydantic written in rust
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
 - [GradienceTeam/Gradience](https://github.com/GradienceTeam/Gradience) - Change the look of Adwaita, with ease
@@ -339,6 +341,7 @@
 
 ## Rust 
 
+- [Leinnan/lwa_fm](https://github.com/Leinnan/lwa_fm) - File Manager built with egui in Rust
 - [project-robius/robius-authentication](https://github.com/project-robius/robius-authentication) - Rust abstractions for multi-platform native authentication (biometric, fingerprint, password, FaceID, TouchID etc)
 - [project-robius/robius-open](https://github.com/project-robius/robius-open) - Rust abstractions for multi-platform opening of URIs
 - [mxpv/openusd](https://github.com/mxpv/openusd) - Native Rust USD library
@@ -626,7 +629,7 @@
 - [josfeenstra/hedron](https://github.com/josfeenstra/hedron) - An all-in-one 3D modelling library, written in Rust
 - [HugoPeters1024/vk_rays](https://github.com/HugoPeters1024/vk_rays) - Vulkan RTX rendering backend for the Bevy game engine written in Rust
 - [InnocentusLime/bevy-tilemap-editor-pls](https://github.com/InnocentusLime/bevy-tilemap-editor-pls) - A simple extension for `bevy-editor-pls` to support tilemap editing right inside the bevy app.
-- [nashaofu/xcap](https://github.com/nashaofu/xcap) - XCap is a cross-platform screen capture library written in Rust. It supports Linux (X11, Wayland), MacOS, and Windows. XCap supports screenshot and video recording (to be implemented).
+- [nashaofu/xcap](https://github.com/nashaofu/xcap) - XCap is a cross-platform screen capture library written in Rust. It supports Linux (X11, Wayland), MacOS, and Windows. XCap supports screenshot and video recording (WIP).
 - [titanclass/yew-chart](https://github.com/titanclass/yew-chart) - 
 - [pedrodesu/yew-feather](https://github.com/pedrodesu/yew-feather) - Yew components for Feather icons
 - [denoland/fastwebsockets](https://github.com/denoland/fastwebsockets) - A fast RFC6455 WebSocket implementation
