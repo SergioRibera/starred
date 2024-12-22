@@ -170,6 +170,7 @@
 
 ## Haskell 
 
+- [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center) - A notification daemon/center for linux
 - [lucalabs-de/end](https://github.com/lucalabs-de/end) - Lightweight notification daemon displaying notifications as EWW widgets
 
 ## JavaScript 
@@ -341,6 +342,11 @@
 
 ## Rust 
 
+- [hyprutils/hyprgui](https://github.com/hyprutils/hyprgui) - GUI for configuring Hyprland, written in blazingly fast Rust! 🚀🦀
+- [iovxw/ksni](https://github.com/iovxw/ksni) - A Rust implementation of the KDE/freedesktop StatusNotifierItem specification
+- [TheOnlyMrCat/runscript](https://github.com/TheOnlyMrCat/runscript) - A tool to manage a project's build and run commands
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+- [SludgePhD/Blues](https://github.com/SludgePhD/Blues) - Harald's monster
 - [Leinnan/lwa_fm](https://github.com/Leinnan/lwa_fm) - File Manager built with egui in Rust
 - [project-robius/robius-authentication](https://github.com/project-robius/robius-authentication) - Rust abstractions for multi-platform native authentication (biometric, fingerprint, password, FaceID, TouchID etc)
 - [project-robius/robius-open](https://github.com/project-robius/robius-open) - Rust abstractions for multi-platform opening of URIs
@@ -865,6 +871,7 @@
 
 ## TypeScript 
 
+- [Occult-Chat/Occult-UI](https://github.com/Occult-Chat/Occult-UI) - 
 - [ysdragon/StreamBot](https://github.com/ysdragon/StreamBot) - A self bot to stream videos to Discord.
 - [dank074/Discord-video-stream](https://github.com/dank074/Discord-video-stream) - Experiment for making video streaming work for discord selfbots.
 - [kunkunsh/kunkun](https://github.com/kunkunsh/kunkun) - An open source, cross-platform, extensible app launcher.
