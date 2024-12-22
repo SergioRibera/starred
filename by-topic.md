@@ -434,6 +434,7 @@
 
 ## docker 
 
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [mrjackwills/oxker](https://github.com/mrjackwills/oxker) - A simple tui to view & control docker containers
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
@@ -655,6 +656,7 @@
 
 ## hacktoberfest 
 
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [TheRustyPickle/egui-theme-lerp](https://github.com/TheRustyPickle/egui-theme-lerp) - An egui lib to animate theme switching between visuals
 - [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance rust-powered UI layout library
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
@@ -699,6 +701,7 @@
 
 ## haskell 
 
+- [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center) - A notification daemon/center for linux
 - [lucalabs-de/end](https://github.com/lucalabs-de/end) - Lightweight notification daemon displaying notifications as EWW widgets
 - [mlabs-haskell/proto.nix](https://github.com/mlabs-haskell/proto.nix) - Nix utilities for generating language-specific bindings from Google Protocol Buffers .proto files.
 
@@ -828,6 +831,7 @@
 
 ## linux 
 
+- [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center) - A notification daemon/center for linux
 - [l1npengtul/nokhwa](https://github.com/l1npengtul/nokhwa) - Cross Platform Rust Library for Powerful Webcam/Camera Capture
 - [l1na-forever/mpris-notifier](https://github.com/l1na-forever/mpris-notifier) - Dependency-light, highly-customizable, XDG desktop notification generator for 🎶🎵 MPRIS status changes 🎹
 - [vars1ty/HybridBar](https://github.com/vars1ty/HybridBar) - A status bar focused on wlroots Wayland compositors
@@ -1065,6 +1069,10 @@
 
 ## others 
 
+- [iovxw/ksni](https://github.com/iovxw/ksni) - A Rust implementation of the KDE/freedesktop StatusNotifierItem specification
+- [TheOnlyMrCat/runscript](https://github.com/TheOnlyMrCat/runscript) - A tool to manage a project's build and run commands
+- [Occult-Chat/Occult-UI](https://github.com/Occult-Chat/Occult-UI) - 
+- [SludgePhD/Blues](https://github.com/SludgePhD/Blues) - Harald's monster
 - [jamesmunns/awesome-rust-streaming](https://github.com/jamesmunns/awesome-rust-streaming) - A community curated list of Rust Language streamers
 - [bm-mit/key-caster](https://github.com/bm-mit/key-caster) - An on-screen key stroke displayer app for Linux inspired by keycastr
 - [project-robius/robius-authentication](https://github.com/project-robius/robius-authentication) - Rust abstractions for multi-platform native authentication (biometric, fingerprint, password, FaceID, TouchID etc)
@@ -1562,6 +1570,8 @@
 
 ## rust 
 
+- [hyprutils/hyprgui](https://github.com/hyprutils/hyprgui) - GUI for configuring Hyprland, written in blazingly fast Rust! 🚀🦀
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [Leinnan/lwa_fm](https://github.com/Leinnan/lwa_fm) - File Manager built with egui in Rust
 - [mxpv/openusd](https://github.com/mxpv/openusd) - Native Rust USD library
 - [pykeio/earshot](https://github.com/pykeio/earshot) - Ridiculously fast voice activity detection in pure #[no_std] Rust
