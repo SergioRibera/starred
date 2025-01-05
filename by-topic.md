@@ -148,6 +148,7 @@
 - [sass](#sass)
 - [security](#security)
 - [security-tools](#security-tools)
+- [self-hosted](#self-hosted)
 - [serverless](#serverless)
 - [shell](#shell)
 - [svelte](#svelte)
@@ -301,6 +302,7 @@
 
 ## cli 
 
+- [next-hat/nanocl](https://github.com/next-hat/nanocl) - Work in progress distributed system that simplifies the orchestration of containers and virtual machines.
 - [viperML/nh](https://github.com/viperML/nh) - Yet another nix cli helper
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
 - [wadackel/promptuity](https://github.com/wadackel/promptuity) - Promptuity is a library that provides interactive prompts.
@@ -658,6 +660,7 @@
 
 ## hacktoberfest 
 
+- [next-hat/nanocl](https://github.com/next-hat/nanocl) - Work in progress distributed system that simplifies the orchestration of containers and virtual machines.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [TheRustyPickle/egui-theme-lerp](https://github.com/TheRustyPickle/egui-theme-lerp) - An egui lib to animate theme switching between visuals
 - [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance rust-powered UI layout library
@@ -764,7 +767,7 @@
 ## javascript 
 
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
-- [nehu3n/qipi](https://github.com/nehu3n/qipi) - 🦉 The blazing-fast, disk-efficient and deterministic package manager.
+- [nehu3n/qipi](https://github.com/nehu3n/qipi) - 🦉 An extremely fast and disk-efficient package manager written in Rust.
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [ShareDropio/sharedrop](https://github.com/ShareDropio/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
@@ -1014,13 +1017,13 @@
 
 ## node 
 
-- [nehu3n/qipi](https://github.com/nehu3n/qipi) - 🦉 The blazing-fast, disk-efficient and deterministic package manager.
+- [nehu3n/qipi](https://github.com/nehu3n/qipi) - 🦉 An extremely fast and disk-efficient package manager written in Rust.
 - [dimensionhq/volt](https://github.com/dimensionhq/volt) - An experimental package management tool for JavaScript. Upto 30x faster installation of dependencies using pre-flattened dependency trees.
 
 ## nodejs 
 
 - [ysdragon/StreamBot](https://github.com/ysdragon/StreamBot) - A self bot to stream videos to Discord.
-- [nehu3n/qipi](https://github.com/nehu3n/qipi) - 🦉 The blazing-fast, disk-efficient and deterministic package manager.
+- [nehu3n/qipi](https://github.com/nehu3n/qipi) - 🦉 An extremely fast and disk-efficient package manager written in Rust.
 - [Sairyss/backend-best-practices](https://github.com/Sairyss/backend-best-practices) - Best practices, tools and guidelines for backend development. Code examples in TypeScript + NodeJS
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 - [getnamo/SocketIOClient-Unreal](https://github.com/getnamo/SocketIOClient-Unreal) - Socket.IO client plugin for the Unreal Engine.
@@ -1031,7 +1034,7 @@
 
 ## npm 
 
-- [nehu3n/qipi](https://github.com/nehu3n/qipi) - 🦉 The blazing-fast, disk-efficient and deterministic package manager.
+- [nehu3n/qipi](https://github.com/nehu3n/qipi) - 🦉 An extremely fast and disk-efficient package manager written in Rust.
 
 ## objective-c 
 
@@ -1255,7 +1258,7 @@
 - [Vrixyz/bevy_awesome_prod](https://github.com/Vrixyz/bevy_awesome_prod) - My curated list of projects using bevy in production, preferably with a company or a business model in mind.
 - [DublikuntMux/bevy_asset_packer](https://github.com/DublikuntMux/bevy_asset_packer) - 
 - [laundmo/bevy_screen_diagnostics](https://github.com/laundmo/bevy_screen_diagnostics) - On-screen diagnostics
-- [aevyrie/big_space](https://github.com/aevyrie/big_space) - Floating origin plugin for spaces larger than the universe
+- [aevyrie/big_space](https://github.com/aevyrie/big_space) - When 32-bit worlds just aren't big enough
 - [TotalKrill/bevy_mod_reqwest](https://github.com/TotalKrill/bevy_mod_reqwest) - 
 - [ErnWong/crystalorb](https://github.com/ErnWong/crystalorb) - Network-agnostic, high-level game networking library for client-side prediction and server reconciliation (unconditional rollback).
 - [DGriffin91/bevy_mod_mipmap_generator](https://github.com/DGriffin91/bevy_mod_mipmap_generator) - A basic mipmap generator for bevy
@@ -1470,7 +1473,7 @@
 
 ## package-manager 
 
-- [nehu3n/qipi](https://github.com/nehu3n/qipi) - 🦉 The blazing-fast, disk-efficient and deterministic package manager.
+- [nehu3n/qipi](https://github.com/nehu3n/qipi) - 🦉 An extremely fast and disk-efficient package manager written in Rust.
 - [dimensionhq/volt](https://github.com/dimensionhq/volt) - An experimental package management tool for JavaScript. Upto 30x faster installation of dependencies using pre-flattened dependency trees.
 
 ## parsing 
@@ -1799,6 +1802,10 @@
 ## security-tools 
 
 - [pumpbin/pumpbin](https://github.com/pumpbin/pumpbin) - 🎃 PumpBin is an Implant Generation Platform.
+
+## self-hosted 
+
+- [next-hat/nanocl](https://github.com/next-hat/nanocl) - Work in progress distributed system that simplifies the orchestration of containers and virtual machines.
 
 ## serverless 
 
