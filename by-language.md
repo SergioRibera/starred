@@ -21,6 +21,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [Liquid](#liquid)
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
@@ -218,6 +219,10 @@
 
 - [mozilla/rust-android-gradle](https://github.com/mozilla/rust-android-gradle) - 
 
+## Liquid 
+
+- [laundmo/simple_bevy_template](https://github.com/laundmo/simple_bevy_template) - cargo-generate template for a very simple bevy project. No conditionals, fast compiles active, only bevy.
+
 ## Lua 
 
 - [NStefan002/screenkey.nvim](https://github.com/NStefan002/screenkey.nvim) - Screencast your keys in Neovim
@@ -237,7 +242,7 @@
 - [numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - :fire: No-nonsense floating terminal plugin for neovim :fire:
 - [simrat39/rust-tools.nvim](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in rust using neovim's builtin lsp
 - [nvim-flutter/flutter-tools.nvim](https://github.com/nvim-flutter/flutter-tools.nvim) - Tools to help create flutter apps in neovim using the native lsp
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
 - [eromatiya/the-glorious-dotfiles](https://github.com/eromatiya/the-glorious-dotfiles) - A glorified personal dot files
 
@@ -342,6 +347,14 @@
 
 ## Rust 
 
+- [zakarumych/shader-data](https://github.com/zakarumych/shader-data) - A lib to communicate rust types to shader types
+- [MichalGniadek/klask](https://github.com/MichalGniadek/klask) - Automatically create GUI applications from clap3 apps
+- [podusowski/walkers](https://github.com/podusowski/walkers) - slippy map (openstreetmap) widget for egui
+- [hdpotter/shaderunner](https://github.com/hdpotter/shaderunner) - Rust rendering layer on top of wgpu, winit, and egui.
+- [Swiiz/autoparser](https://github.com/Swiiz/autoparser) - 🦀 Generate Recursive Descent Parser using Rust macros.
+- [eero-lehtinen/oklch-color-picker](https://github.com/eero-lehtinen/oklch-color-picker) - A standalone color picker application
+- [simalei/stenbug](https://github.com/simalei/stenbug) - Simple wallpaper utility based on Wallhaven API
+- [JesproKing/bevy_pixelated_3d](https://github.com/JesproKing/bevy_pixelated_3d) - A project to convert any 3d world into a game that looks like pixelart, with builtin outlines based on depth and normal textures.
 - [next-hat/nanocl](https://github.com/next-hat/nanocl) - Work in progress distributed system that simplifies the orchestration of containers and virtual machines.
 - [catacombing/catacomb](https://github.com/catacombing/catacomb) - A Wayland Mobile Compositor
 - [ry-sev/spotify_web_api](https://github.com/ry-sev/spotify_web_api) - A wrapper for the Spotify Web API
