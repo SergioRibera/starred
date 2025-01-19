@@ -12,8 +12,10 @@
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
 - [Cython](#cython)
+- [Dart](#dart)
 - [Elixir](#elixir)
 - [GLSL](#glsl)
+- [Gleam](#gleam)
 - [Go](#go)
 - [HLSL](#hlsl)
 - [HTML](#html)
@@ -109,7 +111,7 @@
 - [SkillerRaptor/hyper_engine](https://github.com/SkillerRaptor/hyper_engine) - Hyper Vulkan Game Engine
 - [hyprwm/hyprpicker](https://github.com/hyprwm/hyprpicker) - A wlroots-compatible Wayland color picker that does not suck.
 - [ed-asriyan/lottie-converter](https://github.com/ed-asriyan/lottie-converter) - Converts Lottie Animations (.json / .lottie) and Telegram stickers (*.tgs) to GIF / PNG / APNG / WEBP / WEBM
-- [BrutPitt/glslSmartDeNoise](https://github.com/BrutPitt/glslSmartDeNoise) - Fast glsl deNoise spatial filter, with circular gaussian kernel, full configurable
+- [BrutPitt/glslSmartDeNoise](https://github.com/BrutPitt/glslSmartDeNoise) - Fast GPU deNoise spatial filter, with circular gaussian kernel, full configurable
 - [dfranx/SHADERed](https://github.com/dfranx/SHADERed) - Lightweight, cross-platform & full-featured shader IDE
 - [thedmd/imgui-node-editor](https://github.com/thedmd/imgui-node-editor) - Node Editor built using Dear ImGui
 - [keyboardio/Kaleidoscope](https://github.com/keyboardio/Kaleidoscope) - Firmware for Keyboardio keyboards and other keyboards with AVR or ARM MCUs.
@@ -145,6 +147,10 @@
 
 - [eliemichel/LilySurfaceScraper](https://github.com/eliemichel/LilySurfaceScraper) - Import shaders end environments in Blender from a single URL
 
+## Dart 
+
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+
 ## Elixir 
 
 - [losvedir/transit-lang-cmp](https://github.com/losvedir/transit-lang-cmp) - Programming language comparison by reimplementing the same transit data app
@@ -152,6 +158,10 @@
 ## GLSL 
 
 - [genekogan/Processing-Shader-Examples](https://github.com/genekogan/Processing-Shader-Examples) - A collection of GLSL shaders and how to use them in Processing sketches
+
+## Gleam 
+
+- [IogaMaster/blizzard](https://github.com/IogaMaster/blizzard) - 🌨️ Install a nixos system remotely or in place
 
 ## Go 
 
@@ -257,6 +267,7 @@
 
 ## Nix 
 
+- [oddlama/nix-topology](https://github.com/oddlama/nix-topology) - 🍁 Generate infrastructure and network diagrams directly from your NixOS configurations
 - [Grandkahuna43325/tauri-mobile-nixos-template](https://github.com/Grandkahuna43325/tauri-mobile-nixos-template) - Template for tauri android development on NixOS
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
 - [DeterminateSystems/nix-wasm-example](https://github.com/DeterminateSystems/nix-wasm-example) - 
@@ -347,6 +358,13 @@
 
 ## Rust 
 
+- [afonsolage/bevy_ecss](https://github.com/afonsolage/bevy_ecss) - Bevy crate which uses a subset of CSS to update Bevy ECS components
+- [villor/bevy_lookup_curve](https://github.com/villor/bevy_lookup_curve) - Editable lookup curve for Bevy
+- [BlackPhlox/bevy_dolly](https://github.com/BlackPhlox/bevy_dolly) - h3r2tic's dolly abstraction layer for the bevy game framework
+- [rewin123/space_editor](https://github.com/rewin123/space_editor) - bevy prefab editor
+- [Lommix/bevy_enoki](https://github.com/Lommix/bevy_enoki) - 2D particle system with custom material traits. Works well in wasm webgl2 and mobile
+- [rustunit/bevy_ios_review](https://github.com/rustunit/bevy_ios_review) - Bevy Plugin to request an iOS App Review
+- [loopystudios/bevy_rtc](https://github.com/loopystudios/bevy_rtc) - A simple, multi-platform WebRTC networking library for client&lt;-&gt;server topologies using Bevy.
 - [zakarumych/shader-data](https://github.com/zakarumych/shader-data) - A lib to communicate rust types to shader types
 - [MichalGniadek/klask](https://github.com/MichalGniadek/klask) - Automatically create GUI applications from clap3 apps
 - [podusowski/walkers](https://github.com/podusowski/walkers) - slippy map (openstreetmap) widget for egui
@@ -434,7 +452,7 @@
 - [xou816/spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
 - [decipher3114/Capter](https://github.com/decipher3114/Capter) - A simple cross-platform screenshot tool made in rust
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
-- [RibirX/Ribir](https://github.com/RibirX/Ribir) - Non-intrusive GUI framework for Rust
+- [RibirX/Ribir](https://github.com/RibirX/Ribir) - Non-intrusive GUI framework for Rust/WASM
 - [khonsulabs/cushy](https://github.com/khonsulabs/cushy) - An experimental cross-platform graphical user interface (GUI) crate for Rust.
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [rharish101/ReGreet](https://github.com/rharish101/ReGreet) - Clean and customizable greeter for greetd
