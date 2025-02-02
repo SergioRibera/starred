@@ -276,7 +276,7 @@
 
 ## bot 
 
-- [dank074/Discord-video-stream](https://github.com/dank074/Discord-video-stream) - Experiment for making video streaming work for discord selfbots.
+- [Discord-RE/Discord-video-stream](https://github.com/Discord-RE/Discord-video-stream) - Experiment for making video streaming work for discord selfbots.
 - [FlamesX-128/BoTex](https://github.com/FlamesX-128/BoTex) - This bot allows rendering LaTeX expressions directly in Discord, making it easier to visualize mathematical formulas and scientific notation.
 - [sodiboo/custom-highlight](https://github.com/sodiboo/custom-highlight) - Custom syntax highlighting on discord
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
@@ -431,7 +431,7 @@
 
 - [ysdragon/StreamBot](https://github.com/ysdragon/StreamBot) - A self bot to stream videos to Discord.
 - [arihant-jain-09/discord-clone](https://github.com/arihant-jain-09/discord-clone) - Discord (with unique roles in each server, image, audio sharing, auto render video links in messages, discord loading logo between page renderings)  with React, React Router, Material UI, SASS, Styled
-- [dank074/Discord-video-stream](https://github.com/dank074/Discord-video-stream) - Experiment for making video streaming work for discord selfbots.
+- [Discord-RE/Discord-video-stream](https://github.com/Discord-RE/Discord-video-stream) - Experiment for making video streaming work for discord selfbots.
 - [FlamesX-128/BoTex](https://github.com/FlamesX-128/BoTex) - This bot allows rendering LaTeX expressions directly in Discord, making it easier to visualize mathematical formulas and scientific notation.
 - [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion) - Tiny alternative Discord client with a smaller footprint, snappier startup, themes, plugins and more!
 - [sodiboo/custom-highlight](https://github.com/sodiboo/custom-highlight) - Custom syntax highlighting on discord
@@ -882,6 +882,7 @@
 ## llm 
 
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 
 ## localization 
 
@@ -1083,6 +1084,7 @@
 
 ## others 
 
+- [amachang/system_status_bar_macos](https://github.com/amachang/system_status_bar_macos) - Library for interacting with the system's status bar for macOS
 - [MatrixRex/Uber-Stylized-Water](https://github.com/MatrixRex/Uber-Stylized-Water) - An highly customizable stylized water shader for Unity 6
 - [oddlama/nix-topology](https://github.com/oddlama/nix-topology) - 🍁 Generate infrastructure and network diagrams directly from your NixOS configurations
 - [afonsolage/bevy_ecss](https://github.com/afonsolage/bevy_ecss) - Bevy crate which uses a subset of CSS to update Bevy ECS components
@@ -1613,7 +1615,7 @@
 - [kaj/rsass](https://github.com/kaj/rsass) - Sass reimplemented in rust with nom.
 - [l1npengtul/nokhwa](https://github.com/l1npengtul/nokhwa) - Cross Platform Rust Library for Powerful Webcam/Camera Capture
 - [CapSoftware/scap](https://github.com/CapSoftware/scap) - High-performance, cross-platform screen capture library in Rust.
-- [cyypherus/lilt](https://github.com/cyypherus/lilt) - A simple, dependency free library for running interruptable, transition based animations as a function of time.
+- [cyypherus/lilt](https://github.com/cyypherus/lilt) - A simple library for running interruptable, transition based animations as a function of time.
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance rust-powered UI layout library
 - [ImplFerris/LearnRust](https://github.com/ImplFerris/LearnRust) - Rust Learning Resources
@@ -1897,6 +1899,7 @@
 
 ## typescript 
 
+- [kunkunsh/kunkun](https://github.com/kunkunsh/kunkun) - An open source, cross-platform, extensible app launcher.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 - [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust
