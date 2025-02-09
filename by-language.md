@@ -358,6 +358,7 @@
 
 ## Rust 
 
+- [GREsau/schemars](https://github.com/GREsau/schemars) - Generate JSON Schema documents from Rust code
 - [amachang/system_status_bar_macos](https://github.com/amachang/system_status_bar_macos) - Library for interacting with the system's status bar for macOS
 - [afonsolage/bevy_ecss](https://github.com/afonsolage/bevy_ecss) - Bevy crate which uses a subset of CSS to update Bevy ECS components
 - [villor/bevy_lookup_curve](https://github.com/villor/bevy_lookup_curve) - Editable lookup curve for Bevy
@@ -605,7 +606,7 @@
 - [grantshandy/claui](https://github.com/grantshandy/claui) - A GUI generator for clap-rs using egui
 - [4JX/L5P-Keyboard-RGB](https://github.com/4JX/L5P-Keyboard-RGB) - Cross platform software to control the RGB/lighting of the 4 zone keyboard included in the 2020, 2021, 2022, 2023 and 2024 lineup of the Lenovo Legion laptops. Works on Windows and Linux.
 - [nvzqz/divan](https://github.com/nvzqz/divan) - Fast and simple benchmarking for Rust projects
-- [fosskers/cargo-aur](https://github.com/fosskers/cargo-aur) - Prepare Rust projects to be released on the Arch Linux User Repository
+- [fosskers/cargo-aur](https://github.com/fosskers/cargo-aur) - Prepare Rust projects to be released on the Arch Linux User Repository.
 - [goddtriffin/sitemap-rs](https://github.com/goddtriffin/sitemap-rs) - A Rust library to generate URL, Index, Image, Video, and News sitemaps.
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
 - [juliendecharentenay/derive-sql](https://github.com/juliendecharentenay/derive-sql) - 
