@@ -675,7 +675,7 @@
 - [release-plz/release-plz](https://github.com/release-plz/release-plz) - Publish Rust crates from CI with a Release PR.
 - [AeroRust/awesome-space](https://github.com/AeroRust/awesome-space) - List of awesome resources for Aerospace and Rust
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
-- [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) - 🦀💨 A fast Rspack-based static site generator.
+- [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) - 🦀 A fast Rsbuild-based static site generator.
 - [embedded-graphics/embedded-graphics](https://github.com/embedded-graphics/embedded-graphics) - A no_std graphics library for embedded applications
 - [suspistew/scion](https://github.com/suspistew/scion) - Scion is a tiny 2D game library built on top of wgpu and winit, following the KISS principle.
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
@@ -942,7 +942,7 @@
 
 ## markdown 
 
-- [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) - 🦀💨 A fast Rspack-based static site generator.
+- [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) - 🦀 A fast Rsbuild-based static site generator.
 - [ollej/rusty-slider](https://github.com/ollej/rusty-slider) - A small tool to display markdown files as a slideshow written in Rust.
 - [stejul/editorjs-markdown-parser](https://github.com/stejul/editorjs-markdown-parser) - A simple Markdown Importer/Exporter for EditorJS
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
@@ -1084,6 +1084,9 @@
 
 ## others 
 
+- [mainmatter/eserde](https://github.com/mainmatter/eserde) - Just like `serde`, but with more exhaustive error reporting capabilities. Designed for public API payloads.
+- [NeoCogi/microui-redux](https://github.com/NeoCogi/microui-redux) - Idiomatic Rust MicroUI port
+- [lapce/tiron](https://github.com/lapce/tiron) - Reasonable Automation Engine
 - [amachang/system_status_bar_macos](https://github.com/amachang/system_status_bar_macos) - Library for interacting with the system's status bar for macOS
 - [MatrixRex/Uber-Stylized-Water](https://github.com/MatrixRex/Uber-Stylized-Water) - An highly customizable stylized water shader for Unity 6
 - [oddlama/nix-topology](https://github.com/oddlama/nix-topology) - 🍁 Generate infrastructure and network diagrams directly from your NixOS configurations
@@ -1097,7 +1100,7 @@
 - [hdpotter/shaderunner](https://github.com/hdpotter/shaderunner) - Rust rendering layer on top of wgpu, winit, and egui.
 - [eero-lehtinen/oklch-color-picker](https://github.com/eero-lehtinen/oklch-color-picker) - A standalone color picker application
 - [JesproKing/bevy_pixelated_3d](https://github.com/JesproKing/bevy_pixelated_3d) - A project to convert any 3d world into a game that looks like pixelart, with builtin outlines based on depth and normal textures.
-- [laundmo/simple_bevy_template](https://github.com/laundmo/simple_bevy_template) - cargo-generate template for a very simple bevy project. No conditionals, fast compiles active, only bevy.
+- [laundmo/simple_bevy_template](https://github.com/laundmo/simple_bevy_template) - cargo-generate template for a very simple bevy project. No optional features, fast compiles active, only bevy.
 - [catacombing/catacomb](https://github.com/catacombing/catacomb) - A Wayland Mobile Compositor
 - [iovxw/ksni](https://github.com/iovxw/ksni) - A Rust implementation of the KDE/freedesktop StatusNotifierItem specification
 - [TheOnlyMrCat/runscript](https://github.com/TheOnlyMrCat/runscript) - A tool to manage a project's build and run commands
@@ -1465,7 +1468,7 @@
 - [Artanidos/AnimationMaker](https://github.com/Artanidos/AnimationMaker) - Create animated presentations and export them to a video or xml file.
 - [yzhou359/MakeItTalk](https://github.com/yzhou359/MakeItTalk) - 
 - [SebLague/Solar-System](https://github.com/SebLague/Solar-System) - Simple solar system experiment
-- [exploit-development/iOS-Hacktivation-Toolkit](https://github.com/exploit-development/iOS-Hacktivation-Toolkit) - iOS Hacktivation Toolkit
+- [intelligencegroup-io/iOS-Hacktivation-Toolkit](https://github.com/intelligencegroup-io/iOS-Hacktivation-Toolkit) - iOS Hacktivation Toolkit
 - [ihucos/zpkg](https://github.com/ihucos/zpkg) - Install packages from other distributions
 - [react-native-skia/react-native-skia](https://github.com/react-native-skia/react-native-skia) - Cross platform React Native solution to draw graphics based on Skia
 - [fundamelon/terminal-game-tutorial](https://github.com/fundamelon/terminal-game-tutorial) - step by step game things
