@@ -231,7 +231,7 @@
 
 ## Liquid 
 
-- [laundmo/simple_bevy_template](https://github.com/laundmo/simple_bevy_template) - cargo-generate template for a very simple bevy project. No conditionals, fast compiles active, only bevy.
+- [laundmo/simple_bevy_template](https://github.com/laundmo/simple_bevy_template) - cargo-generate template for a very simple bevy project. No optional features, fast compiles active, only bevy.
 
 ## Lua 
 
@@ -250,6 +250,7 @@
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim
 - [Theory-of-Everything/nii-nvim](https://github.com/Theory-of-Everything/nii-nvim) - A minimal neovim configuration
 - [numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - :fire: No-nonsense floating terminal plugin for neovim :fire:
+- [kristijanhusak/neovim-config](https://github.com/kristijanhusak/neovim-config) - Neovim configuration
 - [simrat39/rust-tools.nvim](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in rust using neovim's builtin lsp
 - [nvim-flutter/flutter-tools.nvim](https://github.com/nvim-flutter/flutter-tools.nvim) - Tools to help create flutter apps in neovim using the native lsp
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
@@ -358,6 +359,9 @@
 
 ## Rust 
 
+- [mainmatter/eserde](https://github.com/mainmatter/eserde) - Just like `serde`, but with more exhaustive error reporting capabilities. Designed for public API payloads.
+- [NeoCogi/microui-redux](https://github.com/NeoCogi/microui-redux) - Idiomatic Rust MicroUI port
+- [lapce/tiron](https://github.com/lapce/tiron) - Reasonable Automation Engine
 - [GREsau/schemars](https://github.com/GREsau/schemars) - Generate JSON Schema documents from Rust code
 - [amachang/system_status_bar_macos](https://github.com/amachang/system_status_bar_macos) - Library for interacting with the system's status bar for macOS
 - [afonsolage/bevy_ecss](https://github.com/afonsolage/bevy_ecss) - Bevy crate which uses a subset of CSS to update Bevy ECS components
@@ -889,8 +893,7 @@
 - [s4vitar/wifiCrack](https://github.com/s4vitar/wifiCrack) - Herramienta hecha en Bash ideal para automatizar ataques WiFi (WPA/WPA2 - PSK) destinados a la obtención de la contraseña.
 - [CodigoCristo/crisparch](https://github.com/CodigoCristo/crisparch) - Script instalar arch para usuarios
 - [CyberShadow/aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
-- [kristijanhusak/neovim-config](https://github.com/kristijanhusak/neovim-config) - Neovim configuration
-- [exploit-development/iOS-Hacktivation-Toolkit](https://github.com/exploit-development/iOS-Hacktivation-Toolkit) - iOS Hacktivation Toolkit
+- [intelligencegroup-io/iOS-Hacktivation-Toolkit](https://github.com/intelligencegroup-io/iOS-Hacktivation-Toolkit) - iOS Hacktivation Toolkit
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 - [carnager/teiler](https://github.com/carnager/teiler) - Little script for screenshots and screencasts utilizing rofi, maim, ffmpeg
 - [mxhectorvega/installarch](https://github.com/mxhectorvega/installarch) - Script automatizado que instala entornos de escritorio minimalistas y gestores de ventanas en instalaciones limpias de archlinux echas por archinstall (asistente oficial de instalacion).
@@ -916,7 +919,7 @@
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 - [atilafassina/quantum](https://github.com/atilafassina/quantum) - Tauri + SolidStart. Batteries Included 🔋
-- [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) - 🦀💨 A fast Rspack-based static site generator.
+- [web-infra-dev/rspress](https://github.com/web-infra-dev/rspress) - 🦀 A fast Rsbuild-based static site generator.
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
 - [SeakMengs/WindowPet](https://github.com/SeakMengs/WindowPet) - Pet overlay app built with tauri and react that lets you have adorable companion such as pets, anime characters on your screen.
