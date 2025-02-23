@@ -548,7 +548,7 @@
 - [jrmuizel/raqote](https://github.com/jrmuizel/raqote) - Rust 2D graphics library
 - [hecrj/coffee](https://github.com/hecrj/coffee) - An opinionated 2D game engine for Rust
 - [khonsulabs/kludgine](https://github.com/khonsulabs/kludgine) - A kludgey 2d game engine written in Rust atop wgpu
-- [suspistew/scion](https://github.com/suspistew/scion) - Scion is a tiny 2D game library built on top of wgpu and winit, following the KISS principle.
+- [jerthz/scion](https://github.com/jerthz/scion) - Scion is a tiny 2D game library built on top of wgpu and winit, following the KISS principle.
 - [StarArawn/harmony](https://github.com/StarArawn/harmony) - A modern 3D/2D game engine that uses wgpu.
 - [RustAudio/rodio](https://github.com/RustAudio/rodio) - Rust audio playback library
 - [geng-engine/geng](https://github.com/geng-engine/geng) - Game ENGine for Rust Programming Language
