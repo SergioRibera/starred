@@ -359,7 +359,8 @@
 
 ## Rust 
 
-- [appcypher/monocore](https://github.com/appcypher/monocore) - a self-hosted solution for running ai-generated code in a sandbox locally and remotely
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
+- [zerocore-ai/monocore](https://github.com/zerocore-ai/monocore) - a self-hosted solution for running ai-generated code in a sandbox locally and remotely
 - [SilentVoid13/SyncDisBoi](https://github.com/SilentVoid13/SyncDisBoi) - Music streaming platforms (Youtube Music, Spotify, Tidal) synchronization tool
 - [mainmatter/eserde](https://github.com/mainmatter/eserde) - Just like `serde`, but with more exhaustive error reporting capabilities. Designed for public API payloads.
 - [NeoCogi/microui-redux](https://github.com/NeoCogi/microui-redux) - Idiomatic Rust MicroUI port
@@ -378,7 +379,7 @@
 - [podusowski/walkers](https://github.com/podusowski/walkers) - slippy map (openstreetmap) widget for egui
 - [hdpotter/shaderunner](https://github.com/hdpotter/shaderunner) - Rust rendering layer on top of wgpu, winit, and egui.
 - [Swiiz/autoparser](https://github.com/Swiiz/autoparser) - 🦀 Generate Recursive Descent Parser using Rust macros.
-- [eero-lehtinen/oklch-color-picker](https://github.com/eero-lehtinen/oklch-color-picker) - A standalone color picker application
+- [eero-lehtinen/oklch-color-picker](https://github.com/eero-lehtinen/oklch-color-picker) - A standalone color picker application using the Oklch colorspace (based on Oklab)
 - [simalei/stenbug](https://github.com/simalei/stenbug) - Simple wallpaper utility based on Wallhaven API
 - [JesproKing/bevy_pixelated_3d](https://github.com/JesproKing/bevy_pixelated_3d) - A project to convert any 3d world into a game that looks like pixelart, with builtin outlines based on depth and normal textures.
 - [next-hat/nanocl](https://github.com/next-hat/nanocl) - Work in progress distributed system that simplifies the orchestration of containers and virtual machines.
@@ -485,7 +486,7 @@
 - [srwi/qmk-via-api](https://github.com/srwi/qmk-via-api) - VIA api implementation for QMK-based keyboards
 - [pumpbin/pumpbin](https://github.com/pumpbin/pumpbin) - 🎃 PumpBin is an Implant Generation Platform.
 - [osirislab/awesome-rust-security](https://github.com/osirislab/awesome-rust-security) - Curated list of awesome projects and resources related to Rust and computer security
-- [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) - 🦀 | RustRedOps is a repository for advanced Red Team techniques and offensive malware, focused on Rust
+- [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) - RustRedOps is a repository for advanced Red Team techniques and offensive malware, focused on Rust 🦀
 - [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust
 - [Phate6660/nixinfo](https://github.com/Phate6660/nixinfo) - A lib crate for gathering system info such as cpu, distro, environment, kernel, etc in Rust.
 - [Stephen-Seo/swaybar_info](https://github.com/Stephen-Seo/swaybar_info) - A Rust program that populates the Sway-bar with basic stats.
@@ -513,7 +514,7 @@
 - [Jedsek/deci-player](https://github.com/Jedsek/deci-player) - A music-player written with rust and iced
 - [H3rmt/hyprswitch](https://github.com/H3rmt/hyprswitch) - A CLI/GUI that allows switching between windows in Hyprland
 - [mangelats/buffers](https://github.com/mangelats/buffers) - Another way of looking at memory management for collections
-- [waycrate/wayshot](https://github.com/waycrate/wayshot) - Mirrored at https://git.sr.ht/~shinyzenith/wayshot  | screenshot tool for wlroots based compositors implementing zwlr_screencopy_v1
+- [waycrate/wayshot](https://github.com/waycrate/wayshot) - screenshot tool for wlroots based compositors implementing zwlr_screencopy_v1
 - [Kobzol/cargo-wizard](https://github.com/Kobzol/cargo-wizard) - Cargo subcommand for configuring Cargo projects for best performance.
 - [dust-engine/dust](https://github.com/dust-engine/dust) - A research project trying to push the boundaries of voxel geometry and interactivity. Experimental real-time global illumination renderer powered by Rust, Vulkan and Bevy.
 - [romancitodev/simple-commits](https://github.com/romancitodev/simple-commits) - A little CLI written in rust to improve your dirty commits into conventional ones.
