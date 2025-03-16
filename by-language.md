@@ -20,6 +20,7 @@
 - [HLSL](#hlsl)
 - [HTML](#html)
 - [Haskell](#haskell)
+- [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
@@ -185,6 +186,10 @@
 - [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center) - A notification daemon/center for linux
 - [lucalabs-de/end](https://github.com/lucalabs-de/end) - Lightweight notification daemon displaying notifications as EWW widgets
 
+## Java 
+
+- [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
+
 ## JavaScript 
 
 - [arihant-jain-09/discord-clone](https://github.com/arihant-jain-09/discord-clone) - Discord (with unique roles in each server, image, audio sharing, auto render video links in messages, discord loading logo between page renderings)  with React, React Router, Material UI, SASS, Styled
@@ -292,7 +297,7 @@
 - [nmasur/dotfiles](https://github.com/nmasur/dotfiles) - Nix configuration and settings
 - [namishh/crystal](https://github.com/namishh/crystal) - nix dotfiles for chilly people
 - [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
-- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS / NixOS (with stater templates!)
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS / NixOS (with starter templates!)
 - [elythh/flake](https://github.com/elythh/flake) - my unavoidable system configuration
 - [divinenaman/tauri-nix-example](https://github.com/divinenaman/tauri-nix-example) - Nixified tauri app
 - [Lemin-n/cranix](https://github.com/Lemin-n/cranix) - High level API for Crane NixOs flake.
@@ -506,11 +511,11 @@
 - [RustLangES/cfworker-template](https://github.com/RustLangES/cfworker-template) - Template de Workers para CloudFlare
 - [coastalwhite/lemurs](https://github.com/coastalwhite/lemurs) - A customizable TUI display/login manager written in Rust 🐒
 - [woelper/woodpacker](https://github.com/woelper/woodpacker) - calculate wood/material consumption from templates and pieces
-- [hitblast/resfetch](https://github.com/hitblast/resfetch) - ⚡ A fast and minimal alternative to neofetch, built with Rust
+- [furtidev/resfetch](https://github.com/furtidev/resfetch) - ⚡ A fast and minimal alternative to neofetch, built with Rust
 - [akumarujon/xifetch-rs](https://github.com/akumarujon/xifetch-rs) - Neofetch alternative rewritten in Rust.
 - [release-plz/release-plz](https://github.com/release-plz/release-plz) - Publish Rust crates from CI with a Release PR.
 - [anyrun-org/anyrun](https://github.com/anyrun-org/anyrun) - A wayland native, highly customizable runner.
-- [Whitecat18/Rust-for-Malware-Development](https://github.com/Whitecat18/Rust-for-Malware-Development) - This repository contains my complete resources and coding practices for malware development using Rust 🦀.
+- [Whitecat18/Rust-for-Malware-Development](https://github.com/Whitecat18/Rust-for-Malware-Development) - This repository contains complete resources and coding practices for malware development using Rust 🦀.
 - [Jedsek/deci-player](https://github.com/Jedsek/deci-player) - A music-player written with rust and iced
 - [H3rmt/hyprswitch](https://github.com/H3rmt/hyprswitch) - A CLI/GUI that allows switching between windows in Hyprland
 - [mangelats/buffers](https://github.com/mangelats/buffers) - Another way of looking at memory management for collections
@@ -690,7 +695,7 @@
 - [Plonq/bevy_panorbit_camera](https://github.com/Plonq/bevy_panorbit_camera) - A simple pan and orbit camera for the Bevy game engine
 - [kaosat-dev/bevy_mod_yarn](https://github.com/kaosat-dev/bevy_mod_yarn) - 
 - [tbillington/bevy_toon_shader](https://github.com/tbillington/bevy_toon_shader) - Toon Shader for the bevy game engine
-- [hankjordan/bevy_save](https://github.com/hankjordan/bevy_save) - A framework for saving and loading game state in Bevy.
+- [hankjordan/bevy_save](https://github.com/hankjordan/bevy_save) - A framework for saving and loading application state in Bevy.
 - [naasblod/shader_playground](https://github.com/naasblod/shader_playground) - 
 - [slyedoc/bevy_ten_minute_physics](https://github.com/slyedoc/bevy_ten_minute_physics) - 
 - [Trouv/bevy_ecs_ldtk](https://github.com/Trouv/bevy_ecs_ldtk) - ECS-friendly ldtk plugin for bevy, leveraging bevy_ecs_tilemap
