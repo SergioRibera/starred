@@ -114,6 +114,7 @@
 - [nestjs](#nestjs)
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
+- [no-code](#no-code)
 - [node](#node)
 - [nodejs](#nodejs)
 - [nosql](#nosql)
@@ -186,7 +187,7 @@
 
 ## ai 
 
-- [zerocore-ai/monocore](https://github.com/zerocore-ai/monocore) - a self-hosted solution for running ai-generated code in a sandbox locally and remotely
+- [zerocore-ai/monocore](https://github.com/zerocore-ai/monocore) - a self-hosted solution for running ai-generated code in a sandbox
 - [orhanbalci/rust-steering-behaviors](https://github.com/orhanbalci/rust-steering-behaviors) - AI Steering behaviors crate implemented in Rust http://orhanbalci.github.io/rust-steering-behaviors
 - [Seldom-SE/seldom_state](https://github.com/Seldom-SE/seldom_state) - Component-based state machine plugin for Bevy. Useful for AI, player state, and other entities that occupy different states.
 
@@ -441,7 +442,7 @@
 
 ## docker 
 
-- [zerocore-ai/monocore](https://github.com/zerocore-ai/monocore) - a self-hosted solution for running ai-generated code in a sandbox locally and remotely
+- [zerocore-ai/monocore](https://github.com/zerocore-ai/monocore) - a self-hosted solution for running ai-generated code in a sandbox
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [mrjackwills/oxker](https://github.com/mrjackwills/oxker) - A simple tui to view & control docker containers
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
@@ -524,7 +525,7 @@
 
 ## firefox 
 
-- [migueravila/SimpleFox](https://github.com/migueravila/SimpleFox) - 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
+- [migueravila/simplefox](https://github.com/migueravila/simplefox) - 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
 - [cascadefox/cascade](https://github.com/cascadefox/cascade) - A responsive One-Line CSS Theme for Firefox.
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 
@@ -841,14 +842,14 @@
 
 ## linux 
 
-- [zerocore-ai/monocore](https://github.com/zerocore-ai/monocore) - a self-hosted solution for running ai-generated code in a sandbox locally and remotely
+- [zerocore-ai/monocore](https://github.com/zerocore-ai/monocore) - a self-hosted solution for running ai-generated code in a sandbox
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center) - A notification daemon/center for linux
 - [l1npengtul/nokhwa](https://github.com/l1npengtul/nokhwa) - Cross Platform Rust Library for Powerful Webcam/Camera Capture
 - [l1na-forever/mpris-notifier](https://github.com/l1na-forever/mpris-notifier) - Dependency-light, highly-customizable, XDG desktop notification generator for 🎶🎵 MPRIS status changes 🎹
 - [vars1ty/HybridBar](https://github.com/vars1ty/HybridBar) - A status bar focused on wlroots Wayland compositors
 - [coffeeispower/woomer](https://github.com/coffeeispower/woomer) - Zoomer application for Wayland inspired by tsoding's boomer
-- [decipher3114/Capter](https://github.com/decipher3114/Capter) - A simple cross-platform screenshot tool made in rust
+- [decipher3114/Capter](https://github.com/decipher3114/Capter) - Cross-Platform Screen Capture and Annotation Tool
 - [lucalabs-de/end](https://github.com/lucalabs-de/end) - Lightweight notification daemon displaying notifications as EWW widgets
 - [ItayGarin/ktrl](https://github.com/ItayGarin/ktrl) - A Supercharged Keyboard Programming Daemon ⌨️
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
@@ -920,11 +921,11 @@
 
 ## macos 
 
-- [zerocore-ai/monocore](https://github.com/zerocore-ai/monocore) - a self-hosted solution for running ai-generated code in a sandbox locally and remotely
+- [zerocore-ai/monocore](https://github.com/zerocore-ai/monocore) - a self-hosted solution for running ai-generated code in a sandbox
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [l1npengtul/nokhwa](https://github.com/l1npengtul/nokhwa) - Cross Platform Rust Library for Powerful Webcam/Camera Capture
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
-- [decipher3114/Capter](https://github.com/decipher3114/Capter) - A simple cross-platform screenshot tool made in rust
+- [decipher3114/Capter](https://github.com/decipher3114/Capter) - Cross-Platform Screen Capture and Annotation Tool
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [pumpbin/pumpbin](https://github.com/pumpbin/pumpbin) - 🎃 PumpBin is an Implant Generation Platform.
 - [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS / NixOS (with starter templates!)
@@ -1025,6 +1026,10 @@
 ## nextjs 
 
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+
+## no-code 
+
+- [warengonzaga/css-text-portrait-builder](https://github.com/warengonzaga/css-text-portrait-builder) - A popular pure CSS text portrait builder for your loved ones. 🥰
 
 ## node 
 
@@ -1159,7 +1164,7 @@
 - [oddlama/whisper-overlay](https://github.com/oddlama/whisper-overlay) - A wayland overlay providing speech-to-text functionality for any application via a global push-to-talk hotkey
 - [linebender/kurbo](https://github.com/linebender/kurbo) - A Rust library for manipulating curves
 - [ZeroX-DG/raven](https://github.com/ZeroX-DG/raven) - :desktop_computer: A toy terminal emulator
-- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
+- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [pop-os/cosmic-app-template](https://github.com/pop-os/cosmic-app-template) - Project template for creating applications for the COSMIC™ desktop
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [Zerschranzer/arch-gaming-setup](https://github.com/Zerschranzer/arch-gaming-setup) - Interactive Bash script to transform a fresh Arch Linux installation into a gaming-ready system. Enables multilib, installs Yay, GPU drivers, optional desktops, and gaming software (Steam, Lutris, Win
@@ -1188,7 +1193,7 @@
 - [tupleleap/leap-chain](https://github.com/tupleleap/leap-chain) - 
 - [foostan/crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.
 - [bragefuglseth/keypunch](https://github.com/bragefuglseth/keypunch) - Practice your typing skills
-- [FMotalleb/nu_plugin_clipboard](https://github.com/FMotalleb/nu_plugin_clipboard) - A nushell plugin to copy text into clipboard or get text from it.
+- [FMotalleb/nu_plugin_clipboard](https://github.com/FMotalleb/nu_plugin_clipboard) - A nushell plugin to copy text into clipboard or get text from it. supports json&lt;-&gt;object/table conversion out of box
 - [FMotalleb/nu_plugin_image](https://github.com/FMotalleb/nu_plugin_image) - 
 - [nushell/nu_plugin_template](https://github.com/nushell/nu_plugin_template) - 
 - [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
@@ -1543,7 +1548,7 @@
 
 ## python 
 
-- [zerocore-ai/monocore](https://github.com/zerocore-ai/monocore) - a self-hosted solution for running ai-generated code in a sandbox locally and remotely
+- [zerocore-ai/monocore](https://github.com/zerocore-ai/monocore) - a self-hosted solution for running ai-generated code in a sandbox
 - [srwi/qmk-via-api](https://github.com/srwi/qmk-via-api) - VIA api implementation for QMK-based keyboards
 - [GradienceTeam/Gradience](https://github.com/GradienceTeam/Gradience) - Change the look of Adwaita, with ease
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
@@ -1661,7 +1666,7 @@
 - [sublipri/subar](https://github.com/sublipri/subar) - A basic status bar for sway/i3wm
 - [RustLangES/cfworker-template](https://github.com/RustLangES/cfworker-template) - Template de Workers para CloudFlare
 - [coastalwhite/lemurs](https://github.com/coastalwhite/lemurs) - A customizable TUI display/login manager written in Rust 🐒
-- [furtidev/resfetch](https://github.com/furtidev/resfetch) - ⚡ A fast and minimal alternative to neofetch, built with Rust
+- [furtidev/resfetch](https://github.com/furtidev/resfetch) - ⚡ A minimal alternative to neofetch
 - [akumarujon/xifetch-rs](https://github.com/akumarujon/xifetch-rs) - Neofetch alternative rewritten in Rust.
 - [release-plz/release-plz](https://github.com/release-plz/release-plz) - Publish Rust crates from CI with a Release PR.
 - [AeroRust/awesome-space](https://github.com/AeroRust/awesome-space) - List of awesome resources for Aerospace and Rust
@@ -1994,7 +1999,7 @@
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [simalei/stenbug](https://github.com/simalei/stenbug) - Simple wallpaper utility based on Wallhaven API
 - [l1npengtul/nokhwa](https://github.com/l1npengtul/nokhwa) - Cross Platform Rust Library for Powerful Webcam/Camera Capture
-- [decipher3114/Capter](https://github.com/decipher3114/Capter) - A simple cross-platform screenshot tool made in rust
+- [decipher3114/Capter](https://github.com/decipher3114/Capter) - Cross-Platform Screen Capture and Annotation Tool
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [pumpbin/pumpbin](https://github.com/pumpbin/pumpbin) - 🎃 PumpBin is an Implant Generation Platform.
 - [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) - RustRedOps is a repository for advanced Red Team techniques and offensive malware, focused on Rust 🦀
