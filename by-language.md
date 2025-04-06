@@ -178,6 +178,7 @@
 
 ## HTML 
 
+- [fschutt/azul](https://github.com/fschutt/azul) - Desktop GUI Framework
 - [rjpcomputing/luaforwindows](https://github.com/rjpcomputing/luaforwindows) - Lua for Windows is a 'batteries included environment' for the Lua scripting language on Windows. NOTICE: Looking for maintainer.
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 
@@ -364,6 +365,10 @@
 
 ## Rust 
 
+- [remotia/remotia](https://github.com/remotia/remotia) - Open source framework for building remote rendering software, implemented in pure Rust.
+- [FriederHannenheim/cthulock](https://github.com/FriederHannenheim/cthulock) - Wayland screen locker focused on customizability
+- [RobinMcCorkell/shaderlock](https://github.com/RobinMcCorkell/shaderlock) - Wayland (wlroots) lockscreen powered by the GPU
+- [russelltg/wl-screenrec](https://github.com/russelltg/wl-screenrec) - High performance wlroots screen recording, featuring hardware encoding
 - [gc-victor/query](https://github.com/gc-victor/query) - Query is an all-in-one web development solution eliminating the need for external servers, runtimes, frameworks, caching, storage, and admin tools.
 - [abgros/stalloc](https://github.com/abgros/stalloc) - Stalloc is a fast first-fit memory allocator that you can use to quickly speed up your Rust programs.
 - [mstange/samply](https://github.com/mstange/samply) - Command-line sampling profiler for macOS, Linux, and Windows
@@ -372,7 +377,7 @@
 - [tuono-labs/tuono](https://github.com/tuono-labs/tuono) - ⚡ Modern fullstack web framework based on Rust and React
 - [timschmidt/csgrs](https://github.com/timschmidt/csgrs) - Constructive solid geometry with polygons using BSP trees in Rust
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
-- [zerocore-ai/monocore](https://github.com/zerocore-ai/monocore) - a self-hosted solution for running ai-generated code in a sandbox
+- [zerocore-ai/monocore](https://github.com/zerocore-ai/monocore) - a self-hosted solution for running ai-generated code in secure sandboxes
 - [SilentVoid13/SyncDisBoi](https://github.com/SilentVoid13/SyncDisBoi) - Music streaming platforms (Youtube Music, Spotify, Tidal) synchronization tool
 - [mainmatter/eserde](https://github.com/mainmatter/eserde) - Just like `serde`, but with more exhaustive error reporting capabilities. Designed for public API payloads.
 - [NeoCogi/microui-redux](https://github.com/NeoCogi/microui-redux) - Idiomatic Rust MicroUI port
@@ -630,7 +635,6 @@
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
 - [juliendecharentenay/derive-sql](https://github.com/juliendecharentenay/derive-sql) - 
 - [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4
-- [fschutt/azul](https://github.com/fschutt/azul) - Desktop GUI Framework
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [linebender/xilem](https://github.com/linebender/xilem) - An experimental Rust native UI framework
 - [audulus/rui](https://github.com/audulus/rui) - Declarative Rust UI library
@@ -668,7 +672,7 @@
 - [DGriffin91/bevy_mod_mesh_tools](https://github.com/DGriffin91/bevy_mod_mesh_tools) - Tools for working with meshes in bevy
 - [DGriffin91/bevy_mod_environment_map_tools](https://github.com/DGriffin91/bevy_mod_environment_map_tools) - Tools for processing environment maps
 - [DGriffin91/bevy_sponza_scene](https://github.com/DGriffin91/bevy_sponza_scene) - Sponza
-- [projectharmonia/bevy_replicon](https://github.com/projectharmonia/bevy_replicon) - Server-authoritative networking crate for the Bevy game engine.
+- [projectharmonia/bevy_replicon](https://github.com/projectharmonia/bevy_replicon) - A replication crate for the Bevy game engine.
 - [aevyrie/bevy_eventlistener](https://github.com/aevyrie/bevy_eventlistener) - Event listening, bubbling, and callbacks
 - [jarkonik/bevy_scriptum](https://github.com/jarkonik/bevy_scriptum) - 📜 A plugin for Bevy that allows you to write some of your game logic in a scripting language.
 - [Jondolf/avian](https://github.com/Jondolf/avian) - ECS-driven 2D and 3D physics engine for the Bevy game engine.
