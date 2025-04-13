@@ -178,7 +178,6 @@
 
 ## HTML 
 
-- [fschutt/azul](https://github.com/fschutt/azul) - Desktop GUI Framework
 - [rjpcomputing/luaforwindows](https://github.com/rjpcomputing/luaforwindows) - Lua for Windows is a 'batteries included environment' for the Lua scripting language on Windows. NOTICE: Looking for maintainer.
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 
@@ -241,6 +240,7 @@
 
 ## Lua 
 
+- [azratul/live-share.nvim](https://github.com/azratul/live-share.nvim) - Creates a "Live Share" server in Neovim, similar to the Visual Studio Code Live Share functionality
 - [NStefan002/screenkey.nvim](https://github.com/NStefan002/screenkey.nvim) - Screencast your keys in Neovim
 - [codethread/qmk.nvim](https://github.com/codethread/qmk.nvim) - Format qmk and zmk keymaps in neovim
 - [GeekMasher/securitree.nvim](https://github.com/GeekMasher/securitree.nvim) - SecuriTree - Security Research Tool
@@ -365,6 +365,11 @@
 
 ## Rust 
 
+- [MaxBondABE/attempt](https://github.com/MaxBondABE/attempt) - CLI for retrying fallible commands
+- [vladkens/badges](https://github.com/vladkens/badges) - 🎖️🎨 Instantly create custom badges for GitHub, docs, and more. Lightweight, self-hostable, with live integrations that keep badges always up to date. Elevate your projects in seconds!
+- [mediar-ai/uniOCR](https://github.com/mediar-ai/uniOCR) - native OCR for MacOS, Windows, Linux
+- [vivax3794/cargo_bounds](https://github.com/vivax3794/cargo_bounds) - Checking that your dependency requirements are sound
+- [Kither12/shezem-rs](https://github.com/Kither12/shezem-rs) - Audio recognition CLI written in Rust
 - [remotia/remotia](https://github.com/remotia/remotia) - Open source framework for building remote rendering software, implemented in pure Rust.
 - [FriederHannenheim/cthulock](https://github.com/FriederHannenheim/cthulock) - Wayland screen locker focused on customizability
 - [RobinMcCorkell/shaderlock](https://github.com/RobinMcCorkell/shaderlock) - Wayland (wlroots) lockscreen powered by the GPU
@@ -377,7 +382,7 @@
 - [tuono-labs/tuono](https://github.com/tuono-labs/tuono) - ⚡ Modern fullstack web framework based on Rust and React
 - [timschmidt/csgrs](https://github.com/timschmidt/csgrs) - Constructive solid geometry with polygons using BSP trees in Rust
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
-- [zerocore-ai/monocore](https://github.com/zerocore-ai/monocore) - a self-hosted solution for running ai-generated code in secure sandboxes
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-hosted Solution for Running AI-Generated Code in Secure Sandboxes
 - [SilentVoid13/SyncDisBoi](https://github.com/SilentVoid13/SyncDisBoi) - Music streaming platforms (Youtube Music, Spotify, Tidal) synchronization tool
 - [mainmatter/eserde](https://github.com/mainmatter/eserde) - Just like `serde`, but with more exhaustive error reporting capabilities. Designed for public API payloads.
 - [NeoCogi/microui-redux](https://github.com/NeoCogi/microui-redux) - Idiomatic Rust MicroUI port
@@ -635,6 +640,7 @@
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
 - [juliendecharentenay/derive-sql](https://github.com/juliendecharentenay/derive-sql) - 
 - [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4
+- [fschutt/azul](https://github.com/fschutt/azul) - Desktop GUI Framework
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [linebender/xilem](https://github.com/linebender/xilem) - An experimental Rust native UI framework
 - [audulus/rui](https://github.com/audulus/rui) - Declarative Rust UI library
@@ -672,7 +678,7 @@
 - [DGriffin91/bevy_mod_mesh_tools](https://github.com/DGriffin91/bevy_mod_mesh_tools) - Tools for working with meshes in bevy
 - [DGriffin91/bevy_mod_environment_map_tools](https://github.com/DGriffin91/bevy_mod_environment_map_tools) - Tools for processing environment maps
 - [DGriffin91/bevy_sponza_scene](https://github.com/DGriffin91/bevy_sponza_scene) - Sponza
-- [projectharmonia/bevy_replicon](https://github.com/projectharmonia/bevy_replicon) - A replication crate for the Bevy game engine.
+- [projectharmonia/bevy_replicon](https://github.com/projectharmonia/bevy_replicon) - A server-authoritative replication crate for Bevy.
 - [aevyrie/bevy_eventlistener](https://github.com/aevyrie/bevy_eventlistener) - Event listening, bubbling, and callbacks
 - [jarkonik/bevy_scriptum](https://github.com/jarkonik/bevy_scriptum) - 📜 A plugin for Bevy that allows you to write some of your game logic in a scripting language.
 - [Jondolf/avian](https://github.com/Jondolf/avian) - ECS-driven 2D and 3D physics engine for the Bevy game engine.
