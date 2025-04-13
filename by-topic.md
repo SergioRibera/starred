@@ -44,6 +44,7 @@
 - [deep-learning](#deep-learning)
 - [deno](#deno)
 - [design](#design)
+- [development](#development)
 - [devops](#devops)
 - [discord](#discord)
 - [docker](#docker)
@@ -188,7 +189,7 @@
 
 ## ai 
 
-- [zerocore-ai/monocore](https://github.com/zerocore-ai/monocore) - a self-hosted solution for running ai-generated code in secure sandboxes
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-hosted Solution for Running AI-Generated Code in Secure Sandboxes
 - [orhanbalci/rust-steering-behaviors](https://github.com/orhanbalci/rust-steering-behaviors) - AI Steering behaviors crate implemented in Rust http://orhanbalci.github.io/rust-steering-behaviors
 - [Seldom-SE/seldom_state](https://github.com/Seldom-SE/seldom_state) - Component-based state machine plugin for Bevy. Useful for AI, player state, and other entities that occupy different states.
 
@@ -425,6 +426,10 @@
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [alyssaxuu/animockup](https://github.com/alyssaxuu/animockup) - Create animated mockups in the browser 🔥
 
+## development 
+
+- [Sairyss/backend-best-practices](https://github.com/Sairyss/backend-best-practices) - Best practices, tools and guidelines for backend development. Code examples in TypeScript + NodeJS
+
 ## devops 
 
 - [nogibjj/rust-mlops-template](https://github.com/nogibjj/rust-mlops-template) - A work in progress to build out solutions in Rust for MLOPs
@@ -444,7 +449,7 @@
 
 ## docker 
 
-- [zerocore-ai/monocore](https://github.com/zerocore-ai/monocore) - a self-hosted solution for running ai-generated code in secure sandboxes
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-hosted Solution for Running AI-Generated Code in Secure Sandboxes
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [mrjackwills/oxker](https://github.com/mrjackwills/oxker) - A simple tui to view & control docker containers
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
@@ -846,7 +851,7 @@
 
 ## linux 
 
-- [zerocore-ai/monocore](https://github.com/zerocore-ai/monocore) - a self-hosted solution for running ai-generated code in secure sandboxes
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-hosted Solution for Running AI-Generated Code in Secure Sandboxes
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center) - A notification daemon/center for linux
 - [l1npengtul/nokhwa](https://github.com/l1npengtul/nokhwa) - Cross Platform Rust Library for Powerful Webcam/Camera Capture
@@ -925,7 +930,7 @@
 
 ## macos 
 
-- [zerocore-ai/monocore](https://github.com/zerocore-ai/monocore) - a self-hosted solution for running ai-generated code in secure sandboxes
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-hosted Solution for Running AI-Generated Code in Secure Sandboxes
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [l1npengtul/nokhwa](https://github.com/l1npengtul/nokhwa) - Cross Platform Rust Library for Powerful Webcam/Camera Capture
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
@@ -992,6 +997,7 @@
 
 ## neovim 
 
+- [azratul/live-share.nvim](https://github.com/azratul/live-share.nvim) - Creates a "Live Share" server in Neovim, similar to the Visual Studio Code Live Share functionality
 - [siph/nixvim-flake](https://github.com/siph/nixvim-flake) - Portable Neovim configuration built with Nix.
 - [redyf/Neve](https://github.com/redyf/Neve) - Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.
 - [NStefan002/screenkey.nvim](https://github.com/NStefan002/screenkey.nvim) - Screencast your keys in Neovim
@@ -1095,6 +1101,9 @@
 
 ## others 
 
+- [MaxBondABE/attempt](https://github.com/MaxBondABE/attempt) - CLI for retrying fallible commands
+- [mediar-ai/uniOCR](https://github.com/mediar-ai/uniOCR) - native OCR for MacOS, Windows, Linux
+- [vivax3794/cargo_bounds](https://github.com/vivax3794/cargo_bounds) - Checking that your dependency requirements are sound
 - [remotia/remotia](https://github.com/remotia/remotia) - Open source framework for building remote rendering software, implemented in pure Rust.
 - [RobinMcCorkell/shaderlock](https://github.com/RobinMcCorkell/shaderlock) - Wayland (wlroots) lockscreen powered by the GPU
 - [russelltg/wl-screenrec](https://github.com/russelltg/wl-screenrec) - High performance wlroots screen recording, featuring hardware encoding
@@ -1308,7 +1317,7 @@
 - [DGriffin91/bevy_mod_mesh_tools](https://github.com/DGriffin91/bevy_mod_mesh_tools) - Tools for working with meshes in bevy
 - [DGriffin91/bevy_mod_environment_map_tools](https://github.com/DGriffin91/bevy_mod_environment_map_tools) - Tools for processing environment maps
 - [DGriffin91/bevy_sponza_scene](https://github.com/DGriffin91/bevy_sponza_scene) - Sponza
-- [projectharmonia/bevy_replicon](https://github.com/projectharmonia/bevy_replicon) - A replication crate for the Bevy game engine.
+- [projectharmonia/bevy_replicon](https://github.com/projectharmonia/bevy_replicon) - A server-authoritative replication crate for Bevy.
 - [aevyrie/bevy_eventlistener](https://github.com/aevyrie/bevy_eventlistener) - Event listening, bubbling, and callbacks
 - [GGist/ssdp-rs](https://github.com/GGist/ssdp-rs) - Simple Service Discovery Protocol In Rust
 - [conaticus/FileExplorer](https://github.com/conaticus/FileExplorer) - Fast file explorer written with Tauri and React.
@@ -1558,7 +1567,7 @@
 
 ## python 
 
-- [zerocore-ai/monocore](https://github.com/zerocore-ai/monocore) - a self-hosted solution for running ai-generated code in secure sandboxes
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-hosted Solution for Running AI-Generated Code in Secure Sandboxes
 - [srwi/qmk-via-api](https://github.com/srwi/qmk-via-api) - VIA api implementation for QMK-based keyboards
 - [GradienceTeam/Gradience](https://github.com/GradienceTeam/Gradience) - Change the look of Adwaita, with ease
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
@@ -1622,6 +1631,7 @@
 
 ## rust 
 
+- [Kither12/shezem-rs](https://github.com/Kither12/shezem-rs) - Audio recognition CLI written in Rust
 - [FriederHannenheim/cthulock](https://github.com/FriederHannenheim/cthulock) - Wayland screen locker focused on customizability
 - [gc-victor/query](https://github.com/gc-victor/query) - Query is an all-in-one web development solution eliminating the need for external servers, runtimes, frameworks, caching, storage, and admin tools.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
@@ -1851,7 +1861,7 @@
 
 ## security 
 
-- [zerocore-ai/monocore](https://github.com/zerocore-ai/monocore) - a self-hosted solution for running ai-generated code in secure sandboxes
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-hosted Solution for Running AI-Generated Code in Secure Sandboxes
 - [pumpbin/pumpbin](https://github.com/pumpbin/pumpbin) - 🎃 PumpBin is an Implant Generation Platform.
 - [caido/caido](https://github.com/caido/caido) - 🚀 Caido releases, wiki and roadmap
 - [GeekMasher/securitree.nvim](https://github.com/GeekMasher/securitree.nvim) - SecuriTree - Security Research Tool
@@ -1864,6 +1874,7 @@
 
 ## self-hosted 
 
+- [vladkens/badges](https://github.com/vladkens/badges) - 🎖️🎨 Instantly create custom badges for GitHub, docs, and more. Lightweight, self-hostable, with live integrations that keep badges always up to date. Elevate your projects in seconds!
 - [next-hat/nanocl](https://github.com/next-hat/nanocl) - Work in progress distributed system that simplifies the orchestration of containers and virtual machines.
 
 ## serverless 
