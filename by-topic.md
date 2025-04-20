@@ -356,7 +356,7 @@
 ## cpp 
 
 - [fschutt/azul](https://github.com/fschutt/azul) - Desktop GUI Framework
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [Dushistov/flapigen-rs](https://github.com/Dushistov/flapigen-rs) - Tool for connecting programs or libraries written in Rust with other languages
 - [mehedirm6244/sysfex](https://github.com/mehedirm6244/sysfex) - Just another system information fetching tool written in C++
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
@@ -563,6 +563,7 @@
 
 ## game 
 
+- [cxreiff/lifecycler](https://github.com/cxreiff/lifecycler) - Bevy Game Jam #5 submission. Terminal aquarium.
 - [hecrj/coffee](https://github.com/hecrj/coffee) - An opinionated 2D game engine for Rust
 - [thephet/BevyRoguelike](https://github.com/thephet/BevyRoguelike) - Roguelike game using Rust and the Bevy engine
 - [RaminKav/LostInTime](https://github.com/RaminKav/LostInTime) - A feature rich rogue-like survival game made with Bevy & Rust
@@ -690,7 +691,7 @@
 - [embedded-graphics/embedded-graphics](https://github.com/embedded-graphics/embedded-graphics) - A no_std graphics library for embedded applications
 - [jerthz/scion](https://github.com/jerthz/scion) - Scion is a tiny 2D game library built on top of wgpu and winit, following the KISS principle.
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
-- [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
+- [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your GitHub summary card for profile README
 - [Relm4/Relm4](https://github.com/Relm4/Relm4) - Build truly native applications with ease!
 - [vleue/bevy_ninepatch](https://github.com/vleue/bevy_ninepatch) - Bevy plugin to displays 9-Patch UI elements
 - [warengonzaga/css-text-portrait-builder](https://github.com/warengonzaga/css-text-portrait-builder) - A popular pure CSS text portrait builder for your loved ones. 🥰
@@ -783,7 +784,7 @@
 
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 - [nehu3n/qipi](https://github.com/nehu3n/qipi) - 🦉 An extremely fast and disk-efficient package manager written in Rust.
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [ShareDropio/sharedrop](https://github.com/ShareDropio/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [dimensionhq/volt](https://github.com/dimensionhq/volt) - An experimental package management tool for JavaScript. Upto 30x faster installation of dependencies using pre-flattened dependency trees.
@@ -827,12 +828,13 @@
 
 ## language 
 
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 
 ## languages 
 
+- [FlakySL/translatable](https://github.com/FlakySL/translatable) - A robust internationalization solution for Rust featuring compile-time validation, ISO 639-1 compliance, and TOML-based translation management.
 - [michaelb/sniprun](https://github.com/michaelb/sniprun) - A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
 
 ## latex 
@@ -845,6 +847,7 @@
 
 ## library 
 
+- [FlakySL/translatable](https://github.com/FlakySL/translatable) - A robust internationalization solution for Rust featuring compile-time validation, ISO 639-1 compliance, and TOML-based translation management.
 - [LiveSplit/livesplit-core](https://github.com/LiveSplit/livesplit-core) - livesplit-core is a library that provides a lot of functionality for creating a speedrun timer.
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
@@ -1631,6 +1634,7 @@
 
 ## rust 
 
+- [FlakySL/translatable](https://github.com/FlakySL/translatable) - A robust internationalization solution for Rust featuring compile-time validation, ISO 639-1 compliance, and TOML-based translation management.
 - [Kither12/shezem-rs](https://github.com/Kither12/shezem-rs) - Audio recognition CLI written in Rust
 - [FriederHannenheim/cthulock](https://github.com/FriederHannenheim/cthulock) - Wayland screen locker focused on customizability
 - [gc-victor/query](https://github.com/gc-victor/query) - Query is an all-in-one web development solution eliminating the need for external servers, runtimes, frameworks, caching, storage, and admin tools.
@@ -1748,7 +1752,7 @@
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [audulus/rui](https://github.com/audulus/rui) - Declarative Rust UI library
 - [Relm4/Relm4](https://github.com/Relm4/Relm4) - Build truly native applications with ease!
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [leudz/shipyard](https://github.com/leudz/shipyard) - Entity Component System focused on usability and flexibility.
 - [Seldom-SE/seldom_pixel](https://github.com/Seldom-SE/seldom_pixel) - Bevy plugin for limited color palette pixel art games
 - [Adamkob12/Meshem](https://github.com/Adamkob12/Meshem) - Bevy Meshem is a Rust crate designed to provide meshing algorithms for voxel grids, enabling you to create cohesive 3D mesh structures from a grid of cubic voxels
@@ -1923,6 +1927,7 @@
 
 ## terminal 
 
+- [lemunozm/termchat](https://github.com/lemunozm/termchat) - Terminal chat through the LAN with video streaming and file transfer.
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
 - [mrjackwills/oxker](https://github.com/mrjackwills/oxker) - A simple tui to view & control docker containers
 - [mikaelmello/inquire](https://github.com/mikaelmello/inquire) - A Rust library for building interactive prompts
