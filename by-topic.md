@@ -166,6 +166,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [ui](#ui)
 - [unity](#unity)
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
@@ -189,7 +190,7 @@
 
 ## ai 
 
-- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - 📦 The Self-Hosted Solution for Running AI-Generated Code Securely 📦
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - The Self-Hosted Solution for Running AI-Generated Code Securely
 - [orhanbalci/rust-steering-behaviors](https://github.com/orhanbalci/rust-steering-behaviors) - AI Steering behaviors crate implemented in Rust http://orhanbalci.github.io/rust-steering-behaviors
 - [Seldom-SE/seldom_state](https://github.com/Seldom-SE/seldom_state) - Component-based state machine plugin for Bevy. Useful for AI, player state, and other entities that occupy different states.
 
@@ -452,7 +453,7 @@
 ## docker 
 
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
-- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - 📦 The Self-Hosted Solution for Running AI-Generated Code Securely 📦
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - The Self-Hosted Solution for Running AI-Generated Code Securely
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [mrjackwills/oxker](https://github.com/mrjackwills/oxker) - A simple tui to view & control docker containers
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
@@ -535,6 +536,7 @@
 
 ## firefox 
 
+- [IceDBorn/pipewire-screenaudio](https://github.com/IceDBorn/pipewire-screenaudio) - Extension to passthrough pipewire audio to WebRTC Screenshare
 - [migueravila/simplefox](https://github.com/migueravila/simplefox) - A Userstyle theme for Firefox minimalist and Keyboard centered.
 - [cascadefox/cascade](https://github.com/cascadefox/cascade) - A responsive One-Line CSS Theme for Firefox.
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
@@ -781,6 +783,7 @@
 
 ## java 
 
+- [SynthLauncher/SynthLauncher](https://github.com/SynthLauncher/SynthLauncher) - The official repository for SynthLauncher
 - [Dushistov/flapigen-rs](https://github.com/Dushistov/flapigen-rs) - Tool for connecting programs or libraries written in Rust with other languages
 - [LiveSplit/livesplit-core](https://github.com/LiveSplit/livesplit-core) - livesplit-core is a library that provides a lot of functionality for creating a speedrun timer.
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
@@ -860,7 +863,7 @@
 ## linux 
 
 - [Toni500github/customfetch](https://github.com/Toni500github/customfetch) - Highly customizable and fast system information fetch (or neofetch-like) program. It's also a GTK3 app and android widget
-- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - 📦 The Self-Hosted Solution for Running AI-Generated Code Securely 📦
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - The Self-Hosted Solution for Running AI-Generated Code Securely
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 - [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center) - A notification daemon/center for linux
 - [l1npengtul/nokhwa](https://github.com/l1npengtul/nokhwa) - Cross Platform Rust Library for Powerful Webcam/Camera Capture
@@ -938,7 +941,7 @@
 
 ## macos 
 
-- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - 📦 The Self-Hosted Solution for Running AI-Generated Code Securely 📦
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - The Self-Hosted Solution for Running AI-Generated Code Securely
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 - [l1npengtul/nokhwa](https://github.com/l1npengtul/nokhwa) - Cross Platform Rust Library for Powerful Webcam/Camera Capture
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
@@ -977,6 +980,7 @@
 
 ## minecraft 
 
+- [SynthLauncher/SynthLauncher](https://github.com/SynthLauncher/SynthLauncher) - The official repository for SynthLauncher
 - [Adamkob12/Meshem](https://github.com/Adamkob12/Meshem) - Bevy Meshem is a Rust crate designed to provide meshing algorithms for voxel grids, enabling you to create cohesive 3D mesh structures from a grid of cubic voxels
 - [sammwyy/OpenMC](https://github.com/sammwyy/OpenMC) - An open source Minecraft launcher and mod manager
 - [MCHPR/MCHPRS](https://github.com/MCHPR/MCHPRS) - A multithreaded Minecraft server built for redstone.
@@ -1111,6 +1115,13 @@
 
 ## others 
 
+- [urob/zmk-config](https://github.com/urob/zmk-config) - Personal ZMK firmware configuration for various boards (34-keys, Corneish Zen, Planck)
+- [caksoylar/keymap-drawer](https://github.com/caksoylar/keymap-drawer) - Visualize keymaps that use advanced features like hold-taps and combos, with automatic parsing
+- [actuday6418/pipewire-streaming](https://github.com/actuday6418/pipewire-streaming) - capture packets from pipewire, encode and stream over webtransport. todo: multiple devices, each with a spatial position
+- [WERDXZ/wlrs](https://github.com/WERDXZ/wlrs) - Dynamic Wallpaper for Linux Wayland
+- [Cretezy/lazyjj](https://github.com/Cretezy/lazyjj) - TUI for Jujutsu/jj
+- [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
+- [LiveSplit/obs-livesplit-one](https://github.com/LiveSplit/obs-livesplit-one) - A plugin for OBS Studio that allows adding LiveSplit One as a source.
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and execute GitHub Actions workflows locally.
 - [trfore/docker-debian12-systemd](https://github.com/trfore/docker-debian12-systemd) - A minimal systemd enabled Debian 12 image
 - [MaxBondABE/attempt](https://github.com/MaxBondABE/attempt) - CLI for retrying fallible commands
@@ -1231,7 +1242,7 @@
 - [face-hh/webx](https://github.com/face-hh/webx) - An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more.
 - [Tanish2002/neovim-config](https://github.com/Tanish2002/neovim-config) - Neovim Config based upon Nixvim
 - [eneoli/flakeshot](https://github.com/eneoli/flakeshot) - A screenshot tool for unix-systems which runs natively on Wayland and X11!
-- [gabm/Satty](https://github.com/gabm/Satty) - Satty - Modern Screenshot Annotation. A tool inspired by Swappy and Flameshot.
+- [gabm/Satty](https://github.com/gabm/Satty) - Satty - Modern Screenshot Annotation.
 - [woelper/woodpacker](https://github.com/woelper/woodpacker) - calculate wood/material consumption from templates and pieces
 - [KZDKM/Hyprspace](https://github.com/KZDKM/Hyprspace) - Workspace overview plugin for Hyprland
 - [wochap/nix-config](https://github.com/wochap/nix-config) - Personal NixOS configuration
@@ -1290,7 +1301,6 @@
 - [mozilla/sccache](https://github.com/mozilla/sccache) - Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cl
 - [mbrea-c/bevy_animation_graph](https://github.com/mbrea-c/bevy_animation_graph) - Animation graphs in Bevy!
 - [DGriffin91/bevy_ridiculous_ssgi](https://github.com/DGriffin91/bevy_ridiculous_ssgi) - Some ridiculous SSGI for bevy
-- [zakarumych/egui-snarl](https://github.com/zakarumych/egui-snarl) - Customizable egui node-graph library
 - [reu/clipshare](https://github.com/reu/clipshare) - Share your clipboard between machines of your local network.
 - [setzer22/blackjack](https://github.com/setzer22/blackjack) - A procedural, node-based modelling tool, made in rust 🦀
 - [paulgb/wgsl-playground](https://github.com/paulgb/wgsl-playground) - 
@@ -1579,7 +1589,7 @@
 
 ## python 
 
-- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - 📦 The Self-Hosted Solution for Running AI-Generated Code Securely 📦
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - The Self-Hosted Solution for Running AI-Generated Code Securely
 - [srwi/qmk-via-api](https://github.com/srwi/qmk-via-api) - VIA api implementation for QMK-based keyboards
 - [GradienceTeam/Gradience](https://github.com/GradienceTeam/Gradience) - Change the look of Adwaita, with ease
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
@@ -1643,6 +1653,7 @@
 
 ## rust 
 
+- [SynthLauncher/SynthLauncher](https://github.com/SynthLauncher/SynthLauncher) - The official repository for SynthLauncher
 - [FlakySL/translatable](https://github.com/FlakySL/translatable) - A robust internationalization solution for Rust featuring compile-time validation, ISO 639-1 compliance, and TOML-based translation management.
 - [Kither12/shezem-rs](https://github.com/Kither12/shezem-rs) - Audio recognition CLI written in Rust
 - [FriederHannenheim/cthulock](https://github.com/FriederHannenheim/cthulock) - Wayland screen locker focused on customizability
@@ -1874,7 +1885,7 @@
 
 ## security 
 
-- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - 📦 The Self-Hosted Solution for Running AI-Generated Code Securely 📦
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - The Self-Hosted Solution for Running AI-Generated Code Securely
 - [pumpbin/pumpbin](https://github.com/pumpbin/pumpbin) - 🎃 PumpBin is an Implant Generation Platform.
 - [caido/caido](https://github.com/caido/caido) - 🚀 Caido releases, wiki and roadmap
 - [GeekMasher/securitree.nvim](https://github.com/GeekMasher/securitree.nvim) - SecuriTree - Security Research Tool
@@ -1889,7 +1900,7 @@
 
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [vladkens/badges](https://github.com/vladkens/badges) - 🎖️🎨 Instantly create custom badges for GitHub, docs, and more. Lightweight, self-hostable, with live integrations that keep badges always up to date. Elevate your projects in seconds!
-- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - 📦 The Self-Hosted Solution for Running AI-Generated Code Securely 📦
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - The Self-Hosted Solution for Running AI-Generated Code Securely
 - [next-hat/nanocl](https://github.com/next-hat/nanocl) - Work in progress distributed system that simplifies the orchestration of containers and virtual machines.
 
 ## serverless 
@@ -1961,6 +1972,7 @@
 
 ## typescript 
 
+- [SynthLauncher/SynthLauncher](https://github.com/SynthLauncher/SynthLauncher) - The official repository for SynthLauncher
 - [kunkunsh/kunkun](https://github.com/kunkunsh/kunkun) - An open source, cross-platform, extensible app launcher.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
@@ -1980,6 +1992,27 @@
 - [nullpo-head/wsl-distrod](https://github.com/nullpo-head/wsl-distrod) - Distrod is a meta-distro for WSL 2 which installs Ubuntu, Arch, Debian, Gentoo, etc. with systemd in a minute for you. Distrod also has built-in auto-start feature on Windows startup and port forwardi
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 - [VitalElement/AvalonStudio](https://github.com/VitalElement/AvalonStudio) - Cross platform IDE and Shell
+
+## ui 
+
+- [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
+- [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance rust-powered UI layout library
+- [RibirX/Ribir](https://github.com/RibirX/Ribir) - Non-intrusive GUI framework for Rust/WASM
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [zakarumych/egui-snarl](https://github.com/zakarumych/egui-snarl) - Customizable egui node-graph library
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
+- [audulus/rui](https://github.com/audulus/rui) - Declarative Rust UI library
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
+- [IDEDARY/Bevypunk](https://github.com/IDEDARY/Bevypunk) - This repository is a recreation of Cyberpunk UI in Bevy
+- [nicopap/cuicui_layout](https://github.com/nicopap/cuicui_layout) - The dumbest and simplest layouting algorithm for bevy
+- [bytestring-net/bevy_lunex](https://github.com/bytestring-net/bevy_lunex) - Blazingly fast retained layout engine for Bevy ECS.
+- [yewstack/facade](https://github.com/yewstack/facade) - Facade Framework - autogenerated embedded live dashboards for Rust apps
+- [SecondHalfGames/yakui](https://github.com/SecondHalfGames/yakui) - yakui is a declarative Rust UI library for games
+- [vleue/bevy_ninepatch](https://github.com/vleue/bevy_ninepatch) - Bevy plugin to displays 9-Patch UI elements
+- [RAUI-labs/raui](https://github.com/RAUI-labs/raui) - Rust implementation of Renderer Agnostic User Interface
+- [PieroCastillo/Aura.UI](https://github.com/PieroCastillo/Aura.UI) - A Library with a lot of Controls for AvaloniaUI
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+- [c-smile/sciter-sdk](https://github.com/c-smile/sciter-sdk) - Sciter is an embeddable HTML/CSS/scripting engine
 
 ## unity 
 
