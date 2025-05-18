@@ -109,6 +109,7 @@
 
 ## C++ 
 
+- [urob/zmk-config](https://github.com/urob/zmk-config) - Personal ZMK firmware configuration for various boards (34-keys, Corneish Zen, Planck)
 - [Toni500github/customfetch](https://github.com/Toni500github/customfetch) - Highly customizable and fast system information fetch (or neofetch-like) program. It's also a GTK3 app and android widget
 - [heyzec/wayland-displays](https://github.com/heyzec/wayland-displays) - Yet another wayland displays configurator
 - [KZDKM/Hyprspace](https://github.com/KZDKM/Hyprspace) - Workspace overview plugin for Hyprland
@@ -186,7 +187,6 @@
 
 ## HTML 
 
-- [vivax3794/natrix](https://github.com/vivax3794/natrix) - Rust-First frontend framework.
 - [rjpcomputing/luaforwindows](https://github.com/rjpcomputing/luaforwindows) - Lua for Windows is a 'batteries included environment' for the Lua scripting language on Windows. NOTICE: Looking for maintainer.
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 
@@ -201,6 +201,8 @@
 
 ## JavaScript 
 
+- [IceDBorn/pipewire-screenaudio](https://github.com/IceDBorn/pipewire-screenaudio) - Extension to passthrough pipewire audio to WebRTC Screenshare
+- [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [arihant-jain-09/discord-clone](https://github.com/arihant-jain-09/discord-clone) - Discord (with unique roles in each server, image, audio sharing, auto render video links in messages, discord loading logo between page renderings)  with React, React Router, Material UI, SASS, Styled
 - [mrjvs/Discord-video-experiment](https://github.com/mrjvs/Discord-video-experiment) - Experiment for making video work for discord bots.
 - [MainSilent/Discord-Screenshare](https://github.com/MainSilent/Discord-Screenshare) - First ever discord video screenshare SELFBOT
@@ -353,6 +355,7 @@
 
 ## Python 
 
+- [caksoylar/keymap-drawer](https://github.com/caksoylar/keymap-drawer) - Visualize keymaps that use advanced features like hold-taps and combos, with automatic parsing
 - [bm-mit/key-caster](https://github.com/bm-mit/key-caster) - An on-screen key stroke displayer app for Linux inspired by keycastr
 - [pydantic/pydantic-core](https://github.com/pydantic/pydantic-core) - Core validation logic for pydantic written in rust
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
@@ -375,6 +378,11 @@
 
 ## Rust 
 
+- [SynthLauncher/SynthLauncher](https://github.com/SynthLauncher/SynthLauncher) - The official repository for SynthLauncher
+- [actuday6418/pipewire-streaming](https://github.com/actuday6418/pipewire-streaming) - capture packets from pipewire, encode and stream over webtransport. todo: multiple devices, each with a spatial position
+- [WERDXZ/wlrs](https://github.com/WERDXZ/wlrs) - Dynamic Wallpaper for Linux Wayland
+- [Cretezy/lazyjj](https://github.com/Cretezy/lazyjj) - TUI for Jujutsu/jj
+- [LiveSplit/obs-livesplit-one](https://github.com/LiveSplit/obs-livesplit-one) - A plugin for OBS Studio that allows adding LiveSplit One as a source.
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and execute GitHub Actions workflows locally.
 - [FlakySL/translatable](https://github.com/FlakySL/translatable) - A robust internationalization solution for Rust featuring compile-time validation, ISO 639-1 compliance, and TOML-based translation management.
 - [cxreiff/lifecycler](https://github.com/cxreiff/lifecycler) - Bevy Game Jam #5 submission. Terminal aquarium.
@@ -392,10 +400,11 @@
 - [abgros/stalloc](https://github.com/abgros/stalloc) - Stalloc is a fast first-fit memory allocator that you can use to quickly speed up your Rust programs.
 - [mstange/samply](https://github.com/mstange/samply) - Command-line sampling profiler for macOS, Linux, and Windows
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
+- [vivax3794/natrix](https://github.com/vivax3794/natrix) - Rust-First frontend framework.
 - [tuono-labs/tuono](https://github.com/tuono-labs/tuono) - ⚡ Modern fullstack web framework based on Rust and React
 - [timschmidt/csgrs](https://github.com/timschmidt/csgrs) - Constructive solid geometry with polygons using BSP trees in Rust
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
-- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - 📦 The Self-Hosted Solution for Running AI-Generated Code Securely 📦
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - The Self-Hosted Solution for Running AI-Generated Code Securely
 - [SilentVoid13/SyncDisBoi](https://github.com/SilentVoid13/SyncDisBoi) - Music streaming platforms (Youtube Music, Spotify, Tidal) synchronization tool
 - [mainmatter/eserde](https://github.com/mainmatter/eserde) - Just like `serde`, but with more exhaustive error reporting capabilities. Designed for public API payloads.
 - [NeoCogi/microui-redux](https://github.com/NeoCogi/microui-redux) - Idiomatic Rust MicroUI port
@@ -536,7 +545,7 @@
 - [face-hh/webx](https://github.com/face-hh/webx) - An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more.
 - [nehu3n/qipi](https://github.com/nehu3n/qipi) - 🦉 An extremely fast and disk-efficient package manager written in Rust.
 - [eneoli/flakeshot](https://github.com/eneoli/flakeshot) - A screenshot tool for unix-systems which runs natively on Wayland and X11!
-- [gabm/Satty](https://github.com/gabm/Satty) - Satty - Modern Screenshot Annotation. A tool inspired by Swappy and Flameshot.
+- [gabm/Satty](https://github.com/gabm/Satty) - Satty - Modern Screenshot Annotation.
 - [RustLangES/cfworker-template](https://github.com/RustLangES/cfworker-template) - Template de Workers para CloudFlare
 - [coastalwhite/lemurs](https://github.com/coastalwhite/lemurs) - A customizable TUI display/login manager written in Rust 🐒
 - [woelper/woodpacker](https://github.com/woelper/woodpacker) - calculate wood/material consumption from templates and pieces
