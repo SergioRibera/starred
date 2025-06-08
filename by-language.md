@@ -105,7 +105,6 @@
 - [GtkSharp/GtkSharp](https://github.com/GtkSharp/GtkSharp) - .NET wrapper for Gtk and other related libraries
 - [nhn/socket.io-client-unity3d](https://github.com/nhn/socket.io-client-unity3d) - socket.io-Client for Unity3D, which is compatible with socket.io v1.x
 - [Rocher0724/socket.io-unity](https://github.com/Rocher0724/socket.io-unity) - 
-- [xeleh/enhancer](https://github.com/xeleh/enhancer) - A collection of utilities to enhance the Unity Editor
 - [BarRaider/obs-websocket-dotnet](https://github.com/BarRaider/obs-websocket-dotnet) - C# .NET library to communicate with an obs-websocket server
 
 ## C++ 
@@ -176,6 +175,7 @@
 
 ## Go 
 
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [Unity-Technologies/multiplay-examples](https://github.com/Unity-Technologies/multiplay-examples) - Examples for using Unity Multiplay: https://unity.com/products/multiplay
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
@@ -268,7 +268,6 @@
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim
 - [Theory-of-Everything/nii-nvim](https://github.com/Theory-of-Everything/nii-nvim) - A minimal neovim configuration
 - [numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - :fire: No-nonsense floating terminal plugin for neovim :fire:
-- [kristijanhusak/neovim-config](https://github.com/kristijanhusak/neovim-config) - Neovim configuration
 - [simrat39/rust-tools.nvim](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in rust using neovim's builtin lsp
 - [nvim-flutter/flutter-tools.nvim](https://github.com/nvim-flutter/flutter-tools.nvim) - Tools to help create flutter apps in neovim using the native lsp
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
@@ -380,6 +379,8 @@
 
 ## Rust 
 
+- [nick42d/youtui](https://github.com/nick42d/youtui) - TUI and API for YouTube Music written in Rust
+- [facet-rs/facet](https://github.com/facet-rs/facet) - Rust reflection, serialization, deserialization, pretty printing, etc. — the last proc macro you should need
 - [nferhat/fht-compositor](https://github.com/nferhat/fht-compositor) - A dynamic tiling Wayland compositor.
 - [simxnet/objekt](https://github.com/simxnet/objekt) - simple kv cache server in pure rust
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
@@ -562,7 +563,7 @@
 - [anyrun-org/anyrun](https://github.com/anyrun-org/anyrun) - A wayland native, highly customizable runner.
 - [Whitecat18/Rust-for-Malware-Development](https://github.com/Whitecat18/Rust-for-Malware-Development) - This repository contains complete resources and coding practices for malware development using Rust 🦀.
 - [Jedsek/deci-player](https://github.com/Jedsek/deci-player) - A music-player written with rust and iced
-- [H3rmt/hyprswitch](https://github.com/H3rmt/hyprswitch) - A CLI/GUI that allows switching between windows in Hyprland
+- [H3rmt/hyprswitch](https://github.com/H3rmt/hyprswitch) - A modern GTK4-based window switcher and application launcher for Hyprland
 - [mangelats/buffers](https://github.com/mangelats/buffers) - Another way of looking at memory management for collections
 - [waycrate/wayshot](https://github.com/waycrate/wayshot) - screenshot tool for wlroots based compositors implementing zwlr_screencopy_v1
 - [Kobzol/cargo-wizard](https://github.com/Kobzol/cargo-wizard) - Cargo subcommand for configuring Cargo projects for best performance.
@@ -942,6 +943,7 @@
 - [s4vitar/wifiCrack](https://github.com/s4vitar/wifiCrack) - Herramienta hecha en Bash ideal para automatizar ataques WiFi (WPA/WPA2 - PSK) destinados a la obtención de la contraseña.
 - [CodigoCristo/crisparch](https://github.com/CodigoCristo/crisparch) - Script instalar arch para usuarios
 - [CyberShadow/aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
+- [kristijanhusak/neovim-config](https://github.com/kristijanhusak/neovim-config) - Neovim configuration
 - [intelligencegroup-io/iOS-Hacktivation-Toolkit](https://github.com/intelligencegroup-io/iOS-Hacktivation-Toolkit) - iOS Hacktivation Toolkit
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 - [carnager/teiler](https://github.com/carnager/teiler) - Little script for screenshots and screencasts utilizing rofi, maim, ffmpeg
