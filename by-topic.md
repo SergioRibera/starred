@@ -74,6 +74,7 @@
 - [go](#go)
 - [golang](#golang)
 - [good-first-issue](#good-first-issue)
+- [google](#google)
 - [graphql](#graphql)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
@@ -258,11 +259,13 @@
 
 ## aws 
 
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
 - [smithy-lang/smithy-rs](https://github.com/smithy-lang/smithy-rs) - Code generation for the AWS SDK for Rust, as well as server and generic smithy client generation.
 - [nogibjj/rust-mlops-template](https://github.com/nogibjj/rust-mlops-template) - A work in progress to build out solutions in Rust for MLOPs
 
 ## azure 
 
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
 - [nogibjj/rust-mlops-template](https://github.com/nogibjj/rust-mlops-template) - A work in progress to build out solutions in Rust for MLOPs
 
 ## babel 
@@ -381,7 +384,6 @@
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
 - [GtkSharp/GtkSharp](https://github.com/GtkSharp/GtkSharp) - .NET wrapper for Gtk and other related libraries
 - [nhn/socket.io-client-unity3d](https://github.com/nhn/socket.io-client-unity3d) - socket.io-Client for Unity3D, which is compatible with socket.io v1.x
-- [xeleh/enhancer](https://github.com/xeleh/enhancer) - A collection of utilities to enhance the Unity Editor
 
 ## css 
 
@@ -435,6 +437,7 @@
 
 ## devops 
 
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [nogibjj/rust-mlops-template](https://github.com/nogibjj/rust-mlops-template) - A work in progress to build out solutions in Rust for MLOPs
 - [Sairyss/backend-best-practices](https://github.com/Sairyss/backend-best-practices) - Best practices, tools and guidelines for backend development. Code examples in TypeScript + NodeJS
@@ -657,7 +660,6 @@
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
 - [ggez/good-web-game](https://github.com/ggez/good-web-game) - An alternative ggez implementation on top of miniquad.
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
-- [xeleh/enhancer](https://github.com/xeleh/enhancer) - A collection of utilities to enhance the Unity Editor
 
 ## git 
 
@@ -679,6 +681,10 @@
 ## good-first-issue 
 
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
+
+## google 
+
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
 
 ## graphql 
 
@@ -785,7 +791,6 @@
 
 ## java 
 
-- [SynthLauncher/SynthLauncher](https://github.com/SynthLauncher/SynthLauncher) - The official repository for SynthLauncher
 - [Dushistov/flapigen-rs](https://github.com/Dushistov/flapigen-rs) - Tool for connecting programs or libraries written in Rust with other languages
 - [LiveSplit/livesplit-core](https://github.com/LiveSplit/livesplit-core) - livesplit-core is a library that provides a lot of functionality for creating a speedrun timer.
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
@@ -921,6 +926,7 @@
 - [NStefan002/screenkey.nvim](https://github.com/NStefan002/screenkey.nvim) - Screencast your keys in Neovim
 - [mlua-rs/mlua](https://github.com/mlua-rs/mlua) - High level Lua 5.4/5.3/5.2/5.1 (including LuaJIT) and Luau bindings to Rust with async/await support
 - [fishfolk/bones](https://github.com/fishfolk/bones) - An easy-to-use game engine for making real games.
+- [jarkonik/bevy_scriptum](https://github.com/jarkonik/bevy_scriptum) - 📜 A plugin for Bevy that allows you to write some of your game or application logic in a scripting language.
 - [makspll/bevy_mod_scripting](https://github.com/makspll/bevy_mod_scripting) - Bevy Scripting Plugin
 - [SmiteshP/nvim-navic](https://github.com/SmiteshP/nvim-navic) - Simple winbar/statusline plugin that shows your current code context
 - [etrnal70/ditsdots](https://github.com/etrnal70/ditsdots) - Personal config. Warning, may eat your cats.
@@ -1118,6 +1124,7 @@
 
 ## others 
 
+- [nick42d/youtui](https://github.com/nick42d/youtui) - TUI and API for YouTube Music written in Rust
 - [EngoDev/wasvy](https://github.com/EngoDev/wasvy) - Bevy WASM component model bridge
 - [urob/zmk-config](https://github.com/urob/zmk-config) - Personal ZMK firmware configuration for various boards (34-keys, Corneish Zen, Planck)
 - [caksoylar/keymap-drawer](https://github.com/caksoylar/keymap-drawer) - Visualize keymaps that use advanced features like hold-taps and combos, with automatic parsing
@@ -1256,7 +1263,7 @@
 - [anyrun-org/anyrun](https://github.com/anyrun-org/anyrun) - A wayland native, highly customizable runner.
 - [abathur/lilgit](https://github.com/abathur/lilgit) - a smol (quick) git status prompt plugin
 - [Jedsek/deci-player](https://github.com/Jedsek/deci-player) - A music-player written with rust and iced
-- [H3rmt/hyprswitch](https://github.com/H3rmt/hyprswitch) - A CLI/GUI that allows switching between windows in Hyprland
+- [H3rmt/hyprswitch](https://github.com/H3rmt/hyprswitch) - A modern GTK4-based window switcher and application launcher for Hyprland
 - [mangelats/buffers](https://github.com/mangelats/buffers) - Another way of looking at memory management for collections
 - [waycrate/wayshot](https://github.com/waycrate/wayshot) - screenshot tool for wlroots based compositors implementing zwlr_screencopy_v1
 - [zaghaghi/openapi-tui](https://github.com/zaghaghi/openapi-tui) - Terminal UI to list, browse and run APIs defined with openapi spec.
@@ -1653,10 +1660,12 @@
 ## ruby 
 
 - [matsadler/magnus](https://github.com/matsadler/magnus) - Ruby bindings for Rust. Write Ruby extension gems in Rust, or call Ruby from Rust.
+- [jarkonik/bevy_scriptum](https://github.com/jarkonik/bevy_scriptum) - 📜 A plugin for Bevy that allows you to write some of your game or application logic in a scripting language.
 - [LiveSplit/livesplit-core](https://github.com/LiveSplit/livesplit-core) - livesplit-core is a library that provides a lot of functionality for creating a speedrun timer.
 
 ## rust 
 
+- [facet-rs/facet](https://github.com/facet-rs/facet) - Rust reflection, serialization, deserialization, pretty printing, etc. — the last proc macro you should need
 - [nferhat/fht-compositor](https://github.com/nferhat/fht-compositor) - A dynamic tiling Wayland compositor.
 - [simxnet/objekt](https://github.com/simxnet/objekt) - simple kv cache server in pure rust
 - [sammwyy/gdbc](https://github.com/sammwyy/gdbc) - Comprehensive terminal-based GDB client written in Rust for performing remote debugging operations.
@@ -1793,6 +1802,7 @@
 - [bytestring-net/bevy_lunex](https://github.com/bytestring-net/bevy_lunex) - Blazingly fast retained layout engine for Bevy ECS.
 - [johanhelsing/matchbox](https://github.com/johanhelsing/matchbox) - Painless peer-to-peer WebRTC networking for rust wasm (and native!)
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
+- [jarkonik/bevy_scriptum](https://github.com/jarkonik/bevy_scriptum) - 📜 A plugin for Bevy that allows you to write some of your game or application logic in a scripting language.
 - [Jondolf/avian](https://github.com/Jondolf/avian) - ECS-driven 2D and 3D physics engine for the Bevy game engine.
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [projectfluent/fluent-rs](https://github.com/projectfluent/fluent-rs) - Rust implementation of Project Fluent
@@ -1973,6 +1983,7 @@
 
 ## terraform 
 
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 
 ## testing 
@@ -2038,7 +2049,6 @@
 - [sunsided/unity-fps](https://github.com/sunsided/unity-fps) - An FPS tutorial game in Unity
 - [qualisys/QTM-Connect-For-Unity](https://github.com/qualisys/QTM-Connect-For-Unity) - Unity package for the C# (.NET) implementation of the real-time protocol for Qualisys Track Manager
 - [emilianavt/BVHTools](https://github.com/emilianavt/BVHTools) - BVH Tools for Unity
-- [xeleh/enhancer](https://github.com/xeleh/enhancer) - A collection of utilities to enhance the Unity Editor
 
 ## vim 
 
