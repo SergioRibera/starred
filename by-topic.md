@@ -100,6 +100,7 @@
 - [linux](#linux)
 - [llm](#llm)
 - [localization](#localization)
+- [login](#login)
 - [low-code](#low-code)
 - [lua](#lua)
 - [mac](#mac)
@@ -135,6 +136,7 @@
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
+- [productivity](#productivity)
 - [programming](#programming)
 - [pwa](#pwa)
 - [python](#python)
@@ -890,6 +892,7 @@
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
+- [fairyglade/ly](https://github.com/fairyglade/ly) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
 - [hertg/lightdm-neon](https://github.com/hertg/lightdm-neon) - :art: A customizable theme for web-greeter in a nostalgic but modern neon look
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [igor-petruk/scriptisto](https://github.com/igor-petruk/scriptisto) - A language-agnostic "shebang interpreter" that enables you to write scripts in compiled languages.
@@ -916,6 +919,10 @@
 ## localization 
 
 - [projectfluent/fluent-rs](https://github.com/projectfluent/fluent-rs) - Rust implementation of Project Fluent
+
+## login 
+
+- [fairyglade/ly](https://github.com/fairyglade/ly) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
 
 ## low-code 
 
@@ -1124,6 +1131,7 @@
 
 ## others 
 
+- [thomasschafer/scooter](https://github.com/thomasschafer/scooter) - Interactive find and replace in the terminal
 - [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 - [nick42d/youtui](https://github.com/nick42d/youtui) - TUI and API for YouTube Music written in Rust
 - [EngoDev/wasvy](https://github.com/EngoDev/wasvy) - Bevy WASM component model bridge
@@ -1263,7 +1271,7 @@
 - [codethread/qmk.nvim](https://github.com/codethread/qmk.nvim) - Format qmk and zmk keymaps in neovim
 - [anyrun-org/anyrun](https://github.com/anyrun-org/anyrun) - A wayland native, highly customizable runner.
 - [abathur/lilgit](https://github.com/abathur/lilgit) - a smol (quick) git status prompt plugin
-- [Jedsek/deci-player](https://github.com/Jedsek/deci-player) - A music-player written with rust and iced
+- [KawaYww/deci-player](https://github.com/KawaYww/deci-player) - A music-player written with rust and iced
 - [H3rmt/hyprshell](https://github.com/H3rmt/hyprshell) - A modern GTK4-based window switcher and application launcher for Hyprland
 - [mangelats/buffers](https://github.com/mangelats/buffers) - Another way of looking at memory management for collections
 - [waycrate/wayshot](https://github.com/waycrate/wayshot) - screenshot tool for wlroots based compositors implementing zwlr_screencopy_v1
@@ -1369,7 +1377,6 @@
 - [josfeenstra/hedron](https://github.com/josfeenstra/hedron) - An all-in-one 3D modelling library, written in Rust
 - [HugoPeters1024/vk_rays](https://github.com/HugoPeters1024/vk_rays) - Vulkan RTX rendering backend for the Bevy game engine written in Rust
 - [InnocentusLime/bevy-tilemap-editor-pls](https://github.com/InnocentusLime/bevy-tilemap-editor-pls) - A simple extension for `bevy-editor-pls` to support tilemap editing right inside the bevy app.
-- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 - [gsingh93/display-manager](https://github.com/gsingh93/display-manager) - A simple display/login manager for Linux
 - [titanclass/yew-chart](https://github.com/titanclass/yew-chart) - 
 - [denoland/fastwebsockets](https://github.com/denoland/fastwebsockets) - A fast RFC6455 WebSocket implementation
@@ -1588,6 +1595,12 @@
 
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
+
+## productivity 
+
+- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
+- [SeakMengs/WindowPet](https://github.com/SeakMengs/WindowPet) - Pet overlay app built with tauri and react that lets you have adorable companion such as pets, anime characters on your screen.
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 
 ## programming 
 
@@ -2137,6 +2150,7 @@
 ## zig 
 
 - [AndreaOrru/zen](https://github.com/AndreaOrru/zen) - Experimental operating system written in Zig
+- [fairyglade/ly](https://github.com/fairyglade/ly) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
 
 
 ## License
