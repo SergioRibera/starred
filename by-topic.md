@@ -388,6 +388,7 @@
 
 ## css 
 
+- [vizia/vizia](https://github.com/vizia/vizia) - A declarative GUI library written in Rust
 - [brofrain/unocss-classes-rs](https://github.com/brofrain/unocss-classes-rs) - ⚛️ HTML class builder macro with UnoCSS variant group transformer for Rust web frameworks
 - [kaj/rsass](https://github.com/kaj/rsass) - Sass reimplemented in rust with nom.
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
@@ -563,6 +564,7 @@
 
 ## framework 
 
+- [vizia/vizia](https://github.com/vizia/vizia) - A declarative GUI library written in Rust
 - [tuono-labs/tuono](https://github.com/tuono-labs/tuono) - ⚡ Modern fullstack web framework based on Rust and React
 - [nicopap/cuicui_layout](https://github.com/nicopap/cuicui_layout) - The dumbest and simplest layouting algorithm for bevy
 - [bytestring-net/bevy_lunex](https://github.com/bytestring-net/bevy_lunex) - Blazingly fast retained layout engine for Bevy ECS.
@@ -1130,6 +1132,9 @@
 
 ## others 
 
+- [dngulin/gpcl](https://github.com/dngulin/gpcl) - GamePad Controlled Launcher written in Rust & Slint
+- [nehu3n/minargs](https://github.com/nehu3n/minargs) - 🚀 Ultra-lightweight, blazing-fast, zero-dependency CLI parser — inspired by Clap.
+- [vizia/morphorm](https://github.com/vizia/morphorm) - A UI layout engine written in Rust
 - [thomasschafer/scooter](https://github.com/thomasschafer/scooter) - Interactive find and replace in the terminal
 - [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 - [nick42d/youtui](https://github.com/nick42d/youtui) - TUI and API for YouTube Music written in Rust
@@ -1323,7 +1328,7 @@
 - [reu/clipshare](https://github.com/reu/clipshare) - Share your clipboard between machines of your local network.
 - [setzer22/blackjack](https://github.com/setzer22/blackjack) - A procedural, node-based modelling tool, made in rust 🦀
 - [paulgb/wgsl-playground](https://github.com/paulgb/wgsl-playground) - 
-- [voxell-tech/motiongfx](https://github.com/voxell-tech/motiongfx) - Real-time motion graphics creation tool in Bevy.
+- [voxell-tech/motiongfx](https://github.com/voxell-tech/motiongfx) - Real-time motion graphics creation tool made using Bevy.
 - [nnethercote/dhat-rs](https://github.com/nnethercote/dhat-rs) - Heap profiling and ad hoc profiling for Rust programs.
 - [mrdimidium/nanoid](https://github.com/mrdimidium/nanoid) - A tiny, secure, URL-friendly, unique string ID generator for Rust
 - [dtolnay/inherent](https://github.com/dtolnay/inherent) - Make trait methods callable without the trait in scope
@@ -1678,9 +1683,10 @@
 
 ## rust 
 
+- [vizia/vizia](https://github.com/vizia/vizia) - A declarative GUI library written in Rust
 - [facet-rs/facet](https://github.com/facet-rs/facet) - Rust reflection, serialization, deserialization, pretty printing, etc. — the last proc macro you should need
 - [nferhat/fht-compositor](https://github.com/nferhat/fht-compositor) - A dynamic tiling Wayland compositor.
-- [yehorovye/objekt](https://github.com/yehorovye/objekt) - simple kv cache server in pure rust
+- [yehorovye/objekt](https://github.com/yehorovye/objekt) - simple kv cache server in pure rust [not maintained anymore]
 - [sammwyy/gdbc](https://github.com/sammwyy/gdbc) - Comprehensive terminal-based GDB client written in Rust for performing remote debugging operations.
 - [SynthLauncher/SynthLauncher](https://github.com/SynthLauncher/SynthLauncher) - The official repository for SynthLauncher
 - [FlakySL/translatable](https://github.com/FlakySL/translatable) - A robust internationalization solution for Rust featuring compile-time validation, ISO 639-1 compliance, and TOML-based translation management.
@@ -1935,7 +1941,7 @@
 
 ## server 
 
-- [yehorovye/objekt](https://github.com/yehorovye/objekt) - simple kv cache server in pure rust
+- [yehorovye/objekt](https://github.com/yehorovye/objekt) - simple kv cache server in pure rust [not maintained anymore]
 
 ## serverless 
 
@@ -2030,6 +2036,7 @@
 
 ## ui 
 
+- [vizia/vizia](https://github.com/vizia/vizia) - A declarative GUI library written in Rust
 - [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
 - [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance rust-powered UI layout library
 - [RibirX/Ribir](https://github.com/RibirX/Ribir) - Non-intrusive GUI framework for Rust/WASM
