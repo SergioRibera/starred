@@ -105,6 +105,7 @@
 - [GtkSharp/GtkSharp](https://github.com/GtkSharp/GtkSharp) - .NET wrapper for Gtk and other related libraries
 - [nhn/socket.io-client-unity3d](https://github.com/nhn/socket.io-client-unity3d) - socket.io-Client for Unity3D, which is compatible with socket.io v1.x
 - [Rocher0724/socket.io-unity](https://github.com/Rocher0724/socket.io-unity) - 
+- [xeleh/enhancer](https://github.com/xeleh/enhancer) - A collection of utilities to enhance the Unity Editor
 - [BarRaider/obs-websocket-dotnet](https://github.com/BarRaider/obs-websocket-dotnet) - C# .NET library to communicate with an obs-websocket server
 
 ## C++ 
@@ -380,7 +381,7 @@
 - [nehu3n/minargs](https://github.com/nehu3n/minargs) - 🚀 Ultra-lightweight, blazing-fast, zero-dependency CLI parser — inspired by Clap.
 - [vizia/morphorm](https://github.com/vizia/morphorm) - A UI layout engine written in Rust
 - [vizia/vizia](https://github.com/vizia/vizia) - A declarative GUI library written in Rust
-- [thomasschafer/scooter](https://github.com/thomasschafer/scooter) - Interactive find and replace in the terminal
+- [thomasschafer/scooter](https://github.com/thomasschafer/scooter) - Interactive find-and-replace in the terminal
 - [nick42d/youtui](https://github.com/nick42d/youtui) - TUI and API for YouTube Music written in Rust
 - [facet-rs/facet](https://github.com/facet-rs/facet) - Rust reflection, serialization, deserialization, pretty printing, etc. — the last proc macro you should need
 - [nferhat/fht-compositor](https://github.com/nferhat/fht-compositor) - A dynamic tiling Wayland compositor.
@@ -938,7 +939,7 @@
 - [Zerschranzer/arch-gaming-setup](https://github.com/Zerschranzer/arch-gaming-setup) - Interactive Bash script to transform a fresh Arch Linux installation into a gaming-ready system. Enables multilib, installs Yay, GPU drivers, optional desktops, and gaming software (Steam, Lutris, Win
 - [abathur/lilgit](https://github.com/abathur/lilgit) - a smol (quick) git status prompt plugin
 - [caido/caido](https://github.com/caido/caido) - 🚀 Caido releases, wiki and roadmap
-- [zmrocze/dotfiles](https://github.com/zmrocze/dotfiles) - My personal nixos flake
+- [zmrocze/dotfiles](https://github.com/zmrocze/dotfiles) - My NixOS system configuration
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [fghibellini/arch-silence](https://github.com/fghibellini/arch-silence) - GRUB2 theme for Arch-Linux users
 - [XDeadHackerX/Inhibitor](https://github.com/XDeadHackerX/Inhibitor) - Sencilla Herramienta la cual usa 2 tipos de técnicas para Desconectar a dispositivos conectados a una red por tiempo ilimitado. Herramienta desarrollada en Español e Inglés. [Para los Ataques a otras 
