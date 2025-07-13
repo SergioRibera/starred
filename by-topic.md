@@ -385,6 +385,7 @@
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
 - [GtkSharp/GtkSharp](https://github.com/GtkSharp/GtkSharp) - .NET wrapper for Gtk and other related libraries
 - [nhn/socket.io-client-unity3d](https://github.com/nhn/socket.io-client-unity3d) - socket.io-Client for Unity3D, which is compatible with socket.io v1.x
+- [xeleh/enhancer](https://github.com/xeleh/enhancer) - A collection of utilities to enhance the Unity Editor
 
 ## css 
 
@@ -663,6 +664,7 @@
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
 - [ggez/good-web-game](https://github.com/ggez/good-web-game) - An alternative ggez implementation on top of miniquad.
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+- [xeleh/enhancer](https://github.com/xeleh/enhancer) - A collection of utilities to enhance the Unity Editor
 
 ## git 
 
@@ -1135,7 +1137,7 @@
 - [dngulin/gpcl](https://github.com/dngulin/gpcl) - GamePad Controlled Launcher written in Rust & Slint
 - [nehu3n/minargs](https://github.com/nehu3n/minargs) - 🚀 Ultra-lightweight, blazing-fast, zero-dependency CLI parser — inspired by Clap.
 - [vizia/morphorm](https://github.com/vizia/morphorm) - A UI layout engine written in Rust
-- [thomasschafer/scooter](https://github.com/thomasschafer/scooter) - Interactive find and replace in the terminal
+- [thomasschafer/scooter](https://github.com/thomasschafer/scooter) - Interactive find-and-replace in the terminal
 - [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 - [nick42d/youtui](https://github.com/nick42d/youtui) - TUI and API for YouTube Music written in Rust
 - [EngoDev/wasvy](https://github.com/EngoDev/wasvy) - Bevy WASM component model bridge
@@ -1302,7 +1304,7 @@
 - [jrmuizel/raqote](https://github.com/jrmuizel/raqote) - Rust 2D graphics library
 - [StarArawn/harmony](https://github.com/StarArawn/harmony) - A modern 3D/2D game engine that uses wgpu.
 - [embassy-rs/ekv](https://github.com/embassy-rs/ekv) - Key-value store for embedded systems, for raw NOR flash, using an LSM-Tree.
-- [zmrocze/dotfiles](https://github.com/zmrocze/dotfiles) - My personal nixos flake
+- [zmrocze/dotfiles](https://github.com/zmrocze/dotfiles) - My NixOS system configuration
 - [etolbakov/excalidocker-rs](https://github.com/etolbakov/excalidocker-rs) - Convert your docker-compose into excalidraw
 - [bouk/arduino-nix](https://github.com/bouk/arduino-nix) - Manage your arduino-cli with Nix
 - [setzer22/egui_node_graph](https://github.com/setzer22/egui_node_graph) - Build your node graph applications in Rust, using egui
@@ -2067,6 +2069,7 @@
 - [sunsided/unity-fps](https://github.com/sunsided/unity-fps) - An FPS tutorial game in Unity
 - [qualisys/QTM-Connect-For-Unity](https://github.com/qualisys/QTM-Connect-For-Unity) - Unity package for the C# (.NET) implementation of the real-time protocol for Qualisys Track Manager
 - [emilianavt/BVHTools](https://github.com/emilianavt/BVHTools) - BVH Tools for Unity
+- [xeleh/enhancer](https://github.com/xeleh/enhancer) - A collection of utilities to enhance the Unity Editor
 
 ## vim 
 
