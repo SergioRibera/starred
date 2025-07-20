@@ -292,7 +292,7 @@
 - [Grandkahuna43325/tauri-mobile-nixos-template](https://github.com/Grandkahuna43325/tauri-mobile-nixos-template) - Template for tauri android development on NixOS
 - [DeterminateSystems/nix-wasm-example](https://github.com/DeterminateSystems/nix-wasm-example) - 
 - [lilyinstarlight/zmk-nix](https://github.com/lilyinstarlight/zmk-nix) - Build system and configuration files for generating and building ZMK firmware with Nix
-- [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - Nix packages and modules for niri
+- [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - Nix-native configuration for niri
 - [sodiboo/system](https://github.com/sodiboo/system) - i use NixOS btw
 - [mlabs-haskell/proto.nix](https://github.com/mlabs-haskell/proto.nix) - Nix utilities for generating language-specific bindings from Google Protocol Buffers .proto files.
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus]
@@ -377,6 +377,9 @@
 
 ## Rust 
 
+- [DefGuard/wireguard-rs](https://github.com/DefGuard/wireguard-rs) - Rust library providing unified WireGuard interface to native/kernel and userspace implementations
+- [t3hmrman/playground-rust-ipc-experiment](https://github.com/t3hmrman/playground-rust-ipc-experiment) - A playground project exploring high-performance IPC in Rust
+- [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
 - [dngulin/gpcl](https://github.com/dngulin/gpcl) - GamePad Controlled Launcher written in Rust & Slint
 - [nehu3n/minargs](https://github.com/nehu3n/minargs) - 🚀 Ultra-lightweight, blazing-fast, zero-dependency CLI parser — inspired by Clap.
 - [vizia/morphorm](https://github.com/vizia/morphorm) - A UI layout engine written in Rust
@@ -470,7 +473,7 @@
 - [nubiv/dribble](https://github.com/nubiv/dribble) - A Desktop version Peer-to-Peer WebRTC channel. No Signaling Server required. 📡
 - [Syudagye/discord-vc-client](https://github.com/Syudagye/discord-vc-client) - experiements for making some kind of third party discord vc + WebRTC client
 - [Levminer/ezrtc](https://github.com/Levminer/ezrtc) - Easy cross-platform WebRTC communication
-- [pnodet/deezcord](https://github.com/pnodet/deezcord) - webrtc voice chat experimentation
+- [pnodet/deezcord](https://github.com/pnodet/deezcord) - [WIP] weekend project of webrtc voice chat experimentation
 - [ClusterVMS/rtsp-to-webrtc](https://github.com/ClusterVMS/rtsp-to-webrtc) - Converts an IP camera RTSP stream to a WebRTC stream
 - [JRF63/webrtc-helper](https://github.com/JRF63/webrtc-helper) - Wrapper for webrtc-rs to facilitate custom encoders/decoders
 - [JRF63/desktop-streaming](https://github.com/JRF63/desktop-streaming) - WebRTC desktop streamer using Rust
@@ -497,7 +500,7 @@
 - [smithy-lang/smithy-rs](https://github.com/smithy-lang/smithy-rs) - Code generation for the AWS SDK for Rust, as well as server and generic smithy client generation.
 - [viperML/hover-rs](https://github.com/viperML/hover-rs) - Protective home overlay
 - [Brayan-724/apika-os](https://github.com/Brayan-724/apika-os) - HI folks
-- [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@viperML, @NotAShelf]
+- [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf]
 - [l4l/yofi](https://github.com/l4l/yofi) - yofi is a minimalistic menu for wayland
 - [vars1ty/HybridBar](https://github.com/vars1ty/HybridBar) - A status bar focused on wlroots Wayland compositors
 - [coderedart/egui_overlay](https://github.com/coderedart/egui_overlay) - An Overlay Window that allows input to passthrough
@@ -555,7 +558,7 @@
 - [FMotalleb/nu_plugin_image](https://github.com/FMotalleb/nu_plugin_image) - 
 - [nushell/nu_plugin_template](https://github.com/nushell/nu_plugin_template) - 
 - [face-hh/webx](https://github.com/face-hh/webx) - An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more.
-- [nehu3n/qipi](https://github.com/nehu3n/qipi) - 🦉 An extremely fast and disk-efficient package manager written in Rust.
+- [qipkg/qipi](https://github.com/qipkg/qipi) - 🦉 An extremely fast and disk-efficient package manager written in Rust.
 - [eneoli/flakeshot](https://github.com/eneoli/flakeshot) - A screenshot tool for unix-systems which runs natively on Wayland and X11!
 - [gabm/Satty](https://github.com/gabm/Satty) - Satty - Modern Screenshot Annotation.
 - [RustLangES/cfworker-template](https://github.com/RustLangES/cfworker-template) - Template de Workers para CloudFlare
