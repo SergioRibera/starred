@@ -50,7 +50,6 @@
 ## C 
 
 - [wmww/gtk4-layer-shell](https://github.com/wmww/gtk4-layer-shell) - A library to create panels and other desktop components for Wayland using the Layer Shell protocol and GTK4
-- [fairyglade/ly](https://github.com/fairyglade/ly) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
 - [gsingh93/display-manager](https://github.com/gsingh93/display-manager) - A simple display/login manager for Linux
 - [pijulius/picom](https://github.com/pijulius/picom) - A lightweight compositor for X11
 - [stecman/hw-boot-selection](https://github.com/stecman/hw-boot-selection) - STM32 firmware for a physical switch to set the GRUB boot selection
@@ -377,6 +376,7 @@
 
 ## Rust 
 
+- [tessera-ui/tessera](https://github.com/tessera-ui/tessera) - Gui rust in rust.
 - [DefGuard/wireguard-rs](https://github.com/DefGuard/wireguard-rs) - Rust library providing unified WireGuard interface to native/kernel and userspace implementations
 - [t3hmrman/playground-rust-ipc-experiment](https://github.com/t3hmrman/playground-rust-ipc-experiment) - A playground project exploring high-performance IPC in Rust
 - [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
@@ -558,7 +558,7 @@
 - [FMotalleb/nu_plugin_image](https://github.com/FMotalleb/nu_plugin_image) - 
 - [nushell/nu_plugin_template](https://github.com/nushell/nu_plugin_template) - 
 - [face-hh/webx](https://github.com/face-hh/webx) - An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more.
-- [qipkg/qipi](https://github.com/qipkg/qipi) - 🦉 An extremely fast and disk-efficient package manager written in Rust.
+- [qipkg/qipi](https://github.com/qipkg/qipi) - 🦉 Extremely fast, disk-efficient, node_modules-free, instant, and secure package manager for Node.js — written in Rust.
 - [eneoli/flakeshot](https://github.com/eneoli/flakeshot) - A screenshot tool for unix-systems which runs natively on Wayland and X11!
 - [gabm/Satty](https://github.com/gabm/Satty) - Satty - Modern Screenshot Annotation.
 - [RustLangES/cfworker-template](https://github.com/RustLangES/cfworker-template) - Template de Workers para CloudFlare
@@ -1024,6 +1024,7 @@
 ## Zig 
 
 - [AndreaOrru/zen](https://github.com/AndreaOrru/zen) - Experimental operating system written in Zig
+- [fairyglade/ly](https://github.com/fairyglade/ly) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
 
 
 ## License
