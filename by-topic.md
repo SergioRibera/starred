@@ -73,6 +73,7 @@
 - [game-engine](#game-engine)
 - [gamedev](#gamedev)
 - [git](#git)
+- [github](#github)
 - [go](#go)
 - [golang](#golang)
 - [good-first-issue](#good-first-issue)
@@ -283,6 +284,7 @@
 
 ## bash 
 
+- [berenm/steam-cli](https://github.com/berenm/steam-cli) - Command-line interface to install and execute Steam games
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 
 ## bootstrap 
@@ -690,6 +692,10 @@
 - [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 
+## github 
+
+- [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Run, validate and execute GitHub Actions locally.
+
 ## go 
 
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
@@ -893,6 +899,7 @@
 
 ## linux 
 
+- [berenm/steam-cli](https://github.com/berenm/steam-cli) - Command-line interface to install and execute Steam games
 - [DefGuard/wireguard-rs](https://github.com/DefGuard/wireguard-rs) - Rust library providing unified WireGuard interface to native/kernel and userspace implementations
 - [Toni500github/customfetch](https://github.com/Toni500github/customfetch) - Highly customizable and fast system information fetch (or neofetch-like) program. It's also a GTK3 app.        Android widget migrated to https://github.com/Toni500github/customfetch-android-app
 - [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
@@ -1157,6 +1164,9 @@
 
 ## others 
 
+- [marc2332/nixos-config](https://github.com/marc2332/nixos-config) - 
+- [facet-rs/facet-urlencoded](https://github.com/facet-rs/facet-urlencoded) - url-encoded strings serialization and deserialization for Facet types
+- [0x00002a/cinc](https://github.com/0x00002a/cinc) - 
 - [manthanabc/polkit-agent](https://github.com/manthanabc/polkit-agent) - A polkit agent for wayland written in rust
 - [SteamNix/SteamNix](https://github.com/SteamNix/SteamNix) - SteamOS but Nix Flavoured.
 - [tessera-ui/tessera](https://github.com/tessera-ui/tessera) - Gui rust in rust.
@@ -1175,7 +1185,6 @@
 - [Cretezy/lazyjj](https://github.com/Cretezy/lazyjj) - TUI for Jujutsu/jj
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [LiveSplit/obs-livesplit-one](https://github.com/LiveSplit/obs-livesplit-one) - A plugin for OBS Studio that allows adding LiveSplit One as a source.
-- [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and execute GitHub Actions workflows locally.
 - [trfore/docker-debian12-systemd](https://github.com/trfore/docker-debian12-systemd) - A minimal systemd enabled Debian 12 image
 - [MaxBondABE/attempt](https://github.com/MaxBondABE/attempt) - CLI for retrying fallible commands
 - [mediar-ai/uniOCR](https://github.com/mediar-ai/uniOCR) - native OCR for MacOS, Windows, Linux
@@ -1390,7 +1399,7 @@
 - [DGriffin91/bevy_mod_mesh_tools](https://github.com/DGriffin91/bevy_mod_mesh_tools) - Tools for working with meshes in bevy
 - [DGriffin91/bevy_mod_environment_map_tools](https://github.com/DGriffin91/bevy_mod_environment_map_tools) - Tools for processing environment maps
 - [DGriffin91/bevy_sponza_scene](https://github.com/DGriffin91/bevy_sponza_scene) - Sponza
-- [projectharmonia/bevy_replicon](https://github.com/projectharmonia/bevy_replicon) - A server-authoritative replication crate for Bevy.
+- [simgine/bevy_replicon](https://github.com/simgine/bevy_replicon) - A server-authoritative replication crate for Bevy.
 - [aevyrie/bevy_eventlistener](https://github.com/aevyrie/bevy_eventlistener) - Event listening, bubbling, and callbacks
 - [GGist/ssdp-rs](https://github.com/GGist/ssdp-rs) - Simple Service Discovery Protocol In Rust
 - [conaticus/FileExplorer](https://github.com/conaticus/FileExplorer) - Fast file explorer written with Tauri and React.
@@ -1755,7 +1764,7 @@
 - [vars1ty/HybridBar](https://github.com/vars1ty/HybridBar) - A status bar focused on wlroots Wayland compositors
 - [erwanvivien/fast_qr](https://github.com/erwanvivien/fast_qr) - Ultra fast QRCode generation
 - [zhangyuang/node-ffi-rs](https://github.com/zhangyuang/node-ffi-rs) - Implement ffi in Node.js by Rust and NAPI
-- [xou816/spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
+- [xou816/spot](https://github.com/xou816/spot) - UNMAINTAINED! Please check out active forks
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
 - [RibirX/Ribir](https://github.com/RibirX/Ribir) - Non-intrusive GUI framework for Rust/WASM
 - [khonsulabs/cushy](https://github.com/khonsulabs/cushy) - An experimental cross-platform graphical user interface (GUI) crate for Rust.
