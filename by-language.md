@@ -286,6 +286,7 @@
 
 ## Nix 
 
+- [marc2332/nixos-config](https://github.com/marc2332/nixos-config) - 
 - [SteamNix/SteamNix](https://github.com/SteamNix/SteamNix) - SteamOS but Nix Flavoured.
 - [NotAShelf/nvf](https://github.com/NotAShelf/nvf) - Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS
 - [dc-tec/nixvim](https://github.com/dc-tec/nixvim) - My personal NixVim Configuration
@@ -355,6 +356,7 @@
 
 ## Python 
 
+- [berenm/steam-cli](https://github.com/berenm/steam-cli) - Command-line interface to install and execute Steam games
 - [caksoylar/keymap-drawer](https://github.com/caksoylar/keymap-drawer) - Visualize keymaps that use advanced features like hold-taps and combos, with automatic parsing
 - [bm-mit/key-caster](https://github.com/bm-mit/key-caster) - An on-screen key stroke displayer app for Linux inspired by keycastr
 - [pydantic/pydantic-core](https://github.com/pydantic/pydantic-core) - Core validation logic for pydantic written in rust
@@ -378,6 +380,8 @@
 
 ## Rust 
 
+- [facet-rs/facet-urlencoded](https://github.com/facet-rs/facet-urlencoded) - url-encoded strings serialization and deserialization for Facet types
+- [0x00002a/cinc](https://github.com/0x00002a/cinc) - 
 - [manthanabc/polkit-agent](https://github.com/manthanabc/polkit-agent) - A polkit agent for wayland written in rust
 - [Juanperias/motion](https://github.com/Juanperias/motion) - Motion is a bare metal physics engine
 - [vyfor/cord.nvim](https://github.com/vyfor/cord.nvim) - 🚀 Discord Rich Presence for Neovim
@@ -402,7 +406,7 @@
 - [WERDXZ/wlrs](https://github.com/WERDXZ/wlrs) - Dynamic Wallpaper for Linux Wayland
 - [Cretezy/lazyjj](https://github.com/Cretezy/lazyjj) - TUI for Jujutsu/jj
 - [LiveSplit/obs-livesplit-one](https://github.com/LiveSplit/obs-livesplit-one) - A plugin for OBS Studio that allows adding LiveSplit One as a source.
-- [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and execute GitHub Actions workflows locally.
+- [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Run, validate and execute GitHub Actions locally.
 - [FlakySL/translatable](https://github.com/FlakySL/translatable) - A robust internationalization solution for Rust featuring compile-time validation, ISO 639-1 compliance, and TOML-based translation management.
 - [cxreiff/lifecycler](https://github.com/cxreiff/lifecycler) - Bevy Game Jam #5 submission. Terminal aquarium.
 - [lemunozm/termchat](https://github.com/lemunozm/termchat) - Terminal chat through the LAN with video streaming and file transfer.
@@ -521,7 +525,7 @@
 - [anopara/country-slice](https://github.com/anopara/country-slice) - 
 - [junkdog/glim](https://github.com/junkdog/glim) - A TUI for monitoring GitLab CI/CD pipelines and projects
 - [miguelraz/staged-sg-filter](https://github.com/miguelraz/staged-sg-filter) - 
-- [xou816/spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
+- [xou816/spot](https://github.com/xou816/spot) - UNMAINTAINED! Please check out active forks
 - [decipher3114/Capter](https://github.com/decipher3114/Capter) - Cross-Platform Screen Capture and Annotation Tool
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
 - [RibirX/Ribir](https://github.com/RibirX/Ribir) - Non-intrusive GUI framework for Rust/WASM
@@ -718,7 +722,7 @@
 - [DGriffin91/bevy_mod_mesh_tools](https://github.com/DGriffin91/bevy_mod_mesh_tools) - Tools for working with meshes in bevy
 - [DGriffin91/bevy_mod_environment_map_tools](https://github.com/DGriffin91/bevy_mod_environment_map_tools) - Tools for processing environment maps
 - [DGriffin91/bevy_sponza_scene](https://github.com/DGriffin91/bevy_sponza_scene) - Sponza
-- [projectharmonia/bevy_replicon](https://github.com/projectharmonia/bevy_replicon) - A server-authoritative replication crate for Bevy.
+- [simgine/bevy_replicon](https://github.com/simgine/bevy_replicon) - A server-authoritative replication crate for Bevy.
 - [aevyrie/bevy_eventlistener](https://github.com/aevyrie/bevy_eventlistener) - Event listening, bubbling, and callbacks
 - [jarkonik/bevy_scriptum](https://github.com/jarkonik/bevy_scriptum) - 📜 A plugin for Bevy that allows you to write some of your game or application logic in a scripting language.
 - [Jondolf/avian](https://github.com/Jondolf/avian) - ECS-driven 2D and 3D physics engine for the Bevy game engine.
