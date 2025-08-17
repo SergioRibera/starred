@@ -34,6 +34,7 @@
 - [PHP](#php)
 - [PowerShell](#powershell)
 - [Python](#python)
+- [QML](#qml)
 - [Rust](#rust)
 - [ShaderLab](#shaderlab)
 - [Shell](#shell)
@@ -300,7 +301,7 @@
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus]
 - [nix-community/robotnix](https://github.com/nix-community/robotnix) - Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu,@cyclic-pentane]
 - [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes
-- [redyf/nixdots](https://github.com/redyf/nixdots) - Dotfiles for NixOS
+- [redyf/nixdots](https://github.com/redyf/nixdots) - Modular NixOS configuration
 - [Tanish2002/neovim-config](https://github.com/Tanish2002/neovim-config) - Neovim Config based upon Nixvim
 - [siph/nixvim-flake](https://github.com/siph/nixvim-flake) - Portable Neovim configuration built with Nix.
 - [redyf/Neve](https://github.com/redyf/Neve) - Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.
@@ -332,6 +333,7 @@
 - [AeroRust/awesome-space](https://github.com/AeroRust/awesome-space) - List of awesome resources for Aerospace and Rust
 - [b0o/starred](https://github.com/b0o/starred) - 🌟 Maddison's starred repos, updated daily!
 - [Vrixyz/bevy_awesome_prod](https://github.com/Vrixyz/bevy_awesome_prod) - My curated list of projects using bevy in production, preferably with a company or a business model in mind.
+- [bincode-org/bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust.
 - [Anshorei/awesome-bevy](https://github.com/Anshorei/awesome-bevy) - A collection of awesome Bevy projects
 - [zodiacon/rust-course](https://github.com/zodiacon/rust-course) - 
 - [nnethercote/perf-book](https://github.com/nnethercote/perf-book) - The Rust Performance Book
@@ -378,8 +380,13 @@
 - [python-eel/Eel](https://github.com/python-eel/Eel) - A little Python library for making simple Electron-like HTML/JS GUI apps
 - [facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI) - A framework for training and evaluating AI models on a variety of openly available dialogue datasets.
 
+## QML 
+
+- [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - ‼️ No waybar here ‼️
+
 ## Rust 
 
+- [despawnerer/scooby](https://github.com/despawnerer/scooby) - A Rust SQL query builder with a pleasant fluent API closely imitating actual SQL
 - [facet-rs/facet-urlencoded](https://github.com/facet-rs/facet-urlencoded) - url-encoded strings serialization and deserialization for Facet types
 - [0x00002a/cinc](https://github.com/0x00002a/cinc) - 
 - [manthanabc/polkit-agent](https://github.com/manthanabc/polkit-agent) - A polkit agent for wayland written in rust
@@ -406,7 +413,7 @@
 - [WERDXZ/wlrs](https://github.com/WERDXZ/wlrs) - Dynamic Wallpaper for Linux Wayland
 - [Cretezy/lazyjj](https://github.com/Cretezy/lazyjj) - TUI for Jujutsu/jj
 - [LiveSplit/obs-livesplit-one](https://github.com/LiveSplit/obs-livesplit-one) - A plugin for OBS Studio that allows adding LiveSplit One as a source.
-- [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Run, validate and execute GitHub Actions locally.
+- [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [FlakySL/translatable](https://github.com/FlakySL/translatable) - A robust internationalization solution for Rust featuring compile-time validation, ISO 639-1 compliance, and TOML-based translation management.
 - [cxreiff/lifecycler](https://github.com/cxreiff/lifecycler) - Bevy Game Jam #5 submission. Terminal aquarium.
 - [lemunozm/termchat](https://github.com/lemunozm/termchat) - Terminal chat through the LAN with video streaming and file transfer.
@@ -625,7 +632,6 @@
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [etolbakov/excalidocker-rs](https://github.com/etolbakov/excalidocker-rs) - Convert your docker-compose into excalidraw
 - [mikaelmello/inquire](https://github.com/mikaelmello/inquire) - A Rust library for building interactive prompts
-- [setzer22/egui_node_graph](https://github.com/setzer22/egui_node_graph) - Build your node graph applications in Rust, using egui
 - [netthier/ashtoret](https://github.com/netthier/ashtoret) - keyboard firmware.
 - [Hanaasagi/XBurner](https://github.com/Hanaasagi/XBurner) - :fire: Linux Advanced keyboard customizer
 - [zimward/ideal-keyboard](https://github.com/zimward/ideal-keyboard) - Firmware for my split keyboard written in rust for the GD32VF103 (RISCV). Schematics and PCB layout will be published after the first MVP
@@ -655,7 +661,6 @@
 - [DGriffin91/bevy_ridiculous_ssgi](https://github.com/DGriffin91/bevy_ridiculous_ssgi) - Some ridiculous SSGI for bevy
 - [zakarumych/egui-snarl](https://github.com/zakarumych/egui-snarl) - Customizable egui node-graph library
 - [reu/clipshare](https://github.com/reu/clipshare) - Share your clipboard between machines of your local network.
-- [setzer22/blackjack](https://github.com/setzer22/blackjack) - A procedural, node-based modelling tool, made in rust 🦀
 - [paulgb/wgsl-playground](https://github.com/paulgb/wgsl-playground) - 
 - [voxell-tech/motiongfx](https://github.com/voxell-tech/motiongfx) - Real-time motion graphics creation tool made using Bevy.
 - [nnethercote/dhat-rs](https://github.com/nnethercote/dhat-rs) - Heap profiling and ad hoc profiling for Rust programs.
@@ -736,7 +741,6 @@
 - [Zeenobit/moonshine_save](https://github.com/Zeenobit/moonshine_save) - A save/load framework for Bevy game engine.
 - [james-j-obrien/bevy_vector_shapes](https://github.com/james-j-obrien/bevy_vector_shapes) - A library for rendering vector shapes using the Bevy game engine
 - [djkoloski/rust_serialization_benchmark](https://github.com/djkoloski/rust_serialization_benchmark) - Benchmarks for rust serialization frameworks
-- [bincode-org/bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust.
 - [TimelyDataflow/abomonation](https://github.com/TimelyDataflow/abomonation) - A mortifying serialization library for Rust
 - [tauri-apps/global-hotkey](https://github.com/tauri-apps/global-hotkey) - Global hotkeys for Desktop Applications.
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
@@ -859,7 +863,7 @@
 - [seladb/pickledb-rs](https://github.com/seladb/pickledb-rs) - PickleDB-rs is a lightweight and simple key-value store. It is a Rust version for Python's PickleDB
 - [khonsulabs/bonsaidb](https://github.com/khonsulabs/bonsaidb) - A developer-friendly document database that grows with you, written in Rust
 - [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
-- [dimensionhq/volt](https://github.com/dimensionhq/volt) - An experimental package management tool for JavaScript. Upto 30x faster installation of dependencies using pre-flattened dependency trees.
+- [suptejas/volt](https://github.com/suptejas/volt) - An experimental package management tool for JavaScript. Upto 30x faster installation of dependencies using pre-flattened dependency trees.
 - [michaelb/sniprun](https://github.com/michaelb/sniprun) - A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
 - [MCHPR/MCHPRS](https://github.com/MCHPR/MCHPRS) - A multithreaded Minecraft server built for redstone.
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
