@@ -1167,6 +1167,10 @@
 
 ## others 
 
+- [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
+- [BlakeDarrow/bevy_granite](https://github.com/BlakeDarrow/bevy_granite) - 3D Editor for the Bevy Framework. Create, load, and save your 3d projects.
+- [Hennzau/wui-rs](https://github.com/Hennzau/wui-rs) - wayland gui client for desktop environment
+- [jlucaso1/whatsapp-rust](https://github.com/jlucaso1/whatsapp-rust) - Whatsapp client written purely in Rust based on whatsmeow and baileys
 - [despawnerer/scooby](https://github.com/despawnerer/scooby) - A Rust SQL query builder with a pleasant fluent API closely imitating actual SQL
 - [marc2332/nixos-config](https://github.com/marc2332/nixos-config) - 
 - [facet-rs/facet-urlencoded](https://github.com/facet-rs/facet-urlencoded) - url-encoded strings serialization and deserialization for Facet types
