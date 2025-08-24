@@ -24,6 +24,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Just](#just)
 - [Kotlin](#kotlin)
 - [Liquid](#liquid)
 - [Lua](#lua)
@@ -212,6 +213,7 @@
 - [FlamesX-128/BoTex](https://github.com/FlamesX-128/BoTex) - This bot allows rendering LaTeX expressions directly in Discord, making it easier to visualize mathematical formulas and scientific notation.
 - [MrRaccxxn/ai-nft-generator](https://github.com/MrRaccxxn/ai-nft-generator) - 
 - [b0o/b0o](https://github.com/b0o/b0o) - 👻
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [bevyengine/bevy_github_ci_template](https://github.com/bevyengine/bevy_github_ci_template) - 
 - [warengonzaga/css-text-portrait-builder](https://github.com/warengonzaga/css-text-portrait-builder) - A popular pure CSS text portrait builder for your loved ones. 🥰
 - [ShareDropio/sharedrop](https://github.com/ShareDropio/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
@@ -242,6 +244,10 @@
 ## Jupyter Notebook 
 
 - [yzhou359/MakeItTalk](https://github.com/yzhou359/MakeItTalk) - 
+
+## Just 
+
+- [Hennzau/wui-rs](https://github.com/Hennzau/wui-rs) - wayland gui client for desktop environment
 
 ## Kotlin 
 
@@ -386,6 +392,9 @@
 
 ## Rust 
 
+- [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
+- [BlakeDarrow/bevy_granite](https://github.com/BlakeDarrow/bevy_granite) - 3D Editor for the Bevy Framework. Create, load, and save your 3d projects.
+- [jlucaso1/whatsapp-rust](https://github.com/jlucaso1/whatsapp-rust) - Whatsapp client written purely in Rust based on whatsmeow and baileys
 - [despawnerer/scooby](https://github.com/despawnerer/scooby) - A Rust SQL query builder with a pleasant fluent API closely imitating actual SQL
 - [facet-rs/facet-urlencoded](https://github.com/facet-rs/facet-urlencoded) - url-encoded strings serialization and deserialization for Facet types
 - [0x00002a/cinc](https://github.com/0x00002a/cinc) - 
@@ -743,7 +752,6 @@
 - [djkoloski/rust_serialization_benchmark](https://github.com/djkoloski/rust_serialization_benchmark) - Benchmarks for rust serialization frameworks
 - [TimelyDataflow/abomonation](https://github.com/TimelyDataflow/abomonation) - A mortifying serialization library for Rust
 - [tauri-apps/global-hotkey](https://github.com/tauri-apps/global-hotkey) - Global hotkeys for Desktop Applications.
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [meepleek/echo_nomical](https://github.com/meepleek/echo_nomical) - 
 - [josfeenstra/hedron](https://github.com/josfeenstra/hedron) - An all-in-one 3D modelling library, written in Rust
 - [HugoPeters1024/vk_rays](https://github.com/HugoPeters1024/vk_rays) - Vulkan RTX rendering backend for the Bevy game engine written in Rust
