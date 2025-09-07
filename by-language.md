@@ -214,7 +214,6 @@
 - [FlamesX-128/BoTex](https://github.com/FlamesX-128/BoTex) - This bot allows rendering LaTeX expressions directly in Discord, making it easier to visualize mathematical formulas and scientific notation.
 - [MrRaccxxn/ai-nft-generator](https://github.com/MrRaccxxn/ai-nft-generator) - 
 - [b0o/b0o](https://github.com/b0o/b0o) - 👻
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [bevyengine/bevy_github_ci_template](https://github.com/bevyengine/bevy_github_ci_template) - 
 - [warengonzaga/css-text-portrait-builder](https://github.com/warengonzaga/css-text-portrait-builder) - A popular pure CSS text portrait builder for your loved ones. 🥰
 - [ShareDropio/sharedrop](https://github.com/ShareDropio/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
@@ -261,6 +260,7 @@
 ## Lua 
 
 - [rmagatti/auto-session](https://github.com/rmagatti/auto-session) - A small automated session manager for Neovim
+- [vyfor/cord.nvim](https://github.com/vyfor/cord.nvim) - 🚀 Discord Rich Presence for Neovim
 - [azratul/live-share.nvim](https://github.com/azratul/live-share.nvim) - Creates a "Live Share" server in Neovim, similar to the Visual Studio Code Live Share functionality
 - [NStefan002/screenkey.nvim](https://github.com/NStefan002/screenkey.nvim) - Screencast your keys in Neovim
 - [codethread/qmk.nvim](https://github.com/codethread/qmk.nvim) - Format qmk and zmk keymaps in neovim
@@ -320,7 +320,7 @@
 - [nmasur/dotfiles](https://github.com/nmasur/dotfiles) - Nix configuration and settings
 - [namishh/crystal](https://github.com/namishh/crystal) - nix dotfiles for chilly people
 - [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
-- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS / NixOS (with starter templates!)
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS or NixOS w/ step-by-step instructions
 - [elythh/flake](https://github.com/elythh/flake) - my unavoidable system configuration
 - [divinenaman/tauri-nix-example](https://github.com/divinenaman/tauri-nix-example) - Nixified tauri app
 - [Lemin-n/cranix](https://github.com/Lemin-n/cranix) - High level API for Crane NixOs flake.
@@ -402,7 +402,6 @@
 - [0x00002a/cinc](https://github.com/0x00002a/cinc) - 
 - [manthanabc/polkit-agent](https://github.com/manthanabc/polkit-agent) - A polkit agent for wayland written in rust
 - [Juanperias/motion](https://github.com/Juanperias/motion) - Motion is a bare metal physics engine
-- [vyfor/cord.nvim](https://github.com/vyfor/cord.nvim) - 🚀 Discord Rich Presence for Neovim
 - [tessera-ui/tessera](https://github.com/tessera-ui/tessera) - Gui rust in rust.
 - [DefGuard/wireguard-rs](https://github.com/DefGuard/wireguard-rs) - Rust library providing unified WireGuard interface to native/kernel and userspace implementations
 - [t3hmrman/playground-rust-ipc-experiment](https://github.com/t3hmrman/playground-rust-ipc-experiment) - A playground project exploring high-performance IPC in Rust
@@ -594,7 +593,7 @@
 - [ae5259/xifetch-rs](https://github.com/ae5259/xifetch-rs) - Neofetch alternative rewritten in Rust.
 - [release-plz/release-plz](https://github.com/release-plz/release-plz) - Publish Rust crates from CI with a Release PR.
 - [anyrun-org/anyrun](https://github.com/anyrun-org/anyrun) - A wayland native, highly customizable runner.
-- [Whitecat18/Rust-for-Malware-Development](https://github.com/Whitecat18/Rust-for-Malware-Development) - This repository contains complete resources and coding practices for malware development using Rust 🦀.
+- [Whitecat18/Rust-for-Malware-Development](https://github.com/Whitecat18/Rust-for-Malware-Development) - Rust for malware Development is a repository for advanced Red Team techniques and offensive malwares & Ransomwares, focused on Rust 🦀
 - [KawaYww/deci-player](https://github.com/KawaYww/deci-player) - A music-player written with rust and iced
 - [H3rmt/hyprshell](https://github.com/H3rmt/hyprshell) - A modern GTK4-based window switcher and application launcher for Hyprland
 - [mangelats/buffers](https://github.com/mangelats/buffers) - Another way of looking at memory management for collections
@@ -754,6 +753,7 @@
 - [djkoloski/rust_serialization_benchmark](https://github.com/djkoloski/rust_serialization_benchmark) - Benchmarks for rust serialization frameworks
 - [TimelyDataflow/abomonation](https://github.com/TimelyDataflow/abomonation) - A mortifying serialization library for Rust
 - [tauri-apps/global-hotkey](https://github.com/tauri-apps/global-hotkey) - Global hotkeys for Desktop Applications.
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。
 - [meepleek/echo_nomical](https://github.com/meepleek/echo_nomical) - 
 - [josfeenstra/hedron](https://github.com/josfeenstra/hedron) - An all-in-one 3D modelling library, written in Rust
 - [HugoPeters1024/vk_rays](https://github.com/HugoPeters1024/vk_rays) - Vulkan RTX rendering backend for the Bevy game engine written in Rust
