@@ -112,7 +112,7 @@
 ## C++ 
 
 - [urob/zmk-config](https://github.com/urob/zmk-config) - Personal ZMK firmware configuration for various boards (34-keys, Corneish Zen, Planck)
-- [Toni500github/customfetch](https://github.com/Toni500github/customfetch) - Highly customizable and fast system information fetch (or neofetch-like) program. It's also a GTK3 app.        Android widget migrated to https://github.com/Toni500github/customfetch-android-app
+- [Toni500github/customfetch](https://github.com/Toni500github/customfetch) - A modular information fetching (neofetch-like) tool, which its focus point is the performance and customizability.        Android widget migrated to https://github.com/Toni500github/customfetch-androi
 - [heyzec/wayland-displays](https://github.com/heyzec/wayland-displays) - Yet another wayland displays configurator
 - [KZDKM/Hyprspace](https://github.com/KZDKM/Hyprspace) - Workspace overview plugin for Hyprland
 - [SkillerRaptor/hyper_engine](https://github.com/SkillerRaptor/hyper_engine) - Hyper Vulkan Game Engine
@@ -251,6 +251,7 @@
 
 ## Kotlin 
 
+- [Arturo254/OpenTune](https://github.com/Arturo254/OpenTune) - Un cliente de YouTube Music con Material Design 3, para Android
 - [mozilla/rust-android-gradle](https://github.com/mozilla/rust-android-gradle) - 
 
 ## Liquid 
@@ -277,6 +278,7 @@
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim
 - [Theory-of-Everything/nii-nvim](https://github.com/Theory-of-Everything/nii-nvim) - A minimal neovim configuration
 - [numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - :fire: No-nonsense floating terminal plugin for neovim :fire:
+- [kristijanhusak/neovim-config](https://github.com/kristijanhusak/neovim-config) - Neovim configuration
 - [simrat39/rust-tools.nvim](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in rust using neovim's builtin lsp
 - [nvim-flutter/flutter-tools.nvim](https://github.com/nvim-flutter/flutter-tools.nvim) - Tools to help create flutter apps in neovim using the native lsp
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
@@ -394,6 +396,7 @@
 
 ## Rust 
 
+- [AgustinSRG/rtmp-server-rs](https://github.com/AgustinSRG/rtmp-server-rs) - RTMP server implemented in Rust
 - [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
 - [BlakeDarrow/bevy_granite](https://github.com/BlakeDarrow/bevy_granite) - 3D Editor for the Bevy Framework. Create, load, and save your 3d projects.
 - [jlucaso1/whatsapp-rust](https://github.com/jlucaso1/whatsapp-rust) - Whatsapp client written purely in Rust based on whatsmeow and baileys
@@ -973,7 +976,6 @@
 - [s4vitar/wifiCrack](https://github.com/s4vitar/wifiCrack) - Herramienta hecha en Bash ideal para automatizar ataques WiFi (WPA/WPA2 - PSK) destinados a la obtención de la contraseña.
 - [CodigoCristo/crisparch](https://github.com/CodigoCristo/crisparch) - Script instalar arch para usuarios
 - [CyberShadow/aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
-- [kristijanhusak/neovim-config](https://github.com/kristijanhusak/neovim-config) - Neovim configuration
 - [intelligencegroup-io/iOS-Hacktivation-Toolkit](https://github.com/intelligencegroup-io/iOS-Hacktivation-Toolkit) - iOS Hacktivation Toolkit
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 - [carnager/teiler](https://github.com/carnager/teiler) - Little script for screenshots and screencasts utilizing rofi, maim, ffmpeg
