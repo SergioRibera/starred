@@ -177,11 +177,13 @@
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
 - [visual-studio-code](#visual-studio-code)
+- [visualization](#visualization)
 - [vpn](#vpn)
 - [vue](#vue)
 - [web](#web)
 - [webapp](#webapp)
 - [webpack](#webpack)
+- [whatsapp-bot](#whatsapp-bot)
 - [windows](#windows)
 - [xamarin](#xamarin)
 - [xcode](#xcode)
@@ -198,7 +200,7 @@
 
 ## ai 
 
-- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-hosted plaform for secure execution of untrusted user/AI code
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Microsandbox — Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
 - [orhanbalci/rust-steering-behaviors](https://github.com/orhanbalci/rust-steering-behaviors) - AI Steering behaviors crate implemented in Rust http://orhanbalci.github.io/rust-steering-behaviors
 - [Seldom-SE/seldom_state](https://github.com/Seldom-SE/seldom_state) - Component-based state machine plugin for Bevy. Useful for AI, player state, and other entities that occupy different states.
 
@@ -320,6 +322,7 @@
 ## cli 
 
 - [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
+- [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [gc-victor/query](https://github.com/gc-victor/query) - Query is an all-in-one web development solution eliminating the need for external servers, runtimes, frameworks, caching, storage, and admin tools.
 - [IogaMaster/blizzard](https://github.com/IogaMaster/blizzard) - 🌨️ Install a nixos system remotely or in place
 - [next-hat/nanocl](https://github.com/next-hat/nanocl) - Work in progress distributed system that simplifies the orchestration of containers and virtual machines.
@@ -485,7 +488,7 @@
 ## docker 
 
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
-- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-hosted plaform for secure execution of untrusted user/AI code
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Microsandbox — Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [mrjackwills/oxker](https://github.com/mrjackwills/oxker) - A simple tui to view & control docker containers
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
@@ -599,6 +602,7 @@
 
 ## frontend 
 
+- [Serpent-Tools/natrix](https://github.com/Serpent-Tools/natrix) - Rust-First frontend framework.
 - [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust
 
 ## game 
@@ -728,6 +732,8 @@
 ## hacktoberfest 
 
 - [rmagatti/auto-session](https://github.com/rmagatti/auto-session) - A small automated session manager for Neovim
+- [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
+- [Serpent-Tools/natrix](https://github.com/Serpent-Tools/natrix) - Rust-First frontend framework.
 - [next-hat/nanocl](https://github.com/next-hat/nanocl) - Work in progress distributed system that simplifies the orchestration of containers and virtual machines.
 - [TheRustyPickle/egui-theme-lerp](https://github.com/TheRustyPickle/egui-theme-lerp) - An egui lib to animate theme switching between visuals
 - [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance rust-powered UI layout library
@@ -748,7 +754,6 @@
 - [suptejas/volt](https://github.com/suptejas/volt) - An experimental package management tool for JavaScript. Upto 30x faster installation of dependencies using pre-flattened dependency trees.
 - [michaelb/sniprun](https://github.com/michaelb/sniprun) - A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
 - [MCHPR/MCHPRS](https://github.com/MCHPR/MCHPRS) - A multithreaded Minecraft server built for redstone.
-- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [leftwm/lefthk](https://github.com/leftwm/lefthk) - LeftHK - A hotkey daemon written in Rust
 - [LiveSplit/livesplit-core](https://github.com/LiveSplit/livesplit-core) - livesplit-core is a library that provides a lot of functionality for creating a speedrun timer.
 - [hertg/lightdm-neon](https://github.com/hertg/lightdm-neon) - :art: A customizable theme for web-greeter in a nostalgic but modern neon look
@@ -761,6 +766,7 @@
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [Revadike/epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer) - Claim available free game promotions from the Epic Games Store.
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
+- [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [wcoder/highlightjs-line-numbers.js](https://github.com/wcoder/highlightjs-line-numbers.js) - Line numbering plugin for Highlight.js
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
@@ -911,7 +917,7 @@
 - [vyfor/cord.nvim](https://github.com/vyfor/cord.nvim) - 🚀 Discord Rich Presence for Neovim
 - [DefGuard/wireguard-rs](https://github.com/DefGuard/wireguard-rs) - Rust library providing unified WireGuard interface to native/kernel and userspace implementations
 - [Toni500github/customfetch](https://github.com/Toni500github/customfetch) - A modular information fetching (neofetch-like) tool, which its focus point is the performance and customizability.        Android widget migrated to https://github.com/Toni500github/customfetch-androi
-- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-hosted plaform for secure execution of untrusted user/AI code
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Microsandbox — Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 - [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center) - A notification daemon/center for linux
 - [l1npengtul/nokhwa](https://github.com/l1npengtul/nokhwa) - Cross Platform Rust Library for Powerful Webcam/Camera Capture
@@ -992,7 +998,7 @@
 
 - [vyfor/cord.nvim](https://github.com/vyfor/cord.nvim) - 🚀 Discord Rich Presence for Neovim
 - [Toni500github/customfetch](https://github.com/Toni500github/customfetch) - A modular information fetching (neofetch-like) tool, which its focus point is the performance and customizability.        Android widget migrated to https://github.com/Toni500github/customfetch-androi
-- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-hosted plaform for secure execution of untrusted user/AI code
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Microsandbox — Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 - [l1npengtul/nokhwa](https://github.com/l1npengtul/nokhwa) - Cross Platform Rust Library for Powerful Webcam/Camera Capture
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
@@ -1200,7 +1206,6 @@
 - [russelltg/wl-screenrec](https://github.com/russelltg/wl-screenrec) - High performance wlroots screen recording, featuring hardware encoding
 - [abgros/stalloc](https://github.com/abgros/stalloc) - Stalloc is a fast first-fit memory allocator that you can use to quickly speed up your Rust programs.
 - [mstange/samply](https://github.com/mstange/samply) - Command-line sampling profiler for macOS, Linux, and Windows
-- [Serpent-Tools/natrix](https://github.com/Serpent-Tools/natrix) - Rust-First frontend framework.
 - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 - [SilentVoid13/SyncDisBoi](https://github.com/SilentVoid13/SyncDisBoi) - Music streaming platforms (Youtube Music, Spotify, Tidal) synchronization tool
 - [mainmatter/eserde](https://github.com/mainmatter/eserde) - Just like `serde`, but with more exhaustive error reporting capabilities. Designed for public API payloads.
@@ -1393,7 +1398,7 @@
 - [ForesightMiningSoftwareCorporation/bevy_aabb_instancing](https://github.com/ForesightMiningSoftwareCorporation/bevy_aabb_instancing) - Fast AABB rendering plugin for Bevy Engine.
 - [BraymatterOrg/bevy_tiling_background](https://github.com/BraymatterOrg/bevy_tiling_background) - 
 - [nicopap/bevy_mod_sysfail](https://github.com/nicopap/bevy_mod_sysfail) - Decorate your bevy system with the sysfail macro attribute to make them handle cleanly failure mods.
-- [Vrixyz/bevy_awesome_prod](https://github.com/Vrixyz/bevy_awesome_prod) - My curated list of projects using bevy in production, preferably with a company or a business model in mind.
+- [ThierryBerger/bevy_awesome_prod](https://github.com/ThierryBerger/bevy_awesome_prod) - My curated list of projects using bevy in production, preferably with a company or a business model in mind.
 - [DublikuntMux/bevy_asset_packer](https://github.com/DublikuntMux/bevy_asset_packer) - 
 - [laundmo/bevy_screen_diagnostics](https://github.com/laundmo/bevy_screen_diagnostics) - On-screen diagnostics
 - [aevyrie/big_space](https://github.com/aevyrie/big_space) - When 32-bit worlds just aren't big enough
@@ -1666,7 +1671,7 @@
 
 ## python 
 
-- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-hosted plaform for secure execution of untrusted user/AI code
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Microsandbox — Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
 - [srwi/qmk-via-api](https://github.com/srwi/qmk-via-api) - VIA api implementation for QMK-based keyboards
 - [GradienceTeam/Gradience](https://github.com/GradienceTeam/Gradience) - Change the look of Adwaita, with ease
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
@@ -1745,11 +1750,13 @@
 - [yehorovye/objekt](https://github.com/yehorovye/objekt) - simple kv cache server in pure rust [not maintained anymore]
 - [sammwyy/gdbc](https://github.com/sammwyy/gdbc) - Comprehensive terminal-based GDB client written in Rust for performing remote debugging operations.
 - [SynthLauncher/SynthLauncher](https://github.com/SynthLauncher/SynthLauncher) - The official repository for SynthLauncher
+- [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [FlakySL/translatable](https://github.com/FlakySL/translatable) - A robust internationalization solution for Rust featuring compile-time validation, ISO 639-1 compliance, and TOML-based translation management.
 - [Kither12/shezem-rs](https://github.com/Kither12/shezem-rs) - Audio recognition CLI written in Rust
 - [FriederHannenheim/cthulock](https://github.com/FriederHannenheim/cthulock) - Wayland screen locker focused on customizability
 - [gc-victor/query](https://github.com/gc-victor/query) - Query is an all-in-one web development solution eliminating the need for external servers, runtimes, frameworks, caching, storage, and admin tools.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
+- [Serpent-Tools/natrix](https://github.com/Serpent-Tools/natrix) - Rust-First frontend framework.
 - [tuono-labs/tuono](https://github.com/tuono-labs/tuono) - ⚡ Modern fullstack web framework based on Rust and React
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [GREsau/schemars](https://github.com/GREsau/schemars) - Generate JSON Schema documents from Rust code
@@ -1976,7 +1983,7 @@
 ## security 
 
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
-- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-hosted plaform for secure execution of untrusted user/AI code
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Microsandbox — Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
 - [pumpbin/pumpbin](https://github.com/pumpbin/pumpbin) - 🎃 PumpBin is an Implant Generation Platform.
 - [caido/caido](https://github.com/caido/caido) - 🚀 Caido releases, wiki and roadmap
 - [GeekMasher/securitree.nvim](https://github.com/GeekMasher/securitree.nvim) - SecuriTree - Security Research Tool
@@ -1992,7 +1999,7 @@
 
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [vladkens/badges](https://github.com/vladkens/badges) - 🎖️🎨 Instantly create custom badges for GitHub, docs, and more. Lightweight, self-hostable, with live integrations that keep badges always up to date. Elevate your projects in seconds!
-- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-hosted plaform for secure execution of untrusted user/AI code
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Microsandbox — Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
 - [next-hat/nanocl](https://github.com/next-hat/nanocl) - Work in progress distributed system that simplifies the orchestration of containers and virtual machines.
 
 ## server 
@@ -2145,6 +2152,10 @@
 
 - [zignd/HTML-CSS-Class-Completion](https://github.com/zignd/HTML-CSS-Class-Completion) - :chocolate_bar: Visual Studio Code extension that provides CSS class name completion for the HTML class attribute based on the CSS files in your workspace
 
+## visualization 
+
+- [btmills/geopattern](https://github.com/btmills/geopattern) - Generate beautiful SVG patterns
+
 ## vpn 
 
 - [DefGuard/wireguard-rs](https://github.com/DefGuard/wireguard-rs) - Rust library providing unified WireGuard interface to native/kernel and userspace implementations
@@ -2171,6 +2182,10 @@
 
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [ryuever/react-tapable-editor](https://github.com/ryuever/react-tapable-editor) - A pluginable, intuitive medium/notion like rich text editor(currently in wip)
+
+## whatsapp-bot 
+
+- [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 
 ## windows 
 
