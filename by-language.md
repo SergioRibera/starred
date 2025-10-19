@@ -39,6 +39,7 @@
 - [Rust](#rust)
 - [ShaderLab](#shaderlab)
 - [Shell](#shell)
+- [Slint](#slint)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TypeScript](#typescript)
@@ -212,7 +213,7 @@
 - [MainSilent/Discord-Screenshare](https://github.com/MainSilent/Discord-Screenshare) - First ever discord video screenshare SELFBOT
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
 - [FlamesX-128/BoTex](https://github.com/FlamesX-128/BoTex) - This bot allows rendering LaTeX expressions directly in Discord, making it easier to visualize mathematical formulas and scientific notation.
-- [MrRaccxxn/ai-nft-generator](https://github.com/MrRaccxxn/ai-nft-generator) - 
+- [0xmapachex/ai-nft-generator](https://github.com/0xmapachex/ai-nft-generator) - 
 - [b0o/b0o](https://github.com/b0o/b0o) - 👻
 - [bevyengine/bevy_github_ci_template](https://github.com/bevyengine/bevy_github_ci_template) - 
 - [warengonzaga/css-text-portrait-builder](https://github.com/warengonzaga/css-text-portrait-builder) - A popular pure CSS text portrait builder for your loved ones. 🥰
@@ -381,7 +382,7 @@
 - [engineer-man/piston-bot](https://github.com/engineer-man/piston-bot) - I Run Code bot on Discord
 - [Askannz/optimus-manager](https://github.com/Askannz/optimus-manager) - A Linux program to handle GPU switching on Optimus laptops.
 - [Drugantibus/qmk-hid-rgb](https://github.com/Drugantibus/qmk-hid-rgb) - A Python module to control RGB on QMK keyboards using its "raw HID" feature
-- [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
+- [lra/mackup](https://github.com/lra/mackup) - Backup and keep your application settings in sync.
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer!
 - [ihucos/zpkg](https://github.com/ihucos/zpkg) - Install packages from other distributions
@@ -396,6 +397,7 @@
 
 ## Rust 
 
+- [johanhelsing/bevy_touch_stick](https://github.com/johanhelsing/bevy_touch_stick) - An analog touch screen joystick that pretends to be a bevy gamepad
 - [MariaLetta/free-ferris-pack](https://github.com/MariaLetta/free-ferris-pack) - 🦀 Pack of 50+ Ferris pictures and elements will help you to build your own design for anything related to Rust Programming Language: presentations, README files, posts in blogs or social media, course
 - [AgustinSRG/rtmp-server-rs](https://github.com/AgustinSRG/rtmp-server-rs) - RTMP server implemented in Rust
 - [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
@@ -676,7 +678,7 @@
 - [zakarumych/egui-snarl](https://github.com/zakarumych/egui-snarl) - Customizable egui node-graph library
 - [reu/clipshare](https://github.com/reu/clipshare) - Share your clipboard between machines of your local network.
 - [paulgb/wgsl-playground](https://github.com/paulgb/wgsl-playground) - 
-- [voxell-tech/motiongfx](https://github.com/voxell-tech/motiongfx) - Real-time motion graphics creation tool made in Bevy.
+- [voxell-tech/motiongfx](https://github.com/voxell-tech/motiongfx) - Real-time motion graphics creation tool powered by Bevy ECS.
 - [nnethercote/dhat-rs](https://github.com/nnethercote/dhat-rs) - Heap profiling and ad hoc profiling for Rust programs.
 - [mrdimidium/nanoid](https://github.com/mrdimidium/nanoid) - A tiny, secure, URL-friendly, unique string ID generator for Rust
 - [dtolnay/inherent](https://github.com/dtolnay/inherent) - Make trait methods callable without the trait in scope
@@ -744,7 +746,7 @@
 - [simgine/bevy_replicon](https://github.com/simgine/bevy_replicon) - A server-authoritative replication crate for Bevy.
 - [aevyrie/bevy_eventlistener](https://github.com/aevyrie/bevy_eventlistener) - Event listening, bubbling, and callbacks
 - [jarkonik/bevy_scriptum](https://github.com/jarkonik/bevy_scriptum) - 📜 A plugin for Bevy that allows you to write some of your game or application logic in a scripting language.
-- [Jondolf/avian](https://github.com/Jondolf/avian) - ECS-driven 2D and 3D physics engine for the Bevy game engine.
+- [avianphysics/avian](https://github.com/avianphysics/avian) - ECS-driven 2D and 3D physics engine for the Bevy game engine.
 - [GGist/ssdp-rs](https://github.com/GGist/ssdp-rs) - Simple Service Discovery Protocol In Rust
 - [conaticus/FileExplorer](https://github.com/conaticus/FileExplorer) - Fast file explorer written with Tauri and React.
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
@@ -983,6 +985,10 @@
 - [carnager/teiler](https://github.com/carnager/teiler) - Little script for screenshots and screencasts utilizing rofi, maim, ffmpeg
 - [mxhectorvega/installarch](https://github.com/mxhectorvega/installarch) - Script automatizado que instala entornos de escritorio minimalistas y gestores de ventanas en instalaciones limpias de archlinux echas por archinstall (asistente oficial de instalacion).
 - [marioortizmanero/polybar-pulseaudio-control](https://github.com/marioortizmanero/polybar-pulseaudio-control) - A feature-full Polybar module to control PulseAudio
+
+## Slint 
+
+- [karmakarmeghdip/taan](https://github.com/karmakarmeghdip/taan) - Native Spotify GUI Desktop App
 
 ## Svelte 
 
