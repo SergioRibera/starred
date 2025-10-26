@@ -116,7 +116,7 @@
 - [Toni500github/customfetch](https://github.com/Toni500github/customfetch) - A modular information fetching (neofetch-like) tool, which its focus point is the performance and customizability.        Android widget migrated to https://github.com/Toni500github/customfetch-androi
 - [heyzec/wayland-displays](https://github.com/heyzec/wayland-displays) - Yet another wayland displays configurator
 - [KZDKM/Hyprspace](https://github.com/KZDKM/Hyprspace) - Workspace overview plugin for Hyprland
-- [SkillerRaptor/hyper_engine](https://github.com/SkillerRaptor/hyper_engine) - Hyper Vulkan Game Engine
+- [SkillerRaptor/hyper_engine](https://github.com/SkillerRaptor/hyper_engine) - A C++20 Vulkan Game Engine
 - [hyprwm/hyprpicker](https://github.com/hyprwm/hyprpicker) - A wlroots-compatible Wayland color picker that does not suck.
 - [ed-asriyan/lottie-converter](https://github.com/ed-asriyan/lottie-converter) - Converts Lottie Animations (.json / .lottie) and Telegram stickers (*.tgs) to GIF / PNG / APNG / WEBP / WEBM
 - [BrutPitt/glslSmartDeNoise](https://github.com/BrutPitt/glslSmartDeNoise) - Fast GPU deNoise spatial filter, with circular gaussian kernel, full configurable
@@ -338,7 +338,6 @@
 
 - [jamesmunns/awesome-rust-streaming](https://github.com/jamesmunns/awesome-rust-streaming) - A community curated list of Rust Language streamers
 - [ImplFerris/LearnRust](https://github.com/ImplFerris/LearnRust) - Rust Learning Resources
-- [waydeerwm/layer-shika](https://github.com/waydeerwm/layer-shika) - [Mirror] A library to create desktop components for wayland using the layer shell and Slint GUI
 - [cxiao/rust-malware-gallery](https://github.com/cxiao/rust-malware-gallery) - A collection of malware families and malware samples which use the Rust programming language.
 - [AeroRust/awesome-space](https://github.com/AeroRust/awesome-space) - List of awesome resources for Aerospace and Rust
 - [b0o/starred](https://github.com/b0o/starred) - 🌟 Maddison's starred repos, updated daily!
@@ -397,6 +396,8 @@
 
 ## Rust 
 
+- [nilaysavant/bevy_pmetra](https://github.com/nilaysavant/bevy_pmetra) - Parametric Modelling for Bevy using Truck CAD kernel.
+- [ricosjp/truck](https://github.com/ricosjp/truck) - Truck is a Rust CAD Kernel.
 - [johanhelsing/bevy_touch_stick](https://github.com/johanhelsing/bevy_touch_stick) - An analog touch screen joystick that pretends to be a bevy gamepad
 - [MariaLetta/free-ferris-pack](https://github.com/MariaLetta/free-ferris-pack) - 🦀 Pack of 50+ Ferris pictures and elements will help you to build your own design for anything related to Rust Programming Language: presentations, README files, posts in blogs or social media, course
 - [AgustinSRG/rtmp-server-rs](https://github.com/AgustinSRG/rtmp-server-rs) - RTMP server implemented in Rust
@@ -535,6 +536,7 @@
 - [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf]
 - [l4l/yofi](https://github.com/l4l/yofi) - yofi is a minimalistic menu for wayland
 - [vars1ty/HybridBar](https://github.com/vars1ty/HybridBar) - A status bar focused on wlroots Wayland compositors
+- [waydeerwm/layer-shika](https://github.com/waydeerwm/layer-shika) - [Mirror] A library to create desktop components for wayland using the layer shell and Slint GUI
 - [coderedart/egui_overlay](https://github.com/coderedart/egui_overlay) - An Overlay Window that allows input to passthrough
 - [oddlama/whisper-overlay](https://github.com/oddlama/whisper-overlay) - A wayland overlay providing speech-to-text functionality for any application via a global push-to-talk hotkey
 - [linebender/kurbo](https://github.com/linebender/kurbo) - A Rust library for manipulating curves
@@ -678,7 +680,7 @@
 - [zakarumych/egui-snarl](https://github.com/zakarumych/egui-snarl) - Customizable egui node-graph library
 - [reu/clipshare](https://github.com/reu/clipshare) - Share your clipboard between machines of your local network.
 - [paulgb/wgsl-playground](https://github.com/paulgb/wgsl-playground) - 
-- [voxell-tech/motiongfx](https://github.com/voxell-tech/motiongfx) - Real-time motion graphics creation tool powered by Bevy ECS.
+- [voxell-tech/motiongfx](https://github.com/voxell-tech/motiongfx) - Backend agnostic motion graphics creation framework.
 - [nnethercote/dhat-rs](https://github.com/nnethercote/dhat-rs) - Heap profiling and ad hoc profiling for Rust programs.
 - [mrdimidium/nanoid](https://github.com/mrdimidium/nanoid) - A tiny, secure, URL-friendly, unique string ID generator for Rust
 - [dtolnay/inherent](https://github.com/dtolnay/inherent) - Make trait methods callable without the trait in scope
@@ -737,7 +739,7 @@
 - [TotalKrill/bevy_mod_reqwest](https://github.com/TotalKrill/bevy_mod_reqwest) - 
 - [johanhelsing/matchbox](https://github.com/johanhelsing/matchbox) - Painless peer-to-peer WebRTC networking for rust wasm (and native!)
 - [ErnWong/crystalorb](https://github.com/ErnWong/crystalorb) - Network-agnostic, high-level game networking library for client-side prediction and server reconciliation (unconditional rollback).
-- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
+- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
 - [Henauxg/bevy_quinnet](https://github.com/Henauxg/bevy_quinnet) - A Client/Server game networking plugin using QUIC, for the Bevy game engine.
 - [DGriffin91/bevy_mod_mipmap_generator](https://github.com/DGriffin91/bevy_mod_mipmap_generator) - A basic mipmap generator for bevy
 - [DGriffin91/bevy_mod_mesh_tools](https://github.com/DGriffin91/bevy_mod_mesh_tools) - Tools for working with meshes in bevy
