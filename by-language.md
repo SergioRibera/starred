@@ -231,7 +231,7 @@
 - [alyssaxuu/animockup](https://github.com/alyssaxuu/animockup) - Create animated mockups in the browser 🔥
 - [wojtekmaj/enzyme-adapter-react-17](https://github.com/wojtekmaj/enzyme-adapter-react-17) - Unofficial adapter for React 17 for Enzyme.
 - [1904labs/dom-to-image-more](https://github.com/1904labs/dom-to-image-more) - Generates an image from a DOM node using HTML5 canvas
-- [wcoder/highlightjs-line-numbers.js](https://github.com/wcoder/highlightjs-line-numbers.js) - Line numbering plugin for Highlight.js
+- [yauhenipakala/highlightjs-line-numbers.js](https://github.com/yauhenipakala/highlightjs-line-numbers.js) - Line numbering plugin for Highlight.js
 - [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas
 - [connor-baer/rich-text-to-jsx](https://github.com/connor-baer/rich-text-to-jsx) - 📄 Opinionated JSX renderer for the Contentful rich text field type.
 - [EastDesire/jscolor](https://github.com/EastDesire/jscolor) - JavaScript color picker with opacity (alpha channel) and customizable palette. Single file of plain JS with no dependencies.
@@ -396,6 +396,9 @@
 
 ## Rust 
 
+- [Far-Beyond-Pulsar/Pulsar-Native](https://github.com/Far-Beyond-Pulsar/Pulsar-Native) - The next-generation game engine that you deserve implemented in rust on top of GPUI
+- [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
+- [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
 - [nilaysavant/bevy_pmetra](https://github.com/nilaysavant/bevy_pmetra) - Parametric Modelling for Bevy using Truck CAD kernel.
 - [ricosjp/truck](https://github.com/ricosjp/truck) - Truck is a Rust CAD Kernel.
 - [johanhelsing/bevy_touch_stick](https://github.com/johanhelsing/bevy_touch_stick) - An analog touch screen joystick that pretends to be a bevy gamepad
@@ -484,7 +487,7 @@
 - [project-robius/robius-authentication](https://github.com/project-robius/robius-authentication) - Rust abstractions for multi-platform native authentication (biometric, fingerprint, password, FaceID, TouchID etc)
 - [project-robius/robius-open](https://github.com/project-robius/robius-open) - Rust abstractions for multi-platform opening of URIs
 - [mxpv/openusd](https://github.com/mxpv/openusd) - Native Rust USD library
-- [pykeio/earshot](https://github.com/pykeio/earshot) - Ridiculously fast voice activity detection in pure #[no_std] Rust
+- [pykeio/earshot](https://github.com/pykeio/earshot) - Ridiculously fast & accurate voice activity detection in pure Rust
 - [pykeio/brainrot](https://github.com/pykeio/brainrot) - Live chat interface for Twitch & YouTube
 - [brofrain/unocss-classes-rs](https://github.com/brofrain/unocss-classes-rs) - ⚛️ HTML class builder macro with UnoCSS variant group transformer for Rust web frameworks
 - [tyrchen/deno-utils](https://github.com/tyrchen/deno-utils) - 
@@ -593,7 +596,7 @@
 - [face-hh/webx](https://github.com/face-hh/webx) - An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more.
 - [qipkg/qipi](https://github.com/qipkg/qipi) - 🦉 Extremely fast, disk-efficient, node_modules-free, instant, and secure package manager for Node.js — written in Rust.
 - [eneoli/flakeshot](https://github.com/eneoli/flakeshot) - A screenshot tool for unix-systems which runs natively on Wayland and X11!
-- [gabm/Satty](https://github.com/gabm/Satty) - Satty - Modern Screenshot Annotation.
+- [Satty-org/Satty](https://github.com/Satty-org/Satty) - Satty - Modern Screenshot Annotation.
 - [RustLangES/cfworker-template](https://github.com/RustLangES/cfworker-template) - Template de Workers para CloudFlare
 - [coastalwhite/lemurs](https://github.com/coastalwhite/lemurs) - A customizable TUI display/login manager written in Rust 🐒
 - [woelper/woodpacker](https://github.com/woelper/woodpacker) - calculate wood/material consumption from templates and pieces
