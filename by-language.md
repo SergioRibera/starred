@@ -392,6 +392,7 @@
 
 ## QML 
 
+- [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, and MangoWC
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - ‼️ No waybar here ‼️
 
 ## Rust 
@@ -454,7 +455,7 @@
 - [tuono-labs/tuono](https://github.com/tuono-labs/tuono) - ⚡ Modern fullstack web framework based on Rust and React
 - [timschmidt/csgrs](https://github.com/timschmidt/csgrs) - Multi-modal constructive solid geometry kernel in Rust
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - Microsandbox — Self-Hosted Plaform for Secure Execution of Untrusted User or AI-Generated Code
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - self-hosted plaform for secure execution of untrusted user or AI-generated code
 - [SilentVoid13/SyncDisBoi](https://github.com/SilentVoid13/SyncDisBoi) - Music streaming platforms (Youtube Music, Spotify, Tidal) synchronization tool
 - [mainmatter/eserde](https://github.com/mainmatter/eserde) - Just like `serde`, but with more exhaustive error reporting capabilities. Designed for public API payloads.
 - [NeoCogi/microui-redux](https://github.com/NeoCogi/microui-redux) - Idiomatic Rust MicroUI port
@@ -615,7 +616,7 @@
 - [zaghaghi/openapi-tui](https://github.com/zaghaghi/openapi-tui) - Terminal UI to list, browse and run APIs defined with openapi spec.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
-- [awslabs/aws-lambda-rust-runtime](https://github.com/awslabs/aws-lambda-rust-runtime) - A Rust runtime for AWS Lambda
+- [aws/aws-lambda-rust-runtime](https://github.com/aws/aws-lambda-rust-runtime) - A Rust runtime for AWS Lambda
 - [Aiving/material-colors](https://github.com/Aiving/material-colors) - Up-to-date material-color-utilities port
 - [Matthias-Fauconneau/ui](https://github.com/Matthias-Fauconneau/ui) - Vulkano/Wayland without Smithay/libwayland-sys
 - [EnzymeAD/rustbook](https://github.com/EnzymeAD/rustbook) - 
@@ -737,7 +738,7 @@
 - [Dushistov/flapigen-rs](https://github.com/Dushistov/flapigen-rs) - Tool for connecting programs or libraries written in Rust with other languages
 - [nicopap/cuicui_layout](https://github.com/nicopap/cuicui_layout) - The dumbest and simplest layouting algorithm for bevy
 - [laundmo/bevy_screen_diagnostics](https://github.com/laundmo/bevy_screen_diagnostics) - On-screen diagnostics
-- [aevyrie/big_space](https://github.com/aevyrie/big_space) - When 32-bit worlds just aren't big enough
+- [aevyrie/big_space](https://github.com/aevyrie/big_space) - When 32-bit worlds aren't big enough
 - [bytestring-net/bevy_lunex](https://github.com/bytestring-net/bevy_lunex) - Blazingly fast retained layout engine for Bevy ECS.
 - [TotalKrill/bevy_mod_reqwest](https://github.com/TotalKrill/bevy_mod_reqwest) - 
 - [johanhelsing/matchbox](https://github.com/johanhelsing/matchbox) - Painless peer-to-peer WebRTC networking for rust wasm (and native!)
