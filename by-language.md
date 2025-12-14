@@ -178,7 +178,7 @@
 
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
-- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
+- [TwiN/gatus](https://github.com/TwiN/gatus) - The most advanced status page in the world
 - [Unity-Technologies/multiplay-examples](https://github.com/Unity-Technologies/multiplay-examples) - Examples for using Unity Multiplay: https://unity.com/products/multiplay
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [evanpurkhiser/dots](https://github.com/evanpurkhiser/dots) - A portable tool for managing a single set of dotfiles in an organized fashion
@@ -397,6 +397,7 @@
 
 ## Rust 
 
+- [otty-shell/otty](https://github.com/otty-shell/otty) - open-source, terminal-centric workspace that transforms your shell into a true IDE.
 - [GrantSparks/grafton-visca](https://github.com/GrantSparks/grafton-visca) - Rust based VISCA over IP implementation for controlling PTZ Cameras
 - [NiklasEi/bevy_game_template](https://github.com/NiklasEi/bevy_game_template) - Template for a Bevy game including CI/CD for web, Windows, Linux, macOS, iOS and Android
 - [Arthurdw/rovo](https://github.com/Arthurdw/rovo) - Axum open API docs made simple
@@ -419,7 +420,7 @@
 - [0x00002a/cinc](https://github.com/0x00002a/cinc) - 
 - [manthanabc/polkit-agent](https://github.com/manthanabc/polkit-agent) - A polkit agent for wayland written in rust
 - [Juanperias/motion](https://github.com/Juanperias/motion) - Motion is a bare metal physics engine
-- [tessera-ui/tessera](https://github.com/tessera-ui/tessera) - Declarative UI, Custom Rendering.
+- [tessera-ui/tessera](https://github.com/tessera-ui/tessera) - Tessera is a cross-platform UI library for rust, focused on performance and extensibility.
 - [DefGuard/wireguard-rs](https://github.com/DefGuard/wireguard-rs) - Rust library providing unified WireGuard interface to native/kernel and userspace implementations
 - [t3hmrman/playground-rust-ipc-experiment](https://github.com/t3hmrman/playground-rust-ipc-experiment) - A playground project exploring high-performance IPC in Rust
 - [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
@@ -546,7 +547,7 @@
 - [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf]
 - [l4l/yofi](https://github.com/l4l/yofi) - yofi is a minimalistic menu for wayland
 - [vars1ty/HybridBar](https://github.com/vars1ty/HybridBar) - A status bar focused on wlroots Wayland compositors
-- [waydeerwm/layer-shika](https://github.com/waydeerwm/layer-shika) - [Mirror] A library to create desktop components for wayland using the layer shell and Slint GUI
+- [waydeerwm/layer-shika](https://github.com/waydeerwm/layer-shika) - [Mirror] 🦌 Rust library for building Wayland desktop shells with Slint UI. Create status bars, panels, notifications, and other shell components.
 - [coderedart/egui_overlay](https://github.com/coderedart/egui_overlay) - An Overlay Window that allows input to passthrough
 - [oddlama/whisper-overlay](https://github.com/oddlama/whisper-overlay) - A wayland overlay providing speech-to-text functionality for any application via a global push-to-talk hotkey
 - [linebender/kurbo](https://github.com/linebender/kurbo) - A Rust library for manipulating curves
