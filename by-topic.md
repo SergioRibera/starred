@@ -485,7 +485,7 @@
 ## devops 
 
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
-- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
+- [TwiN/gatus](https://github.com/TwiN/gatus) - The most advanced status page in the world
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [nogibjj/rust-mlops-template](https://github.com/nogibjj/rust-mlops-template) - A work in progress to build out solutions in Rust for MLOPs
 - [Sairyss/backend-best-practices](https://github.com/Sairyss/backend-best-practices) - Best practices, tools and guidelines for backend development. Code examples in TypeScript + NodeJS
@@ -505,7 +505,7 @@
 
 ## docker 
 
-- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
+- [TwiN/gatus](https://github.com/TwiN/gatus) - The most advanced status page in the world
 - [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted ai agent sandboxes
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [mrjackwills/oxker](https://github.com/mrjackwills/oxker) - A simple tui to view & control docker containers
@@ -737,12 +737,12 @@
 ## go 
 
 - [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, and labwc.
-- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
+- [TwiN/gatus](https://github.com/TwiN/gatus) - The most advanced status page in the world
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
 
 ## golang 
 
-- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
+- [TwiN/gatus](https://github.com/TwiN/gatus) - The most advanced status page in the world
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 
 ## good-first-issue 
@@ -759,7 +759,7 @@
 
 ## gui 
 
-- [tessera-ui/tessera](https://github.com/tessera-ui/tessera) - Declarative UI, Custom Rendering.
+- [tessera-ui/tessera](https://github.com/tessera-ui/tessera) - Tessera is a cross-platform UI library for rust, focused on performance and extensibility.
 - [vizia/vizia](https://github.com/vizia/vizia) - A declarative GUI library written in Rust
 - [Toni500github/customfetch](https://github.com/Toni500github/customfetch) - A modular information fetching (neofetch-like) tool, which its focus point is the performance and customizability.        Android widget migrated to https://github.com/Toni500github/customfetch-androi
 - [MichalGniadek/klask](https://github.com/MichalGniadek/klask) - Automatically create GUI applications from clap3 apps
@@ -1114,7 +1114,7 @@
 
 ## monitoring 
 
-- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
+- [TwiN/gatus](https://github.com/TwiN/gatus) - The most advanced status page in the world
 - [junkdog/glim](https://github.com/junkdog/glim) - A TUI for monitoring GitLab CI/CD pipelines and projects
 - [ollej/rusty-aquarium](https://github.com/ollej/rusty-aquarium) - Monitoring visualization as an aquarium written in Rust with Macroquad.
 
@@ -1234,6 +1234,7 @@
 
 ## others 
 
+- [otty-shell/otty](https://github.com/otty-shell/otty) - open-source, terminal-centric workspace that transforms your shell into a true IDE.
 - [GrantSparks/grafton-visca](https://github.com/GrantSparks/grafton-visca) - Rust based VISCA over IP implementation for controlling PTZ Cameras
 - [Arthurdw/rovo](https://github.com/Arthurdw/rovo) - Axum open API docs made simple
 - [oxidecomputer/typify](https://github.com/oxidecomputer/typify) - compiler from JSON Schema into idiomatic Rust types
@@ -1345,7 +1346,6 @@
 - [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf]
 - [l4l/yofi](https://github.com/l4l/yofi) - yofi is a minimalistic menu for wayland
 - [wmww/gtk4-layer-shell](https://github.com/wmww/gtk4-layer-shell) - A library to create panels and other desktop components for Wayland using the Layer Shell protocol and GTK4
-- [waydeerwm/layer-shika](https://github.com/waydeerwm/layer-shika) - [Mirror] A library to create desktop components for wayland using the layer shell and Slint GUI
 - [coderedart/egui_overlay](https://github.com/coderedart/egui_overlay) - An Overlay Window that allows input to passthrough
 - [oddlama/whisper-overlay](https://github.com/oddlama/whisper-overlay) - A wayland overlay providing speech-to-text functionality for any application via a global push-to-talk hotkey
 - [linebender/kurbo](https://github.com/linebender/kurbo) - A Rust library for manipulating curves
@@ -1814,7 +1814,7 @@
 - [Rikorose/DeepFilterNet](https://github.com/Rikorose/DeepFilterNet) - Noise supression using deep filtering
 - [Juanperias/motion](https://github.com/Juanperias/motion) - Motion is a bare metal physics engine
 - [vyfor/cord.nvim](https://github.com/vyfor/cord.nvim) - 🚀 Discord Rich Presence for Neovim
-- [tessera-ui/tessera](https://github.com/tessera-ui/tessera) - Declarative UI, Custom Rendering.
+- [tessera-ui/tessera](https://github.com/tessera-ui/tessera) - Tessera is a cross-platform UI library for rust, focused on performance and extensibility.
 - [DefGuard/wireguard-rs](https://github.com/DefGuard/wireguard-rs) - Rust library providing unified WireGuard interface to native/kernel and userspace implementations
 - [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
 - [vizia/vizia](https://github.com/vizia/vizia) - A declarative GUI library written in Rust
@@ -2069,7 +2069,7 @@
 
 ## self-hosted 
 
-- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
+- [TwiN/gatus](https://github.com/TwiN/gatus) - The most advanced status page in the world
 - [vladkens/badges](https://github.com/vladkens/badges) - 🎖️🎨 Instantly create custom badges for GitHub, docs, and more. Lightweight, self-hostable, with live integrations that keep badges always up to date. Elevate your projects in seconds!
 - [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted ai agent sandboxes
 - [next-hat/nanocl](https://github.com/next-hat/nanocl) - Work in progress distributed system that simplifies the orchestration of containers and virtual machines.
@@ -2084,6 +2084,7 @@
 
 ## shell 
 
+- [waydeerwm/layer-shika](https://github.com/waydeerwm/layer-shika) - [Mirror] 🦌 Rust library for building Wayland desktop shells with Slint UI. Create status bars, panels, notifications, and other shell components.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
 ## sqlite 
