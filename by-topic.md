@@ -112,6 +112,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [material-design](#material-design)
+- [microservices](#microservices)
 - [microsoft](#microsoft)
 - [minecraft](#minecraft)
 - [mobile](#mobile)
@@ -173,6 +174,7 @@
 - [terminal](#terminal)
 - [terraform](#terraform)
 - [testing](#testing)
+- [tui](#tui)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [ui](#ui)
@@ -206,7 +208,7 @@
 ## ai 
 
 - [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails) - Adding guardrails to large language models.
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted ai agent sandboxes
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agent
 - [orhanbalci/rust-steering-behaviors](https://github.com/orhanbalci/rust-steering-behaviors) - AI Steering behaviors crate implemented in Rust http://orhanbalci.github.io/rust-steering-behaviors
 - [Seldom-SE/seldom_state](https://github.com/Seldom-SE/seldom_state) - Component-based state machine plugin for Bevy. Useful for AI, player state, and other entities that occupy different states.
 
@@ -292,6 +294,7 @@
 
 ## bash 
 
+- [otty-shell/otty](https://github.com/otty-shell/otty) - open-source, terminal-centric workspace that transforms your shell into a true IDE.
 - [berenm/steam-cli](https://github.com/berenm/steam-cli) - Command-line interface to install and execute Steam games
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 
@@ -320,7 +323,7 @@
 
 ## chatgpt 
 
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 
 ## chrome 
 
@@ -439,7 +442,7 @@
 ## cybersecurity 
 
 - [pumpbin/pumpbin](https://github.com/pumpbin/pumpbin) - 🎃 PumpBin is an Implant Generation Platform.
-- [cxiao/rust-malware-gallery](https://github.com/cxiao/rust-malware-gallery) - A collection of malware families and malware samples which use the Rust programming language.
+- [decoderloop/rust-malware-gallery](https://github.com/decoderloop/rust-malware-gallery) - A collection of malware families and malware samples which use the Rust programming language.
 
 ## dart 
 
@@ -506,7 +509,7 @@
 ## docker 
 
 - [TwiN/gatus](https://github.com/TwiN/gatus) - The most advanced status page in the world
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted ai agent sandboxes
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agent
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [mrjackwills/oxker](https://github.com/mrjackwills/oxker) - A simple tui to view & control docker containers
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
@@ -514,7 +517,7 @@
 
 ## dotfiles 
 
-- [snowarch/quickshell-ii-niri](https://github.com/snowarch/quickshell-ii-niri) - A Niri shell illogical-impulse based
+- [snowarch/quickshell-ii-niri](https://github.com/snowarch/quickshell-ii-niri) - A Niri shell illogical-impulse based - with some modifications..
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - ‼️ No waybar here ‼️
 - [coffeeispower/woomer](https://github.com/coffeeispower/woomer) - Zoomer application for Wayland inspired by tsoding's boomer
 - [redyf/nixdots](https://github.com/redyf/nixdots) - Modular NixOS configuration
@@ -964,14 +967,15 @@
 
 ## linux 
 
-- [snowarch/quickshell-ii-niri](https://github.com/snowarch/quickshell-ii-niri) - A Niri shell illogical-impulse based
+- [otty-shell/otty](https://github.com/otty-shell/otty) - open-source, terminal-centric workspace that transforms your shell into a true IDE.
+- [snowarch/quickshell-ii-niri](https://github.com/snowarch/quickshell-ii-niri) - A Niri shell illogical-impulse based - with some modifications..
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - ‼️ No waybar here ‼️
 - [berenm/steam-cli](https://github.com/berenm/steam-cli) - Command-line interface to install and execute Steam games
 - [vyfor/cord.nvim](https://github.com/vyfor/cord.nvim) - 🚀 Discord Rich Presence for Neovim
 - [DefGuard/wireguard-rs](https://github.com/DefGuard/wireguard-rs) - Rust library providing unified WireGuard interface to native/kernel and userspace implementations
 - [Toni500github/customfetch](https://github.com/Toni500github/customfetch) - A modular information fetching (neofetch-like) tool, which its focus point is the performance and customizability.        Android widget migrated to https://github.com/Toni500github/customfetch-androi
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted ai agent sandboxes
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agent
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center) - A notification daemon/center for linux
 - [l1npengtul/nokhwa](https://github.com/l1npengtul/nokhwa) - Cross Platform Rust Library for Powerful Webcam/Camera Capture
@@ -991,7 +995,7 @@
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [fairyglade/ly](https://github.com/fairyglade/ly) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
 - [hertg/lightdm-neon](https://github.com/hertg/lightdm-neon) - :art: A customizable theme for web-greeter in a nostalgic but modern neon look
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
@@ -1054,10 +1058,11 @@
 
 ## macos 
 
+- [otty-shell/otty](https://github.com/otty-shell/otty) - open-source, terminal-centric workspace that transforms your shell into a true IDE.
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
 - [vyfor/cord.nvim](https://github.com/vyfor/cord.nvim) - 🚀 Discord Rich Presence for Neovim
 - [Toni500github/customfetch](https://github.com/Toni500github/customfetch) - A modular information fetching (neofetch-like) tool, which its focus point is the performance and customizability.        Android widget migrated to https://github.com/Toni500github/customfetch-androi
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted ai agent sandboxes
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agent
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [l1npengtul/nokhwa](https://github.com/l1npengtul/nokhwa) - Cross Platform Rust Library for Powerful Webcam/Camera Capture
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
@@ -1068,7 +1073,7 @@
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [hoothin/RustClock](https://github.com/hoothin/RustClock) - A digital clock for desktop popup every half hour written in rust, support 20-20-20 rule. 每隔半小時彈出一次的桌面電子時鐘 Windows / Mac
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [tauri-apps/window-vibrancy](https://github.com/tauri-apps/window-vibrancy) - Make your windows vibrant.
@@ -1090,6 +1095,11 @@
 ## material-design 
 
 - [simonwep/pickr](https://github.com/simonwep/pickr) - 🎨 Pickr - A simple, multi-themed, responsive and hackable Color-Picker library. No dependencies, no jQuery. Compatible with all CSS Frameworks e.g. Bootstrap, Materialize. Supports alpha channel, rgba
+
+## microservices 
+
+- [next-hat/nanocl](https://github.com/next-hat/nanocl) - Work in progress distributed system that simplifies the orchestration of containers and virtual machines.
+- [nogibjj/rust-mlops-template](https://github.com/nogibjj/rust-mlops-template) - A work in progress to build out solutions in Rust for MLOPs
 
 ## microsoft 
 
@@ -1234,7 +1244,6 @@
 
 ## others 
 
-- [otty-shell/otty](https://github.com/otty-shell/otty) - open-source, terminal-centric workspace that transforms your shell into a true IDE.
 - [GrantSparks/grafton-visca](https://github.com/GrantSparks/grafton-visca) - Rust based VISCA over IP implementation for controlling PTZ Cameras
 - [Arthurdw/rovo](https://github.com/Arthurdw/rovo) - Axum open API docs made simple
 - [oxidecomputer/typify](https://github.com/oxidecomputer/typify) - compiler from JSON Schema into idiomatic Rust types
@@ -1261,11 +1270,10 @@
 - [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 - [nick42d/youtui](https://github.com/nick42d/youtui) - TUI and API for YouTube Music written in Rust
 - [wasvy-org/wasvy](https://github.com/wasvy-org/wasvy) - Bevy modding engine powered by WASI
-- [urob/zmk-config](https://github.com/urob/zmk-config) - Personal ZMK firmware configuration for various boards (34-keys, Corneish Zen, Planck)
+- [urob/zmk-config](https://github.com/urob/zmk-config) - Personal ZMK firmware configuration for various boards (34-keys, Glove80, Planck)
 - [caksoylar/keymap-drawer](https://github.com/caksoylar/keymap-drawer) - Visualize keymaps that use advanced features like hold-taps and combos, with automatic parsing
 - [actuday6418/pipewire-streaming](https://github.com/actuday6418/pipewire-streaming) - capture packets from pipewire, encode and stream over webtransport. todo: multiple devices, each with a spatial position
 - [WERDXZ/wlrs](https://github.com/WERDXZ/wlrs) - Dynamic Wallpaper for Linux Wayland
-- [Cretezy/lazyjj](https://github.com/Cretezy/lazyjj) - TUI for Jujutsu/jj
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [LiveSplit/obs-livesplit-one](https://github.com/LiveSplit/obs-livesplit-one) - A plugin for OBS Studio that allows adding LiveSplit One as a source.
 - [trfore/docker-debian12-systemd](https://github.com/trfore/docker-debian12-systemd) - A minimal systemd enabled Debian 12 image
@@ -1398,7 +1406,6 @@
 - [H3rmt/hyprshell](https://github.com/H3rmt/hyprshell) - A modern GTK4-based window switcher and application launcher for Hyprland
 - [mangelats/buffers](https://github.com/mangelats/buffers) - Another way of looking at memory management for collections
 - [waycrate/wayshot](https://github.com/waycrate/wayshot) - screenshot tool for wayland compositors.
-- [zaghaghi/openapi-tui](https://github.com/zaghaghi/openapi-tui) - Terminal UI to list, browse and run APIs defined with openapi spec.
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [aws/aws-lambda-rust-runtime](https://github.com/aws/aws-lambda-rust-runtime) - A Rust runtime for AWS Lambda
 - [Aiving/material-colors](https://github.com/Aiving/material-colors) - Up-to-date material-color-utilities port
@@ -1740,7 +1747,7 @@
 
 ## python 
 
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted ai agent sandboxes
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agent
 - [srwi/qmk-via-api](https://github.com/srwi/qmk-via-api) - VIA api implementation for QMK-based keyboards
 - [GradienceTeam/Gradience](https://github.com/GradienceTeam/Gradience) - Change the look of Adwaita, with ease
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
@@ -1806,6 +1813,7 @@
 
 ## rust 
 
+- [otty-shell/otty](https://github.com/otty-shell/otty) - open-source, terminal-centric workspace that transforms your shell into a true IDE.
 - [NiklasEi/bevy_game_template](https://github.com/NiklasEi/bevy_game_template) - Template for a Bevy game including CI/CD for web, Windows, Linux, macOS, iOS and Android
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 - [Far-Beyond-Pulsar/Pulsar-Native](https://github.com/Far-Beyond-Pulsar/Pulsar-Native) - The next-generation game engine that you deserve implemented in rust on top of GPUI
@@ -1877,7 +1885,7 @@
 - [srwi/qmk-via-api](https://github.com/srwi/qmk-via-api) - VIA api implementation for QMK-based keyboards
 - [pumpbin/pumpbin](https://github.com/pumpbin/pumpbin) - 🎃 PumpBin is an Implant Generation Platform.
 - [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) - RustRedOps is a repository for advanced Red Team techniques and offensive malware, focused on Rust 🦀
-- [cxiao/rust-malware-gallery](https://github.com/cxiao/rust-malware-gallery) - A collection of malware families and malware samples which use the Rust programming language.
+- [decoderloop/rust-malware-gallery](https://github.com/decoderloop/rust-malware-gallery) - A collection of malware families and malware samples which use the Rust programming language.
 - [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust
 - [atilafassina/quantum](https://github.com/atilafassina/quantum) - Tauri + SolidStart. Batteries Included 🔋
 - [Phate6660/nixinfo](https://github.com/Phate6660/nixinfo) - A lib crate for gathering system info such as cpu, distro, environment, kernel, etc in Rust.
@@ -1961,7 +1969,7 @@
 - [Selene-Amanita/bevy_basic_portals](https://github.com/Selene-Amanita/bevy_basic_portals) - Bevy Simple Portals is a Bevy game engine plugin aimed to create portals.
 - [bincode-org/bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust.
 - [tauri-apps/global-hotkey](https://github.com/tauri-apps/global-hotkey) - Global hotkeys for Desktop Applications.
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [zsmatrix62/echoo.app](https://github.com/zsmatrix62/echoo.app) - A cross-platform toolbox for developers in web and native
 - [tomuxmon/bevy_roguelike](https://github.com/tomuxmon/bevy_roguelike) - roguelike system implemented using bevy
 - [opstic/gdclone](https://github.com/opstic/gdclone) - An alternative Geometry Dash client built using Bevy
@@ -2055,7 +2063,7 @@
 ## security 
 
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted ai agent sandboxes
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agent
 - [pumpbin/pumpbin](https://github.com/pumpbin/pumpbin) - 🎃 PumpBin is an Implant Generation Platform.
 - [caido/caido](https://github.com/caido/caido) - 🚀 Caido releases, wiki and roadmap
 - [GeekMasher/securitree.nvim](https://github.com/GeekMasher/securitree.nvim) - SecuriTree - Security Research Tool
@@ -2071,7 +2079,7 @@
 
 - [TwiN/gatus](https://github.com/TwiN/gatus) - The most advanced status page in the world
 - [vladkens/badges](https://github.com/vladkens/badges) - 🎖️🎨 Instantly create custom badges for GitHub, docs, and more. Lightweight, self-hostable, with live integrations that keep badges always up to date. Elevate your projects in seconds!
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted ai agent sandboxes
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agent
 - [next-hat/nanocl](https://github.com/next-hat/nanocl) - Work in progress distributed system that simplifies the orchestration of containers and virtual machines.
 
 ## server 
@@ -2084,6 +2092,7 @@
 
 ## shell 
 
+- [otty-shell/otty](https://github.com/otty-shell/otty) - open-source, terminal-centric workspace that transforms your shell into a true IDE.
 - [waydeerwm/layer-shika](https://github.com/waydeerwm/layer-shika) - [Mirror] 🦌 Rust library for building Wayland desktop shells with Slint UI. Create status bars, panels, notifications, and other shell components.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
@@ -2125,6 +2134,7 @@
 
 ## terminal 
 
+- [otty-shell/otty](https://github.com/otty-shell/otty) - open-source, terminal-centric workspace that transforms your shell into a true IDE.
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 - [lemunozm/termchat](https://github.com/lemunozm/termchat) - Terminal chat through the LAN with video streaming and file transfer.
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
@@ -2143,6 +2153,25 @@
 ## testing 
 
 - [josecelano/cargo-pretty-test](https://github.com/josecelano/cargo-pretty-test) - A Rust command that prettifies the ugly `cargo test` output into a beautiful one.
+
+## tui 
+
+- [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
+- [Cretezy/lazyjj](https://github.com/Cretezy/lazyjj) - TUI for Jujutsu/jj
+- [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
+- [junkdog/glim](https://github.com/junkdog/glim) - A TUI for monitoring GitLab CI/CD pipelines and projects
+- [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
+- [Julien-cpsn/ATAC](https://github.com/Julien-cpsn/ATAC) - A simple API client (postman like) in your terminal
+- [quantumsheep/sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH
+- [zaghaghi/openapi-tui](https://github.com/zaghaghi/openapi-tui) - Terminal UI to list, browse and run APIs defined with openapi spec.
+- [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
+- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
+- [mrjackwills/oxker](https://github.com/mrjackwills/oxker) - A simple tui to view & control docker containers
+- [Xithrius/twitch-tui](https://github.com/Xithrius/twitch-tui) - Twitch chat in the terminal.
+- [mikaelmello/inquire](https://github.com/mikaelmello/inquire) - A Rust library for building interactive prompts
+- [VincentFoulon80/console_engine](https://github.com/VincentFoulon80/console_engine) - A simple terminal framework to draw things and manage user input
+- [fairyglade/ly](https://github.com/fairyglade/ly) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
+- [ivanceras/sauron-native](https://github.com/ivanceras/sauron-native) - Truly cross platform, truly native. multiple backend GUI for rust
 
 ## typescript 
 
@@ -2169,6 +2198,7 @@
 
 ## ui 
 
+- [otty-shell/otty](https://github.com/otty-shell/otty) - open-source, terminal-centric workspace that transforms your shell into a true IDE.
 - [vizia/vizia](https://github.com/vizia/vizia) - A declarative GUI library written in Rust
 - [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
 - [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance rust-powered UI layout library
@@ -2278,7 +2308,7 @@
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [hoothin/RustClock](https://github.com/hoothin/RustClock) - A digital clock for desktop popup every half hour written in rust, support 20-20-20 rule. 每隔半小時彈出一次的桌面電子時鐘 Windows / Mac
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [nashaofu/xcap](https://github.com/nashaofu/xcap) - XCap is a cross-platform screen capture library written in Rust. It supports Linux (X11, Wayland), MacOS, and Windows. XCap supports screenshot and video recording (WIP).
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [tauri-apps/window-vibrancy](https://github.com/tauri-apps/window-vibrancy) - Make your windows vibrant.
@@ -2303,7 +2333,7 @@
 ## youtube 
 
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 
 ## zig 
 
@@ -2312,6 +2342,7 @@
 
 ## zsh 
 
+- [otty-shell/otty](https://github.com/otty-shell/otty) - open-source, terminal-centric workspace that transforms your shell into a true IDE.
 - [raexera/yuki](https://github.com/raexera/yuki) - Snowflake
 - [elythh/flake](https://github.com/elythh/flake) - my unavoidable system configuration
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
