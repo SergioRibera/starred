@@ -24,7 +24,6 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
-- [Just](#just)
 - [Kotlin](#kotlin)
 - [Liquid](#liquid)
 - [Lua](#lua)
@@ -244,10 +243,6 @@
 
 - [yzhou359/MakeItTalk](https://github.com/yzhou359/MakeItTalk) - 
 
-## Just 
-
-- [Hennzau/wui-rs](https://github.com/Hennzau/wui-rs) - wayland gui client for desktop environment
-
 ## Kotlin 
 
 - [Arturo254/OpenTune](https://github.com/Arturo254/OpenTune) - Un cliente de YouTube Music con Material Design 3, para Android
@@ -397,6 +392,8 @@
 
 ## Rust 
 
+- [podusowski/egui_keyboard](https://github.com/podusowski/egui_keyboard) - 
+- [km-clay/nixos-wizard](https://github.com/km-clay/nixos-wizard) - A TUI installer for NixOS
 - [otty-shell/otty](https://github.com/otty-shell/otty) - open-source, terminal-centric workspace that transforms your shell into a true IDE.
 - [GrantSparks/grafton-visca](https://github.com/GrantSparks/grafton-visca) - Rust based VISCA over IP implementation for controlling PTZ Cameras
 - [NiklasEi/bevy_game_template](https://github.com/NiklasEi/bevy_game_template) - Template for a Bevy game including CI/CD for web, Windows, Linux, macOS, iOS and Android
