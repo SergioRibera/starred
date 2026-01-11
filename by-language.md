@@ -177,7 +177,7 @@
 
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
-- [TwiN/gatus](https://github.com/TwiN/gatus) - The most advanced status page in the world
+- [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
 - [Unity-Technologies/multiplay-examples](https://github.com/Unity-Technologies/multiplay-examples) - Examples for using Unity Multiplay: https://unity.com/products/multiplay
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [evanpurkhiser/dots](https://github.com/evanpurkhiser/dots) - A portable tool for managing a single set of dotfiles in an organized fashion
@@ -255,7 +255,6 @@
 ## Lua 
 
 - [rmagatti/auto-session](https://github.com/rmagatti/auto-session) - A small automated session manager for Neovim
-- [vyfor/cord.nvim](https://github.com/vyfor/cord.nvim) - 🚀 Discord Rich Presence for Neovim
 - [azratul/live-share.nvim](https://github.com/azratul/live-share.nvim) - Creates a "Live Share" server in Neovim, similar to the Visual Studio Code Live Share functionality
 - [NStefan002/screenkey.nvim](https://github.com/NStefan002/screenkey.nvim) - Screencast your keys in Neovim
 - [codethread/qmk.nvim](https://github.com/codethread/qmk.nvim) - Format qmk and zmk keymaps in neovim
@@ -392,6 +391,7 @@
 
 ## Rust 
 
+- [yazaldefilimone/ffmpreg](https://github.com/yazaldefilimone/ffmpreg) - In-development universal safe multimedia toolkit.
 - [getzola/giallo](https://github.com/getzola/giallo) - Syntax highlighter, same output as VSCode
 - [podusowski/egui_keyboard](https://github.com/podusowski/egui_keyboard) - 
 - [km-clay/nixos-wizard](https://github.com/km-clay/nixos-wizard) - A TUI installer for NixOS
@@ -418,6 +418,7 @@
 - [0x00002a/cinc](https://github.com/0x00002a/cinc) - 
 - [manthanabc/polkit-agent](https://github.com/manthanabc/polkit-agent) - A polkit agent for wayland written in rust
 - [Juanperias/motion](https://github.com/Juanperias/motion) - Motion is a bare metal physics engine
+- [vyfor/cord.nvim](https://github.com/vyfor/cord.nvim) - 🚀 Discord Rich Presence for Neovim
 - [tessera-ui/tessera](https://github.com/tessera-ui/tessera) - A cross-platform declarative & functional UI library for rust, focused on performance and extensibility.
 - [DefGuard/wireguard-rs](https://github.com/DefGuard/wireguard-rs) - Rust library providing unified WireGuard interface to native/kernel and userspace implementations
 - [t3hmrman/playground-rust-ipc-experiment](https://github.com/t3hmrman/playground-rust-ipc-experiment) - A playground project exploring high-performance IPC in Rust
