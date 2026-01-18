@@ -391,6 +391,12 @@
 
 ## Rust 
 
+- [YangYuS8/wayvid](https://github.com/YangYuS8/wayvid) - A dynamic video wallpaper engine for Wayland compositors, with priority support for Hyprland and niri. Compatible with Wallpaper Engine's video wallpaper parameters.
+- [amshafer/Category5](https://github.com/amshafer/Category5) - Wayland compositor built in Rust
+- [tattoy-org/tattoy](https://github.com/tattoy-org/tattoy) - A text-based compositor for modern terminals
+- [m00nwtchr/wlconnect](https://github.com/m00nwtchr/wlconnect) - Standalone implementation of KDE Connect daemon for Wayland compositors.
+- [J-x-Z/cocoa-way](https://github.com/J-x-Z/cocoa-way) - Native macOS Wayland Compositor written in Rust using Smithay. Experience seamless Linux app streaming on macOS without XQuartz.
+- [Jas-SinghFSU/wayle](https://github.com/Jas-SinghFSU/wayle) - Wayland Elements -  A compositor agnostic shell with extensive customization
 - [yazaldefilimone/ffmpreg](https://github.com/yazaldefilimone/ffmpreg) - In-development universal safe multimedia toolkit.
 - [getzola/giallo](https://github.com/getzola/giallo) - Syntax highlighter, same output as VSCode
 - [podusowski/egui_keyboard](https://github.com/podusowski/egui_keyboard) - 
@@ -613,7 +619,7 @@
 - [release-plz/release-plz](https://github.com/release-plz/release-plz) - Publish Rust crates from CI with a Release PR.
 - [anyrun-org/anyrun](https://github.com/anyrun-org/anyrun) - A wayland native, highly customizable runner.
 - [Whitecat18/Rust-for-Malware-Development](https://github.com/Whitecat18/Rust-for-Malware-Development) - Rust for malware Development is a repository for advanced Red Team techniques and offensive malwares & Ransomwares, focused on Rust 🦀
-- [KawaYww/deci-player](https://github.com/KawaYww/deci-player) - A music-player written with rust and iced
+- [kawayww/deci-player](https://github.com/kawayww/deci-player) - A music-player written with rust and iced
 - [H3rmt/hyprshell](https://github.com/H3rmt/hyprshell) - A modern GTK4-based window switcher and application launcher for Hyprland
 - [mangelats/buffers](https://github.com/mangelats/buffers) - Another way of looking at memory management for collections
 - [waycrate/wayshot](https://github.com/waycrate/wayshot) - screenshot tool for wayland compositors.
@@ -629,7 +635,7 @@
 - [EnzymeAD/rustbook](https://github.com/EnzymeAD/rustbook) - 
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [Inlyne-Project/inlyne](https://github.com/Inlyne-Project/inlyne) - Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
-- [mlua-rs/mlua](https://github.com/mlua-rs/mlua) - High level Lua 5.4/5.3/5.2/5.1 (including LuaJIT) and Luau bindings to Rust with async/await support
+- [mlua-rs/mlua](https://github.com/mlua-rs/mlua) - High level Lua 5.5/5.4/5.3/5.2/5.1 (including LuaJIT) and Luau bindings to Rust with async/await support
 - [deavid/lprfl](https://github.com/deavid/lprfl) - Learn programming with Rust as a first language (book)
 - [sha0coder/libscemu](https://github.com/sha0coder/libscemu) - SCEMU The crates.io lib, x86 cpu and systems emulator focused mainly for anti-malware
 - [xrelkd/clipcat](https://github.com/xrelkd/clipcat) - A clipboard manager written in Rust Programming Language.
@@ -856,7 +862,7 @@
 - [abhimanyu003/qubit](https://github.com/abhimanyu003/qubit) - A handy calculator, based on Rust and WebAssembly.
 - [burtonageo/cargo-bundle](https://github.com/burtonageo/cargo-bundle) - Wrap rust executables in OS-specific app bundles
 - [xgillard/peak_alloc](https://github.com/xgillard/peak_alloc) - An allocator to keep track of (the max) allocated memory
-- [nomad/crop](https://github.com/nomad/crop) - 🌾 A pretty fast text rope
+- [noib3/crop](https://github.com/noib3/crop) - 🌾 A pretty fast text rope
 - [fereidani/rclite](https://github.com/fereidani/rclite) - RcLite: small, fast, and memory-friendly reference counting for Rust
 - [jacobsky/egui-stylist](https://github.com/jacobsky/egui-stylist) - This project attempts to allow the creation of reusable egui-themes
 - [pop-os/keyboard-configurator](https://github.com/pop-os/keyboard-configurator) - Keyboard configuration UI
@@ -1011,6 +1017,7 @@
 
 ## Swift 
 
+- [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 
