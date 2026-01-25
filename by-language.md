@@ -361,7 +361,6 @@
 
 - [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails) - Adding guardrails to large language models.
 - [Rikorose/DeepFilterNet](https://github.com/Rikorose/DeepFilterNet) - Noise supression using deep filtering
-- [berenm/steam-cli](https://github.com/berenm/steam-cli) - Command-line interface to install and execute Steam games
 - [caksoylar/keymap-drawer](https://github.com/caksoylar/keymap-drawer) - Visualize keymaps that use advanced features like hold-taps and combos, with automatic parsing
 - [bm-mit/key-caster](https://github.com/bm-mit/key-caster) - An on-screen key stroke displayer app for Linux inspired by keycastr
 - [pydantic/pydantic-core](https://github.com/pydantic/pydantic-core) - Core validation logic for pydantic written in rust
@@ -549,7 +548,7 @@
 - [smithy-lang/smithy-rs](https://github.com/smithy-lang/smithy-rs) - Code generation for the AWS SDK for Rust, as well as server and generic smithy client generation.
 - [viperML/hover-rs](https://github.com/viperML/hover-rs) - Protective home overlay
 - [Brayan-724/apika-os](https://github.com/Brayan-724/apika-os) - HI folks
-- [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf]
+- [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf, @faukah]
 - [l4l/yofi](https://github.com/l4l/yofi) - yofi is a minimalistic menu for wayland
 - [vars1ty/HybridBar](https://github.com/vars1ty/HybridBar) - A status bar focused on wlroots Wayland compositors
 - [waydeerwm/layer-shika](https://github.com/waydeerwm/layer-shika) - [Mirror] 🦌 Rust library for building Wayland desktop shells with Slint UI. Create status bars, panels, notifications, and other shell components.
