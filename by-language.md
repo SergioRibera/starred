@@ -175,9 +175,10 @@
 
 ## Go 
 
-- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
+- [kubernetes-retired/dashboard](https://github.com/kubernetes-retired/dashboard) - General-purpose web UI for Kubernetes clusters
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
+- [lucasew/nixcfg](https://github.com/lucasew/nixcfg) - Personal Nix/NixOS configuration files
 - [Unity-Technologies/multiplay-examples](https://github.com/Unity-Technologies/multiplay-examples) - Examples for using Unity Multiplay: https://unity.com/products/multiplay
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [evanpurkhiser/dots](https://github.com/evanpurkhiser/dots) - A portable tool for managing a single set of dotfiles in an organized fashion
@@ -322,7 +323,6 @@
 - [bouk/arduino-nix](https://github.com/bouk/arduino-nix) - Manage your arduino-cli with Nix
 - [MordragT/nix-templates](https://github.com/MordragT/nix-templates) - ❄️ Nix flake templates for: 🦀 Rust, 🦖 Deno, 🐍 Python and 🗒️ reveal.js among others
 - [oddlama/nrf-template](https://github.com/oddlama/nrf-template) - ❄️🦀 A template for embedded rust development for the nRF52840 with embassy featuring reproducible builds with nix
-- [lucasew/nixcfg](https://github.com/lucasew/nixcfg) - Personal Nix/NixOS configuration files
 - [mrcjkb/nvim-lua-nix-plugin-template](https://github.com/mrcjkb/nvim-lua-nix-plugin-template) - A starter template for a Neovim plugin written in Lua with a Nix CI
 - [Lemin-n/oxidized-flakes](https://github.com/Lemin-n/oxidized-flakes) - 🦀 Templates for Nix ❄️
 
@@ -390,13 +390,14 @@
 
 ## Rust 
 
+- [vivlim/lizard-askpass](https://github.com/vivlim/lizard-askpass) - on-screen keyboard TUI for the steam deck, usable with just arrow keys, enter, and escape
 - [YangYuS8/wayvid](https://github.com/YangYuS8/wayvid) - A dynamic video wallpaper engine for Wayland compositors, with priority support for Hyprland and niri. Compatible with Wallpaper Engine's video wallpaper parameters.
 - [amshafer/Category5](https://github.com/amshafer/Category5) - Wayland compositor built in Rust
 - [tattoy-org/tattoy](https://github.com/tattoy-org/tattoy) - A text-based compositor for modern terminals
 - [m00nwtchr/wlconnect](https://github.com/m00nwtchr/wlconnect) - Standalone implementation of KDE Connect daemon for Wayland compositors.
 - [J-x-Z/cocoa-way](https://github.com/J-x-Z/cocoa-way) - Native macOS Wayland Compositor written in Rust using Smithay. Experience seamless Linux app streaming on macOS without XQuartz.
 - [Jas-SinghFSU/wayle](https://github.com/Jas-SinghFSU/wayle) - Wayland Elements -  A compositor agnostic shell with extensive customization
-- [yazaldefilimone/ffmpreg](https://github.com/yazaldefilimone/ffmpreg) - In-development universal safe multimedia toolkit.
+- [yazaldefilimone/ffmpreg](https://github.com/yazaldefilimone/ffmpreg) - An experimental safe multimedia toolkit
 - [getzola/giallo](https://github.com/getzola/giallo) - Syntax highlighter, same output as VSCode
 - [podusowski/egui_keyboard](https://github.com/podusowski/egui_keyboard) - 
 - [km-clay/nixos-wizard](https://github.com/km-clay/nixos-wizard) - A TUI installer for NixOS
@@ -737,7 +738,7 @@
 - [RaminKav/LostInTime](https://github.com/RaminKav/LostInTime) - A feature rich rogue-like survival game made with Bevy & Rust
 - [Seldom-SE/seldom_pixel](https://github.com/Seldom-SE/seldom_pixel) - Bevy plugin for limited color palette pixel art games
 - [Adamkob12/Meshem](https://github.com/Adamkob12/Meshem) - Bevy Meshem is a Rust crate designed to provide meshing algorithms for voxel grids, enabling you to create cohesive 3D mesh structures from a grid of cubic voxels
-- [ForesightMiningSoftwareCorporation/bevy_aabb_instancing](https://github.com/ForesightMiningSoftwareCorporation/bevy_aabb_instancing) - Fast AABB rendering plugin for Bevy Engine.
+- [fslabs/bevy_aabb_instancing](https://github.com/fslabs/bevy_aabb_instancing) - Fast AABB rendering plugin for Bevy Engine.
 - [BraymatterOrg/bevy_tiling_background](https://github.com/BraymatterOrg/bevy_tiling_background) - 
 - [LucaRickler/bevy-simple-state-machine](https://github.com/LucaRickler/bevy-simple-state-machine) - Rudimentary animation state machine system for Bevy Engine
 - [nicopap/bevy_mod_sysfail](https://github.com/nicopap/bevy_mod_sysfail) - Decorate your bevy system with the sysfail macro attribute to make them handle cleanly failure mods.
@@ -927,7 +928,7 @@
 - [notify-rs/notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [zesterer/flume](https://github.com/zesterer/flume) - A safe and fast multi-producer, multi-consumer channel.
-- [ForesightMiningSoftwareCorporation/bevy_infinite_grid](https://github.com/ForesightMiningSoftwareCorporation/bevy_infinite_grid) - 
+- [fslabs/bevy_infinite_grid](https://github.com/fslabs/bevy_infinite_grid) - 
 - [EmbarkStudios/kajiya](https://github.com/EmbarkStudios/kajiya) - 💡 Experimental real-time global illumination renderer 🦀
 - [markijohn/druid-rune](https://github.com/markijohn/druid-rune) - Experiments combining druid and rune.
 - [Kethku/Pando](https://github.com/Kethku/Pando) - An infinite canvas for graph data
