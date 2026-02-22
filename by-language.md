@@ -386,7 +386,7 @@
 ## QML 
 
 - [snowarch/iNiR](https://github.com/snowarch/iNiR) - A Niri shell illogical-impulse based - with some modifications..
-- [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, and labwc.
+- [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - ‼️ No waybar here ‼️
 
 ## Rust 
@@ -1067,7 +1067,7 @@
 
 ## Vue 
 
-- [linuxmobile/palettePilot](https://github.com/linuxmobile/palettePilot) - palettePilot is a color palette generator
+- [linuxmobile/tsumugu](https://github.com/linuxmobile/tsumugu) - Weaving light into logic. A disciplined color atelier that distills the hidden soul of an image into a functional design   language.
 
 ## WGSL 
 
