@@ -878,7 +878,7 @@
 - [MrGVSV/bevy_proto](https://github.com/MrGVSV/bevy_proto) - Create config files for entities in Bevy
 - [StarArawn/kayak_ui](https://github.com/StarArawn/kayak_ui) - 
 - [bonsairobo/feldspar](https://github.com/bonsairobo/feldspar) - Procedural voxel worlds for Bevy Engine.
-- [seabassjh/bevy-kajiya](https://github.com/seabassjh/bevy-kajiya) - A plugin to use the kajiya renderer with bevy
+- [sebasjham/bevy-kajiya](https://github.com/sebasjham/bevy-kajiya) - A plugin to use the kajiya renderer with bevy
 - [Byron/google-apis-rs](https://github.com/Byron/google-apis-rs) - A binding and CLI generator for all Google APIs
 - [tauri-apps/cargo-mobile2](https://github.com/tauri-apps/cargo-mobile2) - Rust on mobile made easy!
 - [rust-mobile/xbuild](https://github.com/rust-mobile/xbuild) - Cross compile rust to any platform
