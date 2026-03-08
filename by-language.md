@@ -203,7 +203,6 @@
 
 ## JavaScript 
 
-- [IceDBorn/pipewire-screenaudio](https://github.com/IceDBorn/pipewire-screenaudio) - Extension to passthrough pipewire audio to WebRTC Screenshare
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [arihant-jain-09/discord-clone](https://github.com/arihant-jain-09/discord-clone) - Discord (with unique roles in each server, image, audio sharing, auto render video links in messages, discord loading logo between page renderings)  with React, React Router, Material UI, SASS, Styled
 - [mrjvs/Discord-video-experiment](https://github.com/mrjvs/Discord-video-experiment) - Experiment for making video work for discord bots.
@@ -391,6 +390,7 @@
 
 ## Rust 
 
+- [devmobasa/wayscriber](https://github.com/devmobasa/wayscriber) - Live overlay for drawing, annotating with zoom, hiding text, and capturing screenshots on Linux. Can be used as whiteboard or blackboard. Highly customisable. Written in Rust.
 - [nicosuave/memex](https://github.com/nicosuave/memex) - Fast transcript search for humans & agents. Supports Claude Code, Codex CLI & OpenCode
 - [zhuzaiye/DictNavi](https://github.com/zhuzaiye/DictNavi) - DictNavi is the English Word Dictionary based on AI Training Words And Rust egui/tantivy.
 - [vivlim/lizard-askpass](https://github.com/vivlim/lizard-askpass) - on-screen keyboard TUI for the steam deck, usable with just arrow keys, enter, and escape
@@ -447,6 +447,7 @@
 - [actuday6418/pipewire-streaming](https://github.com/actuday6418/pipewire-streaming) - capture packets from pipewire, encode and stream over webtransport. todo: multiple devices, each with a spatial position
 - [WERDXZ/wlrs](https://github.com/WERDXZ/wlrs) - Dynamic Wallpaper for Linux Wayland
 - [Cretezy/lazyjj](https://github.com/Cretezy/lazyjj) - TUI for Jujutsu/jj
+- [IceDBorn/pipewire-screenaudio](https://github.com/IceDBorn/pipewire-screenaudio) - Extension to passthrough pipewire audio to WebRTC Screenshare
 - [LiveSplit/obs-livesplit-one](https://github.com/LiveSplit/obs-livesplit-one) - A plugin for OBS Studio that allows adding LiveSplit One as a source.
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [stifskere/translatable](https://github.com/stifskere/translatable) - A robust internationalization solution for Rust featuring compile-time validation, ISO 639-1 compliance, and TOML-based translation management.
