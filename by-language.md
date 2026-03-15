@@ -271,7 +271,6 @@
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim
 - [theorytoe/nii-nvim](https://github.com/theorytoe/nii-nvim) - A minimal neovim configuration
 - [numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - :fire: No-nonsense floating terminal plugin for neovim :fire:
-- [kristijanhusak/neovim-config](https://github.com/kristijanhusak/neovim-config) - Neovim configuration
 - [simrat39/rust-tools.nvim](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in rust using neovim's builtin lsp
 - [nvim-flutter/flutter-tools.nvim](https://github.com/nvim-flutter/flutter-tools.nvim) - Tools to help create flutter apps in neovim using the native lsp
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
@@ -404,7 +403,7 @@
 - [getzola/giallo](https://github.com/getzola/giallo) - Syntax highlighter, same output as VSCode
 - [podusowski/egui_keyboard](https://github.com/podusowski/egui_keyboard) - 
 - [km-clay/nixos-wizard](https://github.com/km-clay/nixos-wizard) - A TUI installer for NixOS
-- [otty-shell/otty](https://github.com/otty-shell/otty) - open-source, terminal-centric workspace that transforms your shell into a true IDE.
+- [otty-shell/otty](https://github.com/otty-shell/otty) - an open-source terminal-centric workspace for development and operations.
 - [GrantSparks/grafton-visca](https://github.com/GrantSparks/grafton-visca) - Rust based VISCA over IP implementation for controlling PTZ Cameras
 - [NiklasEi/bevy_game_template](https://github.com/NiklasEi/bevy_game_template) - Template for a Bevy game including CI/CD for web, Windows, Linux, macOS, iOS and Android
 - [Arthurdw/rovo](https://github.com/Arthurdw/rovo) - Axum open API docs made simple
@@ -470,7 +469,7 @@
 - [tuono-labs/tuono](https://github.com/tuono-labs/tuono) - ⚡ Modern fullstack web framework based on Rust and React
 - [timschmidt/csgrs](https://github.com/timschmidt/csgrs) - Multi-modal constructive solid geometry kernel in Rust
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agents
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource secure local-first sandboxes for ai agents
 - [SilentVoid13/SyncDisBoi](https://github.com/SilentVoid13/SyncDisBoi) - Music streaming platforms (Youtube Music, Spotify, Tidal) synchronization tool
 - [mainmatter/eserde](https://github.com/mainmatter/eserde) - Just like `serde`, but with more exhaustive error reporting capabilities. Designed for public API payloads.
 - [NeoCogi/microui-redux](https://github.com/NeoCogi/microui-redux) - Idiomatic Rust MicroUI port
@@ -1004,6 +1003,7 @@
 - [s4vitar/wifiCrack](https://github.com/s4vitar/wifiCrack) - Herramienta hecha en Bash ideal para automatizar ataques WiFi (WPA/WPA2 - PSK) destinados a la obtención de la contraseña.
 - [CodigoCristo/crisparch](https://github.com/CodigoCristo/crisparch) - Script instalar arch para usuarios
 - [CyberShadow/aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
+- [kristijanhusak/neovim-config](https://github.com/kristijanhusak/neovim-config) - Neovim configuration
 - [intelligencegroup-io/iOS-Hacktivation-Toolkit](https://github.com/intelligencegroup-io/iOS-Hacktivation-Toolkit) - iOS Hacktivation Toolkit
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 - [carnager/teiler](https://github.com/carnager/teiler) - Little script for screenshots and screencasts utilizing rofi, maim, ffmpeg
