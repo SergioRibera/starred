@@ -321,7 +321,6 @@
 - [bouk/arduino-nix](https://github.com/bouk/arduino-nix) - Manage your arduino-cli with Nix
 - [MordragT/nix-templates](https://github.com/MordragT/nix-templates) - ❄️ Nix flake templates for: 🦀 Rust, 🦖 Deno, 🐍 Python and 🗒️ reveal.js among others
 - [oddlama/nrf-template](https://github.com/oddlama/nrf-template) - ❄️🦀 A template for embedded rust development for the nRF52840 with embassy featuring reproducible builds with nix
-- [lucasew/nixcfg](https://github.com/lucasew/nixcfg) - Personal Nix/NixOS configuration files
 - [mrcjkb/nvim-lua-nix-plugin-template](https://github.com/mrcjkb/nvim-lua-nix-plugin-template) - A starter template for a Neovim plugin written in Lua with a Nix CI
 - [Lemin-n/oxidized-flakes](https://github.com/Lemin-n/oxidized-flakes) - 🦀 Templates for Nix ❄️
 
@@ -389,6 +388,7 @@
 
 ## Rust 
 
+- [mjoblin/punytunes](https://github.com/mjoblin/punytunes) - A desktop system tray application for StreamMagic music streamers
 - [greysquirr3l/bevy-archie](https://github.com/greysquirr3l/bevy-archie) - A comprehensive game controller support module for Bevy
 - [abyss-witch/winit-input-map](https://github.com/abyss-witch/winit-input-map) - Input map for Winit
 - [devmobasa/wayscriber](https://github.com/devmobasa/wayscriber) - Live overlay for drawing, annotating with zoom, hiding text, and capturing screenshots on Linux. Can be used as whiteboard or blackboard. Highly customisable. Written in Rust.
@@ -400,7 +400,7 @@
 - [tattoy-org/tattoy](https://github.com/tattoy-org/tattoy) - A text-based compositor for modern terminals
 - [m00nwtchr/wlconnect](https://github.com/m00nwtchr/wlconnect) - Standalone implementation of KDE Connect daemon for Wayland compositors.
 - [J-x-Z/cocoa-way](https://github.com/J-x-Z/cocoa-way) - Native macOS Wayland Compositor written in Rust using Smithay. Experience seamless Linux app streaming on macOS without XQuartz.
-- [Jas-SinghFSU/wayle](https://github.com/Jas-SinghFSU/wayle) - Wayland Elements -  A compositor agnostic shell with extensive customization
+- [wayle-rs/wayle](https://github.com/wayle-rs/wayle) - Wayland Elements -  A compositor agnostic shell with extensive customization
 - [yazaldefilimone/ffmpreg](https://github.com/yazaldefilimone/ffmpreg) - An experimental safe multimedia toolkit
 - [getzola/giallo](https://github.com/getzola/giallo) - Syntax highlighter, same output as VSCode
 - [podusowski/egui_keyboard](https://github.com/podusowski/egui_keyboard) - 
@@ -471,7 +471,7 @@
 - [tuono-labs/tuono](https://github.com/tuono-labs/tuono) - ⚡ Modern fullstack web framework based on Rust and React
 - [timschmidt/csgrs](https://github.com/timschmidt/csgrs) - Multi-modal constructive solid geometry kernel in Rust
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource secure local-first sandboxes for ai agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - opensource secure local-first sandboxes for ai agents
 - [SilentVoid13/SyncDisBoi](https://github.com/SilentVoid13/SyncDisBoi) - Music streaming platforms (Youtube Music, Spotify, Tidal) synchronization tool
 - [mainmatter/eserde](https://github.com/mainmatter/eserde) - Just like `serde`, but with more exhaustive error reporting capabilities. Designed for public API payloads.
 - [NeoCogi/microui-redux](https://github.com/NeoCogi/microui-redux) - Idiomatic Rust MicroUI port
@@ -997,6 +997,7 @@
 - [abathur/lilgit](https://github.com/abathur/lilgit) - a smol (quick) git status prompt plugin
 - [caido/caido](https://github.com/caido/caido) - 🚀 Caido releases, wiki and roadmap
 - [zmrocze/dotfiles](https://github.com/zmrocze/dotfiles) - My NixOS system configuration
+- [lucasew/nixcfg](https://github.com/lucasew/nixcfg) - Personal Nix/NixOS configuration files
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [fghibellini/arch-silence](https://github.com/fghibellini/arch-silence) - GRUB2 theme for Arch-Linux users
 - [XDeadHackerX/Inhibitor](https://github.com/XDeadHackerX/Inhibitor) - Sencilla Herramienta la cual usa 2 tipos de técnicas para Desconectar a dispositivos conectados a una red por tiempo ilimitado. Herramienta desarrollada en Español e Inglés. [Para los Ataques a otras 
