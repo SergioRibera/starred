@@ -255,7 +255,7 @@
 
 - [rmagatti/auto-session](https://github.com/rmagatti/auto-session) - A small automated session manager for Neovim
 - [vyfor/cord.nvim](https://github.com/vyfor/cord.nvim) - 🚀 Discord Rich Presence for Neovim
-- [azratul/live-share.nvim](https://github.com/azratul/live-share.nvim) - Creates a "Live Share" server in Neovim, similar to the Visual Studio Code Live Share functionality
+- [azratul/live-share.nvim](https://github.com/azratul/live-share.nvim) - Real-time pair programming and collaborative editing for Neovim, inspired by VS Code Live Share.
 - [NStefan002/screenkey.nvim](https://github.com/NStefan002/screenkey.nvim) - Screencast your keys in Neovim
 - [codethread/qmk.nvim](https://github.com/codethread/qmk.nvim) - Format qmk and zmk keymaps in neovim
 - [GeekMasher/securitree.nvim](https://github.com/GeekMasher/securitree.nvim) - SecuriTree - Security Research Tool
@@ -357,6 +357,7 @@
 
 ## Python 
 
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails) - Adding guardrails to large language models.
 - [Rikorose/DeepFilterNet](https://github.com/Rikorose/DeepFilterNet) - Noise supression using deep filtering
 - [caksoylar/keymap-drawer](https://github.com/caksoylar/keymap-drawer) - Visualize keymaps that use advanced features like hold-taps and combos, with automatic parsing
@@ -395,7 +396,7 @@
 - [nicosuave/memex](https://github.com/nicosuave/memex) - Fast transcript search for humans & agents. Supports Claude Code, Codex CLI & OpenCode
 - [zhuzaiye/DictNavi](https://github.com/zhuzaiye/DictNavi) - DictNavi is the English Word Dictionary based on AI Training Words And Rust egui/tantivy.
 - [vivlim/lizard-askpass](https://github.com/vivlim/lizard-askpass) - on-screen keyboard TUI for the steam deck, usable with just arrow keys, enter, and escape
-- [YangYuS8/lwe](https://github.com/YangYuS8/lwe) - A dynamic video wallpaper engine for Wayland compositors, with priority support for Hyprland and niri. Compatible with Wallpaper Engine's video wallpaper parameters.
+- [YangYuS8/lwe](https://github.com/YangYuS8/lwe) - LWE is a Linux desktop app for browsing, managing, and applying Wallpaper Engine content.
 - [amshafer/Category5](https://github.com/amshafer/Category5) - Wayland compositor built in Rust
 - [tattoy-org/tattoy](https://github.com/tattoy-org/tattoy) - A text-based compositor for modern terminals
 - [m00nwtchr/wlconnect](https://github.com/m00nwtchr/wlconnect) - Standalone implementation of KDE Connect daemon for Wayland compositors.
@@ -442,7 +443,7 @@
 - [nferhat/fht-compositor](https://github.com/nferhat/fht-compositor) - A dynamic tiling Wayland compositor.
 - [yehorovye/objekt](https://github.com/yehorovye/objekt) - simple kv cache server in pure rust [not maintained anymore]
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
-- [wasvy-org/wasvy](https://github.com/wasvy-org/wasvy) - Bevy modding engine powered by WASI
+- [wasvy-org/wasvy](https://github.com/wasvy-org/wasvy) - WASI-powered modding for the Bevy engine
 - [sammwyy/gdbc](https://github.com/sammwyy/gdbc) - Comprehensive terminal-based GDB client written in Rust for performing remote debugging operations.
 - [SynthLauncher/SynthLauncher](https://github.com/SynthLauncher/SynthLauncher) - The official repository for SynthLauncher
 - [actuday6418/pipewire-streaming](https://github.com/actuday6418/pipewire-streaming) - capture packets from pipewire, encode and stream over webtransport. todo: multiple devices, each with a spatial position
@@ -471,7 +472,7 @@
 - [tuono-labs/tuono](https://github.com/tuono-labs/tuono) - ⚡ Modern fullstack web framework based on Rust and React
 - [timschmidt/csgrs](https://github.com/timschmidt/csgrs) - Multi-modal constructive solid geometry kernel in Rust
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - local-first and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local, programmable sandboxes for AI agents
 - [SilentVoid13/SyncDisBoi](https://github.com/SilentVoid13/SyncDisBoi) - Music streaming platforms (Youtube Music, Spotify, Tidal) synchronization tool
 - [mainmatter/eserde](https://github.com/mainmatter/eserde) - Just like `serde`, but with more exhaustive error reporting capabilities. Designed for public API payloads.
 - [NeoCogi/microui-redux](https://github.com/NeoCogi/microui-redux) - Idiomatic Rust MicroUI port
