@@ -109,6 +109,7 @@
 
 ## C++ 
 
+- [google/nearby](https://github.com/google/nearby) - 🐿️ A collection of projects focused on connectivity that enable building cross-device experiences.
 - [urob/zmk-config](https://github.com/urob/zmk-config) - Personal ZMK firmware configuration for various boards (34-keys, Glove80, Planck)
 - [Toni500github/customfetch](https://github.com/Toni500github/customfetch) - A modular information fetching (neofetch-like) tool, which its focus point is the performance and customizability.        Android widget migrated to https://github.com/Toni500github/customfetch-androi
 - [heyzec/wayland-displays](https://github.com/heyzec/wayland-displays) - Yet another wayland displays configurator
@@ -175,6 +176,8 @@
 
 ## Go 
 
+- [openbao/openbao](https://github.com/openbao/openbao) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
+- [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and sc
 - [kubernetes-retired/dashboard](https://github.com/kubernetes-retired/dashboard) - General-purpose web UI for Kubernetes clusters
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
@@ -472,7 +475,7 @@
 - [tuono-labs/tuono](https://github.com/tuono-labs/tuono) - ⚡ Modern fullstack web framework based on Rust and React
 - [timschmidt/csgrs](https://github.com/timschmidt/csgrs) - Multi-modal constructive solid geometry kernel in Rust
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local, cross-platform and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
 - [SilentVoid13/SyncDisBoi](https://github.com/SilentVoid13/SyncDisBoi) - Music streaming platforms (Youtube Music, Spotify, Tidal) synchronization tool
 - [mainmatter/eserde](https://github.com/mainmatter/eserde) - Just like `serde`, but with more exhaustive error reporting capabilities. Designed for public API payloads.
 - [NeoCogi/microui-redux](https://github.com/NeoCogi/microui-redux) - Idiomatic Rust MicroUI port
@@ -1008,7 +1011,7 @@
 - [CodigoCristo/crisparch](https://github.com/CodigoCristo/crisparch) - Script instalar arch para usuarios
 - [CyberShadow/aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
 - [kristijanhusak/neovim-config](https://github.com/kristijanhusak/neovim-config) - Neovim configuration
-- [intelligencegroup-io/iOS-Hacktivation-Toolkit](https://github.com/intelligencegroup-io/iOS-Hacktivation-Toolkit) - iOS Hacktivation Toolkit
+- [exploit-development/iOS-Hacktivation-Toolkit](https://github.com/exploit-development/iOS-Hacktivation-Toolkit) - iOS Hacktivation Toolkit
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 - [carnager/teiler](https://github.com/carnager/teiler) - Little script for screenshots and screencasts utilizing rofi, maim, ffmpeg
 - [mxhectorvega/installarch](https://github.com/mxhectorvega/installarch) - Script automatizado que instala entornos de escritorio minimalistas y gestores de ventanas en instalaciones limpias de archlinux echas por archinstall (asistente oficial de instalacion).
@@ -1032,6 +1035,7 @@
 
 - [rustmailer/bichon](https://github.com/rustmailer/bichon) - Bichon – A lightweight, high-performance Rust email archiver with WebUI
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy conta
+- [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 - [Occult-Chat/Occult-UI](https://github.com/Occult-Chat/Occult-UI) - 
 - [ysdragon/StreamBot](https://github.com/ysdragon/StreamBot) - A self bot to stream videos to Discord.
 - [Discord-RE/Discord-video-stream](https://github.com/Discord-RE/Discord-video-stream) - Experiment for making video streaming work for discord selfbots.
