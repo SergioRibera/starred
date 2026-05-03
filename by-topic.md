@@ -24,6 +24,7 @@
 - [bot](#bot)
 - [bugbounty](#bugbounty)
 - [c](#c)
+- [c-sharp](#c-sharp)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [claude-code](#claude-code)
@@ -328,6 +329,13 @@
 - [LiveSplit/livesplit-core](https://github.com/LiveSplit/livesplit-core) - livesplit-core is a library that provides a lot of functionality for creating a speedrun timer.
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
+
+## c-sharp 
+
+- [dynamicexpresso/DynamicExpresso](https://github.com/dynamicexpresso/DynamicExpresso) - C# expressions interpreter
+- [tigranv/Useful_Examples_C-Sharp](https://github.com/tigranv/Useful_Examples_C-Sharp) - In this repository, I gathered a lot of useful examples of code and their description that I create while studying programming. Here you can find examples on the use of the Inheritance, Encapsulation,
+- [PieroCastillo/Aura.UI](https://github.com/PieroCastillo/Aura.UI) - A Library with a lot of Controls for AvaloniaUI
+- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
 
 ## chatgpt 
 
@@ -1354,7 +1362,7 @@
 - [eero-lehtinen/oklch-color-picker](https://github.com/eero-lehtinen/oklch-color-picker) - A standalone color picker application using the Oklch colorspace (based on Oklab)
 - [JesproKing/bevy_pixelated_3d](https://github.com/JesproKing/bevy_pixelated_3d) - A project to convert any 3d world into a game that looks like pixelart, with builtin outlines based on depth and normal textures.
 - [laundmo/simple_bevy_template](https://github.com/laundmo/simple_bevy_template) - cargo-generate template for a very simple bevy project. No optional features, fast compiles active, only bevy.
-- [catacombing/catacomb](https://github.com/catacombing/catacomb) - A Wayland Mobile Compositor
+- [catacombing/catacomb](https://github.com/catacombing/catacomb) - Moved to SourceHut
 - [iovxw/ksni](https://github.com/iovxw/ksni) - A Rust implementation of the KDE/freedesktop StatusNotifierItem specification
 - [TheOnlyMrCat/runscript](https://github.com/TheOnlyMrCat/runscript) - A tool to manage a project's build and run commands
 - [Occult-Chat/Occult-UI](https://github.com/Occult-Chat/Occult-UI) - 
@@ -1690,7 +1698,6 @@
 - [CodigoCristo/crisparch](https://github.com/CodigoCristo/crisparch) - Script instalar arch para usuarios
 - [AlexisMtzGasca/Debootstrap](https://github.com/AlexisMtzGasca/Debootstrap) - Una guía para instalar Debian desde otro sistema Linux/UNIX-Like, al estilo Arch Linux.
 - [baffler/Transparent-Twitch-Chat-Overlay](https://github.com/baffler/Transparent-Twitch-Chat-Overlay) - Twitch chat on top of windowed games for single monitor streamers
-- [dynamicexpresso/DynamicExpresso](https://github.com/dynamicexpresso/DynamicExpresso) - C# expressions interpreter
 - [pop-os/distinst](https://github.com/pop-os/distinst) - Installer Backend
 - [Drugantibus/qmk-hid-rgb](https://github.com/Drugantibus/qmk-hid-rgb) - A Python module to control RGB on QMK keyboards using its "raw HID" feature
 - [awab228/android_kernel_samsung_on5xelte](https://github.com/awab228/android_kernel_samsung_on5xelte) - Kernel Source for Samsung J5 prime G570F
@@ -1705,7 +1712,6 @@
 - [teh-cmc/rts](https://github.com/teh-cmc/rts) - Building an RTS the old way, with Rust, Raylib & Emscripten.
 - [Nachasic/vicarious-rs](https://github.com/Nachasic/vicarious-rs) - Gamedev experiments with raylib and rust
 - [i-saint/Unity5Effects](https://github.com/i-saint/Unity5Effects) - 
-- [tigranv/Useful_Examples_C-Sharp](https://github.com/tigranv/Useful_Examples_C-Sharp) - In this repository, I gathered a lot of useful examples of code and their description that I create while studying programming. Here you can find examples on the use of the Inheritance, Encapsulation,
 - [yzhou359/MakeItTalk](https://github.com/yzhou359/MakeItTalk) - 
 - [SebLague/Solar-System](https://github.com/SebLague/Solar-System) - Simple solar system experiment
 - [exploit-development/iOS-Hacktivation-Toolkit](https://github.com/exploit-development/iOS-Hacktivation-Toolkit) - iOS Hacktivation Toolkit
@@ -1955,7 +1961,7 @@
 - [RustLangES/cfworker-template](https://github.com/RustLangES/cfworker-template) - Template de Workers para CloudFlare
 - [coastalwhite/lemurs](https://github.com/coastalwhite/lemurs) - A customizable TUI display/login manager written in Rust 🐒
 - [furtidev/resfetch](https://github.com/furtidev/resfetch) - ⚡ A minimal alternative to neofetch
-- [ae5259/xifetch-rs](https://github.com/ae5259/xifetch-rs) - Neofetch alternative rewritten in Rust.
+- [aelloc/xifetch-rs](https://github.com/aelloc/xifetch-rs) - Neofetch alternative rewritten in Rust.
 - [release-plz/release-plz](https://github.com/release-plz/release-plz) - Publish Rust crates from CI with a Release PR.
 - [AeroRust/awesome-space](https://github.com/AeroRust/awesome-space) - List of awesome resources for Aerospace and Rust
 - [Whitecat18/Rust-for-Malware-Development](https://github.com/Whitecat18/Rust-for-Malware-Development) - Rust for malware Development is a repository for advanced Red Team techniques and offensive malwares & Ransomwares, focused on Rust 🦀
@@ -1971,7 +1977,6 @@
 - [mrjackwills/oxker](https://github.com/mrjackwills/oxker) - A simple tui to view & control docker containers
 - [Xithrius/twitch-tui](https://github.com/Xithrius/twitch-tui) - Twitch chat in the terminal.
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
-- [tversteeg/sprite-gen](https://github.com/tversteeg/sprite-gen) - 🎨 Procedurally generate 2D sprites
 - [asny/three-d](https://github.com/asny/three-d) - 2D/3D renderer - makes it simple to draw stuff across platforms (including web)
 - [ryanisaacg/quicksilver](https://github.com/ryanisaacg/quicksilver) - A simple framework for 2D games on desktop and web
 - [17cupsofcoffee/tetra](https://github.com/17cupsofcoffee/tetra) - 🎮 A simple 2D game framework written in Rust
