@@ -274,6 +274,7 @@
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim
 - [theorytoe/nii-nvim](https://github.com/theorytoe/nii-nvim) - A minimal neovim configuration
 - [numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - :fire: No-nonsense floating terminal plugin for neovim :fire:
+- [kristijanhusak/neovim-config](https://github.com/kristijanhusak/neovim-config) - Neovim configuration
 - [simrat39/rust-tools.nvim](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in rust using neovim's builtin lsp
 - [nvim-flutter/flutter-tools.nvim](https://github.com/nvim-flutter/flutter-tools.nvim) - Tools to help create flutter apps in neovim using the native lsp
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
@@ -360,6 +361,7 @@
 
 ## Python 
 
+- [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) - High-Quality Voice Cloning TTS for 600+ Languages
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails) - Adding guardrails to large language models.
 - [Rikorose/DeepFilterNet](https://github.com/Rikorose/DeepFilterNet) - Noise supression using deep filtering
@@ -392,6 +394,16 @@
 
 ## Rust 
 
+- [trusch/pipeflow](https://github.com/trusch/pipeflow) - A next-generation PipeWire graph and control application
+- [jturcotte/beskope](https://github.com/jturcotte/beskope) - A music visualizer for Linux and PipeWire
+- [sevos/waystt](https://github.com/sevos/waystt) - Wayland Speech-to-Text Tool - A minimal signal-driven speech-to-text tool for Wayland environments with PipeWire audio
+- [pipeweaver/pipeweaver](https://github.com/pipeweaver/pipeweaver) - PipeWeaver is a tool to communicate with pipewire to manage streaming audio
+- [biglinux/biglinux-noise-reduction-pipewire](https://github.com/biglinux/biglinux-noise-reduction-pipewire) - 
+- [Ax9D/pw-viz](https://github.com/Ax9D/pw-viz) - Pipewire graph editor written in Rust. WIP⚠️
+- [shamanakin/SnipLoom-Linux](https://github.com/shamanakin/SnipLoom-Linux) - Lightweight Linux screen recorder with Snipping Tool-style capture. Wayland-first with xdg-desktop-portal + PipeWire + GStreamer. (Rust + GTK4/Libadwaita)
+- [georgolden/realtime-translation](https://github.com/georgolden/realtime-translation) - Linux pipewire app that allows realtime translation audio to subtitles and voice to translated voice for meetings
+- [konsti219/pipemeeter](https://github.com/konsti219/pipemeeter) - A pipewire frontend inspired by VoiceMeeter
+- [lamco-admin/lamco-rdp-server](https://github.com/lamco-admin/lamco-rdp-server) - Wayland-native RDP server for Linux desktop sharing. H.264 via EGFX, VA-API/NVENC hardware encoding, clipboard sync, multi-monitor. GNOME, KDE Plasma, Sway, Hyprland.
 - [mjoblin/punytunes](https://github.com/mjoblin/punytunes) - A desktop system tray application for StreamMagic music streamers
 - [greysquirr3l/bevy-archie](https://github.com/greysquirr3l/bevy-archie) - A comprehensive game controller support module for Bevy
 - [abyss-witch/winit-input-map](https://github.com/abyss-witch/winit-input-map) - Input map for Winit
@@ -602,7 +614,7 @@
 - [srwi/qmk-via-api](https://github.com/srwi/qmk-via-api) - VIA api implementation for QMK-based keyboards
 - [pumpbin/pumpbin](https://github.com/pumpbin/pumpbin) - 🎃 PumpBin is an Implant Generation Platform.
 - [osirislab/awesome-rust-security](https://github.com/osirislab/awesome-rust-security) - Curated list of awesome projects and resources related to Rust and computer security
-- [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) - RustRedOps is a repository for advanced Red Team techniques and offensive malware, focused on Rust
+- [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) - RustRedOps is a repository for advanced Red Team techniques focused on Rust
 - [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust
 - [Phate6660/nixinfo](https://github.com/Phate6660/nixinfo) - A lib crate for gathering system info such as cpu, distro, environment, kernel, etc in Rust.
 - [Stephen-Seo/swaybar_info](https://github.com/Stephen-Seo/swaybar_info) - A Rust program that populates the Sway-bar with basic stats.
@@ -611,8 +623,6 @@
 - [josecelano/cargo-pretty-test](https://github.com/josecelano/cargo-pretty-test) - A Rust command that prettifies the ugly `cargo test` output into a beautiful one.
 - [tupleleap/leap-chain](https://github.com/tupleleap/leap-chain) - 
 - [bragefuglseth/keypunch](https://github.com/bragefuglseth/keypunch) - Practice your typing skills
-- [fmotalleb/nu_plugin_clipboard](https://github.com/fmotalleb/nu_plugin_clipboard) - A nushell plugin to copy text into clipboard or get text from it. supports json&lt;-&gt;object/table conversion out of box
-- [fmotalleb/nu_plugin_image](https://github.com/fmotalleb/nu_plugin_image) - 
 - [nushell/nu_plugin_template](https://github.com/nushell/nu_plugin_template) - 
 - [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
 - [face-hh/webx](https://github.com/face-hh/webx) - An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more.
@@ -709,7 +719,7 @@
 - [mrdimidium/nanoid](https://github.com/mrdimidium/nanoid) - A tiny, secure, URL-friendly, unique string ID generator for Rust
 - [dtolnay/inherent](https://github.com/dtolnay/inherent) - Make trait methods callable without the trait in scope
 - [luker-os/variantly](https://github.com/luker-os/variantly) - Derive helper methods for enum variants that are familiar from `std::option::Option` & `std::result::Result` such as `unwrap_or` or `and_then`.
-- [SixArm/assertables-rust-crate](https://github.com/SixArm/assertables-rust-crate) - Assertables: a Rust crate of assert macros for testing
+- [assertables/assertables-rust-crate](https://github.com/assertables/assertables-rust-crate) - Assertables: a Rust crate of assert macros for testing
 - [rust-pretty-assertions/rust-pretty-assertions](https://github.com/rust-pretty-assertions/rust-pretty-assertions) - Overwrite `assert_eq!` with a drop-in replacement, adding a colorful diff.
 - [Keats/validator](https://github.com/Keats/validator) - Simple validation for Rust structs
 - [SET001/bevy_scroller](https://github.com/SET001/bevy_scroller) - Scroller plugin for Bevy
@@ -1009,7 +1019,6 @@
 - [s4vitar/wifiCrack](https://github.com/s4vitar/wifiCrack) - Herramienta hecha en Bash ideal para automatizar ataques WiFi (WPA/WPA2 - PSK) destinados a la obtención de la contraseña.
 - [CodigoCristo/crisparch](https://github.com/CodigoCristo/crisparch) - Script instalar arch para usuarios
 - [CyberShadow/aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
-- [kristijanhusak/neovim-config](https://github.com/kristijanhusak/neovim-config) - Neovim configuration
 - [exploit-development/iOS-Hacktivation-Toolkit](https://github.com/exploit-development/iOS-Hacktivation-Toolkit) - iOS Hacktivation Toolkit
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 - [carnager/teiler](https://github.com/carnager/teiler) - Little script for screenshots and screencasts utilizing rofi, maim, ffmpeg
