@@ -500,7 +500,7 @@
 - [rewin123/space_editor](https://github.com/rewin123/space_editor) - bevy prefab editor
 - [Lommix/bevy_enoki](https://github.com/Lommix/bevy_enoki) - 2D particle system with custom material traits. Works well in wasm webgl2 and mobile
 - [rustunit/bevy_ios_review](https://github.com/rustunit/bevy_ios_review) - Bevy Plugin to request an iOS App Review
-- [loopystudios/bevy_rtc](https://github.com/loopystudios/bevy_rtc) - A simple, multi-platform WebRTC networking library for client&lt;-&gt;server topologies using Bevy.
+- [nuzzles/bevy_rtc](https://github.com/nuzzles/bevy_rtc) - A simple, multi-platform WebRTC networking library for client&lt;-&gt;server topologies using Bevy.
 - [zakarumych/shader-data](https://github.com/zakarumych/shader-data) - A lib to communicate rust types to shader types
 - [MichalGniadek/klask](https://github.com/MichalGniadek/klask) - Automatically create GUI applications from clap3 apps
 - [podusowski/walkers](https://github.com/podusowski/walkers) - slippy map (openstreetmap) widget for egui
@@ -670,7 +670,7 @@
 - [AndriBaal/shura](https://github.com/AndriBaal/shura) - A safe, fast and cross-platform 2D component-based game framework written in rust
 - [linebender/piet](https://github.com/linebender/piet) - An abstraction for 2D graphics.
 - [asny/three-d](https://github.com/asny/three-d) - 2D/3D renderer - makes it simple to draw stuff across platforms (including web)
-- [ryanisaacg/quicksilver](https://github.com/ryanisaacg/quicksilver) - A simple framework for 2D games on desktop and web
+- [elliegoldstein/quicksilver](https://github.com/elliegoldstein/quicksilver) - A simple framework for 2D games on desktop and web
 - [17cupsofcoffee/tetra](https://github.com/17cupsofcoffee/tetra) - 🎮 A simple 2D game framework written in Rust
 - [embedded-graphics/embedded-graphics](https://github.com/embedded-graphics/embedded-graphics) - A no_std graphics library for embedded applications
 - [jrmuizel/raqote](https://github.com/jrmuizel/raqote) - Rust 2D graphics library
@@ -848,7 +848,7 @@
 - [LiamGallagher737/bevy_mod_gizmos](https://github.com/LiamGallagher737/bevy_mod_gizmos) - Visual gizmos to assist with Bevy game development
 - [aevyrie/bevy_framepace](https://github.com/aevyrie/bevy_framepace) - Framepacing and framelimiting for Bevy
 - [IyesGames/iyes_progress](https://github.com/IyesGames/iyes_progress) - Bevy plugin to help track progress and perform state transitions
-- [loopystudios/bevy-shell-template](https://github.com/loopystudios/bevy-shell-template) - An opinionated, monolithic template for Bevy with cross-platform CI/CD, native + WASM launchers, and managed cross-platform deployment.
+- [nuzzles/bevy-shell-template](https://github.com/nuzzles/bevy-shell-template) - An opinionated, monolithic template for Bevy with cross-platform CI/CD, native + WASM launchers, and managed cross-platform deployment.
 - [vleue/jornet](https://github.com/vleue/jornet) - The social game server for all your game jams!
 - [bakcxoj/bevy_wasm](https://github.com/bakcxoj/bevy_wasm) - Mod Bevy games with WASM
 - [makspll/bevy_mod_scripting](https://github.com/makspll/bevy_mod_scripting) - Bevy Scripting Plugin
@@ -1041,6 +1041,7 @@
 
 ## TypeScript 
 
+- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [rustmailer/bichon](https://github.com/rustmailer/bichon) - Bichon – A lightweight, high-performance Rust email archiver with WebUI
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy conta
 - [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
