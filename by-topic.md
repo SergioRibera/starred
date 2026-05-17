@@ -710,7 +710,7 @@
 
 - [Far-Beyond-Pulsar/Pulsar-Native](https://github.com/Far-Beyond-Pulsar/Pulsar-Native) - The next-generation game engine that you deserve implemented in rust on top of GPUI
 - [dust-engine/dust](https://github.com/dust-engine/dust) - A research project trying to push the boundaries of voxel geometry and interactivity. Experimental real-time global illumination renderer powered by Rust, Vulkan and Bevy.
-- [ryanisaacg/quicksilver](https://github.com/ryanisaacg/quicksilver) - A simple framework for 2D games on desktop and web
+- [elliegoldstein/quicksilver](https://github.com/elliegoldstein/quicksilver) - A simple framework for 2D games on desktop and web
 - [17cupsofcoffee/tetra](https://github.com/17cupsofcoffee/tetra) - 🎮 A simple 2D game framework written in Rust
 - [hecrj/coffee](https://github.com/hecrj/coffee) - An opinionated 2D game engine for Rust
 - [jerthz/scion](https://github.com/jerthz/scion) - Scion is a tiny 2D game library built on top of wgpu and winit, following the KISS principle.
@@ -730,7 +730,7 @@
 - [timschmidt/csgrs](https://github.com/timschmidt/csgrs) - Multi-modal constructive solid geometry kernel in Rust
 - [rustunit/bevy_ios_review](https://github.com/rustunit/bevy_ios_review) - Bevy Plugin to request an iOS App Review
 - [mxpv/openusd](https://github.com/mxpv/openusd) - Native Rust USD library
-- [ryanisaacg/quicksilver](https://github.com/ryanisaacg/quicksilver) - A simple framework for 2D games on desktop and web
+- [elliegoldstein/quicksilver](https://github.com/elliegoldstein/quicksilver) - A simple framework for 2D games on desktop and web
 - [17cupsofcoffee/tetra](https://github.com/17cupsofcoffee/tetra) - 🎮 A simple 2D game framework written in Rust
 - [hecrj/coffee](https://github.com/hecrj/coffee) - An opinionated 2D game engine for Rust
 - [khonsulabs/kludgine](https://github.com/khonsulabs/kludgine) - A kludgey 2d game engine written in Rust atop wgpu
@@ -1299,6 +1299,7 @@
 
 ## others 
 
+- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [trusch/pipeflow](https://github.com/trusch/pipeflow) - A next-generation PipeWire graph and control application
 - [sevos/waystt](https://github.com/sevos/waystt) - Wayland Speech-to-Text Tool - A minimal signal-driven speech-to-text tool for Wayland environments with PipeWire audio
 - [pipeweaver/pipeweaver](https://github.com/pipeweaver/pipeweaver) - PipeWeaver is a tool to communicate with pipewire to manage streaming audio
@@ -1370,7 +1371,7 @@
 - [villor/bevy_lookup_curve](https://github.com/villor/bevy_lookup_curve) - Editable lookup curve for Bevy
 - [rewin123/space_editor](https://github.com/rewin123/space_editor) - bevy prefab editor
 - [Lommix/bevy_enoki](https://github.com/Lommix/bevy_enoki) - 2D particle system with custom material traits. Works well in wasm webgl2 and mobile
-- [loopystudios/bevy_rtc](https://github.com/loopystudios/bevy_rtc) - A simple, multi-platform WebRTC networking library for client&lt;-&gt;server topologies using Bevy.
+- [nuzzles/bevy_rtc](https://github.com/nuzzles/bevy_rtc) - A simple, multi-platform WebRTC networking library for client&lt;-&gt;server topologies using Bevy.
 - [zakarumych/shader-data](https://github.com/zakarumych/shader-data) - A lib to communicate rust types to shader types
 - [podusowski/walkers](https://github.com/podusowski/walkers) - slippy map (openstreetmap) widget for egui
 - [hdpotter/shaderunner](https://github.com/hdpotter/shaderunner) - Rust rendering layer on top of wgpu, winit, and egui.
@@ -1608,7 +1609,7 @@
 - [aevyrie/bevy_framepace](https://github.com/aevyrie/bevy_framepace) - Framepacing and framelimiting for Bevy
 - [IyesGames/iyes_progress](https://github.com/IyesGames/iyes_progress) - Bevy plugin to help track progress and perform state transitions
 - [bevyengine/bevy_github_ci_template](https://github.com/bevyengine/bevy_github_ci_template) - 
-- [loopystudios/bevy-shell-template](https://github.com/loopystudios/bevy-shell-template) - An opinionated, monolithic template for Bevy with cross-platform CI/CD, native + WASM launchers, and managed cross-platform deployment.
+- [nuzzles/bevy-shell-template](https://github.com/nuzzles/bevy-shell-template) - An opinionated, monolithic template for Bevy with cross-platform CI/CD, native + WASM launchers, and managed cross-platform deployment.
 - [dimforge/bevy_rapier](https://github.com/dimforge/bevy_rapier) - Official Rapier plugin for the Bevy game engine.
 - [ManevilleF/bevy_silk](https://github.com/ManevilleF/bevy_silk) - Cloth engine for Bevy
 - [cryscan/bevy-hikari](https://github.com/cryscan/bevy-hikari) - A Realtime Path Tracer for Bevy.
@@ -1993,7 +1994,7 @@
 - [Xithrius/twitch-tui](https://github.com/Xithrius/twitch-tui) - Twitch chat in the terminal.
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
 - [asny/three-d](https://github.com/asny/three-d) - 2D/3D renderer - makes it simple to draw stuff across platforms (including web)
-- [ryanisaacg/quicksilver](https://github.com/ryanisaacg/quicksilver) - A simple framework for 2D games on desktop and web
+- [elliegoldstein/quicksilver](https://github.com/elliegoldstein/quicksilver) - A simple framework for 2D games on desktop and web
 - [17cupsofcoffee/tetra](https://github.com/17cupsofcoffee/tetra) - 🎮 A simple 2D game framework written in Rust
 - [hecrj/coffee](https://github.com/hecrj/coffee) - An opinionated 2D game engine for Rust
 - [khonsulabs/kludgine](https://github.com/khonsulabs/kludgine) - A kludgey 2d game engine written in Rust atop wgpu
