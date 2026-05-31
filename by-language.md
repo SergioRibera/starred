@@ -653,7 +653,7 @@
 - [Matthias-Fauconneau/ui](https://github.com/Matthias-Fauconneau/ui) - Vulkano/Wayland without Smithay/libwayland-sys
 - [EnzymeAD/rustbook](https://github.com/EnzymeAD/rustbook) - 
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-- [Inlyne-Project/inlyne](https://github.com/Inlyne-Project/inlyne) - Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
+- [Inlyne-Project/inlyne](https://github.com/Inlyne-Project/inlyne) - a GPU powered yet browserless tool to view markdown files in the blink of an eye
 - [mlua-rs/mlua](https://github.com/mlua-rs/mlua) - High level Lua 5.5/5.4/5.3/5.2/5.1 (including LuaJIT) and Luau bindings to Rust with async/await support
 - [deavid/lprfl](https://github.com/deavid/lprfl) - Learn programming with Rust as a first language (book)
 - [sha0coder/libscemu](https://github.com/sha0coder/libscemu) - SCEMU The crates.io lib, x86 cpu and systems emulator focused mainly for anti-malware
@@ -1022,7 +1022,6 @@
 - [CyberShadow/aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
 - [exploit-development/iOS-Hacktivation-Toolkit](https://github.com/exploit-development/iOS-Hacktivation-Toolkit) - iOS Hacktivation Toolkit
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
-- [carnager/teiler](https://github.com/carnager/teiler) - Little script for screenshots and screencasts utilizing rofi, maim, ffmpeg
 - [mxhectorvega/installarch](https://github.com/mxhectorvega/installarch) - Script automatizado que instala entornos de escritorio minimalistas y gestores de ventanas en instalaciones limpias de archlinux echas por archinstall (asistente oficial de instalacion).
 - [marioortizmanero/polybar-pulseaudio-control](https://github.com/marioortizmanero/polybar-pulseaudio-control) - A feature-full Polybar module to control PulseAudio
 
@@ -1037,11 +1036,12 @@
 ## Swift 
 
 - [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
-- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
+- [mrkai77/Loop](https://github.com/mrkai77/Loop) - Window management made elegant.
 - [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 
 ## TypeScript 
 
+- [Khalzz/d-saster](https://github.com/Khalzz/d-saster) - A ttrpg playing system based on Tauri (React and Tailwind) and using Steamworks for connectivity.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [rustmailer/bichon](https://github.com/rustmailer/bichon) - Bichon – A lightweight, high-performance Rust email archiver with WebUI
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy conta
