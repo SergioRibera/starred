@@ -1008,6 +1008,7 @@
 
 - [lamco-admin/lamco-rdp-server](https://github.com/lamco-admin/lamco-rdp-server) - Wayland-native RDP server for Linux desktop sharing. H.264 via EGFX, VA-API/NVENC hardware encoding, clipboard sync, multi-monitor. GNOME, KDE Plasma, Sway, Hyprland.
 - [devmobasa/wayscriber](https://github.com/devmobasa/wayscriber) - Live overlay for drawing, annotating with zoom, hiding text, and capturing screenshots on Linux. Can be used as whiteboard or blackboard. Highly customisable. Written in Rust.
+- [YangYuS8/lwe](https://github.com/YangYuS8/lwe) - LWE is a Linux desktop app for browsing, managing, and applying Wallpaper Engine content.
 - [wayle-rs/wayle](https://github.com/wayle-rs/wayle) - Wayland Elements -  A compositor agnostic shell with extensive customization
 - [otty-shell/otty](https://github.com/otty-shell/otty) - an open-source terminal-centric workspace for development and operations.
 - [snowarch/iNiR](https://github.com/snowarch/iNiR) - A Niri shell illogical-impulse based - with some modifications..
@@ -1108,7 +1109,7 @@
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [l1npengtul/nokhwa](https://github.com/l1npengtul/nokhwa) - Cross Platform Rust Library for Powerful Webcam/Camera Capture
-- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
+- [mrkai77/Loop](https://github.com/mrkai77/Loop) - Window management made elegant.
 - [decipher3114/Capter](https://github.com/decipher3114/Capter) - Cross-Platform Screen Capture and Annotation Tool
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [pumpbin/pumpbin](https://github.com/pumpbin/pumpbin) - 🎃 PumpBin is an Implant Generation Platform.
@@ -1299,6 +1300,7 @@
 
 ## others 
 
+- [Khalzz/d-saster](https://github.com/Khalzz/d-saster) - A ttrpg playing system based on Tauri (React and Tailwind) and using Steamworks for connectivity.
 - [klipitkas/tunnl.gg](https://github.com/klipitkas/tunnl.gg) - Expose localhost to the internet
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [trusch/pipeflow](https://github.com/trusch/pipeflow) - A next-generation PipeWire graph and control application
@@ -1315,7 +1317,6 @@
 - [abyss-witch/winit-input-map](https://github.com/abyss-witch/winit-input-map) - Input map for Winit
 - [zhuzaiye/DictNavi](https://github.com/zhuzaiye/DictNavi) - DictNavi is the English Word Dictionary based on AI Training Words And Rust egui/tantivy.
 - [vivlim/lizard-askpass](https://github.com/vivlim/lizard-askpass) - on-screen keyboard TUI for the steam deck, usable with just arrow keys, enter, and escape
-- [YangYuS8/lwe](https://github.com/YangYuS8/lwe) - LWE is a Linux desktop app for browsing, managing, and applying Wallpaper Engine content.
 - [amshafer/Category5](https://github.com/amshafer/Category5) - Wayland compositor built in Rust
 - [m00nwtchr/wlconnect](https://github.com/m00nwtchr/wlconnect) - Standalone implementation of KDE Connect daemon for Wayland compositors.
 - [getzola/giallo](https://github.com/getzola/giallo) - Syntax highlighter, same output as VSCode
@@ -1483,7 +1484,7 @@
 - [aws/aws-lambda-rust-runtime](https://github.com/aws/aws-lambda-rust-runtime) - A Rust runtime for AWS Lambda
 - [Aiving/material-colors](https://github.com/Aiving/material-colors) - Up-to-date material-color-utilities port
 - [Matthias-Fauconneau/ui](https://github.com/Matthias-Fauconneau/ui) - Vulkano/Wayland without Smithay/libwayland-sys
-- [Inlyne-Project/inlyne](https://github.com/Inlyne-Project/inlyne) - Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
+- [Inlyne-Project/inlyne](https://github.com/Inlyne-Project/inlyne) - a GPU powered yet browserless tool to view markdown files in the blink of an eye
 - [deavid/lprfl](https://github.com/deavid/lprfl) - Learn programming with Rust as a first language (book)
 - [xrelkd/clipcat](https://github.com/xrelkd/clipcat) - A clipboard manager written in Rust Programming Language.
 - [divinenaman/tauri-nix-example](https://github.com/divinenaman/tauri-nix-example) - Nixified tauri app
@@ -1734,7 +1735,6 @@
 - [react-native-skia/react-native-skia](https://github.com/react-native-skia/react-native-skia) - Cross platform React Native solution to draw graphics based on Skia
 - [fundamelon/terminal-game-tutorial](https://github.com/fundamelon/terminal-game-tutorial) - step by step game things
 - [tryone144/compton](https://github.com/tryone144/compton) - A compositor for X11.
-- [carnager/teiler](https://github.com/carnager/teiler) - Little script for screenshots and screencasts utilizing rofi, maim, ffmpeg
 - [EntroPi-Games/Unity-Cloud-Shadows](https://github.com/EntroPi-Games/Unity-Cloud-Shadows) - Animated cloud shadows asset for Unity
 - [1904labs/dom-to-image-more](https://github.com/1904labs/dom-to-image-more) - Generates an image from a DOM node using HTML5 canvas
 - [zenakuten/webview-cs](https://github.com/zenakuten/webview-cs) - C# Bindings to https://github.com/zserge/webview
@@ -1799,7 +1799,7 @@
 ## productivity 
 
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
-- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
+- [mrkai77/Loop](https://github.com/mrkai77/Loop) - Window management made elegant.
 - [SeakMengs/WindowPet](https://github.com/SeakMengs/WindowPet) - Pet overlay app built with tauri and react that lets you have adorable companion such as pets, anime characters on your screen.
 
 ## programming 
@@ -1890,6 +1890,7 @@
 - [jturcotte/beskope](https://github.com/jturcotte/beskope) - A music visualizer for Linux and PipeWire
 - [lamco-admin/lamco-rdp-server](https://github.com/lamco-admin/lamco-rdp-server) - Wayland-native RDP server for Linux desktop sharing. H.264 via EGFX, VA-API/NVENC hardware encoding, clipboard sync, multi-monitor. GNOME, KDE Plasma, Sway, Hyprland.
 - [greysquirr3l/bevy-archie](https://github.com/greysquirr3l/bevy-archie) - A comprehensive game controller support module for Bevy
+- [YangYuS8/lwe](https://github.com/YangYuS8/lwe) - LWE is a Linux desktop app for browsing, managing, and applying Wallpaper Engine content.
 - [tattoy-org/tattoy](https://github.com/tattoy-org/tattoy) - A text-based compositor for modern terminals
 - [J-x-Z/cocoa-way](https://github.com/J-x-Z/cocoa-way) - Native macOS Wayland Compositor written in Rust using Smithay. Experience seamless Linux app streaming on macOS without XQuartz.
 - [wayle-rs/wayle](https://github.com/wayle-rs/wayle) - Wayland Elements -  A compositor agnostic shell with extensive customization
@@ -2189,6 +2190,7 @@
 
 ## svelte 
 
+- [YangYuS8/lwe](https://github.com/YangYuS8/lwe) - LWE is a Linux desktop app for browsing, managing, and applying Wallpaper Engine content.
 - [kunkunsh/kunkun](https://github.com/kunkunsh/kunkun) - An open source, cross-platform, extensible app launcher.
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
 - [hertg/lightdm-neon](https://github.com/hertg/lightdm-neon) - :art: A customizable theme for web-greeter in a nostalgic but modern neon look
@@ -2197,14 +2199,14 @@
 
 - [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
 - [rustunit/bevy_ios_review](https://github.com/rustunit/bevy_ios_review) - Bevy Plugin to request an iOS App Review
-- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
+- [mrkai77/Loop](https://github.com/mrkai77/Loop) - Window management made elegant.
 - [mouredev/Monthly-App-Challenge-2022](https://github.com/mouredev/Monthly-App-Challenge-2022) - Retos mensuales de la comunidad MoureDev para crear pequeñas aplicaciones en base a requisitos para añadir a tu portafolio.
 - [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 
 ## swiftui 
 
 - [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
-- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
+- [mrkai77/Loop](https://github.com/mrkai77/Loop) - Window management made elegant.
 - [mouredev/Monthly-App-Challenge-2022](https://github.com/mouredev/Monthly-App-Challenge-2022) - Retos mensuales de la comunidad MoureDev para crear pequeñas aplicaciones en base a requisitos para añadir a tu portafolio.
 
 ## tailwindcss 
