@@ -160,6 +160,7 @@
 - [react](#react)
 - [reactiveui](#reactiveui)
 - [reactjs](#reactjs)
+- [redteam](#redteam)
 - [redux](#redux)
 - [rest-api](#rest-api)
 - [ruby](#ruby)
@@ -1260,6 +1261,7 @@
 
 ## open-source 
 
+- [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
 - [Arturo254/OpenTune](https://github.com/Arturo254/OpenTune) - Un cliente de YouTube Music con Material Design 3, para Android
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
@@ -1456,7 +1458,7 @@
 - [tupleleap/leap-chain](https://github.com/tupleleap/leap-chain) - 
 - [foostan/crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.
 - [bragefuglseth/keypunch](https://github.com/bragefuglseth/keypunch) - Practice your typing skills
-- [fmotalleb/nu_plugin_clipboard](https://github.com/fmotalleb/nu_plugin_clipboard) - A nushell plugin to copy text into clipboard or get text from it. supports json&lt;-&gt;object/table conversion out of box
+- [fmotalleb/nu_plugin_clipboard](https://github.com/fmotalleb/nu_plugin_clipboard) - (Promoted as internal nushell command) A nushell plugin to copy text into clipboard or get text from it. supports json&lt;-&gt;object/table conversion out of box
 - [fmotalleb/nu_plugin_image](https://github.com/fmotalleb/nu_plugin_image) - 
 - [nushell/nu_plugin_template](https://github.com/nushell/nu_plugin_template) - 
 - [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
@@ -1867,6 +1869,11 @@
 ## reactjs 
 
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
+
+## redteam 
+
+- [pumpbin/pumpbin](https://github.com/pumpbin/pumpbin) - 🎃 PumpBin is an Implant Generation Platform.
+- [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) - Repository for advanced Red Team techniques focused on Rust
 
 ## redux 
 
