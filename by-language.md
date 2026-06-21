@@ -395,6 +395,7 @@
 
 ## Rust 
 
+- [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
 - [trusch/pipeflow](https://github.com/trusch/pipeflow) - A next-generation PipeWire graph and control application
 - [jturcotte/beskope](https://github.com/jturcotte/beskope) - A music visualizer for Linux and PipeWire
 - [sevos/waystt](https://github.com/sevos/waystt) - Wayland Speech-to-Text Tool - A minimal signal-driven speech-to-text tool for Wayland environments with PipeWire audio
@@ -624,7 +625,7 @@
 - [josecelano/cargo-pretty-test](https://github.com/josecelano/cargo-pretty-test) - A Rust command that prettifies the ugly `cargo test` output into a beautiful one.
 - [tupleleap/leap-chain](https://github.com/tupleleap/leap-chain) - 
 - [bragefuglseth/keypunch](https://github.com/bragefuglseth/keypunch) - Practice your typing skills
-- [fmotalleb/nu_plugin_clipboard](https://github.com/fmotalleb/nu_plugin_clipboard) - A nushell plugin to copy text into clipboard or get text from it. supports json&lt;-&gt;object/table conversion out of box
+- [fmotalleb/nu_plugin_clipboard](https://github.com/fmotalleb/nu_plugin_clipboard) - (Promoted as internal nushell command) A nushell plugin to copy text into clipboard or get text from it. supports json&lt;-&gt;object/table conversion out of box
 - [fmotalleb/nu_plugin_image](https://github.com/fmotalleb/nu_plugin_image) - 
 - [nushell/nu_plugin_template](https://github.com/nushell/nu_plugin_template) - 
 - [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
