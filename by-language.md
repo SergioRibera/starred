@@ -143,7 +143,7 @@
 
 ## Clojure 
 
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 
 ## CoffeeScript 
 
@@ -326,6 +326,7 @@
 - [bouk/arduino-nix](https://github.com/bouk/arduino-nix) - Manage your arduino-cli with Nix
 - [MordragT/nix-templates](https://github.com/MordragT/nix-templates) - ❄️ Nix flake templates for: 🦀 Rust, 🦖 Deno, 🐍 Python and 🗒️ reveal.js among others
 - [oddlama/nrf-template](https://github.com/oddlama/nrf-template) - ❄️🦀 A template for embedded rust development for the nRF52840 with embassy featuring reproducible builds with nix
+- [lucasew/nixcfg](https://github.com/lucasew/nixcfg) - Personal Nix/NixOS configuration files
 - [mrcjkb/nvim-lua-nix-plugin-template](https://github.com/mrcjkb/nvim-lua-nix-plugin-template) - A starter template for a Neovim plugin written in Lua with a Nix CI
 - [Lemin-n/oxidized-flakes](https://github.com/Lemin-n/oxidized-flakes) - 🦀 Templates for Nix ❄️
 
@@ -433,7 +434,7 @@
 - [oxidecomputer/typify](https://github.com/oxidecomputer/typify) - compiler from JSON Schema into idiomatic Rust types
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 - [CosmoBunny/kramaframe](https://github.com/CosmoBunny/kramaframe) - A simple, generic, and flexible keyframe animation library for Rust.
-- [Far-Beyond-Pulsar/Pulsar-Native](https://github.com/Far-Beyond-Pulsar/Pulsar-Native) - The next-generation game engine that you deserve implemented in rust on top of GPUI https://pulsarnative.com/
+- [Far-Beyond-Pulsar/Pulsar-Native](https://github.com/Far-Beyond-Pulsar/Pulsar-Native) - The next-generation game engine that you deserve implemented in rust https://pulsarnative.com/
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
 - [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
 - [nilaysavant/bevy_pmetra](https://github.com/nilaysavant/bevy_pmetra) - Parametric Modelling for Bevy using Truck CAD kernel.
@@ -1016,7 +1017,6 @@
 - [abathur/lilgit](https://github.com/abathur/lilgit) - a smol (quick) git status prompt plugin
 - [caido/caido](https://github.com/caido/caido) - 🚀 Caido releases, wiki and roadmap
 - [zmrocze/dotfiles](https://github.com/zmrocze/dotfiles) - My NixOS system configuration
-- [lucasew/nixcfg](https://github.com/lucasew/nixcfg) - Personal Nix/NixOS configuration files
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [fghibellini/arch-silence](https://github.com/fghibellini/arch-silence) - GRUB2 theme for Arch-Linux users
 - [XDeadHackerX/Inhibitor](https://github.com/XDeadHackerX/Inhibitor) - Sencilla Herramienta la cual usa 2 tipos de técnicas para Desconectar a dispositivos conectados a una red por tiempo ilimitado. Herramienta desarrollada en Español e Inglés. [Para los Ataques a otras 
