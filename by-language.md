@@ -98,7 +98,7 @@
 - [OutSystems/WebView](https://github.com/OutSystems/WebView) - Avalonia/WPF control that wraps CefGlue webview control
 - [reactiveui/Camelotia](https://github.com/reactiveui/Camelotia) - Cross-platform sample .NET GUI for cloud file management.
 - [jmacato/Synfonia](https://github.com/jmacato/Synfonia) - Cross-platform C# Audio Player made with AvaloniaUI
-- [AvaloniaUI/avalonia-dotnet-templates](https://github.com/AvaloniaUI/avalonia-dotnet-templates) - Avalonia Templates for `dotnet new`
+- [AvaloniaUI/Avalonia.Templates](https://github.com/AvaloniaUI/Avalonia.Templates) - Avalonia Templates for `dotnet new`
 - [VitalElement/AvalonStudio](https://github.com/VitalElement/AvalonStudio) - Cross platform IDE and Shell
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
 - [GtkSharp/GtkSharp](https://github.com/GtkSharp/GtkSharp) - .NET wrapper for Gtk and other related libraries
@@ -230,7 +230,7 @@
 - [btmills/geopattern](https://github.com/btmills/geopattern) - Generate beautiful SVG patterns
 - [alyssaxuu/animockup](https://github.com/alyssaxuu/animockup) - Create animated mockups in the browser 🔥
 - [wojtekmaj/enzyme-adapter-react-17](https://github.com/wojtekmaj/enzyme-adapter-react-17) - Unofficial adapter for React 17 for Enzyme.
-- [1904labs/dom-to-image-more](https://github.com/1904labs/dom-to-image-more) - Generates an image from a DOM node using HTML5 canvas
+- [IDisposable/dom-to-image-more](https://github.com/IDisposable/dom-to-image-more) - Generates an image from a DOM node using HTML5 canvas
 - [yauhenipakala/highlightjs-line-numbers.js](https://github.com/yauhenipakala/highlightjs-line-numbers.js) - Line numbering plugin for Highlight.js
 - [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas
 - [connor-baer/rich-text-to-jsx](https://github.com/connor-baer/rich-text-to-jsx) - 📄 Opinionated JSX renderer for the Contentful rich text field type.
@@ -397,6 +397,8 @@
 
 ## Rust 
 
+- [leomeinel/bevy_fast_light](https://github.com/leomeinel/bevy_fast_light) - Simple 2D lighting for Bevy focused on performance over features.
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [Zomatree/ermine](https://github.com/Zomatree/ermine) - Native desktop client for Stoat chat
 - [phisch/psst](https://github.com/phisch/psst) - Beautiful (and themeable), unified UI for your pinentry, GNOME keyring-prompter and polkit-agent.
 - [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
@@ -777,7 +779,7 @@
 - [laundmo/bevy_screen_diagnostics](https://github.com/laundmo/bevy_screen_diagnostics) - On-screen diagnostics
 - [aevyrie/big_space](https://github.com/aevyrie/big_space) - When 32-bit worlds aren't big enough
 - [bytestring-net/bevy_lunex](https://github.com/bytestring-net/bevy_lunex) - Blazingly fast retained layout engine for Bevy ECS.
-- [TotalKrill/bevy_mod_reqwest](https://github.com/TotalKrill/bevy_mod_reqwest) - 
+- [TotalKrill/bevy_mod_reqwest](https://github.com/TotalKrill/bevy_mod_reqwest) - Small bevy crate for easy reqwest calls
 - [johanhelsing/matchbox](https://github.com/johanhelsing/matchbox) - Painless peer-to-peer WebRTC networking for rust wasm (and native!)
 - [ErnWong/crystalorb](https://github.com/ErnWong/crystalorb) - Network-agnostic, high-level game networking library for client-side prediction and server reconciliation (unconditional rollback).
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
