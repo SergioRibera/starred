@@ -398,6 +398,7 @@
 
 ## Rust 
 
+- [Nitrolaunch/nitrolaunch](https://github.com/Nitrolaunch/nitrolaunch) - The supercharged Minecraft launcher
 - [leomeinel/bevy_fast_light](https://github.com/leomeinel/bevy_fast_light) - Simple 2D lighting for Bevy focused on performance over features.
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [Zomatree/ermine](https://github.com/Zomatree/ermine) - Native desktop client for Stoat chat
@@ -496,7 +497,7 @@
 - [tuono-labs/tuono](https://github.com/tuono-labs/tuono) - ⚡ Modern fullstack web framework based on Rust and React
 - [timschmidt/csgrs](https://github.com/timschmidt/csgrs) - Multi-modal constructive solid geometry kernel in Rust
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast and local-first microVM runtime
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM library and toolkit
 - [SilentVoid13/SyncDisBoi](https://github.com/SilentVoid13/SyncDisBoi) - Music streaming platforms (Youtube Music, Spotify, Tidal) synchronization tool
 - [mainmatter/eserde](https://github.com/mainmatter/eserde) - Just like `serde`, but with more exhaustive error reporting capabilities. Designed for public API payloads.
 - [NeoCogi/microui-redux](https://github.com/NeoCogi/microui-redux) - Idiomatic Rust MicroUI port
@@ -529,7 +530,7 @@
 - [project-robius/robius-authentication](https://github.com/project-robius/robius-authentication) - Rust abstractions for multi-platform native authentication (biometric, fingerprint, password, FaceID, TouchID etc)
 - [project-robius/robius-open](https://github.com/project-robius/robius-open) - Rust abstractions for multi-platform opening of URIs
 - [mxpv/openusd](https://github.com/mxpv/openusd) - Native Rust USD library
-- [pykeio/earshot](https://github.com/pykeio/earshot) - Ridiculously fast & accurate voice activity detection in pure Rust
+- [pykeio/earshot](https://github.com/pykeio/earshot) - Ridiculously fast & accurate streaming voice activity detection
 - [pykeio/brainrot](https://github.com/pykeio/brainrot) - Live chat interface for Twitch & YouTube
 - [brofrain/unocss-classes-rs](https://github.com/brofrain/unocss-classes-rs) - ⚛️ HTML class builder macro with UnoCSS variant group transformer for Rust web frameworks
 - [tyrchen/deno-utils](https://github.com/tyrchen/deno-utils) - 
@@ -906,7 +907,7 @@
 - [sebasjham/bevy-kajiya](https://github.com/sebasjham/bevy-kajiya) - A plugin to use the kajiya renderer with bevy
 - [Byron/google-apis-rs](https://github.com/Byron/google-apis-rs) - A binding and CLI generator for all Google APIs
 - [tauri-apps/cargo-mobile2](https://github.com/tauri-apps/cargo-mobile2) - Rust on mobile made easy!
-- [rust-mobile/xbuild](https://github.com/rust-mobile/xbuild) - Cross compile rust to any platform
+- [rust-mobile/xbuild](https://github.com/rust-mobile/xbuild) - Cross compile rust to any platform (unmaintained)
 - [leetvr/hotham](https://github.com/leetvr/hotham) - Hotham is a tool for creating incredible standalone VR games.
 - [dodorare/crossbow](https://github.com/dodorare/crossbow) - Cross-Platform build tools and toolkit for games and game engines written in Rust! 🦀
 - [uggla/planetoid](https://github.com/uggla/planetoid) - Planetoid is a toy project to demonstrate and learn several technologies. The goal is to create a little multiplayer asteriod game clone.
