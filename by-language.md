@@ -401,7 +401,7 @@
 
 - [second-state/voice_translations](https://github.com/second-state/voice_translations) - 
 - [OxidShell/zudp](https://github.com/OxidShell/zudp) - Zero-overhead UDP protocol with optional reliability, fragmentation and relay support
-- [Nitrolaunch/nitrolaunch](https://github.com/Nitrolaunch/nitrolaunch) - The supercharged Minecraft launcher
+- [Nitrolaunch/nitrolaunch](https://github.com/Nitrolaunch/nitrolaunch) - The supercharged Minecraft launcher and server manager
 - [leomeinel/bevy_fast_light](https://github.com/leomeinel/bevy_fast_light) - Simple 2D lighting for Bevy focused on performance over features.
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [Zomatree/ermine](https://github.com/Zomatree/ermine) - Native desktop client for Stoat chat
@@ -421,7 +421,7 @@
 - [greysquirr3l/bevy-archie](https://github.com/greysquirr3l/bevy-archie) - A comprehensive game controller support module for Bevy
 - [abyss-witch/winit-input-map](https://github.com/abyss-witch/winit-input-map) - Input map for Winit
 - [devmobasa/wayscriber](https://github.com/devmobasa/wayscriber) - Live overlay for drawing, annotating with zoom, hiding text, and capturing screenshots on Linux. Can be used as whiteboard or blackboard. Highly customisable. Written in Rust.
-- [nicosuave/memex](https://github.com/nicosuave/memex) - Fast transcript search for humans & agents for Claude Code, Codex, Pi, OpenCode, Github Copilot & Cursor
+- [nicosuave/memex](https://github.com/nicosuave/memex) - Search Claude Code, Codex, Pi, OpenCode, Github Copilot & Cursor transcripts & resume sessions
 - [zhuzaiye/DictNavi](https://github.com/zhuzaiye/DictNavi) - DictNavi is the English Word Dictionary based on AI Training Words And Rust egui/tantivy.
 - [vivlim/lizard-askpass](https://github.com/vivlim/lizard-askpass) - on-screen keyboard TUI for the steam deck, usable with just arrow keys, enter, and escape
 - [YangYuS8/lwe](https://github.com/YangYuS8/lwe) - LWE is a Linux desktop app for browsing, managing, and applying Wallpaper Engine content.
