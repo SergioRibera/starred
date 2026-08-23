@@ -168,6 +168,7 @@
 - [redteam](#redteam)
 - [redux](#redux)
 - [rest-api](#rest-api)
+- [reverse-engineering](#reverse-engineering)
 - [ruby](#ruby)
 - [rust](#rust)
 - [sass](#sass)
@@ -366,7 +367,7 @@
 
 ## claude-code 
 
-- [nicosuave/memex](https://github.com/nicosuave/memex) - Search Claude Code, Codex, Pi, OpenCode, Github Copilot & Cursor transcripts & resume sessions
+- [nicosuave/memex](https://github.com/nicosuave/memex) - Search Claude Code, Codex, Pi, OpenCode, Github Copilot & Cursor transcripts. Resume sessions. Track tokens.
 
 ## cli 
 
@@ -1331,6 +1332,8 @@
 
 ## others 
 
+- [waywallen/waywallen](https://github.com/waywallen/waywallen) - Wallpaper Manager for Linux
+- [djc/oxish](https://github.com/djc/oxish) - A modern, memory-safe SSH server
 - [second-state/voice_translations](https://github.com/second-state/voice_translations) - 
 - [OxidShell/zudp](https://github.com/OxidShell/zudp) - Zero-overhead UDP protocol with optional reliability, fragmentation and relay support
 - [leomeinel/bevy_fast_light](https://github.com/leomeinel/bevy_fast_light) - Simple 2D lighting for Bevy focused on performance over features.
@@ -1884,7 +1887,7 @@
 ## rag 
 
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
-- [nicosuave/memex](https://github.com/nicosuave/memex) - Search Claude Code, Codex, Pi, OpenCode, Github Copilot & Cursor transcripts & resume sessions
+- [nicosuave/memex](https://github.com/nicosuave/memex) - Search Claude Code, Codex, Pi, OpenCode, Github Copilot & Cursor transcripts. Resume sessions. Track tokens.
 
 ## raspberry-pi 
 
@@ -1927,6 +1930,10 @@
 ## rest-api 
 
 - [proyecto26/RestClient](https://github.com/proyecto26/RestClient) - 🦄  A Promise based REST and HTTP client for Unity 🎮
+
+## reverse-engineering 
+
+- [decoderloop/rust-malware-gallery](https://github.com/decoderloop/rust-malware-gallery) - A collection of malware families and malware samples which use the Rust programming language.
 
 ## ruby 
 
