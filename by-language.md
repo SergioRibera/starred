@@ -36,6 +36,7 @@
 - [Python](#python)
 - [QML](#qml)
 - [Rust](#rust)
+- [SCSS](#scss)
 - [ShaderLab](#shaderlab)
 - [Shell](#shell)
 - [Slint](#slint)
@@ -136,7 +137,6 @@
 
 - [migueravila/simplefox](https://github.com/migueravila/simplefox) - A Userstyle theme for Firefox minimalist and Keyboard centered.
 - [cascadefox/cascade](https://github.com/cascadefox/cascade) - A responsive One-Line CSS Theme for Firefox
-- [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme) - Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.
 - [gabriel-hahn/whatsapp-clone-javascript](https://github.com/gabriel-hahn/whatsapp-clone-javascript) - A clone of WhatsApp Web using pure JavaScript + Firebase and Auth - HCode course
 - [Peyrzival/dotfiles-gruv](https://github.com/Peyrzival/dotfiles-gruv) - 
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -207,6 +207,7 @@
 
 ## JavaScript 
 
+- [second-state/voice_translations](https://github.com/second-state/voice_translations) - 
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [arihant-jain-09/discord-clone](https://github.com/arihant-jain-09/discord-clone) - Discord (with unique roles in each server, image, audio sharing, auto render video links in messages, discord loading logo between page renderings)  with React, React Router, Material UI, SASS, Styled
 - [mrjvs/Discord-video-experiment](https://github.com/mrjvs/Discord-video-experiment) - Experiment for making video work for discord bots.
@@ -401,7 +402,6 @@
 
 - [waywallen/waywallen](https://github.com/waywallen/waywallen) - Wallpaper Manager for Linux
 - [djc/oxish](https://github.com/djc/oxish) - A modern, memory-safe SSH server
-- [second-state/voice_translations](https://github.com/second-state/voice_translations) - 
 - [OxidShell/zudp](https://github.com/OxidShell/zudp) - Zero-overhead UDP protocol with optional reliability, fragmentation and relay support
 - [Nitrolaunch/nitrolaunch](https://github.com/Nitrolaunch/nitrolaunch) - The supercharged Minecraft launcher and server manager
 - [leomeinel/bevy_fast_light](https://github.com/leomeinel/bevy_fast_light) - Simple 2D lighting for Bevy focused on performance over features.
@@ -494,7 +494,7 @@
 - [remotia/remotia](https://github.com/remotia/remotia) - Open source framework for building remote rendering software, implemented in pure Rust.
 - [FriederHannenheim/cthulock](https://github.com/FriederHannenheim/cthulock) - Wayland screen locker focused on customizability
 - [RobinMcCorkell/shaderlock](https://github.com/RobinMcCorkell/shaderlock) - Wayland (wlroots) lockscreen powered by the GPU
-- [russelltg/wl-screenrec](https://github.com/russelltg/wl-screenrec) - High performance wlroots screen recording, featuring hardware encoding
+- [rosalyntg/wl-screenrec](https://github.com/rosalyntg/wl-screenrec) - High performance wlroots screen recording, featuring hardware encoding
 - [gc-victor/query](https://github.com/gc-victor/query) - Query is an all-in-one web development solution eliminating the need for external servers, runtimes, frameworks, caching, storage, and admin tools.
 - [abgros/stalloc](https://github.com/abgros/stalloc) - Stalloc is a fast first-fit memory allocator that you can use to quickly speed up your Rust programs.
 - [mstange/samply](https://github.com/mstange/samply) - Command-line sampling profiler for macOS, Linux, and Windows
@@ -583,7 +583,6 @@
 - [sshcrack/clipture-rs](https://github.com/sshcrack/clipture-rs) - Clipture but made in rust
 - [yvt/swsurface-rs](https://github.com/yvt/swsurface-rs) - Software-rendered surface for winit (WIP)
 - [smithy-lang/smithy-rs](https://github.com/smithy-lang/smithy-rs) - Code generation for the AWS SDK for Rust, as well as server and generic smithy client generation.
-- [viperML/hover-rs](https://github.com/viperML/hover-rs) - Protective home overlay
 - [Brayan-724/apika-os](https://github.com/Brayan-724/apika-os) - HI folks
 - [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf, @faukah]
 - [l4l/yofi](https://github.com/l4l/yofi) - yofi is a minimalistic menu for wayland
@@ -1014,6 +1013,10 @@
 - [Nachasic/vicarious-rs](https://github.com/Nachasic/vicarious-rs) - Gamedev experiments with raylib and rust
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧: closing the semantic gap between compiler and hardware by maximally leveraging the power of language safety and a
+
+## SCSS 
+
+- [vinceliuice/Orchis-theme](https://github.com/vinceliuice/Orchis-theme) - Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.
 
 ## ShaderLab 
 
