@@ -1398,7 +1398,7 @@
 - [vivax3794/cargo_bounds](https://github.com/vivax3794/cargo_bounds) - Checking that your dependency requirements are sound
 - [remotia/remotia](https://github.com/remotia/remotia) - Open source framework for building remote rendering software, implemented in pure Rust.
 - [RobinMcCorkell/shaderlock](https://github.com/RobinMcCorkell/shaderlock) - Wayland (wlroots) lockscreen powered by the GPU
-- [russelltg/wl-screenrec](https://github.com/russelltg/wl-screenrec) - High performance wlroots screen recording, featuring hardware encoding
+- [rosalyntg/wl-screenrec](https://github.com/rosalyntg/wl-screenrec) - High performance wlroots screen recording, featuring hardware encoding
 - [abgros/stalloc](https://github.com/abgros/stalloc) - Stalloc is a fast first-fit memory allocator that you can use to quickly speed up your Rust programs.
 - [mstange/samply](https://github.com/mstange/samply) - Command-line sampling profiler for macOS, Linux, and Windows
 - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
@@ -1465,7 +1465,6 @@
 - [lilyyy411/rust-type-fuckery](https://github.com/lilyyy411/rust-type-fuckery) - experiments with the Rust type system, including a type-level brainfuck implementation
 - [lucab/zbus_systemd](https://github.com/lucab/zbus_systemd) - A pure-Rust library to interact with systemd DBus services
 - [sshcrack/clipture-rs](https://github.com/sshcrack/clipture-rs) - Clipture but made in rust
-- [viperML/hover-rs](https://github.com/viperML/hover-rs) - Protective home overlay
 - [Brayan-724/apika-os](https://github.com/Brayan-724/apika-os) - HI folks
 - [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf, @faukah]
 - [l4l/yofi](https://github.com/l4l/yofi) - yofi is a minimalistic menu for wayland
