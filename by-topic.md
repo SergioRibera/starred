@@ -93,6 +93,7 @@
 - [haskell](#haskell)
 - [home-assistant](#home-assistant)
 - [html](#html)
+- [html-css-javascript](#html-css-javascript)
 - [html5](#html5)
 - [http](#http)
 - [icon-font](#icon-font)
@@ -222,7 +223,7 @@
 
 ## agents 
 
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
 
 ## ai 
 
@@ -556,7 +557,7 @@
 
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy conta
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [mrjackwills/oxker](https://github.com/mrjackwills/oxker) - A simple tui to view & control docker containers
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
@@ -800,7 +801,7 @@
 ## golang 
 
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 
 ## good-first-issue 
@@ -911,6 +912,10 @@
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [adamschwartz/chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome-style tabs in HTML/CSS.
 
+## html-css-javascript 
+
+- [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 Open-source, self-hosted P2P WebRTC video conferencing for fast, private real-time communication. Create browser-based meeting rooms with no downloads or time limits, plus screen sharing, chat, whit
+
 ## html5 
 
 - [literallycanvas/literallycanvas](https://github.com/literallycanvas/literallycanvas) - A canvas in your browser. Literally.
@@ -951,6 +956,7 @@
 
 ## javascript 
 
+- [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 Open-source, self-hosted P2P WebRTC video conferencing for fast, private real-time communication. Create browser-based meeting rooms with no downloads or time limits, plus screen sharing, chat, whit
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
 - [qipkg/qipi](https://github.com/qipkg/qipi) - 🦉 Extremely fast, disk-efficient, node_modules-free, instant, and secure package manager for Node.js — written in Rust.
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
@@ -1044,7 +1050,7 @@
 - [vyfor/cord.nvim](https://github.com/vyfor/cord.nvim) - 🚀 Discord Rich Presence for Neovim
 - [DefGuard/wireguard-rs](https://github.com/DefGuard/wireguard-rs) - Rust library providing unified WireGuard interface to native/kernel and userspace implementations
 - [Toni500github/customfetch](https://github.com/Toni500github/customfetch) - A modular information fetching (neofetch-like) tool, which its focus point is the performance and customizability.        Android widget migrated to https://github.com/Toni500github/customfetch-androi
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center) - A notification daemon/center for linux
 - [l1npengtul/nokhwa](https://github.com/l1npengtul/nokhwa) - Cross Platform Rust Library for Powerful Webcam/Camera Capture
@@ -1138,7 +1144,7 @@
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
 - [vyfor/cord.nvim](https://github.com/vyfor/cord.nvim) - 🚀 Discord Rich Presence for Neovim
 - [Toni500github/customfetch](https://github.com/Toni500github/customfetch) - A modular information fetching (neofetch-like) tool, which its focus point is the performance and customizability.        Android widget migrated to https://github.com/Toni500github/customfetch-androi
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [l1npengtul/nokhwa](https://github.com/l1npengtul/nokhwa) - Cross Platform Rust Library for Powerful Webcam/Camera Capture
 - [mrkai77/Loop](https://github.com/mrkai77/Loop) - Window management made elegant.
@@ -1276,7 +1282,7 @@
 
 ## nodejs 
 
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
 - [ysdragon/StreamBot](https://github.com/ysdragon/StreamBot) - A self bot to stream videos to Discord.
 - [qipkg/qipi](https://github.com/qipkg/qipi) - 🦉 Extremely fast, disk-efficient, node_modules-free, instant, and secure package manager for Node.js — written in Rust.
 - [Sairyss/backend-best-practices](https://github.com/Sairyss/backend-best-practices) - Best practices, tools and guidelines for backend development. Code examples in TypeScript + NodeJS
@@ -1331,9 +1337,9 @@
 
 ## others 
 
+- [romancitodev/nobubbles](https://github.com/romancitodev/nobubbles) - A powerful little TUI framework 🏗 (Written in Rust obviously)
 - [waywallen/waywallen](https://github.com/waywallen/waywallen) - Wallpaper Manager for Linux
 - [djc/oxish](https://github.com/djc/oxish) - A modern, memory-safe SSH server
-- [second-state/voice_translations](https://github.com/second-state/voice_translations) - 
 - [OxidShell/zudp](https://github.com/OxidShell/zudp) - Zero-overhead UDP protocol with optional reliability, fragmentation and relay support
 - [leomeinel/bevy_fast_light](https://github.com/leomeinel/bevy_fast_light) - Simple 2D lighting for Bevy focused on performance over features.
 - [Zomatree/ermine](https://github.com/Zomatree/ermine) - Native desktop client for Stoat chat
@@ -1492,9 +1498,9 @@
 - [dob9601/qmk-oled-api](https://github.com/dob9601/qmk-oled-api) - A wrapper around the HID API that makes it significantly easier to draw graphics to a QMK keyboard's OLED display
 - [dob9601/qmk-nowplaying](https://github.com/dob9601/qmk-nowplaying) - Show information about the currently playing song on a QMK-keyboard's OLED display
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus]
-- [nix-community/robotnix](https://github.com/nix-community/robotnix) - Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu,@cyclic-pentane]
+- [nix-community/robotnix](https://github.com/nix-community/robotnix) - Build Android (AOSP) using Nix [maintainer=@cyclic-pentane]
 - [osirislab/awesome-rust-security](https://github.com/osirislab/awesome-rust-security) - Curated list of awesome projects and resources related to Rust and computer security
-- [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes [maintainer=@shivaraj-bh]
+- [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes [maintainer=@shivaraj-bh,@srid]
 - [Stephen-Seo/swaybar_info](https://github.com/Stephen-Seo/swaybar_info) - A Rust program that populates the Sway-bar with basic stats.
 - [bungoboingo/halo](https://github.com/bungoboingo/halo) - wgpu fragment shader experimentation application, written with Iced.
 - [tupleleap/leap-chain](https://github.com/tupleleap/leap-chain) - 
@@ -1795,6 +1801,7 @@
 
 ## p2p 
 
+- [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 Open-source, self-hosted P2P WebRTC video conferencing for fast, private real-time communication. Create browser-based meeting rooms with no downloads or time limits, plus screen sharing, chat, whit
 - [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
 - [johanhelsing/matchbox](https://github.com/johanhelsing/matchbox) - Painless peer-to-peer WebRTC networking for rust wasm (and native!)
 
@@ -1857,7 +1864,7 @@
 
 ## python 
 
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
 - [pykeio/earshot](https://github.com/pykeio/earshot) - Ridiculously fast & accurate streaming voice activity detection
 - [srwi/qmk-via-api](https://github.com/srwi/qmk-via-api) - VIA api implementation for QMK-based keyboards
 - [GradienceTeam/Gradience](https://github.com/GradienceTeam/Gradience) - Change the look of Adwaita, with ease
@@ -1941,6 +1948,8 @@
 
 ## rust 
 
+- [romancitodev/cargo-pretty](https://github.com/romancitodev/cargo-pretty) - A cargo build wrapper with a live, animated status view
+- [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [noFAYZ/zuno](https://github.com/noFAYZ/zuno) - 👻 ZUNO  - A desktop music client that integrates with YouTube Music for Windows, MacOS & Linux.
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [jturcotte/beskope](https://github.com/jturcotte/beskope) - A music visualizer for Linux and PipeWire
@@ -1980,7 +1989,7 @@
 - [Serpent-Tools/natrix](https://github.com/Serpent-Tools/natrix) - Rust-First frontend framework.
 - [tuono-labs/tuono](https://github.com/tuono-labs/tuono) - ⚡ Modern fullstack web framework based on Rust and React
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
 - [GREsau/schemars](https://github.com/GREsau/schemars) - Generate JSON Schema documents from Rust code
 - [BlackPhlox/bevy_dolly](https://github.com/BlackPhlox/bevy_dolly) - h3r2tic's dolly abstraction layer for the bevy game framework
 - [rustunit/bevy_ios_review](https://github.com/rustunit/bevy_ios_review) - Bevy Plugin to request an iOS App Review
@@ -2203,7 +2212,7 @@
 
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
 - [pumpbin/pumpbin](https://github.com/pumpbin/pumpbin) - 🎃 PumpBin is an Implant Generation Platform.
 - [caido/caido](https://github.com/caido/caido) - 🚀 Caido releases, wiki and roadmap
 - [GeekMasher/securitree.nvim](https://github.com/GeekMasher/securitree.nvim) - SecuriTree - Security Research Tool
@@ -2221,7 +2230,7 @@
 - [rustmailer/bichon](https://github.com/rustmailer/bichon) - Bichon – A lightweight, high-performance Rust email archiver with WebUI
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
 - [vladkens/badges](https://github.com/vladkens/badges) - 🎖️🎨 Instantly create custom badges for GitHub, docs, and more. Lightweight, self-hostable, with live integrations that keep badges always up to date. Elevate your projects in seconds!
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
 - [next-hat/nanocl](https://github.com/next-hat/nanocl) - Work in progress distributed system that simplifies the orchestration of containers and virtual machines.
 
 ## server 
@@ -2324,7 +2333,7 @@
 ## typescript 
 
 - [SynthLauncher/SynthLauncher](https://github.com/SynthLauncher/SynthLauncher) - The official repository for SynthLauncher
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
 - [kunkunsh/kunkun](https://github.com/kunkunsh/kunkun) - An open source, cross-platform, extensible app launcher.
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
@@ -2455,7 +2464,7 @@
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
 - [vyfor/cord.nvim](https://github.com/vyfor/cord.nvim) - 🚀 Discord Rich Presence for Neovim
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM runtime and library
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [simalei/stenbug](https://github.com/simalei/stenbug) - Simple wallpaper utility based on Wallhaven API
 - [l1npengtul/nokhwa](https://github.com/l1npengtul/nokhwa) - Cross Platform Rust Library for Powerful Webcam/Camera Capture
@@ -2492,7 +2501,7 @@
 
 ## youtube 
 
-- [nolight132/sonora](https://github.com/nolight132/sonora) - A native music streaming client, built with Rust and GPUI
+- [sonorahq/sonora](https://github.com/sonorahq/sonora) - A native music streaming client, built with Rust and GPUI
 - [noFAYZ/zuno](https://github.com/noFAYZ/zuno) - 👻 ZUNO  - A desktop music client that integrates with YouTube Music for Windows, MacOS & Linux.
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
