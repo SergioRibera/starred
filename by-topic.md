@@ -590,7 +590,7 @@
 - [dotnet/MobileBlazorBindings](https://github.com/dotnet/MobileBlazorBindings) - Experimental Mobile Blazor Bindings - Build native and hybrid mobile apps with Blazor
 - [OutSystems/WebView](https://github.com/OutSystems/WebView) - Avalonia/WPF control that wraps CefGlue webview control
 - [AvaloniaCommunity/awesome-avalonia](https://github.com/AvaloniaCommunity/awesome-avalonia) - A collection of interesting libraries and tools for Avalonia project.
-- [reactiveui/Camelotia](https://github.com/reactiveui/Camelotia) - Cross-platform sample .NET GUI for cloud file management.
+- [reactiveui/Camelotia](https://github.com/reactiveui/Camelotia) - A cross-platform sample application built with ReactiveUI. Camelotia is a file manager for cloud storage providers and local file systems, demonstrating reactive MVVM architecture, testable view model
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
 
 ## electron 
@@ -1073,7 +1073,7 @@
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [fairyglade/ly](https://github.com/fairyglade/ly) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
 - [hertg/lightdm-neon](https://github.com/hertg/lightdm-neon) - :art: A customizable theme for web-greeter in a nostalgic but modern neon look
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast and lightweight sandboxes for your apps and AI agents
 - [igor-petruk/scriptisto](https://github.com/igor-petruk/scriptisto) - A language-agnostic "shebang interpreter" that enables you to write scripts in compiled languages.
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [JingOS-team/JingOS](https://github.com/JingOS-team/JingOS) - Awesome - JingOS - The World’s First Linux-based OS design for Tablets
@@ -1085,7 +1085,7 @@
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 - [WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
 - [OutSystems/WebView](https://github.com/OutSystems/WebView) - Avalonia/WPF control that wraps CefGlue webview control
-- [reactiveui/Camelotia](https://github.com/reactiveui/Camelotia) - Cross-platform sample .NET GUI for cloud file management.
+- [reactiveui/Camelotia](https://github.com/reactiveui/Camelotia) - A cross-platform sample application built with ReactiveUI. Camelotia is a file manager for cloud storage providers and local file systems, demonstrating reactive MVVM architecture, testable view model
 - [VitalElement/AvalonStudio](https://github.com/VitalElement/AvalonStudio) - Cross platform IDE and Shell
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
 - [jarcode-foss/glava](https://github.com/jarcode-foss/glava) - GLava - OpenGL audio spectrum visualizer
@@ -1157,13 +1157,13 @@
 - [hoothin/RustClock](https://github.com/hoothin/RustClock) - A digital clock for desktop popup every half hour written in rust, support 20-20-20 rule. 每隔半小時彈出一次的桌面電子時鐘 Windows / Mac
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast and lightweight sandboxes for your apps and AI agents
 - [tauri-apps/window-vibrancy](https://github.com/tauri-apps/window-vibrancy) - Make your windows vibrant.
 - [pojala/electrino](https://github.com/pojala/electrino) - Desktop runtime for apps built on web technologies, using the system's own web browser engine
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
 - [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 - [OutSystems/WebView](https://github.com/OutSystems/WebView) - Avalonia/WPF control that wraps CefGlue webview control
-- [reactiveui/Camelotia](https://github.com/reactiveui/Camelotia) - Cross-platform sample .NET GUI for cloud file management.
+- [reactiveui/Camelotia](https://github.com/reactiveui/Camelotia) - A cross-platform sample application built with ReactiveUI. Camelotia is a file manager for cloud storage providers and local file systems, demonstrating reactive MVVM architecture, testable view model
 - [VitalElement/AvalonStudio](https://github.com/VitalElement/AvalonStudio) - Cross platform IDE and Shell
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
 
@@ -1337,6 +1337,7 @@
 
 ## others 
 
+- [marconvcm/sony-device-center](https://github.com/marconvcm/sony-device-center) - Control your Sony headphones — Noise Cancelling, Ambient Sound, EQ, DSEE & battery — from Linux. Open-source, no phone needed.
 - [romancitodev/nobubbles](https://github.com/romancitodev/nobubbles) - A powerful little TUI framework 🏗 (Written in Rust obviously)
 - [waywallen/waywallen](https://github.com/waywallen/waywallen) - Wallpaper Manager for Linux
 - [djc/oxish](https://github.com/djc/oxish) - A modern, memory-safe SSH server
@@ -1916,7 +1917,7 @@
 
 ## reactiveui 
 
-- [reactiveui/Camelotia](https://github.com/reactiveui/Camelotia) - Cross-platform sample .NET GUI for cloud file management.
+- [reactiveui/Camelotia](https://github.com/reactiveui/Camelotia) - A cross-platform sample application built with ReactiveUI. Camelotia is a file manager for cloud storage providers and local file systems, demonstrating reactive MVVM architecture, testable view model
 
 ## reactjs 
 
@@ -2177,7 +2178,7 @@
 - [finnbear/yew_icons](https://github.com/finnbear/yew_icons) - Easily include a variety of SVGs into your Yew app
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [notify-rs/notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast and lightweight sandboxes for your apps and AI agents
 - [zesterer/flume](https://github.com/zesterer/flume) - A safe and fast multi-producer, multi-consumer channel.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
@@ -2479,11 +2480,11 @@
 - [hoothin/RustClock](https://github.com/hoothin/RustClock) - A digital clock for desktop popup every half hour written in rust, support 20-20-20 rule. 每隔半小時彈出一次的桌面電子時鐘 Windows / Mac
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [nashaofu/xcap](https://github.com/nashaofu/xcap) - XCap is a cross-platform screen capture library written in Rust. It supports Linux (X11, Wayland), MacOS, and Windows. XCap supports screenshot and video recording (WIP).
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast and lightweight sandboxes for your apps and AI agents
 - [tauri-apps/window-vibrancy](https://github.com/tauri-apps/window-vibrancy) - Make your windows vibrant.
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
 - [OutSystems/WebView](https://github.com/OutSystems/WebView) - Avalonia/WPF control that wraps CefGlue webview control
-- [reactiveui/Camelotia](https://github.com/reactiveui/Camelotia) - Cross-platform sample .NET GUI for cloud file management.
+- [reactiveui/Camelotia](https://github.com/reactiveui/Camelotia) - A cross-platform sample application built with ReactiveUI. Camelotia is a file manager for cloud storage providers and local file systems, demonstrating reactive MVVM architecture, testable view model
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
 
 ## xamarin 
