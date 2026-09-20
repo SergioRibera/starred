@@ -97,7 +97,7 @@
 - [emilianavt/BVHTools](https://github.com/emilianavt/BVHTools) - BVH Tools for Unity
 - [TianxingWu/OpenVHead](https://github.com/TianxingWu/OpenVHead) - A 3D virtual head control system for VTuber in Unity with smooth motion and robust facial expressions
 - [OutSystems/WebView](https://github.com/OutSystems/WebView) - Avalonia/WPF control that wraps CefGlue webview control
-- [reactiveui/Camelotia](https://github.com/reactiveui/Camelotia) - Cross-platform sample .NET GUI for cloud file management.
+- [reactiveui/Camelotia](https://github.com/reactiveui/Camelotia) - A cross-platform sample application built with ReactiveUI. Camelotia is a file manager for cloud storage providers and local file systems, demonstrating reactive MVVM architecture, testable view model
 - [jmacato/Synfonia](https://github.com/jmacato/Synfonia) - Cross-platform C# Audio Player made with AvaloniaUI
 - [AvaloniaUI/Avalonia.Templates](https://github.com/AvaloniaUI/Avalonia.Templates) - Avalonia Templates for `dotnet new`
 - [VitalElement/AvalonStudio](https://github.com/VitalElement/AvalonStudio) - Cross platform IDE and Shell
@@ -110,6 +110,7 @@
 
 ## C++ 
 
+- [marconvcm/sony-device-center](https://github.com/marconvcm/sony-device-center) - Control your Sony headphones — Noise Cancelling, Ambient Sound, EQ, DSEE & battery — from Linux. Open-source, no phone needed.
 - [google/nearby](https://github.com/google/nearby) - 🐿️ A collection of projects focused on connectivity that enable building cross-device experiences.
 - [urob/zmk-config](https://github.com/urob/zmk-config) - Personal ZMK firmware configuration for various boards (34-keys, Glove80, Planck)
 - [Toni500github/customfetch](https://github.com/Toni500github/customfetch) - A modular information fetching (neofetch-like) tool, which its focus point is the performance and customizability.        Android widget migrated to https://github.com/Toni500github/customfetch-androi
@@ -961,7 +962,7 @@
 - [finnbear/yew_icons](https://github.com/finnbear/yew_icons) - Easily include a variety of SVGs into your Yew app
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [notify-rs/notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast and lightweight sandboxes for your apps and AI agents
 - [zesterer/flume](https://github.com/zesterer/flume) - A safe and fast multi-producer, multi-consumer channel.
 - [fslabs/bevy_infinite_grid](https://github.com/fslabs/bevy_infinite_grid) - 
 - [EmbarkStudios/kajiya](https://github.com/EmbarkStudios/kajiya) - 💡 Experimental real-time global illumination renderer 🦀
