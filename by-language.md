@@ -110,6 +110,7 @@
 
 ## C++ 
 
+- [ErrorAtLine0/infinipaint](https://github.com/ErrorAtLine0/infinipaint) - Infinite space, infinite zoom, collaborative canvas program for massive sketches and notes
 - [marconvcm/sony-device-center](https://github.com/marconvcm/sony-device-center) - Control your Sony headphones — Noise Cancelling, Ambient Sound, EQ, DSEE & battery — from Linux. Open-source, no phone needed.
 - [google/nearby](https://github.com/google/nearby) - 🐿️ A collection of projects focused on connectivity that enable building cross-device experiences.
 - [urob/zmk-config](https://github.com/urob/zmk-config) - Personal ZMK firmware configuration for various boards (34-keys, Glove80, Planck)
@@ -394,12 +395,13 @@
 
 ## QML 
 
-- [snowarch/iNiR](https://github.com/snowarch/iNiR) - A Niri shell illogical-impulse based - with some modifications..
+- [snowarch/iNiR](https://github.com/snowarch/iNiR) - // A Niri shell // with bloat and stuff!
 - [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - A fluid, morphing shell for your Linux desktop
 
 ## Rust 
 
+- [kylejckson/PaintFE](https://github.com/kylejckson/PaintFE) - A fast, lightweight raster image editor for Windows. Features layers, blend modes, GPU-accelerated filters, gradients, mesh warp, brushes, selection tools, adjustments, animated GIF/APNG support, and 
 - [romancitodev/nobubbles](https://github.com/romancitodev/nobubbles) - A powerful little TUI framework 🏗 (Written in Rust obviously)
 - [romancitodev/cargo-pretty](https://github.com/romancitodev/cargo-pretty) - A cargo build wrapper with a live, animated status view
 - [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
@@ -437,6 +439,7 @@
 - [J-x-Z/cocoa-way](https://github.com/J-x-Z/cocoa-way) - Run Linux desktops and apps on macOS with a native Metal Wayland compositor, Apple Container GUI, Waypipe, Docker/OrbStack, and rootless windows.
 - [wayle-rs/wayle](https://github.com/wayle-rs/wayle) - Wayland Elements -  A compositor agnostic shell with extensive customization
 - [yazaldefilimone/ffmpreg](https://github.com/yazaldefilimone/ffmpreg) - An experimental safe multimedia toolkit
+- [rustmailer/bichon](https://github.com/rustmailer/bichon) - Bichon – A lightweight, high-performance Rust email archiver with WebUI
 - [getzola/giallo](https://github.com/getzola/giallo) - Syntax highlighter, same output as VSCode
 - [podusowski/egui_keyboard](https://github.com/podusowski/egui_keyboard) - 
 - [km-clay/nixos-wizard](https://github.com/km-clay/nixos-wizard) - A TUI installer for NixOS
@@ -476,7 +479,7 @@
 - [facet-rs/facet](https://github.com/facet-rs/facet) - Rust reflection, serialization, deserialization, pretty printing, etc. — the last proc macro you should need
 - [nferhat/fht-compositor](https://github.com/nferhat/fht-compositor) - A dynamic tiling Wayland compositor.
 - [yehorovye/objekt](https://github.com/yehorovye/objekt) - simple kv cache server in pure rust [not maintained anymore]
-- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
+- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (and more)
 - [wasvy-org/wasvy](https://github.com/wasvy-org/wasvy) - WASI-powered modding for the Bevy engine
 - [sammwyy/gdbc](https://github.com/sammwyy/gdbc) - Comprehensive terminal-based GDB client written in Rust for performing remote debugging operations.
 - [SynthLauncher/SynthLauncher](https://github.com/SynthLauncher/SynthLauncher) - The official repository for SynthLauncher
@@ -506,7 +509,7 @@
 - [tuono-labs/tuono](https://github.com/tuono-labs/tuono) - ⚡ Modern fullstack web framework based on Rust and React
 - [timschmidt/csgrs](https://github.com/timschmidt/csgrs) - Multi-modal constructive solid geometry kernel in Rust
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast branchable microVM runtime and library for any workload
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, programmable and local-first microVM runtime and library
 - [SilentVoid13/SyncDisBoi](https://github.com/SilentVoid13/SyncDisBoi) - Music streaming platforms (Youtube Music, Spotify, Tidal) synchronization tool
 - [mainmatter/eserde](https://github.com/mainmatter/eserde) - Just like `serde`, but with more exhaustive error reporting capabilities. Designed for public API payloads.
 - [NeoCogi/microui-redux](https://github.com/NeoCogi/microui-redux) - Idiomatic Rust MicroUI port
@@ -603,6 +606,7 @@
 - [zhangyuang/node-ffi-rs](https://github.com/zhangyuang/node-ffi-rs) - Implement ffi in Node.js by Rust and NAPI
 - [anopara/country-slice](https://github.com/anopara/country-slice) - 
 - [junkdog/glim](https://github.com/junkdog/glim) - A TUI for monitoring GitLab CI/CD pipelines and projects
+- [dmtrKovalenko/fframes](https://github.com/dmtrKovalenko/fframes) - programmatic video rendering framework that is actually fast
 - [miguelraz/staged-sg-filter](https://github.com/miguelraz/staged-sg-filter) - 
 - [xou816/spot](https://github.com/xou816/spot) - UNMAINTAINED! Please check out active forks
 - [decipher3114/Capter](https://github.com/decipher3114/Capter) - Cross-Platform Screen Capture and Annotation Tool
@@ -1064,7 +1068,6 @@
 - [noFAYZ/zuno](https://github.com/noFAYZ/zuno) - 👻 ZUNO  - A desktop music client that integrates with YouTube Music for Windows, MacOS & Linux.
 - [Khalzz/d-saster](https://github.com/Khalzz/d-saster) - A ttrpg playing system based on Tauri (React and Tailwind) and using Steamworks for connectivity.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
-- [rustmailer/bichon](https://github.com/rustmailer/bichon) - Bichon – A lightweight, high-performance Rust email archiver with WebUI
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy conta
 - [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 - [Occult-Chat/Occult-UI](https://github.com/Occult-Chat/Occult-UI) - 
