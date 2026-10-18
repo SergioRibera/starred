@@ -195,6 +195,7 @@
 
 ## HTML 
 
+- [ubsicap/ubs-open-license](https://github.com/ubsicap/ubs-open-license) - 
 - [rjpcomputing/luaforwindows](https://github.com/rjpcomputing/luaforwindows) - Lua for Windows is a 'batteries included environment' for the Lua scripting language on Windows. NOTICE: Looking for maintainer.
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 
@@ -334,6 +335,7 @@
 
 ## Others 
 
+- [timschmidt/csgrs](https://github.com/timschmidt/csgrs) - Multi-modal constructive solid geometry kernel in Rust
 - [jamesmunns/awesome-rust-streaming](https://github.com/jamesmunns/awesome-rust-streaming) - A community curated list of Rust Language streamers
 - [ImplFerris/LearnRust](https://github.com/ImplFerris/LearnRust) - Rust Learning Resources
 - [decoderloop/rust-malware-gallery](https://github.com/decoderloop/rust-malware-gallery) - A collection of malware families and malware samples which use the Rust programming language.
@@ -366,6 +368,7 @@
 
 ## Python 
 
+- [ingelibre/ingetrazo](https://github.com/ingelibre/ingetrazo) - Traza como a mano: modelador 3D libre para arquitectura, ingeniería y diseño 3D. Linux, Windows y macOS. BIM e IFC con IngePresupuestos. Abre archivos .skp.
 - [makerspet/oomwoo](https://github.com/makerspet/oomwoo) - Open-source vacuum robot cleaner
 - [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey) - Perfect Green Screen Keys
 - [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) - High-Quality Voice Cloning TTS for 600+ Languages
@@ -507,7 +510,6 @@
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [Serpent-Tools/natrix](https://github.com/Serpent-Tools/natrix) - Rust-First frontend framework.
 - [tuono-labs/tuono](https://github.com/tuono-labs/tuono) - ⚡ Modern fullstack web framework based on Rust and React
-- [timschmidt/csgrs](https://github.com/timschmidt/csgrs) - Multi-modal constructive solid geometry kernel in Rust
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, programmable and local-first microVM runtime and library
 - [SilentVoid13/SyncDisBoi](https://github.com/SilentVoid13/SyncDisBoi) - Music streaming platforms (Youtube Music, Spotify, Tidal) synchronization tool
@@ -635,7 +637,7 @@
 - [dob9601/qmk-nowplaying](https://github.com/dob9601/qmk-nowplaying) - Show information about the currently playing song on a QMK-keyboard's OLED display
 - [srwi/qmk-via-api](https://github.com/srwi/qmk-via-api) - VIA api implementation for QMK-based keyboards
 - [pumpbin/pumpbin](https://github.com/pumpbin/pumpbin) - 🎃 PumpBin is an Implant Generation Platform.
-- [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) - Repository for advanced Red Team techniques focused on Rust
+- [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) - Advanced Red Team techniques focused on Rust
 - [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust
 - [Phate6660/nixinfo](https://github.com/Phate6660/nixinfo) - A lib crate for gathering system info such as cpu, distro, environment, kernel, etc in Rust.
 - [Stephen-Seo/swaybar_info](https://github.com/Stephen-Seo/swaybar_info) - A Rust program that populates the Sway-bar with basic stats.
@@ -786,7 +788,6 @@
 - [katharostech/bevy_assetio_zip](https://github.com/katharostech/bevy_assetio_zip) - Bevy AssetIO plugin that can load assets from optionally obfuscated zip files
 - [aevyrie/bevy_mod_raycast](https://github.com/aevyrie/bevy_mod_raycast) - A little mesh raycasting plugin for Bevy
 - [IDEDARY/Bevypunk](https://github.com/IDEDARY/Bevypunk) - This repository is a recreation of Cyberpunk UI in Bevy
-- [DublikuntMux/bevy_asset_packer](https://github.com/DublikuntMux/bevy_asset_packer) - 
 - [Dushistov/flapigen-rs](https://github.com/Dushistov/flapigen-rs) - Tool for connecting programs or libraries written in Rust with other languages
 - [nicopap/cuicui_layout](https://github.com/nicopap/cuicui_layout) - The dumbest and simplest layouting algorithm for bevy
 - [laundmo/bevy_screen_diagnostics](https://github.com/laundmo/bevy_screen_diagnostics) - On-screen diagnostics
@@ -818,7 +819,7 @@
 - [djkoloski/rust_serialization_benchmark](https://github.com/djkoloski/rust_serialization_benchmark) - Benchmarks for rust serialization frameworks
 - [TimelyDataflow/abomonation](https://github.com/TimelyDataflow/abomonation) - A mortifying serialization library for Rust
 - [tauri-apps/global-hotkey](https://github.com/tauri-apps/global-hotkey) - Global hotkeys for Desktop Applications.
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any website into a tiny, fast desktop app.
+- [tw93/Pake](https://github.com/tw93/Pake) - Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.
 - [meepleek/echo_nomical](https://github.com/meepleek/echo_nomical) - 
 - [josfeenstra/hedron](https://github.com/josfeenstra/hedron) - An all-in-one 3D modelling library, written in Rust
 - [HugoPeters1024/vk_rays](https://github.com/HugoPeters1024/vk_rays) - Vulkan RTX rendering backend for the Bevy game engine written in Rust
