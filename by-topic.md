@@ -6,8 +6,11 @@
 ## Contents
 
 - [3d](#3d)
+- [agent](#agent)
+- [agent-skills](#agent-skills)
 - [agents](#agents)
 - [ai](#ai)
+- [ai-agents](#ai-agents)
 - [ajax](#ajax)
 - [android](#android)
 - [ansible](#ansible)
@@ -32,6 +35,7 @@
 - [chrome](#chrome)
 - [claude](#claude)
 - [claude-code](#claude-code)
+- [claude-skills](#claude-skills)
 - [cli](#cli)
 - [clojure](#clojure)
 - [cloud](#cloud)
@@ -61,6 +65,7 @@
 - [docker](#docker)
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
+- [dsh-plugin](#dsh-plugin)
 - [electron](#electron)
 - [emacs](#emacs)
 - [embedded](#embedded)
@@ -125,6 +130,7 @@
 - [malware](#malware)
 - [markdown](#markdown)
 - [material-design](#material-design)
+- [mcp](#mcp)
 - [microservices](#microservices)
 - [microsoft](#microsoft)
 - [minecraft](#minecraft)
@@ -222,6 +228,15 @@
 - [sburris0/bevy_flycam](https://github.com/sburris0/bevy_flycam) - Basic first-person fly camera for the Bevy game engine
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
 
+## agent 
+
+- [Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill) - Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.
+
+## agent-skills 
+
+- [Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill) - Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
+
 ## agents 
 
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, programmable and local-first microVM runtime and library
@@ -232,6 +247,10 @@
 - [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails) - Adding guardrails to large language models.
 - [orhanbalci/rust-steering-behaviors](https://github.com/orhanbalci/rust-steering-behaviors) - AI Steering behaviors crate implemented in Rust http://orhanbalci.github.io/rust-steering-behaviors
 - [Seldom-SE/seldom_state](https://github.com/Seldom-SE/seldom_state) - Component-based state machine plugin for Bevy. Useful for AI, player state, and other entities that occupy different states.
+
+## ai-agents 
+
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 
 ## ajax 
 
@@ -369,14 +388,22 @@
 
 ## claude 
 
+- [Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill) - Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.
 - [tw93/Pake](https://github.com/tw93/Pake) - Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.
 
 ## claude-code 
 
+- [Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill) - Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [nicosuave/memex](https://github.com/nicosuave/memex) - Search Claude Code, Codex, Pi, OpenCode, Github Copilot & Cursor transcripts. Resume sessions. Track tokens.
+
+## claude-skills 
+
+- [Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill) - Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.
 
 ## cli 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [Nitrolaunch/nitrolaunch](https://github.com/Nitrolaunch/nitrolaunch) - The supercharged Minecraft launcher and server manager
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 - [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
@@ -522,6 +549,7 @@
 
 ## developer-tools 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 - [azratul/live-share.nvim](https://github.com/azratul/live-share.nvim) - Real-time pair programming and collaborative editing for Neovim, inspired by VS Code Live Share.
@@ -598,6 +626,10 @@
 - [AvaloniaCommunity/awesome-avalonia](https://github.com/AvaloniaCommunity/awesome-avalonia) - A collection of interesting libraries and tools for Avalonia project.
 - [reactiveui/Camelotia](https://github.com/reactiveui/Camelotia) - A cross-platform sample application built with ReactiveUI. Camelotia is a file manager for cloud storage providers and local file systems, demonstrating reactive MVVM architecture, testable view model
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
+
+## dsh-plugin 
+
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 
 ## electron 
 
@@ -800,7 +832,7 @@
 ## go 
 
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
-- [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
+- [duxlabs-dev/dux-shell](https://github.com/duxlabs-dev/dux-shell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
 
@@ -1058,7 +1090,7 @@
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, programmable and local-first microVM runtime and library
 - [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center) - A notification daemon/center for linux
-- [l1npengtul/nokhwa](https://github.com/l1npengtul/nokhwa) - Cross Platform Rust Library for Powerful Webcam/Camera Capture
+- [l1npengfih/nokhwa](https://github.com/l1npengfih/nokhwa) - Cross Platform Rust Library for Powerful Webcam/Camera Capture
 - [l1na-forever/mpris-notifier](https://github.com/l1na-forever/mpris-notifier) - Dependency-light, highly-customizable, XDG desktop notification generator for 🎶🎵 MPRIS status changes 🎹
 - [vars1ty/HybridBar](https://github.com/vars1ty/HybridBar) - A status bar focused on wlroots Wayland compositors
 - [coffeeispower/woomer](https://github.com/coffeeispower/woomer) - Zoomer application for Wayland inspired by tsoding's boomer
@@ -1097,6 +1129,7 @@
 
 ## llm 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails) - Adding guardrails to large language models.
 
@@ -1149,7 +1182,7 @@
 - [Toni500github/customfetch](https://github.com/Toni500github/customfetch) - A modular information fetching (neofetch-like) tool, which its focus point is the performance and customizability.        Android widget migrated to https://github.com/Toni500github/customfetch-androi
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, programmable and local-first microVM runtime and library
 - [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
-- [l1npengtul/nokhwa](https://github.com/l1npengtul/nokhwa) - Cross Platform Rust Library for Powerful Webcam/Camera Capture
+- [l1npengfih/nokhwa](https://github.com/l1npengfih/nokhwa) - Cross Platform Rust Library for Powerful Webcam/Camera Capture
 - [mrkai77/Loop](https://github.com/mrkai77/Loop) - Window management made elegant.
 - [decipher3114/Capter](https://github.com/decipher3114/Capter) - Cross-Platform Screen Capture and Annotation Tool
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
@@ -1186,6 +1219,10 @@
 
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 - [simonwep/pickr](https://github.com/simonwep/pickr) - 🎨 Pickr - A simple, multi-themed, responsive and hackable Color-Picker library. No dependencies, no jQuery. Compatible with all CSS Frameworks e.g. Bootstrap, Materialize. Supports alpha channel, rgba
+
+## mcp 
+
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 
 ## microservices 
 
@@ -1339,6 +1376,7 @@
 
 ## others 
 
+- [EverettFish/ip_illustration_for_yourself](https://github.com/EverettFish/ip_illustration_for_yourself) - A mini pen-doodle IP illustration skill for character building and article illustrations.
 - [ubsicap/ubs-open-license](https://github.com/ubsicap/ubs-open-license) - 
 - [ingelibre/ingetrazo](https://github.com/ingelibre/ingetrazo) - Traza como a mano: modelador 3D libre para arquitectura, ingeniería y diseño 3D. Linux, Windows y macOS. BIM e IFC con IngePresupuestos. Abre archivos .skp.
 - [kylejckson/PaintFE](https://github.com/kylejckson/PaintFE) - A fast, lightweight raster image editor for Windows. Features layers, blend modes, GPU-accelerated filters, gradients, mesh warp, brushes, selection tools, adjustments, animated GIF/APNG support, and 
@@ -1883,6 +1921,7 @@
 
 ## python3 
 
+- [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 - [GradienceTeam/Gradience](https://github.com/GradienceTeam/Gradience) - Change the look of Adwaita, with ease
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
@@ -1942,6 +1981,8 @@
 
 ## reverse-engineering 
 
+- [Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill) - Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [decoderloop/rust-malware-gallery](https://github.com/decoderloop/rust-malware-gallery) - A collection of malware families and malware samples which use the Rust programming language.
 
 ## ruby 
@@ -2009,7 +2050,7 @@
 - [crabnebula-dev/cargo-packager](https://github.com/crabnebula-dev/cargo-packager) - Rust executable packager, bundler and updater.
 - [lapce/floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
 - [kaj/rsass](https://github.com/kaj/rsass) - Sass reimplemented in rust with nom.
-- [l1npengtul/nokhwa](https://github.com/l1npengtul/nokhwa) - Cross Platform Rust Library for Powerful Webcam/Camera Capture
+- [l1npengfih/nokhwa](https://github.com/l1npengfih/nokhwa) - Cross Platform Rust Library for Powerful Webcam/Camera Capture
 - [CapSoftware/scap](https://github.com/CapSoftware/scap) - High-performance, cross-platform screen capture library in Rust.
 - [cyypherus/lilt](https://github.com/cyypherus/lilt) - A simple library for running interruptable, transition based animations as a function of time.
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
@@ -2471,7 +2512,7 @@
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, programmable and local-first microVM runtime and library
 - [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [simalei/stenbug](https://github.com/simalei/stenbug) - Simple wallpaper utility based on Wallhaven API
-- [l1npengtul/nokhwa](https://github.com/l1npengtul/nokhwa) - Cross Platform Rust Library for Powerful Webcam/Camera Capture
+- [l1npengfih/nokhwa](https://github.com/l1npengfih/nokhwa) - Cross Platform Rust Library for Powerful Webcam/Camera Capture
 - [decipher3114/Capter](https://github.com/decipher3114/Capter) - Cross-Platform Screen Capture and Annotation Tool
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [pumpbin/pumpbin](https://github.com/pumpbin/pumpbin) - 🎃 PumpBin is an Implant Generation Platform.
