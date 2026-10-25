@@ -335,7 +335,6 @@
 
 ## Others 
 
-- [timschmidt/csgrs](https://github.com/timschmidt/csgrs) - Multi-modal constructive solid geometry kernel in Rust
 - [jamesmunns/awesome-rust-streaming](https://github.com/jamesmunns/awesome-rust-streaming) - A community curated list of Rust Language streamers
 - [ImplFerris/LearnRust](https://github.com/ImplFerris/LearnRust) - Rust Learning Resources
 - [decoderloop/rust-malware-gallery](https://github.com/decoderloop/rust-malware-gallery) - A collection of malware families and malware samples which use the Rust programming language.
@@ -368,6 +367,9 @@
 
 ## Python 
 
+- [Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill) - Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.
+- [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+- [EverettFish/ip_illustration_for_yourself](https://github.com/EverettFish/ip_illustration_for_yourself) - A mini pen-doodle IP illustration skill for character building and article illustrations.
 - [ingelibre/ingetrazo](https://github.com/ingelibre/ingetrazo) - Traza como a mano: modelador 3D libre para arquitectura, ingeniería y diseño 3D. Linux, Windows y macOS. BIM e IFC con IngePresupuestos. Abre archivos .skp.
 - [makerspet/oomwoo](https://github.com/makerspet/oomwoo) - Open-source vacuum robot cleaner
 - [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey) - Perfect Green Screen Keys
@@ -399,7 +401,7 @@
 ## QML 
 
 - [snowarch/iNiR](https://github.com/snowarch/iNiR) - // A Niri shell // with bloat and stuff!
-- [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
+- [duxlabs-dev/dux-shell](https://github.com/duxlabs-dev/dux-shell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - A fluid, morphing shell for your Linux desktop
 
 ## Rust 
@@ -510,6 +512,7 @@
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [Serpent-Tools/natrix](https://github.com/Serpent-Tools/natrix) - Rust-First frontend framework.
 - [tuono-labs/tuono](https://github.com/tuono-labs/tuono) - ⚡ Modern fullstack web framework based on Rust and React
+- [timschmidt/csgrs](https://github.com/timschmidt/csgrs) - Multi-modal constructive solid geometry kernel in Rust
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, programmable and local-first microVM runtime and library
 - [SilentVoid13/SyncDisBoi](https://github.com/SilentVoid13/SyncDisBoi) - Music streaming platforms (Youtube Music, Spotify, Tidal) synchronization tool
@@ -556,7 +559,7 @@
 - [g-plane/raffia](https://github.com/g-plane/raffia) - CSS, Sass, SCSS and Less parser, all in one.
 - [kaj/rsass](https://github.com/kaj/rsass) - Sass reimplemented in rust with nom.
 - [benodiwal/css_forge](https://github.com/benodiwal/css_forge) - 
-- [l1npengtul/nokhwa](https://github.com/l1npengtul/nokhwa) - Cross Platform Rust Library for Powerful Webcam/Camera Capture
+- [l1npengfih/nokhwa](https://github.com/l1npengfih/nokhwa) - Cross Platform Rust Library for Powerful Webcam/Camera Capture
 - [CapSoftware/scap](https://github.com/CapSoftware/scap) - High-performance, cross-platform screen capture library in Rust.
 - [p4ymak/egui_code_editor](https://github.com/p4ymak/egui_code_editor) - egui Code Editor widget with numbered lines and syntax highlighting..
 - [PPakalns/egui_taffy](https://github.com/PPakalns/egui_taffy) - Grid, Flexbox, Block layout support for egui using taffy
@@ -1065,6 +1068,7 @@
 
 ## TypeScript 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [noFAYZ/zuno](https://github.com/noFAYZ/zuno) - 👻 ZUNO  - A desktop music client that integrates with YouTube Music for Windows, MacOS & Linux.
 - [Khalzz/d-saster](https://github.com/Khalzz/d-saster) - A ttrpg playing system based on Tauri (React and Tailwind) and using Steamworks for connectivity.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
