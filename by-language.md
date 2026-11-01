@@ -12,7 +12,6 @@
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
 - [Cython](#cython)
-- [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [GLSL](#glsl)
@@ -156,10 +155,6 @@
 
 - [eliemichel/LilySurfaceScraper](https://github.com/eliemichel/LilySurfaceScraper) - Import shaders end environments in Blender from a single URL
 
-## Dart 
-
-- [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
-
 ## Dockerfile 
 
 - [trfore/docker-debian12-systemd](https://github.com/trfore/docker-debian12-systemd) - A minimal systemd enabled Debian 12 image
@@ -253,6 +248,7 @@
 ## Kotlin 
 
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
+- [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [mozilla/rust-android-gradle](https://github.com/mozilla/rust-android-gradle) - 
 
 ## Liquid 
@@ -406,7 +402,7 @@
 
 ## Rust 
 
-- [kylejckson/PaintFE](https://github.com/kylejckson/PaintFE) - A fast, lightweight raster image editor for Windows. Features layers, blend modes, GPU-accelerated filters, gradients, mesh warp, brushes, selection tools, adjustments, animated GIF/APNG support, and 
+- [kylejckson/PaintFE](https://github.com/kylejckson/PaintFE) - A lightweight image editor for Windows, MacOS, Linux with a focus on intuitive use and modern UI design. Features layers, filters, brushes, selection tools, color adjustments, animated images support,
 - [romancitodev/nobubbles](https://github.com/romancitodev/nobubbles) - A powerful little TUI framework 🏗 (Written in Rust obviously)
 - [romancitodev/cargo-pretty](https://github.com/romancitodev/cargo-pretty) - A cargo build wrapper with a live, animated status view
 - [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
@@ -416,7 +412,7 @@
 - [OxidShell/zudp](https://github.com/OxidShell/zudp) - Zero-overhead UDP protocol with optional reliability, fragmentation and relay support
 - [Nitrolaunch/nitrolaunch](https://github.com/Nitrolaunch/nitrolaunch) - The supercharged Minecraft launcher and server manager
 - [leomeinel/bevy_fast_light](https://github.com/leomeinel/bevy_fast_light) - Simple 2D lighting for Bevy focused on performance over features.
-- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first AI meeting note taker. Download Free and open source granola, otter ai, fireflies alternative. Parakeet / Whisper live transcription, on-device speaker diarization, built on Rust. 100% l
 - [Zomatree/ermine](https://github.com/Zomatree/ermine) - Native desktop client for Stoat chat
 - [phisch/psst](https://github.com/phisch/psst) - Beautiful (and themeable), unified UI for your pinentry, GNOME keyring-prompter and polkit-agent.
 - [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
