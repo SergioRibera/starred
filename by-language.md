@@ -124,7 +124,6 @@
 - [thedmd/imgui-node-editor](https://github.com/thedmd/imgui-node-editor) - Node Editor built using Dear ImGui
 - [keyboardio/Kaleidoscope](https://github.com/keyboardio/Kaleidoscope) - Firmware for Keyboardio keyboards and other keyboards with AVR or ARM MCUs.
 - [mehedirm6244/sysfex](https://github.com/mehedirm6244/sysfex) - Just another system information fetching tool written in C++
-- [WebAssembly/wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
 - [Artanidos/AnimationMaker](https://github.com/Artanidos/AnimationMaker) - Create animated presentations and export them to a video or xml file.
 - [fundamelon/terminal-game-tutorial](https://github.com/fundamelon/terminal-game-tutorial) - step by step game things
@@ -348,6 +347,7 @@
 - [sammwyy/server-security-guide](https://github.com/sammwyy/server-security-guide) - A guide for secure your linux server!
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [JingOS-team/JingOS](https://github.com/JingOS-team/JingOS) - Awesome - JingOS - The World’s First Linux-based OS design for Tablets
+- [WebAssembly/wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
 - [AlexisMtzGasca/Debootstrap](https://github.com/AlexisMtzGasca/Debootstrap) - Una guía para instalar Debian desde otro sistema Linux/UNIX-Like, al estilo Arch Linux.
 - [daniellochner/creature](https://github.com/daniellochner/creature) - Procedurally generate creatures in Unity - inspired by Spore.
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
@@ -402,17 +402,19 @@
 
 ## Rust 
 
+- [indexable-inc/blaze](https://github.com/indexable-inc/blaze) - Incremental rust builds up to 92x faster than cargo/rustc
+- [storytold/texturecraft](https://github.com/storytold/texturecraft) - TextureCraft: An open-source, 3D texture painting workflow written from scratch in pure Rust
 - [kylejckson/PaintFE](https://github.com/kylejckson/PaintFE) - A lightweight image editor for Windows, MacOS, Linux with a focus on intuitive use and modern UI design. Features layers, filters, brushes, selection tools, color adjustments, animated images support,
 - [romancitodev/nobubbles](https://github.com/romancitodev/nobubbles) - A powerful little TUI framework 🏗 (Written in Rust obviously)
 - [romancitodev/cargo-pretty](https://github.com/romancitodev/cargo-pretty) - A cargo build wrapper with a live, animated status view
 - [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
-- [sonorahq/sonora](https://github.com/sonorahq/sonora) - A native music streaming client, built with Rust and GPUI
+- [sonorahq/sonora](https://github.com/sonorahq/sonora) - A native, familiar music streaming client
 - [waywallen/waywallen](https://github.com/waywallen/waywallen) - Wallpaper Manager for Linux
 - [djc/oxish](https://github.com/djc/oxish) - A modern, memory-safe SSH server
 - [OxidShell/zudp](https://github.com/OxidShell/zudp) - Zero-overhead UDP protocol with optional reliability, fragmentation and relay support
 - [Nitrolaunch/nitrolaunch](https://github.com/Nitrolaunch/nitrolaunch) - The supercharged Minecraft launcher and server manager
 - [leomeinel/bevy_fast_light](https://github.com/leomeinel/bevy_fast_light) - Simple 2D lighting for Bevy focused on performance over features.
-- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first AI meeting note taker. Download Free and open source granola, otter ai, fireflies alternative. Parakeet / Whisper live transcription, on-device speaker diarization, built on Rust. 100% l
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola
 - [Zomatree/ermine](https://github.com/Zomatree/ermine) - Native desktop client for Stoat chat
 - [phisch/psst](https://github.com/phisch/psst) - Beautiful (and themeable), unified UI for your pinentry, GNOME keyring-prompter and polkit-agent.
 - [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
@@ -455,7 +457,7 @@
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
 - [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
 - [nilaysavant/bevy_pmetra](https://github.com/nilaysavant/bevy_pmetra) - Parametric Modelling for Bevy using Truck CAD kernel.
-- [ricosjp/truck](https://github.com/ricosjp/truck) - Truck is a Rust CAD Kernel.
+- [ricosjp/truck](https://github.com/ricosjp/truck) - truck - Truck is a RUst Cad Kernel
 - [johanhelsing/bevy_touch_stick](https://github.com/johanhelsing/bevy_touch_stick) - An analog touch screen joystick that pretends to be a bevy gamepad
 - [MariaLetta/free-ferris-pack](https://github.com/MariaLetta/free-ferris-pack) - 🦀 Pack of 50+ Ferris pictures and elements will help you to build your own design for anything related to Rust Programming Language: presentations, README files, posts in blogs or social media, course
 - [AgustinSRG/rtmp-server-rs](https://github.com/AgustinSRG/rtmp-server-rs) - RTMP server implemented in Rust
@@ -508,7 +510,7 @@
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [Serpent-Tools/natrix](https://github.com/Serpent-Tools/natrix) - Rust-First frontend framework.
 - [tuono-labs/tuono](https://github.com/tuono-labs/tuono) - ⚡ Modern fullstack web framework based on Rust and React
-- [timschmidt/csgrs](https://github.com/timschmidt/csgrs) - Multi-modal constructive solid geometry kernel in Rust
+- [timschmidt/csgrs](https://github.com/timschmidt/csgrs) - Multi-modal exact geometric computation CAD/CAM kernel in Rust
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, programmable and local-first microVM runtime and library
 - [SilentVoid13/SyncDisBoi](https://github.com/SilentVoid13/SyncDisBoi) - Music streaming platforms (Youtube Music, Spotify, Tidal) synchronization tool
