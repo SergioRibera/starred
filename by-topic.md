@@ -112,6 +112,7 @@
 - [jquery](#jquery)
 - [js](#js)
 - [json](#json)
+- [knowledge-graph](#knowledge-graph)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
@@ -213,6 +214,7 @@
 - [web](#web)
 - [webapp](#webapp)
 - [webpack](#webpack)
+- [whatsapp](#whatsapp)
 - [whatsapp-bot](#whatsapp-bot)
 - [windows](#windows)
 - [xamarin](#xamarin)
@@ -246,7 +248,7 @@
 ## ai 
 
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
-- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows, macOS and Linux. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to 
 - [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails) - Adding guardrails to large language models.
 - [orhanbalci/rust-steering-behaviors](https://github.com/orhanbalci/rust-steering-behaviors) - AI Steering behaviors crate implemented in Rust http://orhanbalci.github.io/rust-steering-behaviors
 - [Seldom-SE/seldom_state](https://github.com/Seldom-SE/seldom_state) - Component-based state machine plugin for Bevy. Useful for AI, player state, and other entities that occupy different states.
@@ -613,7 +615,7 @@
 
 ## dotfiles 
 
-- [snowarch/iNiR](https://github.com/snowarch/iNiR) - // A Niri shell // with bloat and stuff!
+- [snowarch/iNiR](https://github.com/snowarch/iNiR) - // A Shell // now with less bloat and more stuff!
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - A fluid, morphing shell for your Linux desktop
 - [coffeeispower/woomer](https://github.com/coffeeispower/woomer) - Zoomer application for Wayland inspired by tsoding's boomer
 - [redyf/nixdots](https://github.com/redyf/nixdots) - Modular NixOS configuration
@@ -870,7 +872,7 @@
 
 ## gui 
 
-- [tessera-ui/tessera](https://github.com/tessera-ui/tessera) - A cross-platform declarative & functional UI library for rust, focused on performance and extensibility.
+- [tessera-ui/tessera](https://github.com/tessera-ui/tessera) - A fast, GPU-first Rust UI framework that is declarative and reactive.
 - [vizia/vizia](https://github.com/vizia/vizia) - A declarative GUI library written in Rust
 - [Toni500github/customfetch](https://github.com/Toni500github/customfetch) - A modular information fetching (neofetch-like) tool, which its focus point is the performance and customizability.        Android widget migrated to https://github.com/Toni500github/customfetch-androi
 - [MichalGniadek/klask](https://github.com/MichalGniadek/klask) - Automatically create GUI applications from clap3 apps
@@ -886,6 +888,7 @@
 - [ivanceras/sauron-native](https://github.com/ivanceras/sauron-native) - Truly cross platform, truly native. multiple backend GUI for rust
 - [SecondHalfGames/yakui](https://github.com/SecondHalfGames/yakui) - yakui is a declarative Rust UI library for games
 - [RAUI-labs/raui](https://github.com/RAUI-labs/raui) - Rust implementation of Renderer Agnostic User Interface
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
 - [flutter-rs/flutter-rs](https://github.com/flutter-rs/flutter-rs) - Build beautiful desktop apps with flutter and rust. 🌠 (wip)
 - [nickcoutsos/keymap-editor](https://github.com/nickcoutsos/keymap-editor) - A web based graphical editor of ZMK keymaps.
@@ -1034,7 +1037,6 @@
 
 ## jetpack-compose 
 
-- [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 - [mouredev/Monthly-App-Challenge-2022](https://github.com/mouredev/Monthly-App-Challenge-2022) - Retos mensuales de la comunidad MoureDev para crear pequeñas aplicaciones en base a requisitos para añadir a tu portafolio.
 
 ## jquery 
@@ -1052,6 +1054,10 @@
 - [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
 - [rust-cli/config-rs](https://github.com/rust-cli/config-rs) - ⚙️ Layered configuration system for Rust applications (with strong support for 12-factor applications).
 - [proyecto26/RestClient](https://github.com/proyecto26/RestClient) - 🦄  A Promise based REST and HTTP client for Unity 🎮
+
+## knowledge-graph 
+
+- [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 
 ## kotlin 
 
@@ -1099,7 +1105,7 @@
 - [YangYuS8/lwe](https://github.com/YangYuS8/lwe) - LWE is a Linux desktop app for browsing, managing, and applying Wallpaper Engine content.
 - [wayle-rs/wayle](https://github.com/wayle-rs/wayle) - Wayland Elements -  A compositor agnostic shell with extensive customization
 - [otty-shell/otty](https://github.com/otty-shell/otty) - an open-source terminal-centric workspace for development and operations.
-- [snowarch/iNiR](https://github.com/snowarch/iNiR) - // A Niri shell // with bloat and stuff!
+- [snowarch/iNiR](https://github.com/snowarch/iNiR) - // A Shell // now with less bloat and more stuff!
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - A fluid, morphing shell for your Linux desktop
 - [vyfor/cord.nvim](https://github.com/vyfor/cord.nvim) - 🚀 Discord Rich Presence for Neovim
@@ -1147,7 +1153,7 @@
 
 ## llm 
 
-- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows, macOS and Linux. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to 
 - [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails) - Adding guardrails to large language models.
 
 ## localization 
@@ -1183,7 +1189,7 @@
 
 ## mac 
 
-- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows, macOS and Linux. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to 
 
 ## machine-learning 
 
@@ -1264,6 +1270,7 @@
 - [atilafassina/quantum](https://github.com/atilafassina/quantum) - Tauri + SolidStart. Batteries Included 🔋
 - [BrainiumLLC/cargo-mobile](https://github.com/BrainiumLLC/cargo-mobile) - Rust on mobile made easy!
 - [dodorare/crossbow](https://github.com/dodorare/crossbow) - Cross-Platform build tools and toolkit for games and game engines written in Rust! 🦀
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 - [dotnet/MobileBlazorBindings](https://github.com/dotnet/MobileBlazorBindings) - Experimental Mobile Blazor Bindings - Build native and hybrid mobile apps with Blazor
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
@@ -1706,7 +1713,6 @@
 - [zaycev/bevy-magic-light-2d](https://github.com/zaycev/bevy-magic-light-2d) - Experiment with computing 2D shading, lighting and shadows with Bevy Engine
 - [bonsairobo/bevy_triplanar_splatting](https://github.com/bonsairobo/bevy_triplanar_splatting) - Triplanar Mapping and Material Blending for Bevy Engine
 - [EmiOnGit/birdylook](https://github.com/EmiOnGit/birdylook) - 
-- [david4shure/pathfinder](https://github.com/david4shure/pathfinder) - An A* pathfinder graphical simulation built in rust and bevy!
 - [pinkponk/bevy_efficient_forest_rendering](https://github.com/pinkponk/bevy_efficient_forest_rendering) - Using bevy and custom render pipelines in order to render many objects in a forest using chunks for performance.
 - [EmiOnGit/warbler_grass](https://github.com/EmiOnGit/warbler_grass) - A bevy plugin for creating 3d grass in your game
 - [jkb0o/belly](https://github.com/jkb0o/belly) - Define the Bevy UI tree with `eml!`, style it using a very-css-like `ess` syntax and relate data data with `bind!` and `connect!`
@@ -2016,8 +2022,9 @@
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [romancitodev/cargo-pretty](https://github.com/romancitodev/cargo-pretty) - A cargo build wrapper with a live, animated status view
 - [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+- [sonorahq/sonora](https://github.com/sonorahq/sonora) - A native, familiar music streaming client
 - [noFAYZ/zuno](https://github.com/noFAYZ/zuno) - 👻 ZUNO  - A desktop music client that integrates with YouTube Music for Windows, MacOS & Linux.
-- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows, macOS and Linux. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to 
 - [jturcotte/beskope](https://github.com/jturcotte/beskope) - A music visualizer for Linux and PipeWire
 - [lamco-admin/lamco-rdp-server](https://github.com/lamco-admin/lamco-rdp-server) - Wayland-native RDP server for Linux desktop sharing. H.264 via EGFX, VA-API/NVENC hardware encoding, clipboard sync, multi-monitor. GNOME, KDE Plasma, Sway, Hyprland.
 - [greysquirr3l/bevy-archie](https://github.com/greysquirr3l/bevy-archie) - A comprehensive game controller support module for Bevy
@@ -2037,7 +2044,7 @@
 - [oxidezap/whatsapp-rust](https://github.com/oxidezap/whatsapp-rust) - Whatsapp client written purely in Rust
 - [Juanperias/motion](https://github.com/Juanperias/motion) - Motion is a bare metal physics engine
 - [vyfor/cord.nvim](https://github.com/vyfor/cord.nvim) - 🚀 Discord Rich Presence for Neovim
-- [tessera-ui/tessera](https://github.com/tessera-ui/tessera) - A cross-platform declarative & functional UI library for rust, focused on performance and extensibility.
+- [tessera-ui/tessera](https://github.com/tessera-ui/tessera) - A fast, GPU-first Rust UI framework that is declarative and reactive.
 - [DefGuard/wireguard-rs](https://github.com/DefGuard/wireguard-rs) - Rust library providing unified WireGuard interface to native/kernel and userspace implementations
 - [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
 - [vizia/vizia](https://github.com/vizia/vizia) - A declarative GUI library written in Rust
@@ -2293,7 +2300,7 @@
 
 ## self-hosted 
 
-- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows, macOS and Linux. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to 
 - [rustmailer/bichon](https://github.com/rustmailer/bichon) - Bichon – A lightweight, high-performance Rust email archiver with WebUI
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
 - [vladkens/badges](https://github.com/vladkens/badges) - 🎖️🎨 Instantly create custom badges for GitHub, docs, and more. Lightweight, self-hostable, with live integrations that keep badges always up to date. Elevate your projects in seconds!
@@ -2528,13 +2535,19 @@
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [ryuever/react-tapable-editor](https://github.com/ryuever/react-tapable-editor) - A pluginable, intuitive medium/notion like rich text editor(currently in wip)
 
+## whatsapp 
+
+- [oxidezap/whatsapp-rust](https://github.com/oxidezap/whatsapp-rust) - Whatsapp client written purely in Rust
+- [amanharwara/altus](https://github.com/amanharwara/altus) - Desktop client for WhatsApp Web with themes, notifications and multiple account support
+- [wwebjs/whatsapp-web.js](https://github.com/wwebjs/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+
 ## whatsapp-bot 
 
 - [wwebjs/whatsapp-web.js](https://github.com/wwebjs/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 
 ## windows 
 
-- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows, macOS and Linux. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to 
 - [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
 - [vyfor/cord.nvim](https://github.com/vyfor/cord.nvim) - 🚀 Discord Rich Presence for Neovim
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, programmable and local-first microVM runtime and library
