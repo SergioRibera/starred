@@ -124,6 +124,7 @@
 - [thedmd/imgui-node-editor](https://github.com/thedmd/imgui-node-editor) - Node Editor built using Dear ImGui
 - [keyboardio/Kaleidoscope](https://github.com/keyboardio/Kaleidoscope) - Firmware for Keyboardio keyboards and other keyboards with AVR or ARM MCUs.
 - [mehedirm6244/sysfex](https://github.com/mehedirm6244/sysfex) - Just another system information fetching tool written in C++
+- [WebAssembly/wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
 - [Artanidos/AnimationMaker](https://github.com/Artanidos/AnimationMaker) - Create animated presentations and export them to a video or xml file.
 - [fundamelon/terminal-game-tutorial](https://github.com/fundamelon/terminal-game-tutorial) - step by step game things
@@ -347,7 +348,6 @@
 - [sammwyy/server-security-guide](https://github.com/sammwyy/server-security-guide) - A guide for secure your linux server!
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [JingOS-team/JingOS](https://github.com/JingOS-team/JingOS) - Awesome - JingOS - The World’s First Linux-based OS design for Tablets
-- [WebAssembly/wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
 - [AlexisMtzGasca/Debootstrap](https://github.com/AlexisMtzGasca/Debootstrap) - Una guía para instalar Debian desde otro sistema Linux/UNIX-Like, al estilo Arch Linux.
 - [daniellochner/creature](https://github.com/daniellochner/creature) - Procedurally generate creatures in Unity - inspired by Spore.
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
@@ -396,7 +396,7 @@
 
 ## QML 
 
-- [snowarch/iNiR](https://github.com/snowarch/iNiR) - // A Niri shell // with bloat and stuff!
+- [snowarch/iNiR](https://github.com/snowarch/iNiR) - // A Shell // now with less bloat and more stuff!
 - [duxlabs-dev/dux-shell](https://github.com/duxlabs-dev/dux-shell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - A fluid, morphing shell for your Linux desktop
 
@@ -414,7 +414,7 @@
 - [OxidShell/zudp](https://github.com/OxidShell/zudp) - Zero-overhead UDP protocol with optional reliability, fragmentation and relay support
 - [Nitrolaunch/nitrolaunch](https://github.com/Nitrolaunch/nitrolaunch) - The supercharged Minecraft launcher and server manager
 - [leomeinel/bevy_fast_light](https://github.com/leomeinel/bevy_fast_light) - Simple 2D lighting for Bevy focused on performance over features.
-- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows, macOS and Linux. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to 
 - [Zomatree/ermine](https://github.com/Zomatree/ermine) - Native desktop client for Stoat chat
 - [phisch/psst](https://github.com/phisch/psst) - Beautiful (and themeable), unified UI for your pinentry, GNOME keyring-prompter and polkit-agent.
 - [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
@@ -469,7 +469,7 @@
 - [0x00002a/cinc](https://github.com/0x00002a/cinc) - 
 - [manthanabc/polkit-agent](https://github.com/manthanabc/polkit-agent) - A polkit agent for wayland written in rust
 - [Juanperias/motion](https://github.com/Juanperias/motion) - Motion is a bare metal physics engine
-- [tessera-ui/tessera](https://github.com/tessera-ui/tessera) - A cross-platform declarative & functional UI library for rust, focused on performance and extensibility.
+- [tessera-ui/tessera](https://github.com/tessera-ui/tessera) - A fast, GPU-first Rust UI framework that is declarative and reactive.
 - [DefGuard/wireguard-rs](https://github.com/DefGuard/wireguard-rs) - Rust library providing unified WireGuard interface to native/kernel and userspace implementations
 - [t3hmrman/playground-rust-ipc-experiment](https://github.com/t3hmrman/playground-rust-ipc-experiment) - A playground project exploring high-performance IPC in Rust
 - [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
@@ -858,7 +858,6 @@
 - [zaycev/bevy-magic-light-2d](https://github.com/zaycev/bevy-magic-light-2d) - Experiment with computing 2D shading, lighting and shadows with Bevy Engine
 - [Dimchikkk/velo](https://github.com/Dimchikkk/velo) - App for brainstorming & sharing ideas 🦀 Learning Project
 - [EmiOnGit/birdylook](https://github.com/EmiOnGit/birdylook) - 
-- [david4shure/pathfinder](https://github.com/david4shure/pathfinder) - An A* pathfinder graphical simulation built in rust and bevy!
 - [pinkponk/bevy_efficient_forest_rendering](https://github.com/pinkponk/bevy_efficient_forest_rendering) - Using bevy and custom render pipelines in order to render many objects in a forest using chunks for performance.
 - [EmiOnGit/warbler_grass](https://github.com/EmiOnGit/warbler_grass) - A bevy plugin for creating 3d grass in your game
 - [jkb0o/belly](https://github.com/jkb0o/belly) - Define the Bevy UI tree with `eml!`, style it using a very-css-like `ess` syntax and relate data data with `bind!` and `connect!`
