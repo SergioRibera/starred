@@ -247,7 +247,7 @@
 
 ## Kotlin 
 
-- [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
+- [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - Material Design YouTube Music client for Android, iOS and desktop
 - [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [mozilla/rust-android-gradle](https://github.com/mozilla/rust-android-gradle) - 
 
@@ -402,7 +402,7 @@
 
 ## Rust 
 
-- [indexable-inc/blaze](https://github.com/indexable-inc/blaze) - Incremental rust builds up to 92x faster than cargo/rustc
+- [indexable-inc/blaze](https://github.com/indexable-inc/blaze) - Incremental rust builds up to 92x faster than cargo/rustc. Backed by Y Combinator (F26).
 - [storytold/texturecraft](https://github.com/storytold/texturecraft) - TextureCraft: An open-source, 3D texture painting workflow written from scratch in pure Rust
 - [kylejckson/PaintFE](https://github.com/kylejckson/PaintFE) - A lightweight image editor for Windows, MacOS, Linux with a focus on intuitive use and modern UI design. Features layers, filters, brushes, selection tools, color adjustments, animated images support,
 - [romancitodev/nobubbles](https://github.com/romancitodev/nobubbles) - A powerful little TUI framework 🏗 (Written in Rust obviously)
